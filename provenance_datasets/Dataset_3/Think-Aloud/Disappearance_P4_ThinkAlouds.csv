@@ -1,0 +1,210 @@
+Timestamp,Transcript
+[00:00:16]:,User starts the study with reading the prompt note
+[00:01:27]:,"Highlighting ""stewardship"""
+[00:03:17]:,"""I see two problems to solve. one is finding about the history of this POK organization. and I want to look for why the disapearance happend"""
+[00:03:51]:,"Searching for ""POK"""
+[00:03:51]:,User changed the topic: (Looking for POK's activities on enviromental issues) [bottom-up]
+[00:03:53]:,Looking through titles
+[00:04:19]:,User picking oldest documents
+[00:04:40]:,"Picking a document in title ""Aug 1998. OLD WOMEN MATRICES OF GIRL Of ELODIS OF POISONING"""
+[00:05:03]:,Still reading the document
+[00:05:18]:,"Highlighting ""benzene poisoning"""
+[00:05:46]:,Still reading the document
+[00:06:48]:,Still reading the document
+[00:06:52]:,"Picking a document in title ""Nov 1998. POK REPRESENTATIVES MEET WITH KRONOS MINISTER OF HEALTH"""
+[00:07:45]:,Still reading the document
+[00:08:08]:,Still reading the document
+[00:08:56]:,"Picking a document in title "" Nov 1999. Overall the benevolence trunks of the calamity"""
+[00:09:02]:,Reading the prompt again
+[00:09:09]:,"""I know the POK is formed 1997 and in 1998 someone died because of poisoning related to Gastech"""
+[00:10:01]:,Looking through titles for articles about origin of POK
+[00:10:44]:,"Picking a document in title "" Feb 2009. The protest of POK at GAStech sits of the ends in the arrests"""
+[00:11:17]:,"Picking a document in title ""Sep.t 2005. RETURN OF THE PROTESTS OF ELODIS TO THE UPROARS AND THE HALTINGS"""
+[00:11:31]:,"Making connection between last document and ""Sep.t 2005. RETURN OF THE PROTESTS OF ELODIS TO THE UPROARS AND THE HALTINGS"""
+[00:12:12]:,Still reading the last article
+[00:12:34]:,"""1998 they are talking about water contamination and in 2005 they started to prottest. now I'm looking to see what happend in time in between"""
+[00:13:18]:,"Picking a document in title ""May 2000. ELODIS PUBLIC HEALTH FACT SHEET"""
+[00:14:14]:,"Highlighting ""Unprecedented levels of toxins were found in the water supply. including phenol. acetic anhydride. lead. and ethylene glycol. The incidence of chronic illness increased over 89% from prior years The unusually high incidence of cancer became so concerning that Minister of Health Nespola appointed an oncology specialist to Abila General Hospital"""
+[00:14:45]:,"Picking a document in title ""Aug 2000. TISKELE THE EXPLOSION AND THE FIRE OF THE BEND"""
+[00:15:26]:,Making connection between two docuiments about poisoning
+[00:15:37]:,"""These two document are both about people died of poisoning"""
+[00:15:41]:,"""And here this document is about enviroment and increase in diseases"""
+[00:16:12]:,Making connection between two documents about poisoning and health care
+[00:16:51]:,"Picking a document in title "" May 2003. THE COO OF DIES IN 73"""
+[00:17:41]:,"Picking a document in title ""May 2009. GASTECH ADOPTS NEW STANDARD"""
+[00:18:28]:,Looking through titles
+[00:18:55]:,"Picking a document in title "" Oct 1995. MAGNIFICENT OPENING GASTECH-KRONOS"""
+[00:19:46]:,Looking through titles for new articles
+[00:20:08]:,"Picking a document in title "" March 2009. POK RALLY DRAWS THOUSANDS OF SUPPORTERS"""
+[00:20:15]:,"""POK does a lot of protesting in 2009. but what happpend between 2005 to 2009"""
+[00:20:26]:,"Picking a document in title "" June 2009. Protest Turns Violent in Abila"""
+[00:20:27]:,User changed the topic: (Looking for POK's rallies and riots) [bottom-up]
+[00:20:28]:,"Picking a document in title ""March 2009. POK RALLY DRAWS THOUSANDS OF SUPPORTERS"""
+[00:21:20]:,Still reading the document
+[00:22:05]:,Still reading the document
+[00:22:30]:,"""So in 2009 they are protesting for the old woman who died in 1998. and they are looking for the truth"""
+[00:23:17]:,Still reading the document
+[00:24:22]:,"""Interesting. in 2009 the POK has changed from enviroment protection group to a new group working against government policies. So now they're not working against the foreign company. they're working against governmet"""
+[00:24:57]:,"Highlighting ""government transparency and accountability"""
+[00:25:12]:,"Picking a document in title "" March 2009. POK RALLY DRAWS THOUSANDS OF SUPPORTERS """
+[00:25:23]:,"Highlighting ""Protest leader Elian Karel addressed the demonstrators at Abila City park. Karel took over POK leadership from Henk Bodrogi. whose ill health forced him down from the position. Karel spoke eloquently about the beginnings of the POK campaign as a grassroots effort for clean water. to the dynamic movement it has become demanding improved government transparency and accountability"""
+[00:25:35]:,Looking through titles for a new article
+[00:26:41]:,"Picking a document in title ""Jun 2011. POK Protesters Vandalize Siopa District"""
+[00:27:25]:,"Picking a document in title ""Jun 2010. IN THE MEMORY: The DEATH Of ELIAN KAREL"""
+[00:28:03]:,Looking through titles for a new article
+[00:28:38]:,"Picking a document in title ""Jun 2012. POK REMIND LEADER MARTYRED"""
+[00:28:48]:,"""I'm just looking at titles"""
+[00:29:31]:,Reading the prompt note again
+[00:29:46]:,"Searching for ""GAStech"""
+[00:29:46]:,User changed the topic: (Looking for incidents ) [bottom-up]
+[00:30:14]:,"Picking a document in title ""Jan 2014. MEETING WHO IS PLACED FOR THE MORNING OF MORNING"""
+[00:31:18]:,Still reading the document
+[00:31:23]:,"Picking a document in title "" Jan 2014. To break off itself: The emergency to GAStech quarters the construction"""
+[00:32:52]:,Still reading the document
+[00:33:23]:,"Writing a new note. Note 1: ""President Stewn Sanjorge Jr. - CFO Ingrid Barranco - Campo-Corrente of ADA of CIO"""
+[00:34:16]:,reviewing the prompt note
+[00:34:34]:,User changed the topic: (Looking for events in kidnapping day) [bottom-up]
+[00:34:35]:,"Picking a document in title ""Jan 2014. Employees of GASTech removed in Kronos"""
+[00:34:53]:,"""I'm looking this one. about removing employees"""
+[00:35:45]:,"Highlighting "" Fourteen employees have fears removed in Kronos by a radical environmental group of terrorist during a meeting of corporation"""
+[00:37:01]:,"Add more texts to Note 1: ""Enviromental leader Willem Vasco-feed"""
+[00:37:24]:,Still reading the document
+[00:38:39]:,Still reading the document
+[00:39:16]:,Still reading the document
+[00:39:22]:,"""The CEO is kidnaped here. I see two possibility. one is that they're kidnaped for real or maybe they're not kidnaped"""
+[00:40:33]:,"Adding more text to the Note 1: ""John Rathburn, an American expert in executive kidnapping who lives in Tethys, known as that Kronos was not known like archatypal country for removal """
+[00:42:03]:,Looking through titles to find a new article
+[00:42:11]:,"Picking a document in title ""Jan 2014. To break off itself: The emergency to GAStech quarters"""
+[00:42:59]:,"Picking a document in title ""Jan 2014. Breaking: Emergency at GAStech Headquarters Building"""
+[00:43:32]:,"Searching for ""Jan 2014"""
+[00:43:45]:,"Picking a document in title ""Jan 2014 Meeting announcement"""
+[00:44:56]:,"Picking a document in title "" Jan 2014. GASTech Employees Kidnapped in Kronos"""
+[00:45:54]:,Still reading the document
+[00:46:06]:,"Adding more text to Note 1: ""2014/01/21 Removal happened"""
+[00:46:15]:,"Highlighting ""a ransom note from the POK claiming responsibility and demanding $20 Million from the company"""
+[00:46:46]:,"Adding more text to the Note 1: ""The POK claiming responsibility and demanding $20M from the company"""
+[00:47:29]:,"Adding more text to the Note 1: ""A fire alarm went off, and the execs were discovered missing shortly after that """
+[00:48:43]:,User changed the topic: (Why did the fire alarm happend?) [bottom-up]
+[00:48:15]:,"Picking a document in title "" Feb 2009. The protest of POK at GAStech sits of the ends in the arrests """
+[00:48:43]:,"Searching for ""Fire"""
+[00:48:54]:,"Picking a document in title ""Jan 2014. To break off itself: The emergency to GAStech quarters"""
+[00:49:16]:,"Picking a document in title "" Jan 2014. To break off itself: The emergency to GAStech quarters"""
+[00:49:41]:,"Adding more text in Note 1: ""The fire unit of Abila answers to the alarm. the National Fire Departments are seen o enter in the construction"""
+[00:49:55]:,"""I'm looking for the fire alarm that happend"""
+[00:50:13]:,"Picking a document in title ""Jan 2014. Blog posts: Homeland Illumination"""
+[00:50:46]:,"Picking a document in title ""Jan 2014. DEMANDS OF THE RESCUE DONE IN THE KIDNAPPING OF GASTECH"""
+[00:50:53]:,"Picking a document in title ""Jan 2014. Breaking: Emergency at GAStech Headquarters Building"""
+[00:51:27]:,Making more text in Note 1 about the fire alarm
+[00:51:43]:,"""The meeting is at 10:50 in the morning"""
+[00:51:58]:,"""also the media has gatheres in front of the building. so they cann't come out from the front door"""
+[00:52:14]:,"Picking a document in title ""Jan 2014. To break off itself: The emergency to GAStech quarters"""
+[00:52:39]:,"Picking a document in title ""Jan 2014. To break off itself: The emergency to GAStech quarters"""
+[00:53:29]:,"Adding more text in Note 1: ""An employee of GasTech that he has refusesd of being identified relationships that see much people dressed in the black one in the the construction before the fire alarm """
+[00:53:44]:,Looking through titles
+[00:53:59]:,"Picking a document in title ""Jan 2014. Modern Rubicon """
+[00:54:28]:,"Picking a document in title "" Jan 2014. REMOVAL AT GASTECH KRONOS"""
+[00:54:55]:,"Picking a document in title ""Jan 2014. WRAP UP OF EVENTS AT GASTECH"""
+[00:55:40]:,Still reading the document
+[00:56:00]:,"Picking a document in title ""Jan 2014. Homeland Illumination"""
+[00:56:15]:,"Searching for ""Bomb"""
+[00:56:15]:,User changed the topic: (Looking for evidences of bombing) [bottom-up]
+[00:56:21]:,"Picking a document in title ""February 2009. Kronos's Protectors of Kronos declared 'terrorist group'"""
+[00:56:40]:,Still reading the document
+[00:57:12]:,Still reading the document
+[00:58:17]:,Still reading the document
+[00:58:18]:,"""Their're doing bombing"""
+[00:58:59]:,Still reading the document
+[00:59:25]:,"Adding more notes in Note 1: ""The government of Kronos has declared the POK a terrorist group after blaming it for a deadly attack on police headquarter this weak"""
+[01:00:01]:,"Picking a document in title ""Jan 2014. DEMANDS OF THE RESCUE DONE IN THE KIDNAPPING OF GASTECH """
+[01:00:48]:,"""I'm still looking for the bombing stuff. there is this 2009 article the government accuse the POK is bombing. and there's noting more"""
+[01:01:07]:,"Comparing last document and the ""February 2009. Kronos's Protectors of Kronos declared 'terrorist group'"""
+[01:02:13]:,"Searching for ""Sten Sanjorge"""
+[01:02:28]:,User changed the topic: (Looking for CEO) [bottom-up]
+[01:02:15]:,"""I'm going to search the CEO"""
+[01:02:17]:,"Picking a document in title ""Oct. 1982. Leadership"""
+[01:02:36]:,"Picking a document in title ""Jan 2014. GAStech and Kronos Celebrate Partnership"""
+[01:03:28]:,"""So the CEO is from another place """
+[01:03:34]:,"Adding more text to the Note 1: ""Sten Sanjorge Jr. President and CEO of GasTech has traveled from Tethys to attend the events"""
+[01:04:13]:,Still reading the document
+[01:04:23]:,"Picking a document in title ""Jan 2014. Breaking: Emergency at GAStech Headquarters Building"""
+[01:04:27]:,"Picking a document in title ""Feb. 2009. SANJORGE JR CONDEMNS POK LIKE TERRORISTS"""
+[01:05:13]:,"""Here this guy condemn's the POK is terrorist group"""
+[01:05:29]:,"""Maybe they did the bombing"""
+[01:05:45]:,"Searching for ""POK"""
+[01:05:42]:,User changed the topic: (Looking for POK articles about threating and possib;e bombing) [bottom-up]
+[01:06:13]:,Looking through titles for POK and bombing articles
+[01:06:16]:,"Picking a document in title "" March 2012. THE THREATS PUBLISHED BY POK"""
+[01:06:47]:,"Picking a document in title ""Jun 2012. POK REMIND LEADER MARTYRED"""
+[01:07:37]:,"Picking a document in title ""June 2012. Kapelou Calls POK A Gang of Criminals"""
+[01:08:19]:,"Adding more notes in Note 1 ""president Kapelou calling POK the gang of criminals. After large scale riot on Tuesday"""
+[01:08:33]:,"Picking a document in title ""Jun 2010. THE GOVERNMENT RESPONDS TO ANOTHER REDONDO OF PROTESTS"""
+[01:08:57]:,"Picking a document in title "" Jan 2014. Police Hold News Conference on GAStech Kidnapping"""
+[01:09:17]:,"Picking a document in title ""June 2010. Protest of POK to the registered offices of police force of Abila"""
+[01:09:24]:,"Searching for ""$20"""
+[01:09:43]:,"Picking a document in title ""Jan 2014. Blog posts: Centrum Sentinel"""
+[01:10:42]:,"Picking a document in title ""Centrum Sentinel"""
+[01:10:52]:,"Picking a document in title ""Jan 2014. Centrum Sentinel"""
+[01:11:10]:,"""I'm looking for articles from this 'Centrum Sentinel' blog"""
+[01:11:37]:,User opening articles from this specific blog
+[01:11:41]:,"Picking a document in title ""Jan 2011. Blog notes: Centrum Sentinel"""
+[01:13:04]:,"""I'm looking at this article. it's kind of evidence of POK demanding the money"""
+[01:14:30]:,"Searching for ""Tethys"""
+[01:14:34]:,"Picking a document in title "" Sept. 2013. SANJORGE JR. TAKING GASTECH INTERNATIONAL PUBLIC"""
+[01:14:41]:,"Picking a document in title ""Feb. 2009. SANJORGE JR CONDEMNS POK LIKE TERRORISTS"""
+[01:14:58]:,Looking through titles to find something new
+[01:15:28]:,"Searching for ""Bombing"""
+[01:15:34]:,"Picking a document in title "" February 2009. Kronos's Protectors of Kronos declared 'terrorist group'"""
+[01:16:12]:,"Adding more notes in Note 1: ""2012, president blaim for bombing """
+[01:16:40]:,"Searching for ""POK"""
+[01:17:04]:,"Adding more text in Note 1: ""2009, bombing police headquarter"""
+[01:17:22]:,"Picking a document in title "" Feb. 2009. SANJORGE JR CONDEMNS POK LIKE TERRORISTS """
+[01:17:42]:,User reading and comparing some documents looking for event about Jan and Feb 2014
+[01:18:07]:,Still reading the document
+[01:18:36]:,"Picking a document in title ""Jan 2014. Police Hold News Conference on GAStech Kidnapping"""
+[01:18:51]:,"Picking a document in title "" March 2009. THE COLLECTION POK DRAWS THOUSANDS OF VERDEDIGERS"""
+[01:19:10]:,"Picking a document in title ""Jun 2010. IN THE MEMORY: The DEATH Of ELIAN KAREL. ONE YEAR AFTERWARDS"""
+[01:19:34]:,"Searching for ""Karel"""
+[01:19:34]:,User changed the topic: (Who is Karel) [bottom-up]
+[01:20:11]:,"""Seems the leader of POK was killed in prison in 2009"""
+[01:20:19]:,Still reading the last document
+[01:20:41]:,"Picking a document in title ""March 2009. THE COLLECTION POK DRAWS THOUSANDS OF VERDEDIGERS"""
+[01:21:09]:,"Adding more notes in Note 1: ""March 2009: Body of Karel showed with signs of trauma blunked, abrasions and lacerations of force what occured in hours before its death - June 2009: Karel was being held on fraudulent tax evasion charges"""
+[01:22:07]:,Still reading the last document
+[01:22:41]:,"Picking a document in title "" June 2009. Blog posts: ELIAN KAREL DEAD IN KRONOS JAIL"""
+[01:23:13]:,Still reading the document
+[01:23:48]:,"""Here it says frauden text. this is the reason he agreed than he was killed in Jun"""
+[01:24:32]:,"""I think this is why the POK got into violent"""
+[01:24:43]:,"Searching for ""POK"""
+[01:25:20]:,"Picking a document in title "" June 2010. Protest of POK to the registered offices of police force of Abila"""
+[01:25:43]:,"Searching for ""Bombing"""
+[01:25:43]:,User changed the topic: (Looking for miscellaneous incidents in articles) [bottom-up]
+[01:25:55]:,"Searching for ""Bomb"""
+[01:26:06]:,"Picking a document in title ""February 2009. Kronos's Protectors of Kronos declared 'terrorist group' """
+[01:26:54]:,"""It says government blams the POK attacked the headquarter. and it's' in Feb. which the leader was killed in prison. So it could be the reason that the leader was killed"""
+[01:28:09]:,"Searching for ""disappear"""
+[01:28:22]:,"Picking a document in title ""Jan 2014. Conference of news of catch of police force on the kidnapping of GAStech"""
+[01:28:44]:,Reviewing the notes
+[01:28:56]:,"Searching for ""Fire"""
+[01:28:59]:,"Picking a document in title ""Feb 2013. Hospitals of Abila that see the affluence of the designer drug users"""
+[01:29:09]:,Looking through titles and notes
+[01:29:27]:,"Searching for ""Fireman"""
+[01:29:35]:,"Picking a document in title "" Feb 2013. Hospitals of Abila that see the affluence of the designer drug users"""
+[01:30:11]:,"Searching for ""Dressed in black"""
+[01:30:15]:,"Picking a document in title ""Jan 2014. To break off itself: The emergency to GAStech quarters the construction"""
+[01:30:28]:,"Searching for ""fire signale"""
+[01:30:30]:,"Picking a document in title ""Jan 2014. To break off itself: The emergency to GAStech"""
+[01:30:53]:,"Searching for ""fire signaler"""
+[01:31:06]:,Looking through documents titles and notes
+[01:31:12]:,"Picking a document in title "" February 2009. Kronos's Protectors of Kronos declared 'terrorist group'"""
+[01:31:29]:,"Picking a document in title ""Witness"""
+[01:31:57]:,"Searching for ""CEO"""
+[01:32:14]:,User reviewing the prompt note
+[01:32:44]:,"Picking a document in title ""Jan 2014. Modern Rubicon"""
+[01:33:00]:,"Picking a document in title ""Jan 2014. Breaking: Emergency at GAStech Headquarters Building"""
+[01:33:08]:,"""I'm reading the prompt note and it says 'thing may not be like what they seem'. so I don't know if I'm right or wrong"""
+[01:33:35]:,"Picking a document in title ""Jan 2014. Breaking: Emergency at GAStech Headquarters Building"""
+[01:34:00]:,Looking through titles
+[01:34:08]:,"Picking a document in title ""Dec 2013. HUGE IPO MAKES SANJORGE BILLIONAIRE"""
+[01:34:27]:,"Searching for ""IPO"""
+[01:34:53]:,"Picking a document in title ""Jan 2014 Meeting announcement"""
+[01:35:24]:,"Picking a document in title "" Jan 2014. REMOVAL AT GASTECH KRONOS"""

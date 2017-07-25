@@ -1,0 +1,2935 @@
+[
+ {
+  "DocNum": "", 
+  "tags": [
+   "suspicious"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 7, 
+  "Time": 6600, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 151", 
+  "tags": [
+   "ferreira", 
+   "dolphins", 
+   "coach", 
+   "shula", 
+   "jona"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 6677, 
+  "Duration": 146, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 151", 
+  "tags": [
+   "ferreira", 
+   "dolphins", 
+   "coach", 
+   "shula", 
+   "jona"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 6895, 
+  "Duration": 355, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 151", 
+  "tags": [
+   "Suspicious Turkey Found "
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 7251, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 151", 
+  "tags": [
+   "ferreira", 
+   "dolphins", 
+   "coach", 
+   "shula", 
+   "jona"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 7359, 
+  "Duration": 24, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 151", 
+  "tags": [
+   "ferreira", 
+   "dolphins", 
+   "coach", 
+   "shula", 
+   "jona"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 7404, 
+  "Duration": 17, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 151", 
+  "tags": [
+   "ferreira", 
+   "dolphins", 
+   "coach", 
+   "shula", 
+   "jona"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 7431, 
+  "Duration": 5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "", 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 7564, 
+  "Duration": 20, 
+  "InteractionType": "createNote"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "frozen turkey"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 7, 
+  "Time": 7755, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "turkey"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 7, 
+  "Time": 7856, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "suspicious"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 7, 
+  "Time": 7948, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 123", 
+  "tags": [
+   "phillies", 
+   "chamberlain", 
+   "inning", 
+   "magee", 
+   "game"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 6.399027608959889, 
+  "Time": 8049, 
+  "Duration": 140, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 123", 
+  "tags": [
+   "mass livestock deaths on April 1 "
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 8190, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "animal death"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 7, 
+  "Time": 8468, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "livestock"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 7, 
+  "Time": 8563, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "mass death"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 7, 
+  "Time": 8690, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "suspicious"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 7, 
+  "Time": 8820, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 128", 
+  "tags": [
+   "missiles", 
+   "derryberry", 
+   "defense", 
+   "ballistic", 
+   "programming"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 8862, 
+  "Duration": 361, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 128", 
+  "tags": [
+   " raised the threat level around the country, including Vastopolis."
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 10, 
+  "Time": 9224, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 128", 
+  "tags": [
+   "missiles", 
+   "derryberry", 
+   "defense", 
+   "ballistic", 
+   "programming"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 9318, 
+  "Duration": 7, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 128", 
+  "tags": [
+   "missiles", 
+   "derryberry", 
+   "defense", 
+   "ballistic", 
+   "programming"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 9359, 
+  "Duration": 5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 80", 
+  "tags": [
+   "penn", 
+   "yards", 
+   "ellinger", 
+   "cyndy", 
+   "touchdowns"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 9460, 
+  "Duration": 483, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "bomb"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 10014, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 59", 
+  "tags": [
+   "kong", 
+   "hong", 
+   "sanctions", 
+   "china", 
+   "quoted"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 10144, 
+  "Duration": 128, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 59", 
+  "tags": [
+   " April 03, 2011 "
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 10, 
+  "Time": 10273, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 59", 
+  "tags": [
+   "airport security"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 10, 
+  "Time": 10483, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 59", 
+  "tags": [
+   "killing nine people"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 10, 
+  "Time": 10612, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 59", 
+  "tags": [
+   "kong", 
+   "hong", 
+   "sanctions", 
+   "china", 
+   "quoted"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 10728, 
+  "Duration": 96, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 59", 
+  "tags": [
+   "A bomb exploded "
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 10, 
+  "Time": 10825, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 59", 
+  "tags": [
+   "kong", 
+   "hong", 
+   "sanctions", 
+   "china", 
+   "quoted"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 10884, 
+  "Duration": 7, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 59", 
+  "tags": [
+   "kong", 
+   "hong", 
+   "sanctions", 
+   "china", 
+   "quoted"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 10904, 
+  "Duration": 11, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 59", 
+  "tags": [
+   "kong", 
+   "hong", 
+   "sanctions", 
+   "china", 
+   "quoted"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 10925, 
+  "Duration": 5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "airport"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 11074, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 93", 
+  "tags": [
+   "comedy", 
+   "comedians", 
+   "danae", 
+   "spot", 
+   "politicians"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 11158, 
+  "Duration": 296, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 83", 
+  "tags": [
+   "luxembourg", 
+   "liquids", 
+   "creditors", 
+   "english", 
+   "bcci"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 11455, 
+  "Duration": 52, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 150", 
+  "tags": [
+   "nationsbank", 
+   "boatmen", 
+   "bank", 
+   "bankers", 
+   "takeover"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 11556, 
+  "Duration": 78, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 157", 
+  "tags": [
+   "bosnian", 
+   "serb", 
+   "shubert", 
+   "nato", 
+   "serbian"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 11655, 
+  "Duration": 261, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 157", 
+  "tags": [
+   "March 2011"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 10, 
+  "Time": 11917, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 157", 
+  "tags": [
+   " the crash of a Antarctica Airlines jet."
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 10, 
+  "Time": 12049, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 157", 
+  "tags": [
+   "bosnian", 
+   "serb", 
+   "shubert", 
+   "nato", 
+   "serbian"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 12124, 
+  "Duration": 5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 93", 
+  "tags": [
+   "Traces of a chemical residue that may have come from a bomb or a missile were found on wreckage fragments of the Antarctica Airlines flight,"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 10, 
+  "Time": 12396, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 93", 
+  "tags": [
+   "May 05, 2011 "
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 10, 
+  "Time": 12455, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity157,TerroristActivity93", 
+  "tags": [
+   "TerroristActivity157,TerroristActivity93"
+  ], 
+  "ClassNum": [
+   4, 
+   6
+  ], 
+  "stepHeight": 10, 
+  "Time": 12522, 
+  "Duration": 20, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "TerroristActivity 122", 
+  "tags": [
+   "freeze", 
+   "theory", 
+   "camps", 
+   "tax", 
+   "ahead"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 12718, 
+  "Duration": 422, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 122", 
+  "tags": [
+   "Investigators seeking clues to the downing of the Antarctica Airlines flight "
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 10, 
+  "Time": 13141, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 122", 
+  "tags": [
+   "April 29, 2011 "
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 10, 
+  "Time": 13181, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 51", 
+  "tags": [
+   "radioactive", 
+   "bomb", 
+   "dhs", 
+   "dirty", 
+   "dread"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 13327, 
+  "Duration": 242, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity157,TerroristActivity122", 
+  "tags": [
+   "TerroristActivity157,TerroristActivity122"
+  ], 
+  "ClassNum": [
+   4, 
+   3
+  ], 
+  "stepHeight": 10, 
+  "Time": 13570, 
+  "Duration": 16, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "TerroristActivity122,TerroristActivity93", 
+  "tags": [
+   "TerroristActivity122,TerroristActivity93"
+  ], 
+  "ClassNum": [
+   3, 
+   6
+  ], 
+  "stepHeight": 10, 
+  "Time": 13587, 
+  "Duration": 20, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "TerroristActivity 51", 
+  "tags": [
+   "March 30, 2011 "
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 14271, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 51", 
+  "tags": [
+   "t U.S. airports are required to meet minimum security standards "
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 14323, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "food"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 7, 
+  "Time": 14583, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 137", 
+  "tags": [
+   "characters", 
+   "editor", 
+   "derryberry", 
+   "children", 
+   "virtues"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 14762, 
+  "Duration": 886, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 109", 
+  "tags": [
+   "mittelfest", 
+   "theater", 
+   "rocha", 
+   "litton", 
+   "music"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 15691, 
+  "Duration": 18, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 144", 
+  "tags": [
+   "devaluation", 
+   "ltd", 
+   "kong", 
+   "jeffery", 
+   "china"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 6.383399895815245, 
+  "Time": 15762, 
+  "Duration": 61, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "contamination"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 7, 
+  "Time": 16042, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "contaminate"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 7, 
+  "Time": 16094, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "exposion"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 7, 
+  "Time": 16681, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "explosion"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 16730, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 98", 
+  "tags": [
+   "bougainville", 
+   "mine", 
+   "cra", 
+   "guinea", 
+   "papua"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 16824, 
+  "Duration": 83, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 137", 
+  "tags": [
+   " May 17, 2011 "
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 10, 
+  "Time": 16908, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 98", 
+  "tags": [
+   "Explosions at Smogtown Chemical Plan"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 10, 
+  "Time": 16963, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 98", 
+  "tags": [
+   "s at Smogtown Chemical Plant"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 10, 
+  "Time": 17121, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "chemical plant"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 7, 
+  "Time": 17373, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "smogtown"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 17470, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 98", 
+  "tags": [
+   " A consensus exists among local residents that the explosions were caused by some kind of terrorist act."
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 10, 
+  "Time": 17765, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 53", 
+  "tags": [
+   "booking", 
+   "bilyeu", 
+   "publishes", 
+   "times", 
+   "codi"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 18497, 
+  "Duration": 137, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 53", 
+  "tags": [
+   " May 12, 2011 "
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 10, 
+  "Time": 18635, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 53", 
+  "tags": [
+   "In Smogtown, two men with enough material to construct several explosive devices were apprehended before the devices were completed."
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 10, 
+  "Time": 18724, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 53", 
+  "tags": [
+   "In , two men with enough material to construct several explosive devices were apprehended before the devices were completed."
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 10, 
+  "Time": 18821, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity53,TerroristActivity98", 
+  "tags": [
+   "TerroristActivity53,TerroristActivity98"
+  ], 
+  "ClassNum": [
+   4, 
+   6
+  ], 
+  "stepHeight": 10, 
+  "Time": 18975, 
+  "Duration": 20, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "TerroristActivity 2", 
+  "tags": [
+   "nationsbank", 
+   "boatmen", 
+   "combination", 
+   "richard", 
+   "bank"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 19071, 
+  "Duration": 534, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 123", 
+  "tags": [
+   "phillies", 
+   "chamberlain", 
+   "inning", 
+   "magee", 
+   "game"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 6.399027608959889, 
+  "Time": 19720, 
+  "Duration": 37, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 123", 
+  "tags": [
+   "phillies", 
+   "chamberlain", 
+   "inning", 
+   "magee", 
+   "game"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 6.399027608959889, 
+  "Time": 19767, 
+  "Duration": 207, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 123", 
+  "tags": [
+   "April 14, 2011 "
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 19975, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "livestock"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 7, 
+  "Time": 20518, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 100", 
+  "tags": [
+   "eldred", 
+   "bomb", 
+   "convicted", 
+   "prosecutors", 
+   "defending"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 20581, 
+  "Duration": 158, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "poison"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 7, 
+  "Time": 20894, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 32", 
+  "tags": [
+   "circon", 
+   "surgical", 
+   "takeover", 
+   "retention", 
+   "employee"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 21006, 
+  "Duration": 370, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "trespass"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 7, 
+  "Time": 21466, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "threat"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 21556, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 7", 
+  "tags": [
+   "tam", 
+   "noel", 
+   "cafe", 
+   "cybercafe", 
+   "mail"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 21723, 
+  "Duration": 365, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 32", 
+  "tags": [
+   "Ethical Treatment of Lab Mice"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 10, 
+  "Time": 22089, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 7", 
+  "tags": [
+   "connected to the Brotherhood of Antarctica"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 22191, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 7", 
+  "tags": [
+   "emails of a threatening nature to VastPress."
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 22267, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "brotherhood"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 7, 
+  "Time": 22463, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "brotherhood of antarctica"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 7, 
+  "Time": 22607, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "brotherhood "
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 7, 
+  "Time": 22670, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "brotherhood"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 7, 
+  "Time": 22705, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 53", 
+  "tags": [
+   "booking", 
+   "bilyeu", 
+   "publishes", 
+   "times", 
+   "codi"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 22750, 
+  "Duration": 148, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 53", 
+  "tags": [
+   "Psychobrotherhood"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 10, 
+  "Time": 22899, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 53", 
+  "tags": [
+   "booking", 
+   "bilyeu", 
+   "publishes", 
+   "times", 
+   "codi"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 22964, 
+  "Duration": 7, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 53", 
+  "tags": [
+   "booking", 
+   "bilyeu", 
+   "publishes", 
+   "times", 
+   "codi"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 22994, 
+  "Duration": 5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "psychobrotherhood"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 23145, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "brotherhood"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 7, 
+  "Time": 23205, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 154", 
+  "tags": [
+   "abortion", 
+   "democrats", 
+   "women", 
+   "life", 
+   "party"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 23233, 
+  "Duration": 74, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 153", 
+  "tags": [
+   "casino", 
+   "sun", 
+   "taft", 
+   "hayes", 
+   "griffin"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 3.4453898246223305, 
+  "Time": 23317, 
+  "Duration": 31, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 152", 
+  "tags": [
+   "adm", 
+   "lysine", 
+   "andrew", 
+   "corn", 
+   "winford"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 11.845285639868033, 
+  "Time": 23356, 
+  "Duration": 43, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 115", 
+  "tags": [
+   "healthcare", 
+   "aetna", 
+   "cents", 
+   "merger", 
+   "insurer"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 23735, 
+  "Duration": 297, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 115", 
+  "tags": [
+   "Paramurderers of Chaos"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 24033, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 115", 
+  "tags": [
+   "apprehended three people"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 24170, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 115", 
+  "tags": [
+   "expensive high-end workbenches along with stacks of Petri dishes"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 24599, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 115", 
+  "tags": [
+   "laboratory in the basement"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 24679, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "paramurderers"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 24939, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "chaos"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 25006, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "emails", 
+   "located", 
+   "overseas", 
+   "dread", 
+   "networks"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 5.789546796318805, 
+  "Time": 25052, 
+  "Duration": 132, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "Dread"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 10, 
+  "Time": 25185, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "dread"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 25272, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 158", 
+  "tags": [
+   "game", 
+   "ceremonies", 
+   "securities", 
+   "crash", 
+   "terrorism"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 5.133182844243792, 
+  "Time": 25325, 
+  "Duration": 136, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 158", 
+  "tags": [
+   "VastPress has recently received numerous threatening emails"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 10, 
+  "Time": 25462, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 158", 
+  "tags": [
+   " Network of Dread"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 10, 
+  "Time": 25514, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "dread"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 25738, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "emails", 
+   "located", 
+   "overseas", 
+   "dread", 
+   "networks"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 5.789546796318805, 
+  "Time": 26070, 
+  "Duration": 155, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "Network of Dread."
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 10, 
+  "Time": 26226, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "Network of Dread. DHS officials said there was evidence that the target had been Washington. "
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 10, 
+  "Time": 26353, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 158", 
+  "tags": [
+   "game", 
+   "ceremonies", 
+   "securities", 
+   "crash", 
+   "terrorism"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 5.133182844243792, 
+  "Time": 26584, 
+  "Duration": 70, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 158", 
+  "tags": [
+   "May 2011"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 10, 
+  "Time": 26655, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "emails", 
+   "located", 
+   "overseas", 
+   "dread", 
+   "networks"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 5.789546796318805, 
+  "Time": 26707, 
+  "Duration": 59, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "May 2011"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 10, 
+  "Time": 26767, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity158,TerroristActivity159", 
+  "tags": [
+   "TerroristActivity158,TerroristActivity159"
+  ], 
+  "ClassNum": [
+   2, 
+   6
+  ], 
+  "stepHeight": 10, 
+  "Time": 26844, 
+  "Duration": 20, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "TerroristActivity 90", 
+  "tags": [
+   "lloyd", 
+   "berry", 
+   "sue", 
+   "investors", 
+   "settlement"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 26901, 
+  "Duration": 78, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 52", 
+  "tags": [
+   "psychobrotherhood", 
+   "smogtown", 
+   "apprehending", 
+   "devices", 
+   "men"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7.211668692481334, 
+  "Time": 27040, 
+  "Duration": 91, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 4", 
+  "tags": [
+   ".'')", 
+   "hiroko", 
+   "networks", 
+   "tots", 
+   "cbs"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 27317, 
+  "Duration": 137, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 68", 
+  "tags": [
+   "lloyd", 
+   "equitas", 
+   "insurer", 
+   "names", 
+   "regulators"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 27934, 
+  "Duration": 75, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 68", 
+  "tags": [
+   "May 16, 2011 "
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 10, 
+  "Time": 28010, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 68", 
+  "tags": [
+   "Large Number of Weapons Found During Traffic Stop "
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 10, 
+  "Time": 28102, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 68", 
+  "tags": [
+   "Cornertown"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 10, 
+  "Time": 28248, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 68", 
+  "tags": [
+   " Samuel Stansbury"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 10, 
+  "Time": 28389, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 68", 
+  "tags": [
+   "Network of Hate"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 10, 
+  "Time": 28497, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "cornertown"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 29003, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "network of hate"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 29097, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 157", 
+  "tags": [
+   "bosnian", 
+   "serb", 
+   "shubert", 
+   "nato", 
+   "serbian"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 29466, 
+  "Duration": 224, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "suspect"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 31834, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 78", 
+  "tags": [
+   "tractor", 
+   "deere", 
+   "farmers", 
+   "showdowns", 
+   "magnum"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 31871, 
+  "Duration": 273, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 88", 
+  "tags": [
+   "japan", 
+   "hiring", 
+   "graduate", 
+   "employment", 
+   "spring"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 32229, 
+  "Duration": 211, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 88", 
+  "tags": [
+   "Three retired military officers "
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 10, 
+  "Time": 32441, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 88", 
+  "tags": [
+   "in Plot To Kill Bangladesh's Leader "
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 10, 
+  "Time": 32601, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 88", 
+  "tags": [
+   "April 29, 2011"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 10, 
+  "Time": 32665, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 83", 
+  "tags": [
+   "luxembourg", 
+   "liquids", 
+   "creditors", 
+   "english", 
+   "bcci"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 33058, 
+  "Duration": 123, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 26", 
+  "tags": [
+   "food", 
+   "airlines", 
+   "airport", 
+   "contamination", 
+   "fda"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 33210, 
+  "Duration": 196, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 88", 
+  "tags": [
+   "contaminating drinking water and food "
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 10, 
+  "Time": 33407, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 53", 
+  "tags": [
+   "booking", 
+   "bilyeu", 
+   "publishes", 
+   "times", 
+   "codi"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 40411, 
+  "Duration": 232, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 78", 
+  "tags": [
+   "tractor", 
+   "deere", 
+   "farmers", 
+   "showdowns", 
+   "magnum"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 42061, 
+  "Duration": 64, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 152", 
+  "tags": [
+   "adm", 
+   "lysine", 
+   "andrew", 
+   "corn", 
+   "winford"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 11.845285639868033, 
+  "Time": 42545, 
+  "Duration": 106, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 90", 
+  "tags": [
+   "lloyd", 
+   "berry", 
+   "sue", 
+   "investors", 
+   "settlement"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 42734, 
+  "Duration": 81, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 133", 
+  "tags": [
+   "students", 
+   "police", 
+   "seoul", 
+   "hanchongryon", 
+   "campus"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 42901, 
+  "Duration": 342, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "servicemen"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 43244, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 143", 
+  "tags": [
+   "knighton", 
+   "spd", 
+   "jorgenson", 
+   "monetary", 
+   "austerity"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 43318, 
+  "Duration": 302, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 143", 
+  "tags": [
+   " truck bombing"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 10, 
+  "Time": 43621, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 143", 
+  "tags": [
+   " April 26, 2011 "
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 10, 
+  "Time": 43672, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 143", 
+  "tags": [
+   "U.S. Base Bombin"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 10, 
+  "Time": 43739, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 143", 
+  "tags": [
+   "DUBAI, United Arab Emirates "
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 10, 
+  "Time": 43826, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 143", 
+  "tags": [
+   " killed 19 U.S. servicemen in Saudi Arabia"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 10, 
+  "Time": 43981, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 133", 
+  "tags": [
+   "students", 
+   "police", 
+   "seoul", 
+   "hanchongryon", 
+   "campus"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 44304, 
+  "Duration": 154, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 133", 
+  "tags": [
+   "March 29, 2011 "
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 10, 
+  "Time": 44459, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "Bombing attempt in Smogtown chemical plant May 17", 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 10, 
+  "Time": 44530, 
+  "Duration": 20, 
+  "InteractionType": "addNote"
+ }, 
+ {
+  "DocNum": "TerroristActivity 133", 
+  "tags": [
+   "Move U.S. Troops In Middle East to Secure Areas "
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 10, 
+  "Time": 44891, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 133", 
+  "tags": [
+   "students", 
+   "police", 
+   "seoul", 
+   "hanchongryon", 
+   "campus"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 45059, 
+  "Duration": 5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 133", 
+  "tags": [
+   "students", 
+   "police", 
+   "seoul", 
+   "hanchongryon", 
+   "campus"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 45067, 
+  "Duration": 2, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 133", 
+  "tags": [
+   "students", 
+   "police", 
+   "seoul", 
+   "hanchongryon", 
+   "campus"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 45070, 
+  "Duration": 5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 133", 
+  "tags": [
+   "students", 
+   "police", 
+   "seoul", 
+   "hanchongryon", 
+   "campus"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 45075, 
+  "Duration": 5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity143,TerroristActivity133", 
+  "tags": [
+   "TerroristActivity143,TerroristActivity133"
+  ], 
+  "ClassNum": [
+   6, 
+   4
+  ], 
+  "stepHeight": 10, 
+  "Time": 45215, 
+  "Duration": 20, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "TerroristActivity 139", 
+  "tags": [
+   "lloyd", 
+   "reinsurance", 
+   "equitas", 
+   "insurer", 
+   "names"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 45559, 
+  "Duration": 191, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "arson"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 7, 
+  "Time": 45751, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "kindergarten"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 7, 
+  "Time": 45956, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 139", 
+  "tags": [
+   "horrific violence-"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 10, 
+  "Time": 46201, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 139", 
+  "tags": [
+   "-the murder of 16 kindergarten children and their teacher in Dunblane, Scotland,"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 10, 
+  "Time": 46284, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 139", 
+  "tags": [
+   " in March"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 10, 
+  "Time": 46333, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 139", 
+  "tags": [
+   "the shooting and arson spree in Port Arthur, Tasmania, in April"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 10, 
+  "Time": 46423, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "port arthur"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 7, 
+  "Time": 46672, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 80", 
+  "tags": [
+   "penn", 
+   "yards", 
+   "ellinger", 
+   "cyndy", 
+   "touchdowns"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 47327, 
+  "Duration": 96, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 26", 
+  "tags": [
+   "food", 
+   "airlines", 
+   "airport", 
+   "contamination", 
+   "fda"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 47447, 
+  "Duration": 492, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 83", 
+  "tags": [
+   "luxembourg", 
+   "liquids", 
+   "creditors", 
+   "english", 
+   "bcci"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 47996, 
+  "Duration": 164, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "mice"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 7, 
+  "Time": 48987, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "lab"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 7, 
+  "Time": 49056, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "toxic"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 7, 
+  "Time": 49278, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 4", 
+  "tags": [
+   ".'')", 
+   "hiroko", 
+   "networks", 
+   "tots", 
+   "cbs"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 49319, 
+  "Duration": 86, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "vastapolis"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 49540, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "vastopolis"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 7, 
+  "Time": 49625, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "vastopolis death"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 7, 
+  "Time": 49734, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 78", 
+  "tags": [
+   "tractor", 
+   "deere", 
+   "farmers", 
+   "showdowns", 
+   "magnum"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 50142, 
+  "Duration": 325, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 151", 
+  "tags": [
+   "ferreira", 
+   "dolphins", 
+   "coach", 
+   "shula", 
+   "jona"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 50866, 
+  "Duration": 66, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 151", 
+  "tags": [
+   " May 14, 2011 "
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 50933, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 151", 
+  "tags": [
+   "Vastopolis airport"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 51350, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 151", 
+  "tags": [
+   "ferreira", 
+   "dolphins", 
+   "coach", 
+   "shula", 
+   "jona"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 51802, 
+  "Duration": 5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 128", 
+  "tags": [
+   "missiles", 
+   "derryberry", 
+   "defense", 
+   "ballistic", 
+   "programming"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 51899, 
+  "Duration": 9, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 128", 
+  "tags": [
+   "missiles", 
+   "derryberry", 
+   "defense", 
+   "ballistic", 
+   "programming"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 51915, 
+  "Duration": 116, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 128", 
+  "tags": [
+   "May 10, 2011 "
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 10, 
+  "Time": 52032, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "trafficing"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 54044, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "trafficking"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 54087, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "traffic"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 54122, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 13", 
+  "tags": [
+   "singapore", 
+   "sesdaq", 
+   "share", 
+   "takeover", 
+   "cents"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 54206, 
+  "Duration": 82, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "launder"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 54372, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 26", 
+  "tags": [
+   "food", 
+   "airlines", 
+   "airport", 
+   "contamination", 
+   "fda"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 55329, 
+  "Duration": 60, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 26", 
+  "tags": [
+   "May 01, 2011"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 10, 
+  "Time": 55390, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 26", 
+  "tags": [
+   "several airlines"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 10, 
+  "Time": 55466, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 53", 
+  "tags": [
+   "booking", 
+   "bilyeu", 
+   "publishes", 
+   "times", 
+   "codi"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 55872, 
+  "Duration": 268, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 98", 
+  "tags": [
+   "bougainville", 
+   "mine", 
+   "cra", 
+   "guinea", 
+   "papua"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 56902, 
+  "Duration": 196, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "", 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 10, 
+  "Time": 57270, 
+  "Duration": 20, 
+  "InteractionType": "createNote"
+ }, 
+ {
+  "DocNum": "TerroristActivity 115", 
+  "tags": [
+   "healthcare", 
+   "aetna", 
+   "cents", 
+   "merger", 
+   "insurer"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 57448, 
+  "Duration": 50, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 115", 
+  "tags": [
+   " May 13, 2011 "
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 57499, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }
+]

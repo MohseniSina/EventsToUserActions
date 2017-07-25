@@ -1,0 +1,300 @@
+Timestamp,Transcript
+[00:00:20]:,"""I'm reading the prompt right now"""
+[00:00:40]:,"""So the diseas was startet in Nigeria in Feb 2011. then spreaded to ..reading all countries.."""
+[00:01:46]:,"""Do we know to name of the disease or it;s just an infection disease?"""
+[00:01:53]:,[reading the prompt note again]
+[00:02:14]:,"""I'm thinking it's better to starting with the disease to figure out what the disease is first or tto figure out what happend in the Nigeria first. Like how the disease startet in Nigeria"""
+[00:02:48]:,User changed the topic: (Looking for causes of the disease) (type 1) [bottom-up]
+[00:02:25]:,"""I think I would go with the figuring out what the disease is and then try to find out what all about arms dealing that was happening in these countries and see if they took the disease somehow"""
+[00:02:48]:,"searching for ""disease"" but there is no result"
+[00:03:11]:,"""let me search for Nigeria. Searching for Nigreia"""
+[00:03:14]:,"""Ok so I'm going to start reading about Nigeria and see what happened in Nigeria in the first place"""
+[00:03:18]:,opening the first document
+[00:03:39]:,"""this is an email from US government"""
+[00:04:00]:,"""No that not from the US governent. It is from an engineer"""
+[00:04:43]:,"""He is talking about the deal he wants to do with the department if energy"""
+[00:04:55]:,"""I'm trying to see if it's actually related to the department of energy and nothing else. they might talk about energy to hide the talks about illigal weapons and stuff like that"""
+[00:05:33]:,"""It say's that a forign company was involved with the deal when they were sending the money"""
+[00:06:10]:,[still readung the first document]
+[00:06:21]:,"""I'm going to highlight his name maybe I see this name again highlighting the name"""
+[00:06:37]:,[asking how to close the document but keep the highlight part]
+[00:06:54]:,opening and reading the second document
+[00:07:11]:,"""I'm reading another email boyo.. actually that's the same guy because the email addresses are the same"""
+[00:07:37]:,Still reading the same document
+[00:07:58]:,Still reading the same document
+[00:08:14]:,Still reading the same document
+[00:08:21]:,"""searching for gun I changed my search to gun to see what can I find"""
+[00:08:21]:,User changed the topic: (Looking for Gun dealers in Nigeria and Kenya) (type 2)[bottom-up]
+[00:08:53]:,"""i'm reading from a blog It about Africa socaitiy"""
+[00:09:13]:,"highlighting Kenya"""
+[00:09:18]:,"""I see several people were arrested in Keniya by the land defense police but I don't know why. oh yeah they have been covered 150 guns!"""
+[00:09:35]:,"highlighting the ""Also covered 150 guns"""
+[00:09:41]:,"""So now I want to figure out were thse gus were coming from. Nigeria or . """
+[00:10:02]:,Still reading the documents
+[00:10:25]:,"""I'm trying to see if Nigeria is mentioned in this articel. Searching for Nigeria. but no it's not"""
+[00:10:32]:,"""I'm searchimg for gun again. Searching for gun"""
+[00:10:39]:,moves old document aside
+[00:10:45]:,"Picks a new ""gun"" document and starts reading"
+[00:10:55]:,"""It's a blog wrriting and it's about Kenya too"""
+[00:11:06]:,"""Instead of searching the whole article I want to search the key word I'm looking for. Searching for Kenya to see if it worth reading or not"""
+[00:11:21]:,Puts document aside. Picks another one (from kenya search).
+[00:11:33]:,"Searching for ""gun"" again to see if there is any in the new ddocument"
+[00:11:41]:,"Searching for ""Nigeria"" again to see if there is any in the new ddocument and no results"
+[00:11:54]:,trying to search two words at the same time. but no results
+[00:12:16]:,"""Since there are many guns documents I'm want to search for Nigeria first and then see if ther is any gun in there"
+[00:12:17]:,"Searching for ""gun"""
+[00:12:21]:,"Searching for ""Nigeria"" there are not much Nigeria here lets change the search to ""gun"""
+[00:12:31]:,"Searching for ""gun"""
+[00:12:36]:,"Picks a document that has both ""Nigeria"" and ""gun"""
+[00:12:44]:,"Searching for ""Nigeria"""
+[00:12:52]:,"Searching for ""gun"""
+[00:12:52]:,"""so this one is from Newyork timee and it's from Feb 1st 2002 which is similar to start date of desease in Nigeria theother article"""
+[00:13:37]:,Still reading the document
+[00:13:49]:,"""It's talking about some international gus smogler in Milan. Says police came to his hotel room and interupted a party and arrested him"""
+[00:14:19]:,"""Now I'm trying to find a connection between Nigeria smogler and the disease"""
+[00:14:52]:,"Searching for ""Nigeria"" to see where in current document this word is mentioned"
+[00:15:11]:,Still reading the document
+[00:15:31]:,Going back to an old document
+[00:15:38]:,Going back to another old document
+[00:15:53]:,returning to reading the current doccument
+[00:16:18]:,still reading the same document
+[00:16:25]:,"""It's saying that police found several evidences of arms deals. So I think this guy was doing some arms deals between Nigeria and Kenya"""
+[00:16:55]:,Connecting document to the prompt note
+[00:16:59]:,"""Also connecting to another document. maybe here cause I'm not sure but lets just connect it"""
+[00:17:15]:,"Searching for ""Nigeria"""
+[00:17:19]:,"Searching for ""gun"""
+[00:17:22]:,"Picks a document that has both ""Nigeria"" and ""gun"""
+[00:17:38]:,"""That's the same article. oh. No. times are different. lets see"""
+[00:18:21]:,"Searching for ""Nigeria"""
+[00:18:31]:,"""Looks most of information are the same"""
+[00:18:41]:,"""I'm still trying to figure out connecting between disease gun deal and Nigreia"""
+[00:19:21]:,"Searching for ""gun"""
+[00:19:31]:,"""I can't find any article having both Nigeria and gun"""
+[00:19:38]:,User changed the topic: (Looking for evidence of sickness) (type 3)[bottom-up]
+[00:19:38]:,"Searching for ""disease"""
+[00:19:47]:,"Searching for ""spread"""
+[00:19:55]:,"Searching for ""epidemic"". I'm trying to search for words related to disease"
+[00:20:04]:,"""We don't know the name of the disease"""
+[00:20:14]:,"Searching for ""Sickness"" there is one article about sickness"
+[00:20:21]:,starts reading the document
+[00:20:32]:,"""it's from a guy in Mosco to the same engineer I read about in the beggining or maybe not. the Email address is the same buit nams are different"""
+[00:20:54]:,checking the names in the old documents.
+[00:21:01]:,"""In the old one the name is capalo but here is George"""
+[00:21:24]:,Still reading the document
+[00:21:48]:,"""yeah. this one is suspicious. the russion guy is addressing pancho with the different name george and they are talking about a deal I'm thinking maybe it's related to the gun deal and the guy is hiding something"""
+[00:22:13]:,Making a connection between new documnet and an old one
+[00:22:30]:,"Searching for ""Dr. George"" and opening the first document"
+[00:22:49]:,"""Yeah with the same name he is sending email to somebody gauki name"""
+[00:23:14]:,"""maybe It's replied to the same email let me check the dates. old one is on Feb 2009 and thenew one is from Dec 2009"""
+[00:23:30]:,"Writing the first note ""Dr. George and Mikhail emailed"""
+[00:24:45]:,"""Sees that the guy has paid him"""
+[00:25:41]:,Makes a link between new document and an old one
+[00:26:08]:,Opens a new document. Now I'm looking for corespondance between Dr. George and Mikhail. This one happend before all others
+[00:26:40]:,reviewing at some old documents
+[00:27:35]:,"Highlighting a ""March 2009"" in an old document"
+[00:27:41]:,"""I'm trying to highlight the dates so I know how and when each of these happened"""
+[00:28:07]:,Highlighting another date
+[00:28:16]:,Back to reading last found document
+[00:28:21]:,"""So I'm seeing some gun dealings here"""
+[00:28:46]:,"""It seems the guns are AKB and I don't know what AKB47 is"""
+[00:29:10]:,still reading the document
+[00:29:13]:,"Highlighting ""Dec 2008"" date"
+[00:29:35]:,Still reading the document
+[00:30:00]:,"Puts document aside and picking a new one based on last search ""Dr. George"""
+[00:30:13]:,"""This is a phone call between Dr. george and same russian guy from dubai"""
+[00:30:31]:,"""oh It's not from Dubai they want to meet there"""
+[00:31:04]:,Highlighting the date Jan 2009
+[00:31:27]:,Still reading the document
+[00:31:55]:,"""I'm still reading emails and phone calls between Dr. George and Mikhail and trying to make connection between dates to maybe order them the oldes converestatioon I found is Dec 2008 but the disease started was Feb 2009 and they decided to meet in dubai which is not one of those countries"""
+[00:32:55]:,closeing the last document
+[00:33:04]:,"Searching for ""weapon"""
+[00:33:04]:,User changed the topic: (Looking for arms  in 2009) (type 2)[bottom-up]
+[00:33:14]:,"Searching for ""russia"""
+[00:33:28]:,"Picking the first document,highlighting the date and reading"
+[00:33:59]:,"""Nothing important here I think they started a converestation and all of them in Sept. 2009"""
+[00:34:13]:,I'm searching for Russa now because that Mikhail guy from russia and I found an article that russia is planning to increase weapon selling in Asia
+[00:34:29]:,Starts reading a new doccument about Russia
+[00:34:42]:,"""I don't think this is anything important"""
+[00:34:50]:,Looking at the topics of russia and thinking what to look for next
+[00:35:21]:,"Searching for ""firearms"" searching for different words meening weapons"
+[00:35:29]:,Picking a new document
+[00:35:46]:,"""It's from Saudi Arabia. It's too old though June 2008"""
+[00:35:55]:,Picking a new document
+[00:36:06]:,Picking a new document. I'm trying to find something in 2009 probably
+[00:36:19]:,"Searching for ""Weapon"""
+[00:36:33]:,Pick a weapon document with 2009 date and It's about north korea
+[00:36:54]:,Searching for illigal
+[00:37:00]:,Picking a document
+[00:37:16]:,"""This article is from Jan 2009 and its about illigal smogeling of arms in Kenya"""
+[00:37:58]:,Still reading same document. It wasn't any helpfull
+[00:38:21]:,User changed the topic: (Looking new information every where) (type 3) [bottom-up]
+[00:38:04]:,"""Main problem is that I cann't find anything relate to disease and sickness which is our main goal"""
+[00:38:21]:,"Searching for ""Iran"". I'm searching for some other countries"
+[00:38:31]:,Picking a document
+[00:39:03]:,"Searching for ""Syria"""
+[00:39:08]:,Picking a document
+[00:39:24]:,"Searching for ""Lagos"""
+[00:39:26]:,"Searching for ""Nigeria"""
+[00:39:31]:,"""There is nothing left from Nigeria that I haven't read already"""
+[00:39:39]:,"Searching for ""boyo"" the email address"
+[00:39:47]:,"Searching for ""Mikhail"""
+[00:40:14]:,Searching for Mikhail's last name
+[00:40:28]:,Reviewing some oold documents
+[00:40:54]:,"Searching for ""Minsky"""
+[00:40:56]:,Picking a new document about Minsky which is same story in Hotel room
+[00:41:44]:,"Searching for ""Leonid"""
+[00:41:57]:,Makes a connection between two old documents
+[00:42:12]:,"""I'm out of my ideas right now. So I want to scan all these dialog topic and see if I find anything interesting"""
+[00:42:30]:,"Searching for ""May 2009"" when the disease peaked on that time"
+[00:42:30]:,User changed the topic: (Looking at the time when disease appeared first) (type 3) [bottom-up]
+[00:42:48]:,Picking a new document from search results and starts reading
+[00:43:02]:,"""It's about something that happend in Pakistan"""
+[00:43:33]:,Still reading the document
+[00:44:25]:,"Highlights ""Dubai"""
+[00:44:36]:,Picking a new document from last search
+[00:44:46]:,"""I'm reading from events in 2009 to see how the disease spreaed and I'm also seaing some meetings happend in Dubai and It might be related"""
+[00:45:33]:,"Searching for ""Dubai"""
+[00:45:42]:,Picking a new document
+[00:45:49]:,Going back one document to check some guys name
+[00:46:07]:,comes back to read new document
+[00:46:33]:,Still reading the document
+[00:46:36]:,"Highlighting ""Dubai"""
+[00:46:44]:,Picking a new document
+[00:47:19]:,"""It's suspicious that they talk about text books here why do they need this?"""
+[00:47:40]:,Still reading the document
+[00:47:51]:,"Highlighting ""Dubai"""
+[00:47:57]:,"""All Dubai stuff are related to Basra which is bodygaurd of bokhari and nothing is clear they talk about text book. Let me search for text book"""
+[00:48:21]:,User changed the topic: (Looking for textbooks) (type 1)[bottom-up]
+[00:48:21]:,"Searching for ""Textbooks"""
+[00:48:27]:,Picking a new document
+[00:48:47]:,"""Comparing new document with the last one and phone numbers are the same although we don't know the name are the same and they still talking about textbooks"""
+[00:49:26]:,Reading the new document
+[00:49:44]:,"""They are talking about a proffesor in Moscow and thta might be the same guy that I was reading the converstation with Pakistani people"""
+[00:50:01]:,"""It says that guy mosco has sales man who can many top quality text books I think the textbook is cover for guns!"""
+[00:50:47]:,"Highlighting ""Textbooks"""
+[00:51:06]:,Makes connection between two textbook documents and puts aside
+[00:51:13]:,Makes another connection between two textbook documents
+[00:51:18]:,Picking a new document about textbooks
+[00:51:32]:,Puts this document a side
+[00:51:35]:,Makes new connection between last document and the other textbook documents
+[00:51:39]:,Picking a new document about textbook. same phone number again
+[00:52:33]:,Makes a link between new document and old Textbook ones and puts it aside
+[00:53:21]:,"Searching for ""Basra"" finds this name from old textbook documents"
+[00:53:30]:,Picking a new document about basra
+[00:53:39]:,"""I searched it because he was the guy called all these people and talking about textbooks and also he was bodygaurd of bokhari. I might search for bokhari too. he is leader of someplace in lashkarjangiri in Pakistan"""
+[00:54:16]:,Picking a new document from the last search results
+[00:54:38]:,Picking a new document from the last search results
+[00:55:06]:,"Searching for ""bokhari"" cause I could find anything interesting with basra"
+[00:55:12]:,Picking a new document
+[00:55:37]:,Highlighting an entire paragraph cause I may be related to later
+[00:55:45]:,Picking a new document from the last search results
+[00:56:33]:,Still nothing helpfull bacause I can not find anything related to disease here
+[00:56:36]:,Highlighting an entire paragraph
+[00:57:06]:,"""Searching for death I want to search more keywords related to disease again"""
+[00:57:06]:,User changed the topic: (What happened at the meeting in Dubai and who went there?) (type 3)[bottom-up]
+[00:57:14]:,Picking a new document
+[00:57:27]:,Picking a new document from the last search results
+[00:57:41]:,Picking a new document from the last search results
+[00:57:58]:,Picking a new document from the last search results
+[00:58:05]:,"Searching for ""Hospital"""
+[00:58:16]:,"""Searching for Borj because they said they are going to have a meeting in borj-al-Arab and I'm trying to see if there are any connections there"""
+[00:58:21]:,Picking a new document from the last search results
+[00:58:41]:,This one is from Mosco to Yemen
+[00:59:07]:,Looking back some old documents
+[00:59:15]:,"""April 18 and 19 are when all these guys are going to borj"""
+[00:59:24]:,continue reading the last document again
+[00:59:48]:,Picking a new document from the last search results
+[00:59:48]:,"""What I'm seeing is that a lot of these guys are sick with a disease when they have meeting in borj. Lets see when they exactly went to hospital"""
+[01:00:04]:,Like some of them might got the disease from the other people
+[01:00:15]:,Picking a new document
+[01:00:24]:,Picking a new document
+[01:00:39]:,"""Yeah. I think something happend in borj is related to disease cause some people from that place went to hospital after the meeting"""
+[01:01:01]:,"""All these people who had meeting in borj al arab in April 2009 and then couple of reports from May 2009 shows that some of them went to hospital. So now I think the perosn from Nigeria who was sick have met them and kind of transfered that sickness to all those people in the meeting"""
+[01:01:32]:,I'm trying to read about people in borj al arab to see if I could find anything interesting
+[01:01:36]:,"Picking a new document from the last search results ""borj"""
+[01:01:47]:,"Highlighting ""Borj"""
+[01:01:58]:,Picking a new document from the last search results
+[01:02:28]:,Still reading the document
+[01:02:56]:,"""This Kasem guy from Gaza. It's first time I'm seeing his name and he is also going to go to borj"""
+[01:03:08]:,"Highlighting ""borj"""
+[01:03:17]:,"Searching for ""Kasem"""
+[01:03:27]:,Picking a new document from the last search results
+[01:04:01]:,Still reading the document
+[01:04:19]:,Picking a new document from the last search results
+[01:04:50]:,"""I seems it also about guns and also related to Russia and they are talking about Dubai and thats where they are going to pay the money"""
+[01:05:34]:,Picking a new document from the last search results
+[01:06:03]:,Picking a new document from the last search results
+[01:06:40]:,Still reading the document
+[01:06:55]:,"""In the all artiles about Kasem and I've seen the name of Khouri a lot"""
+[01:07:05]:,Picking a new document from the last search results
+[01:07:33]:,"Searching for ""Khouri"""
+[01:07:42]:,"""Nothing else from Khouri other than these ones in Kasem search"""
+[01:07:54]:,"Searching for ""Dubai"""
+[01:08:01]:,Picking a new document from the last search
+[01:08:29]:,"""They are talking about an arm exibition that is schadualeed in Dubai in April 17th that every one has meeting in borj. I think it's important"""
+[01:08:48]:,"Highlighting ""Dubai"""
+[01:09:16]:,Picking a new document from the last search results
+[01:10:02]:,Still reading the document
+[01:10:12]:,User changed the topic: (Looking for disease) (type 2)[bottom-up]
+[01:10:12]:,Picking a new document randomly
+[01:10:18]:,"""Nahid is the woman who died in the hospital in May 2009 and she is also going to the meeting in Dubai in April 17th"""
+[01:10:26]:,Making connection between two documents
+[01:10:37]:,Picking a new document from the last search results which is Dubai
+[01:10:56]:,"""Again here is the same phone number"""
+[01:11:05]:,"""This time instead of textbooks they are talking about farming equipments"""
+[01:11:33]:,Still reading the document
+[01:11:50]:,"""Also another phone call from Iran to Dubai in April"""
+[01:12:03]:,"Searching for ""Nahid"" who died in hospital and also where in Dubai in April"
+[01:12:25]:,"""I'm reading an article about Kenya"""
+[01:12:49]:,"""They were once arrrested for something related to defense"""
+[01:12:57]:,Picking a new document from the last search results
+[01:13:14]:,Picking a new document randomly
+[01:13:22]:,"""I'm trying to see if the Nigeiran guy who was in Dubai meeting If I can prove that he was sick at that time"""
+[01:13:39]:,"Searching for ""Georg"" but there is nothing else that I have not read already"
+[01:13:48]:,"""Let's search for his the other name. Searching for Funcha"""
+[01:13:54]:,"Searching for ""Liporalum?"""
+[01:14:11]:,"Searching for ""Nigeria"""
+[01:14:24]:,"""I remember I've read something about sickness. Searching for Sickness"""
+[01:14:31]:,"""Feb 2009 thats the exactt time the disease started in Nigeria and the russian guy was told to come to the meeting"""
+[01:14:46]:,"""I think that it! the Nigerian guy got the sickness in Feb and then in another email that Russan guy asked him to don't forget to come to the meeting and people from all listed countries where there"""
+[01:15:42]:,"Writing a note about how this disease got spread during a gun dealing meeting in Dubai. ""Dr. George getting sick from Pakistan on Feb 2009 and then he went to Dubai in April where everyone from all those countries were present. That might be the reason they all got sick. We see later in May that a couple of them were in Hospital because of being sick"""
+[01:16:39]:,Still typing the note
+[01:17:15]:,Picking some documents from the last higlhlighted ones. reviewing and moving them
+[01:17:44]:,"""Let me find the most important ones"""
+[01:18:25]:,Making a connection between two highlighted documents documents
+[01:18:50]:,Making a connection between two documents
+[01:18:56]:,Making connection between two documents
+[01:19:54]:,User changed the topic: (Looking at other places which all attended the meeting) (type 3)[bottom-up]
+[01:19:04]:,grouping documents by moving them aside
+[01:19:54]:,"Searching for ""Burj"""
+[01:20:05]:,Making connection between two documents
+[01:20:16]:,"Searching for ""Tabriz"""
+[01:20:24]:,Making connection between two documents
+[01:20:29]:,"""I'm connecting all the important one that show the results"""
+[01:20:52]:,Moving and making a connection between two documents
+[01:21:11]:,"Searching for ""Burj"""
+[01:21:17]:,Making a connection between two documents about Burj
+[01:22:22]:,"Searching for ""Syria"""
+[01:22:45]:,Making a connection between two documents
+[01:22:50]:,"Searching for ""Lebonan"""
+[01:23:24]:,"Searching for ""Saudi Arabia"""
+[01:24:04]:,"Picking a new document from ""Saudi Arabia"" search results"
+[01:24:13]:,Picking a new document from the last search results
+[01:24:26]:,Picking a new document from the last search results
+[01:24:33]:,Picking a new document from the last search results
+[01:24:44]:,"""I couldn't find anything related to Saudi Arabia. There was some guy but I forget his name"""
+[01:25:06]:,"Searching for ""Ahmed"""
+[01:25:13]:,Picking a new document from the last search results
+[01:25:29]:,"""So Ahmed had contacts with Kasem and that's how disease spreaded to Saudi Arabia"""
+[01:25:29]:,"""Next is Venezuela"""
+[01:25:32]:,"Searching for ""Venezuela"""
+[01:25:48]:,Picking a new document from the last search results
+[01:26:21]:,"Searching for ""Meeting"""
+[01:26:36]:,Making a connection between two documents
+[01:26:45]:,"Searching for ""Columbia"" only one result comes up"
+[01:27:01]:,"""I found people from each ine of those countries and they all attended that meeting so I connected all those people to the main meeting article but I can not find anybody from Columbia"""
+[01:27:44]:,"Searching for ""Meeting"""
+[01:28:15]:,"Searching for ""Dubai"""
+[01:26:45]:,"Searching for ""Columbia"""
+[01:28:34]:,Picking a new document from the last search results
+[01:28:54]:,Reviewing his notes

@@ -1,0 +1,288 @@
+Timestamp,Transcript
+[00:00:09]:,User starts the study with reading the prompt note
+[00:00:51]:,"Highlighting ""Terrorist Activities and group"""
+[00:00:56]:,"Searching for ""Terrorist Activity"""
+[00:00:49]:,User changed the topic: (Looking for Terrorist Activities and threats ) [bottom-up]
+[00:00:59]:,"""No results"""
+[00:01:04]:,"Searching for ""Terrorist"""
+[00:01:15]:,"Picking a document in title ""May 2011, City Threat Level Increased"""
+[00:01:41]:,Still reading the document
+[00:02:07]:,Still reading the document
+[00:02:15]:,"""I don't see much information here from terrorist themself, rather just there's a feeling of being a threat"""
+[00:02:21]:,"Highlighting ""May 10, 2011"""
+[00:02:27]:,"Searching for ""May 10, 2011"""
+[00:02:32]:,Looking through titles
+[00:02:47]:,"Picking a document in title ""May 2011, Circon Corp, Attempts to Block Takeover With Worker Benefits"""
+[00:02:55]:,"""It looks like a dead end, lets see what else we can search"""
+[00:03:09]:,"Searching for ""Threat"""
+[00:03:24]:,"Picking a document in title ""May 2011, Overseas Terror Group Threatens Press"""
+[00:03:39]:,"Highlighting ""Network of Dread"""
+[00:04:10]:,"""So, there's a who here but nothing about where, let's search it"""
+[00:04:14]:,"Searching for ""Network of Dread"""
+[00:04:32]:,"Picking a document in title ""May 2011, DHS Foils Plot """
+[00:05:00]:,Still reading the document
+[00:05:22]:,Still reading the document
+[00:05:38]:,Making connection between two documents about threats
+[00:05:37]:,"""I've connect them beause it talks abouit Network of Dread again"""
+[00:05:50]:,"Highlighting ""Washington"""
+[00:05:52]:,"Searching for ""Washington"""
+[00:06:14]:,"Picking a document in title ""April 2011, Saudi Group Claims 6 Militants Confessed to US Base Bombing"""
+[00:06:38]:,"""Looks unrelated series of events"""
+[00:07:04]:,"Highlighting ""Vastopolis"""
+[00:07:28]:,"Searching for ""Vastpress"""
+[00:07:35]:,Looking through titles
+[00:07:59]:,"""It didn't lead any clear results"""
+[00:08:02]:,"Searching for ""May, 21"""
+[00:08:49]:,"Picking a document in title ""May 2011, Suspicious Turkey Found with Man at Airport"""
+[00:09:19]:,Still reading the document
+[00:09:25]:,"Highlighting ""bomb"""
+[00:09:23]:,User changed the topic: (Looking for Bombing and bomb makers) [bottom-up]
+[00:09:45]:,"Searching for ""Bomb"""
+[00:10:03]:,"Picking a document in title ""May 2011, Bomb Makers Apprehended"""
+[00:10:24]:,"""There is a different group here"""
+[00:10:24]:,"Highlighting ""Psychobrotherhood"""
+[00:10:34]:,"Highlighting ""Vastopolis"""
+[00:10:58]:,"Searching for ""Psychobrotherhood"""
+[00:11:04]:,"""It's odd, If find the bomb makers, It might see where the bombs are coming from"""
+[00:11:20]:,"Look back are the document in title "" May 2011, DHS Foils Plot """
+[00:11:28]:,"Highlighting ""Network of Dread"""
+[00:11:34]:,"Searching for ""Network of Dread"""
+[00:11:41]:,"""Nothing more, just thoese two"""
+[00:11:53]:,"Searching for ""Bomb"""
+[00:12:02]:,"Picking a document in title ""May 2011, Explosives Traces Are Said To Be Found in Antarctica Airlines"""
+[00:12:20]:,Still reading the document
+[00:12:40]:,Still reading the document
+[00:12:50]:,"Writing a new note, Note 1: ""A Potential bomb"""
+[00:13:07]:,Making connection between the last document and Note 1
+[00:13:30]:,"Picking a document in title ""April 2011, Bomb Blast Kills Nine """
+[00:13:56]:,Still reading the document
+[00:14:09]:,"""Clearly the airport is """
+[00:14:25]:,"Highlighting ""Airport"""
+[00:14:31]:,"Searching for ""Airport"""
+[00:14:44]:,"Picking a document in title "" March 2011, Not All Security Levels Are Created Equal"""
+[00:15:05]:,Still reading the document
+[00:15:29]:,"""It just some information about security"""
+[00:15:31]:,"Picking a document in title ""April 2011, Bomb Blast Kills Nine"""
+[00:15:42]:,"Picking a document in title ""May 2011, Suspicious Turkey Found with Man at Airport"""
+[00:15:44]:,"""I'm going to review it, see I can find go anywhere with it"""
+[00:16:12]:,"Searching for ""May 14, 2011"""
+[00:16:32]:,"Picking a document in title ""May 2011, Fidelity Asks Securities Firms For More-Detailed"""
+[00:16:35]:,"""Somebody is looking for more information here, but seems dead end again"""
+[00:16:59]:,"""I'm rading the prompt again to see if I can find something new"""
+[00:17:01]:,"Searching for ""Threats"""
+[00:16:58]:,User changed the topic: (Looking for threats in the area and also happend on May) [bottom-up]
+[00:17:13]:,"""I'm clearing the workspace a little"""
+[00:17:34]:,"Picking a document in title ""May 2011, threatening emails sent to VastPress Animal Activist Threatens Press """
+[00:17:45]:,"Highlighting ""Brotherhood of Antarctica"""
+[00:18:01]:,"Highlighting ""Citizens for the Ethical Treatment of Lab Mice"""
+[00:18:56]:,"Highlighting ""intent to ""free'' all mice in the city and use humans for experimental purposes"""
+[00:19:04]:,"Searching for ""Brotherhood of Antarctica"""
+[00:19:10]:,"""Nothing, It's an individual thing on its own"""
+[00:19:28]:,"Searching for ""Citizens for the Ethical Treatment of Lab Mice"""
+[00:19:36]:,"Searching for ""threats"""
+[00:19:38]:,"Picking a document in title ""May 2011, US Antiterrorism Effort Is Flawed, as Threat Grows"""
+[00:20:12]:,Still reading the document
+[00:20:31]:,Still reading the document
+[00:20:30]:,"""Let's check bombing in Dharan"""
+[00:20:31]:,"Searching for ""Dharan"""
+[00:20:39]:,"""Nothing in it, we're looking for Vastopolis and area, Ok, Let's see the Washington for location"""
+[00:20:53]:,"Searching for ""Washington"""
+[00:20:59]:,Looking through titles
+[00:21:10]:,"""Nothing comes up there, I'm to search over here"""
+[00:21:18]:,User changed the topic: (Looking for threats happend on May) [bottom-up]
+[00:21:20]:,"Searching for ""May, 2011"""
+[00:21:20]:,"""I'm thinking of May 2001 when ,,,"""
+[00:21:26]:,Looking through titles
+[00:22:21]:,Looking through titles
+[00:22:31]:,"Picking a document in title ""May 2011, Alleged Trade Center Bomber Convicted of Plotting Air"""
+[00:23:09]:,"Highlighting ""Al Engstrom"""
+[00:23:33]:,"Highlighting ""May 18, 2011"""
+[00:24:06]:,"Highlighting "" The commercial jets targeted for destruction were owned by companies such as Delta Air Lines, Northwest Air Lines and UAL Corp's United Airlines unit"""
+[00:24:39]:,Still reading the document
+[00:25:01]:,Still reading the document
+[00:25:12]:,"Highlighting ""Asia"""
+[00:25:25]:,"""let's see the prompt again"""
+[00:26:18]:,"Searching for ""Engstrom"""
+[00:26:32]:,"""This artticles clears how they did it, where it was, and etc"""
+[00:27:16]:,"""Once again May 11th, but it's a seperated event"""
+[00:27:33]:,"looking trough old documents and highlights to find some corolation in ""May 2011, Suspects Apprehended"""
+[00:27:56]:,"Highlighting ""Paramurderers of Chaos"""
+[00:28:25]:,"Searching for ""Paramurderers"""
+[00:28:40]:,"""another seperate threat, I'm going back to prompt, """
+[00:29:06]:,"""I'm trying to search Vastopolis but can't find anything"""
+[00:29:13]:,"""Nothing poped up, So I'm searching for terrorist"""
+[00:29:14]:,"Searching for ""Terrorits"""
+[00:29:33]:,"Picking a document in title ""May 2011, Explosions at Smogtown Chemical Plant"""
+[00:30:02]:,Still reading the document
+[00:30:04]:,"""this one indicates there wasn't actually a terrorist attack, It wasn't confirmed"""
+[00:30:12]:,"""I'm gonig to back through the information I gathered so far"""
+[00:30:42]:,User changed the topic: (Looking for threats in Vastapolise) [bottom-up]
+[00:30:45]:,"Searching for ""Vastopolis"""
+[00:30:48]:,"""This time Vastopolis has results"""
+[00:31:00]:,Looking through titles
+[00:31:38]:,Looking through titles
+[00:31:45]:,"""Nothing in regards bombs terrorists threats or relevant"""
+[00:31:54]:,"Looking at an old document "" May 2011, Overseas Terror Group Threatens Press"""
+[00:32:03]:,"Highlighting ""threatening emails"""
+[00:32:34]:,"Writing a new note, Note 2: ""Threatening Emails"""
+[00:32:39]:,"""I'm making a note about threatening emails and link that to above document and also the document about mice"""
+[00:33:18]:,"Making connection between Note 2 and document in title ""May 2011, threatening emails sent to VastPress Animal Activist Threatens Press"""
+[00:33:28]:,"""Looking to information I gathered so far, again"""
+[00:33:52]:,"""Lets go back to the emails and see if we can find anything erlated to emails"""
+[00:33:55]:,"Searching for ""Emails"""
+[00:34:04]:,"Searching for ""Email"""
+[00:34:30]:,"Picking a document in title ""May 2011, Alleged Trade Center Bomber Convicted of Plotting Air"""
+[00:34:49]:,"Highlighting ""Al Engstrom"""
+[00:35:17]:,Still reading the document
+[00:36:21]:,"Highlighting ""influenced by the recent the Antarctica Airlines flight downing and the bombing incident at the Games in Atlanta"""
+[00:36:35]:,"Highlighting ""he built the bomb by modifying a Casio watch to act as a timer that would detonate an explosive liquid contained in a contact-lens solution bottle"""
+[00:37:02]:,"Searching for ""Antarctica Airlines"""
+[00:37:00]:,User changed the topic: (Looking for events in Airlines) [bottom-up]
+[00:37:19]:,"Picking a document in title ""May 2011, Explosives Traces Are Said To Be Found in Antarctica Airlines"""
+[00:37:59]:,"Writing a new note, Note 3: ""May 2011 Bombing"""
+[00:38:51]:,Still reading the document
+[00:39:16]:,Still reading the document
+[00:39:23]:,"""I'm looking for hte exact date, it's not recent, it's May 18th"""
+[00:39:46]:,Making connection between two documents related based on date and content
+[00:40:06]:,"Highlighting ""March 29, 2011"""
+[00:40:35]:,"Picking a document in title ""May 2011, US Antiterrorism Effort Is Flawed, as Threat Grows"""
+[00:41:17]:,Still reading the document
+[00:41:54]:,"Highlighting "" Airplanes are the most obvious and spectacular targets, but computer networks, telecommunications systems, electrical-power grids and banking systems are also increasingly seen as vulnerable, Just a few days before the Antarctica Airlines bombing"""
+[00:42:11]:,Making connection between this document s and bomb blast group with Note 1
+[00:42:27]:,"Picking a document in title ""April 2011, Investigators Question Passengers On Previous Leg of Antarctica Airlines Flight"""
+[00:43:01]:,Still reading the document
+[00:43:15]:,Making connection between this document to Note 1 group
+[00:43:20]:,User changed the topic: (Looking at documents about bombs) [bottom-up]
+[00:43:21]:,"Picking a document in title ""May 2011, Suspects Apprehended """
+[00:43:28]:,"Searching for ""three people"""
+[00:43:38]:,"Picking a document in title ""April 2011, Court Papers Link Unabomber To Another Blast After Arrest"""
+[00:43:47]:,"""I missed it before but let's read over it"""
+[00:44:14]:,"""It's a seperate bombing event, the guy has been arrested"""
+[00:44:31]:,"Picking a document in title ""April 2011, Bomb Blast Kills Nine"""
+[00:44:58]:,Still reading the document
+[00:45:50]:,"""I don't see any information that lead me find anything aobut it"""
+[00:46:07]:,"Picking a document in title ""May 2011, Bomb Makers Apprehended"""
+[00:46:45]:,"Picking a document in title ""May 2011, Suspicious Turkey Found with Man at Airport"""
+[00:47:23]:,"Writing a new note, Note 4: ""Airport"""
+[00:47:18]:,"""So I haven't been able to find any eminent threats yet, There fit some peaces like how it has been done in the past, I've been noticing a corolation between bombs and airports, they're primary targets"""
+[00:48:05]:,"Picking a document in title ""May 2011, Suspicious Turkey Found with Man at Airport"""
+[00:48:15]:,Making connection between this document and Note 4
+[00:48:17]:,"Picking a document in title ""April 2011, Saudi Group Claims 6 Militants Confessed to US Base Bombing"""
+[00:48:15]:,User changed the topic: (Looking for terrorist activities and bombings) [bottom-up]
+[00:48:44]:,Still reading the document
+[00:49:07]:,Still reading the document
+[00:49:21]:,"Searching for ""militants"""
+[00:49:39]:,"""I don't see anything usfull in it"""
+[00:49:47]:,Looking at prompt note again
+[00:49:50]:,"Searching for ""Terrorist"""
+[00:49:58]:,"Picking a document in title ""December 2009, The Americas Surprise! An IMF Success Story"""
+[00:50:18]:,"""Not helpful"""
+[00:50:37]:,"Picking a document in title ""May 2011, City Threat Level Increased"""
+[00:50:52]:,Looking at old documents
+[00:51:37]:,"Picking a document in title ""May 2011, Overseas Terror Group Threatens Press"""
+[00:52:16]:,"Picking a document in title "" May 2011, threatening emails sent to VastPress Animal Activist Threatens """
+[00:52:50]:,"Searching for ""Brotherhood of Antarctica"""
+[00:53:29]:,"Picking a document in title ""May 2011, Explosions at Smogtown Chemical Plant"""
+[00:53:40]:,"Highlighting ""residents have been observing ``unusual'' activity by people not identified as long time residents"""
+[00:54:01]:,"Picking a document in title ""May 2011, Bomb Makers Apprehended"""
+[00:54:15]:,Making connection between this document and the smogtown one
+[00:55:03]:,"""I'm goning to find anything related to Network of Dread, searched for it earlier"""
+[00:55:37]:,"Searching for ""Bomb"""
+[00:55:34]:,User changed the topic: (Looking for bombings in any area) [bottom-up]
+[00:55:40]:,Looking through titles
+[00:55:57]:,"Picking a document in title ""March 2011, Hollywood Hopefuls Look Hard At Turner's New Line Cinema"""
+[00:56:00]:,"Picking a document in title ""May 2011, Energy-Rich Saudi Arabia Is Running Low on Electricity """
+[00:56:07]:,"Picking a document in title "" April 2011, South Korean Police Siege on University Students Continues"""
+[00:56:11]:,"Picking a document in title ""March 2011, Peter Will Move US Troops In Middle East to Secure Areas"""
+[00:56:28]:,"Picking a document in title ""March 2011, Not All Security Levels Are Created Equal"""
+[00:56:34]:,"""keeping this one """
+[00:56:39]:,"Picking a document in title ""April 2011, Saudi Group Claims 6 Militants Confessed to US Base Bombing"""
+[00:57:16]:,"""Let me read this one again"""
+[00:57:16]:,"Picking a document in title ""March 2011, Not All Security Levels Are Created Equal"""
+[00:58:17]:,"Picking a document in title ""March 2011, Not All Security Levels Are Created Equal"""
+[00:59:01]:,Still reading the document
+[00:59:18]:,"Picking a document in title ""May 2011, DHS Foils Plot"""
+[00:59:50]:,"Picking a document in title ""May 2011, Overseas Terror Group Threatens Press"""
+[01:00:06]:,"Picking a document in title ""May 2011, threatening emails sent to VastPress Animal Activist Threatens Press"""
+[01:00:27]:,"Picking a document in title "" May 2011, Explosions at Smogtown Chemical Plant"""
+[01:00:36]:,"Highlighting ""Vastopolis airport"""
+[01:01:53]:,"Searching for ""May 2011, Suspicious Turkey Found with Man at Airport"""
+[01:02:25]:,"Picking a document in title ""May 2011, US Antiterrorism Effort Is Flawed, as Threat Grows"""
+[01:02:30]:,"Picking a document in title ""March 2011, Not All Security Levels Are Created Equal"""
+[01:03:02]:,"Picking a document in title ""April 2011, Bomb blast kills nine"""
+[01:04:05]:,Still reading the document
+[01:04:27]:,"Picking a document in title ""May 2011, Bomb Makers Apprehended """
+[01:04:35]:,"Searching for ""Smogtown"""
+[01:04:51]:,"Picking a document in title ""May 2011, Explosions at Smogtown Chemical Plant"""
+[01:05:18]:,Going through highlights and old documents
+[01:05:54]:,"Picking a document in title ""May 2011, Overseas Terror Group Threatens Press"""
+[01:06:06]:,"""I'm looking for any kind of corolations"""
+[01:06:37]:,"Picking a document in title ""May 2011, threatening emails sent to VastPress Animal Activist Threatens Press"""
+[01:07:39]:,"""It's radioactive material, Not chemichal"""
+[01:07:59]:,"Searching for ""Bruno Eggleston"""
+[01:08:14]:,"Searching for ""Radioactive"""
+[01:08:32]:,"Searching for ""Washington"""
+[01:09:03]:,"Picking a document in title ""May 2011, Suspects Apprehended Suspects Apprehended"""
+[01:09:58]:,"Picking a document in title ""April 2011, Court Papers Link Unabomber To Another Blast After Arrest"""
+[01:10:08]:,"Picking a document in title ""April 2011, Investigators Question Passengers On Previous Leg of Antarctica Airlines Flight"""
+[01:10:37]:,Still reading the document
+[01:10:58]:,Still reading the document
+[01:11:05]:,"""I still have a missing link"""
+[01:11:31]:,"Picking a document in title ""May 2011, Explosives Traces Are Said To Be Found in Antarctica Airlines """
+[01:12:19]:,Still reading the document
+[01:12:39]:,"Picking a document in title ""May 2011, Alleged Trade Center Bomber Convicted of Plotting Air"""
+[01:13:14]:,"Searching for ""Engstrom"""
+[01:13:22]:,"Picking a document in title ""May 2011, US Antiterrorism Effort Is Flawed, as Threat Grows"""
+[01:13:43]:,"""Let's double check the airplan events"""
+[01:14:01]:,"Picking a document in title "" May 2011, Overseas Terror Group Threatens Press"""
+[01:14:07]:,"Searching for ""May"""
+[01:14:05]:,User changed the topic: (Looking for events on May) [bottom-up]
+[01:14:18]:,"Searching for ""May 2011"""
+[01:14:44]:,"Picking a document in title """""
+[01:15:04]:,Looking through titles
+[01:15:10]:,"Picking a document in title "" May 2011, Kyrgyzstan's Akayev Plans To Continue Westernization"""
+[01:15:21]:,"Picking a document in title "" May 2011, Union Cites Report in Amendment To ValuJet Safety Record Charge"""
+[01:16:15]:,"Picking a document in title ""May 2011, threatening emails sent to VastPress"""
+[01:16:36]:,"Searching for ""Terrorist"""
+[01:16:56]:,"Picking a document in title ""May 2011, US Antiterrorism Effort Is Flawed, as Threat Grows"""
+[01:17:30]:,"Picking a document in title ""May 2011, Alleged Trade Center Bomber Convicted of Plotting Air"""
+[01:17:35]:,"Picking a document in title ""May 2011, DHS Foils Plot"""
+[01:17:42]:,"""Network of Dread uses radio active but these are chemichal, so unrelated"""
+[01:17:54]:,"Picking a document in title ""May 2011, Bomb Makers Apprehended """
+[01:18:14]:,"Picking a document in title ""April 2011, Investigators Question Passengers On Previous Leg of Antarctica Airlines Flight"""
+[01:18:24]:,"Picking a document in title ""May 2011, Suspects Apprehended"""
+[01:19:07]:,"""Doesn't corolate to anything"""
+[01:19:27]:,"Picking a document in title ""May 2011, Suspicious Turkey Found with Man at Airport """
+[01:19:47]:,"Writing a new note, Note 5: ""Network of Dread Located Overseas Emails to VastPress """
+[01:20:30]:,"""The threatening emails aren't specified, however we do know that the former member plot to use bomb"""
+[01:20:58]:,"Adding more text to Note 5: ""Bombs May 2011"""
+[01:22:16]:,"Writing a new note,Note 6: ""Citizens for the Ethical Treatment of Lab MiceMay 2011Connection to Brotherhood of AntarticaThreatening emailsFree mice experiment on humans"""
+[01:24:14]:,"Picking a document in title ""May 2011, Explosives Traces Are Said To Be Found in Antarctica Airlines"""
+[01:24:45]:,Still reading the document
+[01:24:47]:,"Searching for ""Chemical evidence"""
+[01:24:45]:,User changed the topic: (Looking for chemical and biological threats) [bottom-up]
+[01:24:53]:,"Searching for ""Chemical"""
+[01:25:19]:,"Searching for "" May 2011, Explosions at Smogtown Chemical Plant"""
+[01:25:45]:,"Making connection between this document and the ""May 2011, Explosives Traces Are Said To Be Found in Antarctica Airlines"""
+[01:25:38]:,"""Should be bomb makers involved in smogtown and chemical plants?"""
+[01:26:07]:,"""Let's take a look again at Network of Dreads case"""
+[01:26:11]:,"Picking a document in title ""May 2011, DHS Foils Plot"""
+[01:26:21]:,"Searching for ""Eggleston"""
+[01:27:07]:,"Picking a document in title ""May 2011, Overseas Terror Group Threatens Press"""
+[01:27:33]:,"Picking a document in title ""May 2011, threatening emails sent to VastPress"""
+[01:27:38]:,"Searching for ""Citizens for the Ethical Treatment of Lab Mic"""
+[01:28:29]:,"Picking a document in title ""April 2011, Investigators Question Passengers On Previous Leg of Antarctica Airlines"""
+[01:28:39]:,User changed the topic: (Looking for bombings) [bottom-up]
+[01:29:00]:,"Searching for ""Bomb"""
+[01:29:17]:,"Picking a document in title ""April 2011, Saudi Group Claims 6 Militants Confessed to US Base Bombing"""
+[01:29:33]:,"Picking a document in title "" March 2011, Peter Will Move US Troops In Middle East to Secure Areas"""
+[01:29:55]:,"Picking a document in title ""April 2011, Court Papers Link Unabomber To Another Blast After Arrest"""
+[01:30:09]:,"""This is some random on middle of no where bombing"""
+[01:30:16]:,"Picking a document in title "" May 2011, Suspects Apprehended"""
+[01:30:35]:,"Picking a document in title ""May 2011, Suspicious Turkey Found with Man at Airport"""
+[01:30:51]:,"Highlighting ""Vastopolis airport"""
+[01:30:55]:,"""It's a common location for bombings"""
+[01:31:18]:,"Searching for ""Loudermilk"""
+[01:31:37]:,"""It's probably a joke not an actual threat"""
+[01:31:56]:,"Picking a document in title ""May 2011, US Antiterrorism Effort Is Flawed, as Threat Grows"""
+[01:32:06]:,"Picking a document in title "" May 2011, Alleged Trade Center Bomber Convicted of Plotting Air"""

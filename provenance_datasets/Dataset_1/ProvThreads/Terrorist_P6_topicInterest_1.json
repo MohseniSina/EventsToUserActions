@@ -1,0 +1,1535 @@
+[
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "emails", 
+   "located", 
+   "botnet", 
+   "networks", 
+   "encrypted"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 9.189664963089154, 
+  "Time": 197, 
+  "Duration": 303, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "dirty bomb"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 501, 
+  "Duration": 10, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "Network of Dread"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 691, 
+  "Duration": 10, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "Bruno Eggleston"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 1057, 
+  "Duration": 10, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 158", 
+  "tags": [
+   "game", 
+   "ceremonies", 
+   "securities", 
+   "terrorism", 
+   "glenn"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 17.73121332576188, 
+  "Time": 1732, 
+  "Duration": 143, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 158", 
+  "tags": [
+   "Network of Dread"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 1876, 
+  "Duration": 10, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 158", 
+  "tags": [
+   "the Network uses encrypted emails and has a small botnet, making it close to impossible to locate them."
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 2557, 
+  "Duration": 10, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 158", 
+  "tags": [
+   "game", 
+   "ceremonies", 
+   "securities", 
+   "terrorism", 
+   "glenn"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 17.73121332576188, 
+  "Time": 2591, 
+  "Duration": 69, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 158", 
+  "tags": [
+   "game", 
+   "ceremonies", 
+   "securities", 
+   "terrorism", 
+   "glenn"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 17.73121332576188, 
+  "Time": 2667, 
+  "Duration": 134, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 157", 
+  "tags": [
+   "bosnian", 
+   "serb", 
+   "shubert", 
+   "nato", 
+   "serbian"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7.91198182850653, 
+  "Time": 2802, 
+  "Duration": 2255, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 157", 
+  "tags": [
+   "Williemae Poulsen"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 5058, 
+  "Duration": 10, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 157", 
+  "tags": [
+   "Crutchfield Glenn, director general of the International Games Committe"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 5423, 
+  "Duration": 10, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 156", 
+  "tags": [
+   "freight", 
+   "rail", 
+   "railroads", 
+   "union", 
+   "strike"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 5896, 
+  "Duration": 1251, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network of Dread"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 7148, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 52", 
+  "tags": [
+   "apprehending", 
+   "devices", 
+   "men", 
+   "suspect", 
+   "ciminally"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 7199, 
+  "Duration": 567, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Bruno Eggleston"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 7767, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "emails", 
+   "located", 
+   "botnet", 
+   "networks", 
+   "encrypted"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 9.189664963089154, 
+  "Time": 7932, 
+  "Duration": 297, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network of Dread"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 8430, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 8533, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 68", 
+  "tags": [
+   "lloyd", 
+   "equitas", 
+   "insurer", 
+   "names", 
+   "regulators"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 8620, 
+  "Duration": 328, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 68", 
+  "tags": [
+   " Network of Hate"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 8949, 
+  "Duration": 10, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "<span class=\"highlight-pink\">Network</span> of Hate"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 9157, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Hate"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 9281, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "emails", 
+   "located", 
+   "botnet", 
+   "networks", 
+   "encrypted"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 9.189664963089154, 
+  "Time": 9689, 
+  "Duration": 5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 68", 
+  "tags": [
+   "lloyd", 
+   "equitas", 
+   "insurer", 
+   "names", 
+   "regulators"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 9789, 
+  "Duration": 5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 9886, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 94", 
+  "tags": [
+   "fasb", 
+   "pool", 
+   "combination", 
+   "merger", 
+   "accounts"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 11.801817149346961, 
+  "Time": 10012, 
+  "Duration": 1174, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 153", 
+  "tags": [
+   "casino", 
+   "sun", 
+   "taft", 
+   "hayes", 
+   "griffin"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 11187, 
+  "Duration": 1375, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 157", 
+  "tags": [
+   "bosnian", 
+   "serb", 
+   "shubert", 
+   "nato", 
+   "serbian"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7.91198182850653, 
+  "Time": 12645, 
+  "Duration": 198, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Antarctica Airlines"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 12844, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 122", 
+  "tags": [
+   "freeze", 
+   "theory", 
+   "camps", 
+   "tax", 
+   "ahead"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 12955, 
+  "Duration": 1742, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 93", 
+  "tags": [
+   "comedy", 
+   "comedians", 
+   "danae", 
+   "spot", 
+   "politicians"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 14864, 
+  "Duration": 1198, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 93", 
+  "tags": [
+   " PETN, a component of some plastic explosives"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 16063, 
+  "Duration": 10, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 93", 
+  "tags": [
+   "comedy", 
+   "comedians", 
+   "danae", 
+   "spot", 
+   "politicians"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 16771, 
+  "Duration": 17, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "PETN"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 16888, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "plastic explosives"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 17080, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Bosnia"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 18156, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 61", 
+  "tags": [
+   "taiwan", 
+   "china", 
+   "mainland", 
+   "volume", 
+   "falls"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 18246, 
+  "Duration": 1345, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 122", 
+  "tags": [
+   "freeze", 
+   "theory", 
+   "camps", 
+   "tax", 
+   "ahead"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 19955, 
+  "Duration": 24, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "bomb"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 19980, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 75", 
+  "tags": [
+   "deductible", 
+   "accounts", 
+   "medical", 
+   "savings", 
+   "insurer"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 20035, 
+  "Duration": 492, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 137", 
+  "tags": [
+   "characters", 
+   "editor", 
+   "derryberry", 
+   "children", 
+   "virtues"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0378572780617077, 
+  "Time": 20528, 
+  "Duration": 794, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Vastopolis"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 21323, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 154", 
+  "tags": [
+   "abortion", 
+   "democrats", 
+   "women", 
+   "life", 
+   "party"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 8.891538898353208, 
+  "Time": 21702, 
+  "Duration": 178, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 7", 
+  "tags": [
+   "tam", 
+   "noel", 
+   "cafe", 
+   "cybercafe", 
+   "mail"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 23157, 
+  "Duration": 575, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Citizens for the Ethical Treatment of Lab Mice"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 23733, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Brotherhood of Antarctica"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 23859, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Vastopolis"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 24054, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 151", 
+  "tags": [
+   "ferreira", 
+   "dolphins", 
+   "coach", 
+   "shula", 
+   "jona"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 24200, 
+  "Duration": 938, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "bomb"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 25139, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "turkey"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 25645, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Vastopolis"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 26100, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 50", 
+  "tags": [
+   "airport", 
+   "airlines", 
+   "carriers", 
+   "securities", 
+   "minimum"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 26782, 
+  "Duration": 68, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 50", 
+  "tags": [
+   "airport", 
+   "airlines", 
+   "carriers", 
+   "securities", 
+   "minimum"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 26883, 
+  "Duration": 398, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "VastPress"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 27282, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 134", 
+  "tags": [
+   "marks", 
+   "german", 
+   "dax", 
+   "settled", 
+   "bonds"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 27504, 
+  "Duration": 208, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 136", 
+  "tags": [
+   "gunning", 
+   "arthur", 
+   "law", 
+   "hubert", 
+   "abiding"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 27844, 
+  "Duration": 16, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 134", 
+  "tags": [
+   "marks", 
+   "german", 
+   "dax", 
+   "settled", 
+   "bonds"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 27861, 
+  "Duration": 29, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 90", 
+  "tags": [
+   "lloyd", 
+   "berry", 
+   "sue", 
+   "investors", 
+   "settlement"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 28217, 
+  "Duration": 542, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Mice"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 28760, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 29534, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 78", 
+  "tags": [
+   "tractor", 
+   "deere", 
+   "farmers", 
+   "showdowns", 
+   "magnum"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 29670, 
+  "Duration": 492, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 3", 
+  "tags": [
+   "district", 
+   "school", 
+   "suburbia", 
+   "religious", 
+   "handicapped"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 11.200832860117359, 
+  "Time": 34155, 
+  "Duration": 383, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 35", 
+  "tags": [
+   "session", 
+   "stock", 
+   "quarter", 
+   "nasdaq", 
+   "sank"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.025364376301344, 
+  "Time": 34638, 
+  "Duration": 1701, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 31", 
+  "tags": [
+   "ncr", 
+   "terminating", 
+   "postal", 
+   "registered", 
+   "posts"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 8.503501798220707, 
+  "Time": 36340, 
+  "Duration": 461, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 33", 
+  "tags": [
+   "intel", 
+   "microprocessors", 
+   "quarter", 
+   "technology", 
+   "per"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 4.3344690516751845, 
+  "Time": 37437, 
+  "Duration": 456, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "microprocessors"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 37894, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 38713, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 30", 
+  "tags": [
+   "eds", 
+   "debt", 
+   "services", 
+   "computer", 
+   "telecommunications"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 38831, 
+  "Duration": 2413, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 94", 
+  "tags": [
+   "fasb", 
+   "pool", 
+   "combination", 
+   "merger", 
+   "accounts"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 11.801817149346961, 
+  "Time": 41489, 
+  "Duration": 843, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 52", 
+  "tags": [
+   "apprehending", 
+   "devices", 
+   "men", 
+   "suspect", 
+   "ciminally"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 42404, 
+  "Duration": 35, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "emails", 
+   "located", 
+   "botnet", 
+   "networks", 
+   "encrypted"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 9.189664963089154, 
+  "Time": 42541, 
+  "Duration": 5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 52", 
+  "tags": [
+   "apprehending", 
+   "devices", 
+   "men", 
+   "suspect", 
+   "ciminally"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 42600, 
+  "Duration": 41, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 68", 
+  "tags": [
+   "lloyd", 
+   "equitas", 
+   "insurer", 
+   "names", 
+   "regulators"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 42789, 
+  "Duration": 362, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "<span class=\"highlight-pink\">Network</span> of Hate"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 43152, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 43302, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 95", 
+  "tags": [
+   "taiwan", 
+   "plastic", 
+   "formosa", 
+   "sector", 
+   "leeanna"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10.202347151239826, 
+  "Time": 43374, 
+  "Duration": 616, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Hate"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 43991, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 142", 
+  "tags": [
+   "pesos", 
+   "subindex", 
+   "uniwide", 
+   "philippines", 
+   "profit"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 44043, 
+  "Duration": 273, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 85", 
+  "tags": [
+   "pesetas", 
+   "mapfre", 
+   "madrid", 
+   "traders", 
+   "repsol"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 44419, 
+  "Duration": 272, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 7", 
+  "tags": [
+   "tam", 
+   "noel", 
+   "cafe", 
+   "cybercafe", 
+   "mail"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 44692, 
+  "Duration": 286, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 7", 
+  "tags": [
+   "tam", 
+   "noel", 
+   "cafe", 
+   "cybercafe", 
+   "mail"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 44986, 
+  "Duration": 273, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "VastPress"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 45260, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 41", 
+  "tags": [
+   "brokers", 
+   "nasd", 
+   "imposters", 
+   "testing", 
+   "regulators"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 45513, 
+  "Duration": 382, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 147", 
+  "tags": [
+   "atlanta", 
+   "game", 
+   "ioc", 
+   "city", 
+   "hanh"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 45957, 
+  "Duration": 521, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Samuel Stansbury"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 46479, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "missiles"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 46584, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 132", 
+  "tags": [
+   "cents", 
+   "seng", 
+   "hanging", 
+   "subindex", 
+   "chip"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 46651, 
+  "Duration": 436, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 1", 
+  "tags": [
+   "radioactive", 
+   "bomb", 
+   "dhs", 
+   "dirty", 
+   "eggleston"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.735188339958357, 
+  "Time": 47360, 
+  "Duration": 669, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 112", 
+  "tags": [
+   "apprehending", 
+   "suspect", 
+   "revealing", 
+   "raided", 
+   "police"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.2886617452205185, 
+  "Time": 48082, 
+  "Duration": 472, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 2", 
+  "tags": [
+   "nationsbank", 
+   "boatmen", 
+   "combination", 
+   "richard", 
+   "bank"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.113571834185122, 
+  "Time": 48555, 
+  "Duration": 625, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 15", 
+  "tags": [
+   "argentina", 
+   "america", 
+   "dow", 
+   "stock", 
+   "plantation"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 49181, 
+  "Duration": 1271, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Inventories"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 50453, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 111", 
+  "tags": [
+   "chateau", 
+   "roc", 
+   "community", 
+   "merged", 
+   "swap"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 50621, 
+  "Duration": 1093, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "", 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 51715, 
+  "Duration": 10, 
+  "InteractionType": "createNote"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "Network of Dread ~= Vastpress", 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 51717, 
+  "Duration": 10, 
+  "InteractionType": "addNote"
+ }, 
+ {
+  "DocNum": "TerroristActivity 59", 
+  "tags": [
+   "kong", 
+   "hong", 
+   "sanctions", 
+   "china", 
+   "quoted"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 52179, 
+  "Duration": 558, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 34", 
+  "tags": [
+   "guilders", 
+   "unilever", 
+   "nutricia", 
+   "aex", 
+   "royal"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7.561802006435737, 
+  "Time": 52880, 
+  "Duration": 446, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "", 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 53327, 
+  "Duration": 10, 
+  "InteractionType": "createNote"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "Followed: - Network", 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 53357, 
+  "Duration": 10, 
+  "InteractionType": "addNote"
+ }, 
+ {
+  "DocNum": "TerroristActivity 32", 
+  "tags": [
+   "circon", 
+   "surgical", 
+   "takeover", 
+   "retention", 
+   "employee"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0283929585462808, 
+  "Time": 53522, 
+  "Duration": 354, 
+  "InteractionType": "OpenDoc"
+ }
+]

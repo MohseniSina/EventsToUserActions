@@ -1,0 +1,334 @@
+Timestamp,Transcript
+[00:00:15]:,"""I'm going to read the propmt note first"""
+[00:01:02]:,"""Let's start with disease first"""
+[00:01:04]:,"Searching for ""Disease"""
+[00:01:04]:,User changed the topic: (Looking for evidence of disease in different places) [bottom-up]
+[00:01:10]:,"""I din't get anything. so I try Nigeria"""
+[00:01:14]:,"Searching for ""Nigeria"""
+[00:01:18]:,Picking a document from last search
+[00:01:25]:,Picking a document from last search
+[00:01:28]:,Picking a document from last search
+[00:01:41]:,reading the first document
+[00:02:09]:,"""It's a lot of text and I don't know to go with it or not"""
+[00:02:13]:,Picking a document from last search
+[00:02:16]:,Picking a document from last search
+[00:02:19]:,Picking a document from last search
+[00:02:23]:,Picking a document from last search
+[00:02:27]:,Still reading the last document
+[00:02:41]:,"""Kenya is the next country"""
+[00:02:46]:,"Searching for ""Kenya"""
+[00:02:50]:,"Searching for ""Nigeria"""
+[00:02:55]:,"""Dates are proobably good idea"""
+[00:03:08]:,"Searching for ""Kenya"""
+[00:03:20]:,Looking through titles and dates
+[00:03:22]:,Picking a document on Jan 2009 from last search
+[00:03:39]:,"""Maybe this name helps"""
+[00:03:42]:,"Searching for ""Onyango"""
+[00:03:46]:,Picking a document from last search
+[00:04:13]:,Still reading the document
+[00:04:19]:,"""Could be usefull later"""
+[00:04:29]:,"Searching for ""Nigeria"""
+[00:04:37]:,Picking a Oct 2008 document from last search
+[00:04:54]:,"""There are money transactions here what's the link to the disease though"""
+[00:04:37]:,User changed the topic: (Connecting money and disease) [bottom-up]
+[00:05:23]:,Picking a document from last search
+[00:05:35]:,Picking a document from last search
+[00:05:41]:,Picking a document from last search
+[00:05:53]:,Picking a document from last search
+[00:05:55]:,"""all these email are from same person. I see Nigeria. bank"""
+[00:06:44]:,"Searching for ""Disease"""
+[00:07:33]:,User changed the topic: (Looking for Kenya related stories) [bottom-up]
+[00:07:07]:,"""I'm looking through topics t osee if any keywords may catch my eyes"""
+[00:07:27]:,Reading the prompt again
+[00:07:33]:,"Searching for ""Kenya"""
+[00:07:43]:,Picking a document from last search
+[00:08:17]:,Picking a document from last search
+[00:08:20]:,"""I've seen this name before. could be related to the disease"""
+[00:08:36]:,"Searching for ""Otieno"""
+[00:08:39]:,Picking a document from last search
+[00:09:04]:,"Searching for ""Hospital"""
+[00:09:27]:,Still reading the document
+[00:09:30]:,"""Not very helpfull"""
+[00:09:44]:,Making connection between two documents
+[00:10:07]:,Still reading the linked documents
+[00:10:22]:,Reaing prompt again
+[00:10:41]:,User changed the topic: (Looking for events in Syria) [bottom-up]
+[00:10:41]:,"Searching for ""Syria"""
+[00:10:57]:,Picking a document about textbooks from last search
+[00:11:14]:,Picking a document from last search
+[00:11:37]:,Making connection between two textbook documents
+[00:11:55]:,Making connection between two Nigeria documents
+[00:12:29]:,Picking a document from last search
+[00:12:41]:,Picking a document from last search
+[00:12:56]:,Picking a document from last search
+[00:12:56]:,"""It's some thing between Syria and Turkey"""
+[00:13:09]:,Picking a document
+[00:13:16]:,User changed the topic: (Looking for events in Moscow)[bottom-up]
+[00:13:16]:,"Searching for ""Moscow"""
+[00:13:27]:,Picking a document from last search
+[00:13:37]:,"""Dombrovski seems a problem"""
+[00:13:39]:,Picking a document from last search
+[00:14:32]:,"""It looks like a threat"""
+[00:14:35]:,Picking a document from last search
+[00:15:04]:,"Searching for ""jewels"""
+[00:15:11]:,Picking a document from last search
+[00:15:23]:,"""It says somebody kidnaped"""
+[00:15:39]:,Picking a document from Moscow
+[00:16:43]:,"Searching for ""Dombrovski"""
+[00:16:43]:,User changed the topic: (Who is Dombrovski) [bottom-up]
+[00:17:12]:,"""Public health minestry maybe related to diseases"""
+[00:17:21]:,Picking a document from last search
+[00:17:27]:,"""Oh. here Dombrovski gets sick and it's on Feb 2009 which is familiy reunion kind of plan"""
+[00:18:36]:,Making connection between two documents about Dr. George and Dombrovski
+[00:18:44]:,Picking a document from last search
+[00:18:59]:,"Writing a new note about Dr .George being sick: ""Dr. George sick in Feb 2009 from Nigeria"""
+[00:19:38]:,Reading the prompt note again
+[00:19:51]:,"""They meet in Dubai which Saudi Arabia is here"""
+[00:20:09]:,Looking through topic from last search and reading the dates
+[00:20:21]:,"""Dombrovski has another connection somewhere. Yemen?"""
+[00:20:31]:,Picking a document from last search
+[00:21:04]:,"Searching for ""Yemen"""
+[00:21:16]:,Picking a document from last search
+[00:21:34]:,"""I see Minsky here"""
+[00:21:32]:,Picking a document from last search
+[00:21:42]:,Picking a document from last search
+[00:21:49]:,Picking a document from last search
+[00:22:00]:,Picking a document
+[00:22:05]:,"""Giunter guy looks like to be another name. might be related. they also mentioned Nicolaoi. but that could be the same person"""
+[00:22:20]:,"Searching for ""Nicolai"""
+[00:22:20]:,User changed the topic: (Looking for Nicolai and Dombrovski roll in spreading the disease) [bottom-up]
+[00:22:32]:,Picking a document from last search
+[00:22:40]:,Still reading the document
+[00:22:54]:,Picking a document from last search
+[00:23:27]:,Picking a document from last search
+[00:23:42]:,"Adding text to the note: ""Nicolai Kuyakim arms dealer. Saleh Ahmed"""
+[00:24:10]:,"""I want to search his last name """
+[00:24:12]:,"Searching for ""Kuryaki"""
+[00:24:18]:,"Searching for ""Nicolai"""
+[00:24:42]:,Picking a document from last search
+[00:25:00]:,Still reading the document
+[00:25:17]:,Picking a document from last search
+[00:25:27]:,"""All I have so far is someone is sick. so. it may lead into disease. There are many arms dealing"""
+[00:26:21]:,Picking a document from Nigeria search
+[00:26:29]:,Picking a document from Nigeria search
+[00:26:46]:,Still reading the document
+[00:26:55]:,Still reading the document
+[00:27:02]:,Picking a document from Nigeria search
+[00:27:32]:,"""This list suppose to be arms"""
+[00:27:56]:,Picking a document from Nigeria search
+[00:28:19]:,Still reading the document
+[00:28:25]:,Picking a document from Nigeria search
+[00:28:54]:,Picking a document from Nigeria search
+[00:30:01]:,Reviewing old documents
+[00:30:02]:,"""The startes from Dr. George. he got the disease in Feb 2009. He sells arms to Russia in Feb 2008. Maybe he is not Russian?"""
+[00:30:26]:,User changed the topic: (Looking into 2009 documents) [bottom-up]
+[00:30:26]:,Picking a document from Nicolai search
+[00:30:39]:,"""No this one seems to happen too early"""
+[00:30:41]:,Picking a document from Nigeria search
+[00:30:49]:,"""Dec 2008 would be the first place to look"""
+[00:30:58]:,Picking a document from Oct 2008
+[00:31:10]:,Picking a document from Nigeria search
+[00:31:20]:,Looking through titles for early 2009
+[00:31:34]:,Picking a document from 2009
+[00:31:37]:,Picking a document from 2009
+[00:31:40]:,Picking a document from 2009
+[00:31:43]:,Picking a document from 2009
+[00:31:58]:,"Searching for ""Ahmed"""
+[00:31:58]:,User changed the topic: (Searching for gun dealers and disease) [bottom-up]
+[00:32:02]:,Picking a document from last search
+[00:32:03]:,"""That ties to Dombrovski"""
+[00:32:10]:,"Adding to the note: ""Saleh Ahmed gun dealer disease?. Mikhail Dombrovski"""
+[00:32:25]:,Still reading the document
+[00:32:34]:,"""Looks like Dombrovske deals with Saleh Ahmed. he also die for a disease"""
+[00:32:56]:,Picking a document from last search
+[00:32:56]:,"""I want to look into all Ahmed artiles. he is a gun dealer"""
+[00:33:31]:,"""Guns exports to neighbour countries of Saudi Arabia"""
+[00:33:50]:,Still reading the document
+[00:34:12]:,"Adding to the note: ""Saleh Ahmed gun dealer disease? send guns to Saudi Arabia. """
+[00:34:21]:,Picking a document from 2009
+[00:34:35]:,Picking a document from 2009
+[00:34:44]:,Picking a document from Nigeria topic
+[00:35:02]:,Looking through titles
+[00:35:07]:,Picking a document from Nigeria topic
+[00:35:33]:,"""Dombrovski and Dr. George"""
+[00:35:07]:,User changed the topic: (Looking for arm shipments and dealers in different places) [bottom-up]
+[00:35:41]:,Picking a document from Nigeria group
+[00:36:24]:,Picking a document from Nigeria group
+[00:36:38]:,"""I already read these"""
+[00:37:06]:,"""It say's Nigeria buys arms from Dombrovski"""
+[00:37:31]:,Picking a document from Nigeria
+[00:37:41]:,"Searching for ""Kenya"""
+[00:37:44]:,Picking a document from last search
+[00:38:06]:,Picking a document from last search
+[00:38:23]:,Picking a document from last search
+[00:39:06]:,Still reading the document
+[00:39:26]:,Still reading the document
+[00:39:36]:,Picking a document from last search
+[00:39:39]:,Picking a document from last search
+[00:39:46]:,"""I can't figure out."""
+[00:39:48]:,Picking a document from last search
+[00:40:17]:,"""Huh. weapon shipments from Ukerein. it might be good"""
+[00:40:46]:,Picking a document from last search
+[00:41:11]:,Picking a document from last search
+[00:41:31]:,Picking a document
+[00:41:47]:,Picking a document from last search
+[00:42:20]:,"""Kenya is middle man curretly according to this"""
+[00:43:05]:,"Adding more to the note: ""Kenya middleman. Nigeria-Ukrain-Kenya"""
+[00:43:12]:,User changed the topic: (Professors role in Syria-Turkey) [bottom-up]
+[00:43:12]:,"Searching for ""Professor"""
+[00:43:16]:,Picking a document from last search
+[00:43:36]:,"""It's from Syria to Turkey"""
+[00:43:43]:,Picking a document from last search
+[00:43:39]:,"""Professor is from Moscow"""
+[00:43:54]:,Picking a document from last search
+[00:43:59]:,"""If we assume the professor is Dombrovski"""
+[00:44:09]:,Picking a document from last search
+[00:44:13]:,"""Although Turkey is not in the list"""
+[00:44:45]:,"""Ahmed was from Yemen?"""
+[00:45:19]:,Picking a document about Dr. George
+[00:45:44]:,Picking a document about Nigeria
+[00:45:59]:,Looking through titles and dates
+[00:46:18]:,"""I'm organizing them based on time"""
+[00:46:48]:,Picking a document from last search
+[00:47:08]:,Picking a document
+[00:47:25]:,"""Some thing is plannig in Dubai with Nicolai"""
+[00:47:36]:,Picking a document
+[00:47:42]:,"Adding more to the note: ""Nicolai. Nigeria-Russia-Ukrain-Kenya"""
+[00:48:13]:,Looking through titles
+[00:48:26]:,"Searching for ""Lebonan"""
+[00:48:26]:,User changed the topic: (Arms dealings in other countries) [bottom-up]
+[00:48:34]:,Picking a document from last search
+[00:48:49]:,Still reading the document
+[00:48:52]:,"""Not much to say about"""
+[00:49:02]:,"Searching for ""Pakistan"""
+[00:49:17]:,Picking a document from last search
+[00:49:20]:,Picking a document from last search
+[00:49:26]:,Picking a document from last search
+[00:49:42]:,Picking a document from last search
+[00:49:48]:,Picking a document from last search
+[00:49:50]:,"""Trying to found major information about the Pakistan"""
+[00:49:59]:,Still reading the document
+[00:50:07]:,Picking a document from last search
+[00:50:21]:,Still reading the document
+[00:50:32]:,Picking a document from last search
+[00:50:46]:,Picking a document from last search
+[00:51:05]:,Looking through titles
+[00:51:24]:,Picking a document from last search
+[00:51:30]:,"""Yeah. Dubai April 18th. Pakistan is involved in Dubai's arms dealing"""
+[00:51:45]:,Making connection between two documents
+[00:51:53]:,"Adding some note about it: ""Dubai-Pakistan"""
+[00:52:00]:,Picking a document from last search
+[00:53:07]:,"Searching for ""Kiev"""
+[00:53:16]:,"""Oh. It's in the Ukrein"""
+[00:53:57]:,Picking a document from last search
+[00:54:18]:,Looking through titles
+[00:54:27]:,Picking a document from last search
+[00:54:43]:,Picking a document from last search
+[00:56:31]:,Picking a related document
+[00:56:48]:,Still reading the document
+[00:56:53]:,Picking a document
+[00:57:16]:,"Adding to the note: ""Kenya middleman otieno and owiti sick? died in May 2009"""
+[00:56:53]:,User changed the topic: (Looking for people who died) [bottom-up]
+[00:57:34]:,Reveiwing the prompt note again
+[00:58:40]:,"Searching for ""Kuryakin"""
+[00:58:42]:,Picking a document from last search
+[00:59:05]:,"Searching for ""Khemkhaengar"""
+[00:59:10]:,Picking a document from last search
+[00:59:35]:,"Searching for ""Nicolai"""
+[01:00:15]:,"Adding more to the note: ""Nicolai meets Otieno and Owiti in Dubai"""
+[01:00:28]:,Picking a document from last search
+[01:00:36]:,"Searching for ""Nahid"""
+[01:00:43]:,Picking a document from last search
+[01:00:51]:,"""Nicolai is in Dubai. they get sick probably there. that's 2009 and they died in 2009. So they may have gotten it in Dubai. """
+[01:02:02]:,"Adding more to the note: ""Nicolai arms dealer for Dombrovski """
+[01:02:55]:,"Searching for ""Tanya"""
+[01:03:29]:,Picking a document from last search
+[01:04:16]:,Still reading the document
+[01:04:51]:,"Adding more to the note: ""Tanya sent to Kenya (Otieno and Owiti)"""
+[01:05:08]:,Picking a document from last search
+[01:05:50]:,"Adding more to the note: ""Ukraine uses Tanya send to Kenya"""
+[01:06:21]:,Reviewing the prompt note
+[01:07:11]:,"Searching for ""Igor"""
+[01:07:24]:,Picking a document from last search
+[01:07:17]:,"""Why is Igor killed?"""
+[01:07:25]:,Picking a document from last search
+[01:07:34]:,Looking through titles
+[01:07:36]:,Picking a document
+[01:07:52]:,"Searching for ""Pakistan"""
+[01:08:03]:,Picking a document from last search
+[01:08:06]:,Picking a document from last search
+[01:08:32]:,Picking a document from last search
+[01:08:40]:,"""This one is 2009"""
+[01:08:52]:,Looking through titles
+[01:09:04]:,Picking a document from Jan 2009
+[01:09:26]:,"""Nothing else could match 2009"""
+[01:09:32]:,Picking a document
+[01:10:04]:,Picking a document
+[01:10:46]:,"Searching for ""Venezuela"""
+[01:10:46]:,User changed the topic: (Looking at document about money laundry) [bottom-up]
+[01:10:54]:,Picking a document from last search
+[01:11:03]:,"""They're looking for VW parts"""
+[01:11:17]:,"""Maybe car parts equal weapons"""
+[01:11:26]:,Picking a document from last search
+[01:11:37]:,Picking a document
+[01:11:47]:,Picking a document
+[01:11:56]:,Picking a document
+[01:12:08]:,Picking a document
+[01:12:24]:,"Searching for ""Arab sail"""
+[01:12:32]:,"Searching for ""Sail"""
+[01:12:41]:,Looking through titles
+[01:12:56]:,"Adding more to the note: ""Jhon"""
+[01:13:03]:,Picking a document
+[01:13:10]:,Picking a document
+[01:13:14]:,Picking a document
+[01:13:17]:,Picking a document
+[01:13:22]:,Picking a document
+[01:13:40]:,"Adding more to the note: ""Jhon meets Jtomski in Dubai"""
+[01:14:23]:,"""I'm Looking for some documents close to April 2009"""
+[01:14:21]:,Picking a document
+[01:14:28]:,Picking a document
+[01:14:47]:,"Adding more to the note: ""Jhon (VWhombre) meets Jtomski in UAE on April 22nd"""
+[01:15:13]:,Picking a document from last search
+[01:15:25]:,"Searching for ""Minsky"""
+[01:15:25]:,User changed the topic: (Minsky and Russia's role in armed dealings) [bottom-up]
+[01:15:38]:,Picking a document from last search
+[01:16:05]:,Picking a document
+[01:16:10]:,Picking a document
+[01:16:43]:,Still reading the document
+[01:16:58]:,"Adding more to the note: ""Khouri and Kasem [Gaza] - Russia"""
+[01:18:01]:,Picking a document
+[01:18:07]:,Looking through titles
+[01:18:14]:,Picking a document
+[01:18:35]:,Still reading the document
+[01:18:39]:,Picking a document
+[01:19:02]:,Picking a document and comparing with the last one
+[01:19:43]:,Picking a document
+[01:19:55]:,"""Venezuela 2008"""
+[01:19:55]:,User changed the topic: (Searching VW Parts and Venezuela) [bottom-up]
+[01:20:07]:,Picking a document
+[01:20:48]:,Still reading the document
+[01:20:56]:,Picking a document
+[01:21:30]:,Picking a document
+[01:21:51]:,"Searching for ""Venezuela"""
+[01:22:02]:,"Searching for ""Columbia"""
+[01:22:08]:,Picking a document from last search
+[01:22:54]:,"Searching for ""Velezuela"""
+[01:23:20]:,"Adding more to the note: ""Medellin Colombia sells someone in Venezuela"""
+[01:24:29]:,Picking a document
+[01:24:32]:,Picking a document
+[01:24:35]:,Picking a document
+[01:24:51]:,"Picking a document with title ""Nov 2008 jtomski meeting jhon vwparts4salecheep"""
+[01:25:23]:,"Picking a document in title ""Dec 2008 savvytraveladvice JT in United Arab Emerites"""
+[01:25:28]:,"Picking a document in title ""Feb 2009 Email Dombrovski to George sickness April 15 meeting"""
+[01:25:51]:,"Picking a document in title ""Oct 2008 Message board vwhombre volkswagon parts """
+[01:26:19]:,Picking a document about VW parts
+[01:26:25]:,Picking a document about VW parts
+[01:27:00]:,"Adding some notes: ""Jhon (VWhombre) from Venezuela meets DSombrovski in UAE on April 22nd"""
+[01:27:10]:,Picking a document about JT in United Arab Emerites
+[01:27:19]:,"Searching for ""Tomski"""
+[01:27:35]:,Picking a document about Dombrovski to George
+[01:27:43]:,Picking a document about an Email boyo23826@hotmail.com to Joetomsk@au.ru
+[01:27:52]:,Picking a document about an Email DR. GEORGE NGOKI to DOMBROVKSKI Bank information
+[01:28:02]:,Reveiws the notes
+[01:28:42]:,Picking a document about an Email boyo23826@hotmail.com to Joetomsk@au.ru
+[01:29:05]:,Reviews the notes

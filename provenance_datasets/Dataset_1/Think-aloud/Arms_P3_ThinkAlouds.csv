@@ -1,0 +1,288 @@
+Timestamp,Transcript
+[00:01:07]:,[Reading the prompt note]
+[00:01:42]:,[Still reading the prompt]
+[00:02:06]:,"""Are these all from 2009?"""
+[00:02:19]:,"[Searching for ""2009""]"
+[00:02:19]:,User changed the topic: looking for events in 2009) (type 1)[bottom-up]
+[00:02:31]:,[Picking a new document from the last search results]
+[00:02:58]:,"""It's from Jan 2009 and they are talking about text books"""
+[00:03:36]:,[Still reading the document]
+[00:03:59]:,"""This sounds kind of scetchy cause it definatley doesn't sound like they are talking about books and there are name here"""
+[00:04:12]:,"[Searching for ""Baltasar""]"
+[00:04:12]:,User changed the topic: looking for people and event about text books) (type 2) [top-down]
+[00:04:19]:,[Picking a new document from the last search results]
+[00:05:11]:,"""I don't think it's about textbook"""
+[00:05:17]:,"Writing a note about textbooks. ""Baltasar is a suspicious textbook sales man"""
+[00:05:44]:,[Making connection between the textbook document and the new note]
+[00:06:09]:,"""So what ever happend in 2009 got started in 2008"""
+[00:06:23]:,"""Let's search for the second name in that doument"""
+[00:07:04]:,"[Searching for ""textbooks""]"
+[00:07:13]:,[Picking a new document from the last search results]
+[00:07:40]:,[Making connection between new document and old textbook documents and note]
+[00:07:54]:,"[Searching for ""Professor""]"
+[00:08:00]:,[Picking a document from the last search results]
+[00:08:30]:,"Writing a note about Professor. ""Professor is in charge of the operation of getting textbooks"""
+[00:08:47]:,[Making connection between the document and new note]
+[00:09:09]:,[Moving document near note]
+[00:09:21]:,"""I'm trying to figure out what the professor is doing here. He only came up in three of the articles. I want to see what other searches help me to find him"""
+[00:09:34]:,[Looking through topics]
+[00:10:05]:,"""I think I need to look back and find articles in year 2009"""
+[00:10:15]:,User changed the topic: Going back to events in 2009 and Saleh Ahmed) (type 3)[bottom-up]
+[00:10:15]:,[Picking a document in 2009]
+[00:10:52]:,"[Searching for ""Saleh Ahmed""]"
+[00:11:06]:,[Picking a document from the last search results]
+[00:11:29]:,[Still reading the document]
+[00:12:14]:,[Still reading the document]
+[00:12:35]:,"Writing a new note about gun dealers: ""Saleh Ahmed-> gun dealer..maybe the professor? Textbooks could be code for guns"""
+[00:12:36]:,"""I'm making a new note because this guy says he is an arms dealer. Maybe the textbooks are guns?"""
+[00:13:26]:,[Making connection between the document and the new note]
+[00:13:39]:,"[Highlighting ""Saleh Ahmed""]"
+[00:13:45]:,"[Highlighting ""Saleh Ahmed""]"
+[00:13:56]:,[Highlighting an entire paragraph about Saleh Ahmed]
+[00:14:29]:,"[Highlighting ""Mohamed Mohamed""]"
+[00:14:59]:,[Reading another document about Saleh Ahmed]
+[00:16:12]:,[Making connection last document and last note]
+[00:16:21]:,"[Searching for ""Mohamed""]"
+[00:16:28]:,[Moving documents close to the notes]
+[00:16:53]:,[Looking through titles]
+[00:16:55]:,[Picking a document from top corner]
+[00:16:55]:,User changed the topic: (A document with Interesting title) (type 3)[bottom-up]
+[00:17:22]:,"""I chose this one because the title say I hope we could do the business shortly. I picked it randomly"""
+[00:17:34]:,"Searching for ""Arkadi Borodinski"""
+[00:17:36]:,Picking a document from last search
+[00:18:11]:,"Searching for ""Boonmee Khemkhaeng"""
+[00:18:16]:,Picking a document from last search
+[00:18:38]:,User changed the topic: (What's going on in Dubai) (type 1) [bottom-up]
+[00:18:38]:,"Searching for ""Dubai"""
+[00:18:43]:,Picking a document from last search
+[00:18:52]:,"""I found some names here then I search for them. Now I see they are going to meet in Dubai. they schedualing an exhibition in Dubai. I'm searching Dubai"""
+[00:20:13]:,Still reading the document
+[00:20:38]:,Still reading the document
+[00:20:42]:,"Searching for ""Paris"""
+[00:21:04]:,"Searching for ""Nigeria"""
+[00:21:04]:,User changed the topic: (What happened in Nigeria) (type 1)[top-down]
+[00:21:10]:,Picking a document from last search
+[00:21:34]:,Still reading the document
+[00:21:57]:,"""I found a new arm dealer named Minsky"""
+[00:22:07]:,Still reading the document
+[00:22:18]:,"Searching for ""Minsky"""
+[00:22:18]:,User changed the topic: (Who is Minsky) (type 2) [top-down]
+[00:22:25]:,Picking a document from last search
+[00:22:50]:,Still reading the document
+[00:22:54]:,Picking a document from last search
+[00:23:15]:,Still reading the document
+[00:23:19]:,Highlighting a sentence
+[00:24:12]:,"Adding some more notes: ""Minsky's connected to gun deals along with other business adventures that included different countries"""
+[00:24:08]:,"""They are talking about Minskey's getting cought in hotel and getting killed at his cell but he had documents in several languages"""
+[00:25:15]:,Making connection between the last document and the note
+[00:25:31]:,Making connection between a document and the last note
+[00:25:28]:,Moving documents close to the note
+[00:25:59]:,"""I didn't see anything about hte disease yet"""
+[00:26:13]:,Picking a document from top left
+[00:26:23]:,"Searching for ""January 2009"""
+[00:26:23]:,User changed the topic: (What happened in early 2009) (type 1)[bottom-up]
+[00:26:26]:,Picking a document from last search
+[00:26:31]:,Picking a document from last search
+[00:26:45]:,Picking a document from last search
+[00:27:10]:,Still reading the document
+[00:27:34]:,"Searching for ""18 April 2009"""
+[00:28:14]:,"""I was looking at Jan 2009 then I see somebody from Pakistan has a flight to Dubai in Aprl and I know I saw this date somewhere else"""
+[00:28:43]:,Continues reading the document
+[00:29:12]:,Still reading the document
+[00:29:35]:,Still reading the document
+[00:29:47]:,Still reading the document
+[00:30:07]:,Looking through topics
+[00:30:20]:,Picking a document from top left
+[00:31:12]:,"Searching for ""Kasem"""
+[00:31:12]:,"User changed the topic: (Who is Kasem, what is his business) (type 2) [bottom-up]"
+[00:31:18]:,Picking a document from last search
+[00:31:21]:,Picking a document from last search
+[00:31:49]:,Picking a document from last search
+[00:32:04]:,Picking a document from last search
+[00:32:12]:,"""I'm seeing if any time after Feb 2009 there's any mention of disease. because I still have not found anything"""
+[00:32:30]:,Picking a document from last search
+[00:33:01]:,Still reading the document
+[00:33:22]:,Still reading the document
+[00:33:42]:,Still reading the document
+[00:34:16]:,Still reading the document
+[00:34:20]:,"""So it seems Kasem is planning on a arms deal that supposed to happen in Dubai on the 17th"""
+[00:34:35]:,Looking at the old documents
+[00:35:45]:,Picking a document from middle top
+[00:35:58]:,Picking a document from last search
+[00:36:16]:,"Searching for ""Dubai"""
+[00:36:34]:,Picking a document from last search
+[00:36:41]:,Picking a document from last search
+[00:36:51]:,"Picking a document from last search and ""Kasem"""
+[00:37:07]:,Picking a document from last search
+[00:37:14]:,Picking a document from last search
+[00:37:40]:,Looking at the old documents
+[00:37:59]:,Picking a document from last search
+[00:38:17]:,"Searching for ""Dubai"""
+[00:38:27]:,Looking at old documents
+[00:38:37]:,Picking a document from last search
+[00:39:05]:,Picking a document from last search
+[00:39:19]:,"Writing some notes: ""Russians communicating with Kasem and Khouri about meeting for a gun drop off"""
+[00:39:43]:,Making connection between document and the note
+[00:39:55]:,Making connection between document and the note
+[00:40:02]:,Making connection between document and the note
+[00:40:08]:,Making connection between document and the note
+[00:40:17]:,Moving documents to the other side
+[00:41:09]:,Moving more documents to the right screen
+[00:41:48]:,"Searching for ""disease"""
+[00:42:01]:,"Searching for ""Nigeria"""
+[00:41:48]:,User changed the topic: (Looking at how and where disease got started) (type 2) [bottom-up]
+[00:42:16]:,"""I think I figured out the weapon stuff with the russian and those other guys. So now I'm going to how the disease got spread. because I don't see anything about it yet"""
+[00:42:50]:,Still reading the document
+[00:43:37]:,Still reading the document
+[00:43:58]:,Still reading the document
+[00:44:11]:,Opening a document from last search
+[00:44:22]:,Still reading the document
+[00:45:00]:,Still reading the document
+[00:45:13]:,Switching to the second document
+[00:46:02]:,Picking a document from last search
+[00:46:46]:,Still reading the document
+[00:47:11]:,"Searching for ""Funsho Kapolalum"""
+[00:47:19]:,"Searching for ""Kapolalum"""
+[00:47:28]:,"""I'm looking at these emails and the first two are signed by a person with this name who was mentioned in the phone call too"""
+[00:47:43]:,"Searching for ""George"""
+[00:47:48]:,"""Also this Dr. George. So I guess what ever they are talking about has to be guns"""
+[00:48:05]:,Making connection between two documents
+[00:48:10]:,Making connection between two documents
+[00:48:17]:,Moving articles to the second screen
+[00:48:29]:,Making connection between two documents and move to the other screen
+[00:48:38]:,Picking a document from last search
+[00:48:54]:,Making connection between two documents
+[00:49:03]:,Picking a document from last search and move to the other screen
+[00:49:30]:,Still reading the document
+[00:49:38]:,"Searching for ""Sickness"""
+[00:49:38]:,User changed the topic: (Looking for Sickness evidences) (type 3)[bottom-up]
+[00:49:49]:,"Searching for ""Health issues"""
+[00:49:54]:,"Searching for ""Health"""
+[00:50:01]:,Picking a document from last search
+[00:50:43]:,"""I found something that mentions health issues"""
+[00:50:53]:,"Searching for ""Miikhail"""
+[00:51:02]:,Picking a document from last search
+[00:51:21]:,Still reading the document
+[00:51:59]:,Opening a document from lower center
+[00:52:01]:,"Searching for ""May 2009"""
+[00:52:10]:,Picking a document from last search
+[00:52:14]:,Picking a document from last search
+[00:52:39]:,"""So one of the people that were messing with the guns got infected"""
+[00:53:19]:,User changed the topic: (Looking at the events on March) (type 2) [bottom-up]
+[00:53:19]:,"Searching for ""March"""
+[00:53:34]:,Picking a document from last search
+[00:53:54]:,Picking a document from last search
+[00:54:15]:,Picking a document from last search
+[00:54:25]:,"""I'm searhing for March because it's after Feb. """
+[00:54:45]:,Picking a document from last search
+[00:54:53]:,"Searching for ""Ransom"""
+[00:55:39]:,Still reading the document
+[00:55:47]:,Picking a document from last search
+[00:56:06]:,"Searching for ""MV Tanya"""
+[00:56:25]:,Picking a document from last search
+[00:56:30]:,Still reading the document
+[00:56:32]:,Picking a document from last search
+[00:57:16]:,Looking thorugh titiles
+[00:57:28]:,Picking a document from lower center
+[00:57:35]:,Picking a document from lower center
+[00:57:46]:,Picking a document from lower center
+[00:58:04]:,"Searching for ""John"""
+[00:58:04]:,"User changed the topic: (Who is Jhon, who is tomsky) (type 3) [bottom-up]"
+[00:58:10]:,Picking a document from last search
+[00:58:14]:,Picking a document from last search
+[00:58:23]:,Picking a document from last search
+[00:58:32]:,Picking a document from last search
+[00:58:42]:,"""I realized that I didn't look at these two tabs that have 2009 informatioon from Jan and Feb. and they are just corespondence between John and Tomsky. So I'm looking up their names"""
+[00:59:31]:,"Searching for ""Jtomsky"""
+[00:59:40]:,Picking a document from last search
+[00:59:54]:,"""It seems they are dealing car parts"""
+[01:00:20]:,Looking through topics
+[01:00:41]:,Picking a document from lower center
+[01:01:10]:,Still reading the document
+[01:01:15]:,Picking a document
+[01:01:38]:,Looking through titles
+[01:01:56]:,"""I'm trying tto figure out the disease part cause I haven't seen anything yet. All I see is some Saleh Ahmed guy and there is another person Dr. George was sick and some body was saying him I know you're sick but hopefully that doesn't bother our buissness plans. but I haven't see anything about the disease. Now I guess it could have come from peope how have been dealing the guns. Like with out knowing."""
+[01:01:15]:,User changed the topic: (Looking for relations between peoples and the sickness) (type 1)[bottom-up]
+[01:03:00]:,"""They all met in Dubai and they didn't know there one person sick. and when they got back so maybe that's how it got spread to all the countries"""
+[01:03:39]:,"""Let me see If can find anything"""
+[01:03:48]:,Looking throguh topics and picking a document from top
+[01:04:28]:,Still reading the document
+[01:05:33]:,Picking a document from upper center
+[01:05:41]:,Looking thrrough topics
+[01:06:02]:,Picking a document
+[01:06:13]:,Picking a document
+[01:06:43]:,Picking a document
+[01:07:05]:,"Searching for ""2009"""
+[01:07:17]:,Picking a document in 2009
+[01:07:40]:,Picking a document in 2009
+[01:07:55]:,Picking a document in 2009
+[01:08:13]:,"Searching for ""Rana"""
+[01:08:34]:,"""Two guys were arrested during the gun deal but it sounds they needed suvier medical care"""
+[01:08:46]:,Picking a document from last search
+[01:09:01]:,Still reading the document
+[01:09:47]:,Still reading the document
+[01:10:06]:,Still reading the document
+[01:10:15]:,"Searching for ""Kashfi"""
+[01:10:21]:,Picking a document from last search
+[01:10:31]:,"Searching for ""2009"""
+[01:10:38]:,Looking through titles
+[01:11:16]:,"Searching for ""Tanya"""
+[01:11:16]:,User changed the topic: (Looking for Tanya) (type 2) [bottom-up]
+[01:11:20]:,Picking a document from last search
+[01:11:23]:,Picking a document from last search
+[01:11:26]:,Picking a document from last search
+[01:12:08]:,"""I'm trying to see if this Tanya person has any thing significant. It's also related to Russians"""
+[01:12:36]:,Looking throguh titles
+[01:13:07]:,"Searching for ""December"""
+[01:13:07]:,User changed the topic: (Looking for events in late 2009) (type 3) [bottom-up]
+[01:13:17]:,Picking a document from last search
+[01:13:22]:,Picking a document from last search
+[01:14:03]:,Picking a document from last search
+[01:14:06]:,Picking a document from last search
+[01:14:09]:,Picking a document from last search
+[01:14:27]:,Picking a document from last search
+[01:14:32]:,Picking a document from last search
+[01:14:50]:,Picking a document from last search
+[01:15:04]:,"""I was trying see a later month in the year 2009 so I searched December. but these are about farming equipment but It doesn't.. oh they're talking about guns again. the same as auto parts"""
+[01:15:51]:,"""Let's put all gus stuff over here"""
+[01:16:22]:,Making connection between two documents
+[01:16:22]:,"""I made this link because they said they have meeting in Dubai"""
+[01:17:10]:,"Picking a document from ""December"" search"
+[01:17:19]:,Picking a document from last search
+[01:17:42]:,Picking a document from last search
+[01:17:53]:,Picking a document from last search
+[01:18:01]:,Picking a document from last search
+[01:18:42]:,"Searching for ""Cargo ship"""
+[01:18:52]:,"Searching for ""Ship"""
+[01:18:42]:,User changed the topic: (Looking for relation between ships and the source of the disease) (type 1) [bottom-up]
+[01:19:03]:,Picking a document from last search
+[01:19:24]:,Picking a document from last search
+[01:19:43]:,"""Maybe it's like since everything is getting shiped the disease could have picked up along the way from someone on the boats"""
+[01:19:59]:,Picking a document from last search
+[01:20:08]:,"""cause they were pirots that stole some girl who had jewellery that was taken by one of the Ukreinians and then sold to someother guy. One of the Ukreinians who had them before the other guy was also messed around the gun stuff so maybe some pirot gave them the disease"""
+[01:20:52]:,Picking a document from last search
+[01:21:07]:,Picking a document from last search
+[01:21:14]:,"""Oh Tanya is the name of the ship"""
+[01:21:35]:,Picking a document from last search
+[01:22:26]:,Picking a document
+[01:22:51]:,Picking a document
+[01:23:32]:,Picking a document
+[01:23:51]:,"Searching for ""Barcelona"""
+[01:23:51]:,User changed the topic: (Looking for guns) (type 2)[bottom-up]
+[01:23:53]:,Picking a document from last search
+[01:23:56]:,Picking a document from last search
+[01:24:09]:,"""Ok. car parts are definately guns.They're having a conversation about it and these guys are also going to meet up in Dubai too"""
+[01:25:37]:,"""So what if the disease is just in Dubai"""
+[01:25:55]:,"Making a note: ""Barcelona gun people"""
+[01:26:05]:,Making connection and moving documents close the notes
+[01:26:30]:,Looking through titles
+[01:26:35]:,Picking a document
+[01:26:58]:,Picking a document
+[01:27:08]:,Picking a document
+[01:27:26]:,Picking a document
+[01:28:05]:,Picking a document
+[01:28:30]:,Picking a document
+[01:28:44]:,Picking a document
+[01:29:09]:,Picking a document
+[01:29:30]:,Picking a document
+[01:29:50]:,"Searching for ""Mikhail"""

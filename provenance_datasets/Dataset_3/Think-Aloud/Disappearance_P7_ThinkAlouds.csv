@@ -1,0 +1,182 @@
+Timestamp,Transcript
+[00:00:10]:,User starts the study with reading the prompt note
+[00:00:43]:,"Searching for ""January. 2014"""
+[00:01:09]:,"Searching for ""Jan 2014"""
+[00:04:01]:,User changed the topic: (Trying to find the root of the events) [bottom-up]
+[00:01:19]:,Looking through articles titles
+[00:02:07]:,"Picking an article in title ""Jan 2014. Employees of GASTech removed in Kronos """
+[00:03:01]:,Still reading the last article
+[00:03:26]:,"""It's about removing of the employees. POK was requesting $20M from the company. It may be additional request from them which is not specified yet"""
+[00:04:04]:,Still reading the last article
+[00:04:39]:,"Highlighting ""The local organizations of news received a note of ransom of the claiming responsibility and to require POK $20 million the company"""
+[00:04:54]:,"Searching for ""Tethan"""
+[00:05:13]:,"""I'm looking for Tethan which is the minesty helping them up with the search """
+[00:05:39]:,"Picking an article in title ""Jan 2014. GASTech Employees Kidnapped in Kronos"""
+[00:06:05]:,"Highlighting ""the personnel of the ministry of Tethan of the Foreign Affairs arrived in Kronos to help the police force in research"""
+[00:06:07]:,User changed the topic: (Learning about the events leading to kidnapping) [bottom-up]
+[00:06:09]:,"Picking an article in title ""Jan 2014. Employees of GASTech removed in Kronos"""
+[00:06:32]:,"Highlighting "" 21 January 2014"""
+[00:07:11]:,Still reading the last article
+[00:07:22]:,"Highlighting "" A fire alarm went off and the execs were discovered missing shortly after that"""
+[00:08:06]:,"""So the fire alarm went off. let see if I can find any information regarding the fire alarm and the time that happend"""
+[00:08:39]:,"Searching for ""fire alarm"""
+[00:08:44]:,Looking through articles titles
+[00:09:30]:,"Picking an article in title ""Jan 2014. Breaking: Emergency at GAStech Headquarters Building"""
+[00:09:49]:,"""10:50am. So it happend in the morning"""
+[00:09:55]:,"Highlighting ""10:50 AM"""
+[00:10:08]:,"Highlighting ""Bomb threat"""
+[00:10:24]:,"""Now I want to see if I can find anything regarding bomb threats"""
+[00:10:33]:,"Searching for ""Bomb threat"""
+[00:10:43]:,"Picking an article in title ""Jan 2014. Homeland Illumination"""
+[00:11:50]:,"""Bomb threat happend in the day before and in the different place"""
+[00:12:06]:,"Highlighting ""people Maha Salo 20 January 2014"""
+[00:12:35]:,"Highlighting ""bomb threat. 20 Jan 2014"""
+[00:12:40]:,"""So. people of maha salo"""
+[00:12:50]:,"Searching for ""Maha Salo"""
+[00:12:59]:,Looking through articles titles
+[00:13:43]:,"Picking an article in title ""Jan 2014. Blog notes: Homeland Illumination"""
+[00:14:25]:,User is comparing the article with previous highlights
+[00:14:51]:,"""It was reported on Jan 21 but the kidnaping actually happend in 20th"""
+[00:15:31]:,"Highlighting ""someone should locate the caterers from the executive breakfast?"""
+[00:15:34]:,"Highlighting ""newfound wealth might provide a motive"""
+[00:15:53]:,"Searching for ""carterers"""
+[00:15:53]:,User changed the topic: (Looking for carterers in the day of kidnaping) [bottom-up]
+[00:16:04]:,"""I'm looking for these carterers at the executive breakfast. cause they might actualy seen if anybody interacted with the executive when the fire alarm took place"""
+[00:16:31]:,"Searching for ""executive breakfast"""
+[00:16:42]:,"Searching for ""Carterer"""
+[00:16:53]:,"Picking an article in title ""Jan 2014. Blog posts: The Abila Post"""
+[00:17:30]:,"Highlighting ""20 Jan 2014"""
+[00:18:12]:,Still reading the last article
+[00:18:41]:,"Highlighting ""the caterers for the breakfast meeting who were dressed all in black have been released"""
+[00:19:21]:,Making connection between two articles about the kidnaping day
+[00:19:36]:,"""I know what happend in 20th. was reported in 21st. they are asking $20M for release"""
+[00:19:52]:,"Making connection between ""Jan 2014 GASTech Employees Kidnapped in Kronos"" and the kidnaping group"
+[00:20:11]:,"Searching for ""black"""
+[00:20:20]:,Looking through articles titles
+[00:20:20]:,"""I'm finding any information about any organization that were black"""
+[00:20:58]:,"Picking an article in title ""Jan 2014. Blog notes: Centrum Sentinel """
+[00:22:13]:,"Searching for ""entrargli"""
+[00:22:43]:,"Searching for ""government sedan"""
+[00:22:50]:,"Searching for ""government"""
+[00:22:54]:,"""I'm trying to figure out what the government was doing at the company on the 20th day and they were transported entrargli. but there no information about entrargli in these articles. so I'm looking for what the government is upto with the company"""
+[00:23:22]:,User changed the topic: (Looking for government and peopels role in the company) [bottom-up]
+[00:23:30]:,Looking through articles titles
+[00:24:23]:,Still looking through articles titles
+[00:24:45]:,"Picking an article in title "" Jan 2014. REMOVAL AT GASTECH KRONOS"""
+[00:24:57]:,"Highlighting ""A black government sedan has arrived hardly to the centers of GAStech"""
+[00:25:09]:,"Highlighting ""he transports entrargli"""
+[00:25:35]:,Still reading the last article
+[00:27:28]:,"Highlighting ""Edvard Vann. GAStech - Kronos the security guard which was questioned and after 6 hours was delivered. the daders behind the events of today indicated became suspicious on the guards of Kronos such as are"""
+[00:28:18]:,"""They're suspicious for the gards on that event. they heard of a gun fire and they're taking it into a consideration"""
+[00:29:20]:,"Highlighting ""The affirmative reports of a fire on the office are possible as a diversion for the ontvoerders have served or to misfiring during the event have at least contributed"""
+[00:29:56]:,"Picking an article in title ""Jan 2014. Breaking: Emergency at GAStech Headquarters Building"""
+[00:30:05]:,"""10:50am it says was the fire alarm time but the fire department where sent around 10am. that means in happend before?"""
+[00:30:28]:,"Highlighting ""Kronos were sent around 10:00 this morning local time Kronos to answer to a fire alarm"""
+[00:30:58]:,"""Let's see if we have any information aobut the gards"""
+[00:31:05]:,"Picking an article in title ""Jan 2014. REMOVAL AT GASTECH KRONOS"""
+[00:31:15]:,"Searching for ""Edward"""
+[00:31:23]:,User changed the topic: (Who is Edward Vann?) [bottom-up]
+[00:31:25]:,Looking through articles titles
+[00:31:42]:,"""Edward Vann is the one who was suspicious of the gards. so that's why I'm looking for information about it"""
+[00:32:16]:,"Picking an article in title "" Jan 2014. WRAP UP OF EVENTS AT GASTECH"""
+[00:33:17]:,Still reading the last article
+[00:33:33]:,"""Once again he says that POK is responsible for the kinaping and the reason is because of new public offering. what is the public offering?"""
+[00:33:53]:,"Highlighting ""Initial Public Offering"""
+[00:34:12]:,"Highlighting ""gave the indication that the Protectors of Kronos were involved or at least suspected as being the perpetrators behind today's events"""
+[00:34:21]:,"Searching for ""offering"""
+[00:34:38]:,"Picking an article in title ""Sept. 2013. SANJORGE JR. TAKING GASTECH INTERNATIONAL PUBLIC"""
+[00:34:56]:,"""This one is talking about that public offering. they're offering to change this private company public"""
+[00:35:54]:,"""It has been an year since they become a public company"""
+[00:36:16]:,"Highlighting ""2 September 2013 CENTRUM. Tethys"""
+[00:36:33]:,"Highlighting ""After 52 years of being privately owned"""
+[00:36:45]:,User changed the topic: (Is POK responsible?) [bottom-up]
+[00:37:20]:,"""I'm going back to the POK"""
+[00:37:20]:,"Searching for ""POK"""
+[00:37:50]:,Looking through articles titles
+[00:38:27]:,"Picking an article in title ""Jan 2014. POK Kidnaps GAStech Employees"""
+[00:39:22]:,"Highlighting ""was questioned for hours because he shares a family name with several known POK members"""
+[00:39:11]:,"""Edward vann was questioned because he shared a family name with one of POK members"""
+[00:39:44]:,Making connection between last article and group of Edward Vann
+[00:40:07]:,Looking through articles titles
+[00:40:33]:,"Picking an article in title "" May 2011. Police Hold News Conference on GAStech Kidnapping"""
+[00:41:25]:,"""So four are found and ten are missing"""
+[00:41:27]:,"Highlighting ""four of the GAStech employees whose whereabouts were unconfirmed yesterday were found overnight. leaving ten people who are presumed missing"""
+[00:41:51]:,"""It'd have been good to know where those four employees that were found were from"""
+[00:42:41]:,"Picking an article in title ""Jun 2010. IN THE MEMORY: The DEATH Of ELIAN KAREL. ONE YEAR AFTERWARDS """
+[00:48:18]:,User changed the topic: (Looking for POK activities in the past) [bottom-up]
+[00:42:53]:,"""Who was Elien Karel"""
+[00:43:59]:,Still reading the last article
+[00:44:58]:,Still reading the last article
+[00:45:34]:,"Highlighting ""By year since the death of Karel the guards of Kronos continue the mission to require that the instrument of government of Kronos a policy of transparency in businesses of government. and to hold responsible the alien companies which soiled the natural resources of Kronosian"""
+[00:45:34]:,"""Seems the reason why the POK attacks foreign companies is that their are not protect their countries land and contaminating it. they ask government to regulate actions of foreign companies"""
+[00:48:07]:,"Searching for ""contamination"""
+[00:48:17]:,Looking through articles titles
+[00:48:43]:,"""I'm trying to see what type of contamination is caused to the country"""
+[00:49:07]:,"""This has been going for years. the first attampts goes back to 1998"""
+[00:49:18]:,"Picking an article in title ""Nov 1998. POK REPRESENTATIVES MEET WITH KRONOS MINISTER OF HEALTH"""
+[00:50:31]:,"Highlighting ""The POK formed in 1997 from a grassroots action group in response to the pollution of the Elodis water supply and the resultant sickness and deaths of local residents over the subsequent several years"""
+[00:50:54]:,Still reading the last article
+[00:51:02]:,"""They talk to minister of health in 1998. but what was the response?"""
+[00:51:17]:,"Searching for ""Minister"""
+[00:51:33]:,Looking through articles titles
+[00:52:55]:,"Picking an article in title ""Jun 2000. DOCUMENTARY CARD OF PUBLIC HEALTH Of ELODIS"""
+[00:54:09]:,"Highlighting ""An update with health 1998 for all the report/ratio will be announced soon on the municipal Web site of Elodis"""
+[00:54:12]:,"Highlighting ""Levels without precedent of toxins were found in supply water. including phenol. acetic anhydride. wire. and ethylene glycol. 2- The incidence of the chronic disease increased more than 89% of the former years 3- The exceptionally high incidence of cancer became thus about this minister of Nespola health appointed a specialist in oncology at the hospital general in Abila"""
+[00:54:25]:,"""Even though the outcomes were extremly negative. the incident of chronic diseases increased more that 89% within 3 years. cancer and etc. because of contamination. He didn't do anything with the country"""
+[00:55:33]:,Making connection between last article and another one about heath issues
+[00:56:14]:,"Picking an article in title ""March 2009. THE COLLECTION POK DRAWS THOUSANDS OF VERDEDIGERS"""
+[00:57:20]:,"Highlighting ""Of ten years - old Juliana Vann died in 1998. to a sickness which is caused by polluted water of boring GAStech verrichtingen"""
+[00:57:37]:,Still reading the last article
+[00:58:17]:,"""I see now how the Edward is related with the POK and the first victim was Julian Vann back on 1991"""
+[01:00:12]:,"Highlighting ""Karel spoke eloquently concerning the beginning of the campaign POK as a basis effort for clean water. to the dynamic movement demanding better government transparency and duty of responsibility have become"""
+[01:01:06]:,Making connection between last article and gropu about Edward Vann
+[01:01:19]:,"""The reason they were in rage was because the government wes not telling them how they are spending their tax money"""
+[01:01:51]:,"""At least now I know why the POK was doing that"""
+[01:02:08]:,"Searching for ""Riot"""
+[01:02:12]:,"""Let's see when the first riot happend"""
+[01:02:53]:,"Picking an article in title "" June 2013. Annual POK Rally Ends in Riot"""
+[01:02:53]:,User changed the topic: (Looking for violence traces in POK ) [bottom-up]
+[01:03:14]:,"""They would annualy do it right"""
+[01:03:47]:,"Searching for ""GAStech contamination"""
+[01:04:27]:,"Searching for ""Contamination"""
+[01:04:50]:,Looking through articles titles
+[01:05:10]:,"Picking an article in title ""May 2009. GASTECH ADOPTS NEW STANDARD"""
+[01:06:10]:,"Highlighting ""a blue flame of the Jr of the tri-part that is evocative of a leaf to help to the GAStech position and its products as alternative clean of the fuel"""
+[01:06:52]:,"Highlighting ""GAStech that the international blue flame is a light that hold of the environmental responsibility. and a symbol of a clean business of the energy that moved ahead"""
+[01:07:38]:,"Highlighting ""Sten Sanjorge. Jr declined to directly comment with respect to questions with respect protests and to the contamination of environment"""
+[01:08:28]:,"""What would the company hire someone that could potentially be related to one of the victimes of the contamination as head of security?"""
+[01:09:00]:,"""Although he says he was not related with the kidnaping. why did they monitor where he went afterwards?"""
+[01:10:15]:,Looking through articles titles
+[01:11:16]:,"Picking an article in title "" Nov 2013. The protests of Kronos break out in violence"""
+[01:11:22]:,"""It was the second riot in the same year afew months later"""
+[01:12:28]:,Still reading the last article
+[01:12:54]:,"Highlighting ""People protest because they suffer. because they have no medical aid. We require the government. Terek Kamal. a truck driver. told The Times resign"""
+[01:13:04]:,"""So it has been more than 10 years that they still haven't received anything from government"""
+[01:14:09]:,Still reading the last article
+[01:14:22]:,"Highlighting ""Hundreds rural citizens suffer from important sicknesses which are apparently caused by exhibition to GAStech waste streams. although this no official gesubstantibrd have been or recognize by or the company or government"""
+[01:14:34]:,"""The populiation knows that Gastech wastes cost them all the sickness. yet the company denies it"""
+[01:15:10]:,"Highlighting ""Initially peaceful. this protest is more and more violent. and both the police force and the citizens is now caught in sometimes fatal cross fire"""
+[01:15:17]:,"""Initially they started with peacful protesting and after years they have been started using violence to get their voice heared"""
+[01:16:23]:,"Searching for ""headquaters"""
+[01:16:34]:,"Searching for ""head"""
+[01:16:34]:,User changed the topic: (Looking for interactions between POK and governmenr) [bottom-up]
+[01:16:48]:,Looking through articles titles
+[01:17:35]:,"Picking an article in title ""April 2011. Phillies Receive a Surprise Lift In Rallying"""
+[01:18:12]:,Still reading the last article
+[01:20:06]:,"Picking an article in title ""February 2009. Kronos's Protectors of Kronos declared 'terrorist group'"""
+[01:21:03]:,Still reading the last article
+[01:21:30]:,"Highlighting ""Influenced by international groups such as Wellness for All"""
+[01:22:18]:,Still reading the last article
+[01:22:34]:,"Highlighting ""Kronos would notify Tethys who had signed a 1998 anti-terrorism treaty of the decision"""
+[01:23:07]:,"Highlighting ""POK supporters. The POK has denied being responsible for the attack. and accused the Kronos government of staging a frame-up to silence the groups concerns for the people."""
+[01:23:10]:,"""In 2009 POK bombed the polics headquarters of the city aliba. The gvernment claims the POK was responsible for the bombing. but POK denies it"""
+[01:24:07]:,"""POK could have also done the attack after all peacfull protest they have. they were never heard answer"""
+[01:25:25]:,Reading the highlights
+[01:25:47]:,Looking through articles titles
+[01:25:54]:,"Picking an article in title "" Jan 2014. THE REQUIREMENTS OF THE RANSOM WHICH ARE MADE IN REMOVAL GASTECH"""
+[01:27:26]:,"Highlighting ""the guards of Kronos"""
+[01:27:40]:,"""The Protectors of Kronis also called by the name of gaurds of Kronos"""
+[01:28:05]:,"Searching for ""Gaurds of"""
+[01:28:24]:,"Picking an article in title ""Feb. 2009. SANJORGE JR CONDEMNS POK LIKE TERRORISTS"""
+[01:29:05]:,"Highlighting ""an official report/ratio released by Sten Sanjorge. president de Jr. and PRESIDENT de international GASTech. condemns the guards of Kronos like illegitimate and organization of terrorist"""
+[01:30:15]:,"Highlighting "" Ten protesters of POK were connected with the door of GAStech - Kronos except the entry with the building"""

@@ -1,0 +1,2458 @@
+[
+ {
+  "DocNum": "", 
+  "tags": [
+   "stewardship"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 1022, 
+  "Duration": 10, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "POK"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 2455, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 57", 
+  "tags": [
+   "ransom", 
+   "made", 
+   "demanding", 
+   "kidnapped", 
+   "taken"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 2936, 
+  "Duration": 399, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 57", 
+  "tags": [
+   "benzene poisoning"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 3336, 
+  "Duration": 10, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 150", 
+  "tags": [
+   "removed", 
+   "disappeared", 
+   "feared", 
+   "received", 
+   "others"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 4258, 
+  "Duration": 1226, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 101", 
+  "tags": [
+   "gathering", 
+   "order", 
+   "pok", 
+   "protestateurs", 
+   "certain"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 5485, 
+  "Duration": 699, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 63", 
+  "tags": [
+   "elodis", 
+   "drilling", 
+   "health", 
+   "operations", 
+   "amounts"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 6452, 
+  "Duration": 226, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 105", 
+  "tags": [
+   "fluss", 
+   "sanjorge", 
+   "hank", 
+   "operations", 
+   "coo"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 6679, 
+  "Duration": 259, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 108", 
+  "tags": [
+   "sure", 
+   "marked", 
+   "ones", 
+   "number", 
+   "sentinel"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 6939, 
+  "Duration": 128, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 108", 
+  "tags": [
+   "sure", 
+   "marked", 
+   "ones", 
+   "number", 
+   "sentinel"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 7435, 
+  "Duration": 658, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 142", 
+  "tags": [
+   "commissioner", 
+   "elodis", 
+   "koppolis", 
+   "program", 
+   "schools"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.589804872828452, 
+  "Time": 8139, 
+  "Duration": 549, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 142", 
+  "tags": [
+   "* Unprecedented levels of toxins were found in the water supply, including phenol, acetic anhydride, lead, and ethylene glycol. \n\n* The incidence of chronic illness increased over 89% from prior years \n\n* The unusually high incidence of cancer became so concerning that Minister of Health Nespola appointed an oncology specialist to Abila General Hospital"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 8689, 
+  "Duration": 10, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 142", 
+  "tags": [
+   "commissioner", 
+   "elodis", 
+   "koppolis", 
+   "program", 
+   "schools"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.589804872828452, 
+  "Time": 8775, 
+  "Duration": 228, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 138", 
+  "tags": [
+   "fire", 
+   "karel", 
+   "uneven", 
+   "construction", 
+   "lurking"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 17.36164520386687, 
+  "Time": 9004, 
+  "Duration": 408, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 142", 
+  "tags": [
+   "commissioner", 
+   "elodis", 
+   "koppolis", 
+   "program", 
+   "schools"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.589804872828452, 
+  "Time": 9797, 
+  "Duration": 64, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 109", 
+  "tags": [
+   "fire", 
+   "bomb", 
+   "pulled", 
+   "marked", 
+   "modernizations"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 4.407270003210502, 
+  "Time": 10262, 
+  "Duration": 205, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 110", 
+  "tags": [
+   "explainer", 
+   "order", 
+   "unexpected", 
+   "suggest", 
+   "abound"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.95244889951129, 
+  "Time": 10753, 
+  "Duration": 333, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 110", 
+  "tags": [
+   "explainer", 
+   "order", 
+   "unexpected", 
+   "suggest", 
+   "abound"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.95244889951129, 
+  "Time": 11388, 
+  "Duration": 107, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 3", 
+  "tags": [
+   "pictures", 
+   "succeeded", 
+   "celebrating", 
+   "happened", 
+   "understood"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.038668711875291, 
+  "Time": 11496, 
+  "Duration": 260, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 137", 
+  "tags": [
+   "drug", 
+   "caramel", 
+   "cotton", 
+   "bianca", 
+   "designated"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 12204, 
+  "Duration": 58, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 126", 
+  "tags": [
+   "instructed", 
+   "trickle", 
+   "caterers", 
+   "everyone", 
+   "employees"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 15.510255769985374, 
+  "Time": 12380, 
+  "Duration": 40, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 137", 
+  "tags": [
+   "drug", 
+   "caramel", 
+   "cotton", 
+   "bianca", 
+   "designated"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 12432, 
+  "Duration": 2683, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 138", 
+  "tags": [
+   "government transparency and accountability. "
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 15116, 
+  "Duration": 10, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 137", 
+  "tags": [
+   "drug", 
+   "caramel", 
+   "cotton", 
+   "bianca", 
+   "designated"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 15275, 
+  "Duration": 64, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 137", 
+  "tags": [
+   "Protest leader Elian Karel addressed the demonstrators at Abila City park. Karel took over POK leadership from Henk Bodrogi, whose ill health forced him down from the position. Karel spoke eloquently about the beginnings of the POK campaign as a grassroots effort for clean water, to the dynamic movement it has become demanding improved government transparency and accountability. "
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 15340, 
+  "Duration": 10, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 137", 
+  "tags": [
+   "Protest leader Elian Karel addressed the demonstrators at Abila City park. Karel took over POK leadership from Henk Bodrogi, whose ill health forced him down from the position. Karel spoke eloquently about the beginnings of the POK campaign as a grassroots effort for clean water, to the dynamic movement it has become demanding improved government transparency and accountability. "
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 15381, 
+  "Duration": 10, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 137", 
+  "tags": [
+   "drug", 
+   "caramel", 
+   "cotton", 
+   "bianca", 
+   "designated"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 15413, 
+  "Duration": 16, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 137", 
+  "tags": [
+   "drug", 
+   "caramel", 
+   "cotton", 
+   "bianca", 
+   "designated"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 15432, 
+  "Duration": 5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 137", 
+  "tags": [
+   "drug", 
+   "caramel", 
+   "cotton", 
+   "bianca", 
+   "designated"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 15446, 
+  "Duration": 5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 27", 
+  "tags": [
+   "employs", 
+   "modified", 
+   "unknown", 
+   "sig", 
+   "minuteren"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 16152, 
+  "Duration": 367, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "hatches", 
+   "short", 
+   "glimpse", 
+   "entrargli", 
+   "sedan"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 6.381728676916491, 
+  "Time": 16585, 
+  "Duration": 268, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 49", 
+  "tags": [
+   "health", 
+   "elodis", 
+   "evident", 
+   "index", 
+   "mortality"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 17305, 
+  "Duration": 394, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 110", 
+  "tags": [
+   " GAStech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 17989, 
+  "Duration": 10, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "GAStech"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 18013, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 134", 
+  "tags": [
+   "king", 
+   "construction", 
+   "modernizations", 
+   "fire", 
+   "allow"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 18271, 
+  "Duration": 683, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 138", 
+  "tags": [
+   "fire", 
+   "karel", 
+   "uneven", 
+   "construction", 
+   "lurking"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 17.36164520386687, 
+  "Time": 18955, 
+  "Duration": 174, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 133", 
+  "tags": [
+   "karel", 
+   "better", 
+   "want", 
+   "revenues", 
+   "accountancy"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 19321, 
+  "Duration": 86, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "mob", 
+   "protestors", 
+   "different", 
+   "collection", 
+   "bldg"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 19467, 
+  "Duration": 706, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "", 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 20174, 
+  "Duration": 10, 
+  "InteractionType": "createNote"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "President Stewn Sanjorge Jr. - CFO Ingrid Barranco - Campo-Corrente of ADA of CIO", 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 20182, 
+  "Duration": 10, 
+  "InteractionType": "addNote"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "Fourteen employees have fears removed in Kronos by a radical environmental group of terrorist during a meeting of corporation"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 21599, 
+  "Duration": 10, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "Enviromental leader Willem Vasco-feed", 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 22362, 
+  "Duration": 10, 
+  "InteractionType": "addNote"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "John Rathburn, an American expert in executive kidnapping who lives in Tethys, known as that Kronos was not known like archatypal country for removal ", 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 24482, 
+  "Duration": 10, 
+  "InteractionType": "addNote"
+ }, 
+ {
+  "DocNum": "Disappearance 139", 
+  "tags": [
+   "elodis", 
+   "health", 
+   "incidents", 
+   "may", 
+   "highlights"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.3008597010666, 
+  "Time": 25409, 
+  "Duration": 218, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 139", 
+  "tags": [
+   "elodis", 
+   "health", 
+   "incidents", 
+   "may", 
+   "highlights"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.3008597010666, 
+  "Time": 25647, 
+  "Duration": 44, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 131", 
+  "tags": [
+   "letters", 
+   "threat", 
+   "occasions", 
+   "kapelou", 
+   "nothing"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 25929, 
+  "Duration": 340, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Jan 2014"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 26270, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 1", 
+  "tags": [
+   "representatives", 
+   "responsibility", 
+   "health", 
+   "plagued", 
+   "reverse"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 26393, 
+  "Duration": 656, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "opening", 
+   "cut", 
+   "tape", 
+   "size", 
+   "avila"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.026754182570542, 
+  "Time": 27091, 
+  "Duration": 819, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "2014/01/21 Removal happened", 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 27812, 
+  "Duration": 10, 
+  "InteractionType": "addNote"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   " a ransom note from the POK claiming responsibility and demanding $20 Million from the company"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 27911, 
+  "Duration": 10, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "The POK claiming responsibility and demanding $20M from the company", 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 28212, 
+  "Duration": 10, 
+  "InteractionType": "addNote"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "A fire alarm went off, and the execs were discovered missing shortly after that ", 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 28642, 
+  "Duration": 10, 
+  "InteractionType": "addNote"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "fire"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 29371, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 138", 
+  "tags": [
+   "fire", 
+   "karel", 
+   "uneven", 
+   "construction", 
+   "lurking"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 17.36164520386687, 
+  "Time": 29475, 
+  "Duration": 171, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 124", 
+  "tags": [
+   "gang", 
+   "kapelou", 
+   "call", 
+   "criminal", 
+   "pok"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 29647, 
+  "Duration": 548, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "The fire unit of Abila answers to the alarm. the National Fire Departments are seen o enter in the construction", 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 29962, 
+  "Duration": 10, 
+  "InteractionType": "addNote"
+ }, 
+ {
+  "DocNum": "Disappearance 85", 
+  "tags": [
+   "protesters", 
+   "concert", 
+   "suppressed", 
+   "aligned", 
+   "impressive"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 4.075518139335783, 
+  "Time": 30285, 
+  "Duration": 311, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 84", 
+  "tags": [
+   "firemen", 
+   "update", 
+   "building", 
+   "fire", 
+   "seen"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 30607, 
+  "Duration": 39, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 79", 
+  "tags": [
+   "kidnapped", 
+   "conference", 
+   "credit", 
+   "police", 
+   "rhetoric"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 30680, 
+  "Duration": 728, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 113", 
+  "tags": [
+   "removed", 
+   "ransom", 
+   "bomb", 
+   "sanjorge", 
+   "made"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 31486, 
+  "Duration": 237, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 138", 
+  "tags": [
+   "fire", 
+   "karel", 
+   "uneven", 
+   "construction", 
+   "lurking"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 17.36164520386687, 
+  "Time": 31743, 
+  "Duration": 11, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 141", 
+  "tags": [
+   "riot", 
+   "annual", 
+   "occurred", 
+   "kind", 
+   "force"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 4.18253486961795, 
+  "Time": 31776, 
+  "Duration": 611, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "An employee of GasTech that he has refusesd of being identified relationships that see much people dressed in the black one in the the construction before the fire alarm ", 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 32242, 
+  "Duration": 10, 
+  "InteractionType": "addNote"
+ }, 
+ {
+  "DocNum": "Disappearance 140", 
+  "tags": [
+   "fire", 
+   "explosion", 
+   "bend", 
+   "fireball", 
+   "tiskele"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.1230692398244924, 
+  "Time": 32434, 
+  "Duration": 19, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 138", 
+  "tags": [
+   "fire", 
+   "karel", 
+   "uneven", 
+   "construction", 
+   "lurking"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 17.36164520386687, 
+  "Time": 32468, 
+  "Duration": 18, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 113", 
+  "tags": [
+   "removed", 
+   "ransom", 
+   "bomb", 
+   "sanjorge", 
+   "made"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 32505, 
+  "Duration": 12, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 114", 
+  "tags": [
+   "bend", 
+   "tiskele", 
+   "blocked", 
+   "field", 
+   "handcuffed"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 4.417971676238719, 
+  "Time": 32526, 
+  "Duration": 203, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "wfa", 
+   "karel", 
+   "julian", 
+   "pok", 
+   "affirmed"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 32828, 
+  "Duration": 226, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 7", 
+  "tags": [
+   "construction", 
+   "roof", 
+   "helicopter", 
+   "modernizations", 
+   "sheets"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 33097, 
+  "Duration": 648, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 5", 
+  "tags": [
+   "kidnapped", 
+   "note", 
+   "demanding", 
+   "feared", 
+   "ransom"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 12.866942532015837, 
+  "Time": 33756, 
+  "Duration": 14, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 136", 
+  "tags": [
+   "telephone", 
+   "try", 
+   "twenty", 
+   "answered", 
+   "coordinator"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 33827, 
+  "Duration": 19, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "bomb"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 33896, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 125", 
+  "tags": [
+   "bend", 
+   "tiskele", 
+   "larger", 
+   "field", 
+   "estimated"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 4.278849926871901, 
+  "Time": 33953, 
+  "Duration": 1396, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 113", 
+  "tags": [
+   "removed", 
+   "ransom", 
+   "bomb", 
+   "sanjorge", 
+   "made"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 35350, 
+  "Duration": 23, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "The government of Kronos has declared the POK a terrorist group after blaming it for a deadly attack on police headquarter this weak", 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 35802, 
+  "Duration": 10, 
+  "InteractionType": "addNote"
+ }, 
+ {
+  "DocNum": "Disappearance 113", 
+  "tags": [
+   "removed", 
+   "ransom", 
+   "bomb", 
+   "sanjorge", 
+   "made"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 35976, 
+  "Duration": 7, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 84", 
+  "tags": [
+   "firemen", 
+   "update", 
+   "building", 
+   "fire", 
+   "seen"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 35995, 
+  "Duration": 542, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 125", 
+  "tags": [
+   "bend", 
+   "tiskele", 
+   "larger", 
+   "field", 
+   "estimated"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 4.278849926871901, 
+  "Time": 36610, 
+  "Duration": 521, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 84", 
+  "tags": [
+   "firemen", 
+   "update", 
+   "building", 
+   "fire", 
+   "seen"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 37132, 
+  "Duration": 247, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Sten Sanjorge"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 37380, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 71", 
+  "tags": [
+   "fire", 
+   "missing", 
+   "department", 
+   "security", 
+   "event"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 37522, 
+  "Duration": 112, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 42", 
+  "tags": [
+   "update", 
+   "affairs", 
+   "enforcement", 
+   "ministry", 
+   "staff"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 37708, 
+  "Duration": 1000, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "Sten Sanjorge Jr. President and CEO of GasTech has traveled from Tethys to attend the events", 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 38292, 
+  "Duration": 10, 
+  "InteractionType": "addNote"
+ }, 
+ {
+  "DocNum": "Disappearance 79", 
+  "tags": [
+   "kidnapped", 
+   "conference", 
+   "credit", 
+   "police", 
+   "rhetoric"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 38786, 
+  "Duration": 23, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 77", 
+  "tags": [
+   "demonstration", 
+   "command", 
+   "batons", 
+   "rejected", 
+   "uproar"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 38818, 
+  "Duration": 795, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "POK"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 39614, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 88", 
+  "tags": [
+   "bomb", 
+   "pulled", 
+   "update", 
+   "fire", 
+   "rossini"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.053508365141084, 
+  "Time": 39791, 
+  "Duration": 70, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 135", 
+  "tags": [
+   "fire", 
+   "explosion", 
+   "collars", 
+   "spark", 
+   "burn"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7.168301644490422, 
+  "Time": 39884, 
+  "Duration": 266, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 49", 
+  "tags": [
+   "health", 
+   "elodis", 
+   "evident", 
+   "index", 
+   "mortality"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 40198, 
+  "Duration": 480, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 128", 
+  "tags": [
+   "poisoned", 
+   "juliana", 
+   "died", 
+   "visited", 
+   "recommending"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 40679, 
+  "Duration": 596, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "president Kapelou calling POK the gang of criminals. After large scale riot on Tuesday", 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 41142, 
+  "Duration": 10, 
+  "InteractionType": "addNote"
+ }, 
+ {
+  "DocNum": "Disappearance 80", 
+  "tags": [
+   "wfa", 
+   "international", 
+   "wellness", 
+   "unfounded", 
+   "groundwater"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.643313237969536, 
+  "Time": 41276, 
+  "Duration": 62, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 82", 
+  "tags": [
+   "turnout", 
+   "gear", 
+   "flame", 
+   "smoke", 
+   "firemen"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 41386, 
+  "Duration": 302, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 69", 
+  "tags": [
+   "times", 
+   "october", 
+   "activity", 
+   "article", 
+   "inspirational"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 41689, 
+  "Duration": 49, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "$20"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 41853, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 93", 
+  "tags": [
+   "removed", 
+   "fire", 
+   "speculation", 
+   "hoofdkwartier", 
+   "behind"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 41987, 
+  "Duration": 478, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "<div class=\"ui-dialog ui-widget ui-widget-content ui-corner-all close ui-draggable ui-droppable\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"ui-id-66\" id=\"dialog65\" style=\"outline: 0px; z-index: 1840; position: absolute; height: auto; width: 500px; top: 684.983px; left: 464.986px; display: block;\"><div class=\"ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix\" style=\"white-space: nowrap;\"><span id=\"ui-id-66\" class=\"ui-dialog-title\">registered offices of police force of Abila </span><div class=\"ui-dialog-titlebar-buttonpane\" style=\"position: absolute; top: 50%; right: 0.3em; margin-top: -10px; height: 18px;\"><a href=\"#\" class=\"ui-dialog-titlebar-close ui-corner-all\" role=\"button\" style=\"position: relative; float: right; top: auto; right: auto; margin: 0px; display: none;\"><span class=\"ui-icon ui-icon-closethick\">close</span></a><a class=\"ui-dialog-titlebar-collapse ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-triangle-1-s\">collapse</span></a><a class=\"ui-dialog-titlebar-restore ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: block; right: 1.4em;\"><span class=\"ui-icon ui-icon-newwin\">restore</span></a><a class=\"ui-dialog-titlebar-maximize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-extlink\">maximize</span></a><a class=\"ui-dialog-titlebar-minimize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-minus\">minimize</span></a><a href=\"#\" class=\"ep title-handle ui-corner-all ui-icon ui-icon-bullet\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a><a href=\"#\" class=\"scrunchy-button ui-corner-all ui-icon ui-icon-lightbulb\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a></div></div><div id=\"jsonDialog65\" class=\"doc-set docSet ui-dialog-content ui-widget-content ui-resizable ui-dialog-collapsed\" data-id=\"original\" data-source=\"set3\" scrolltop=\"0\" scrollleft=\"0\" style=\"width: auto; min-height: 0px; height: 0px; display: none;\"><div class=\"doc-content\" document_id=\"Disappearance69\">Worldwise Protest of POK to the registered offices of police force of Abila 2010/06/22 ABILA, Kronos <br> guards of the demonstration of Kronos were held in front of registered offices of police force of Abila yesterday morning.  The POK had collected inside memorialize their former chief, Elian Karel, which died last year of the normal causes in prison.  The defenders of POK carried signs with images of Karel and of Juliana Vann, slogans sang, and lit candles.  The peaceful demonstration turned violent one when two members of POK approached a man who tried to enter the building on businesses.  The members of POK struck it with a bottle, which struck it with the ground and gave him a bloody notch on its face.  The police force of Abila tried to gain the ordering of the situation by using foghorns to claim the peaceful dispersion of crowd, but crowd answered their calls while launching insults with some rocks with the leaders.  The police force was accustomed to the teargas to finish the gathering, but a handle of preserving members of POK pushed crowd in the fray with the leaders.  Additional safety forces had to be called with the assistance contain the situation while violence climbed.  When the teargas finally got clear, the member of six POK were stopped on expenses of attack on civil authorities and to incite a crowd with violence.  Three leaders of police force were treated with the hospital general of Abila for wounds received in the combat. We had been concerned that the weak control of Silvia Marek makes it possible to the POK to be succeeded by criminals and hooligans.  The events of today show that our concern was valid, the aforementioned Carman d' Adrien of spokesman of police force.  Marek replaced Elian Karel as popular figurehead of the movement of POK the last summer. </div></div></div><div class=\"ui-dialog ui-widget ui-widget-content ui-corner-all close ui-draggable ui-droppable\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"ui-id-67\" id=\"dialog66\" style=\"outline: 0px; z-index: 1067; position: absolute; height: auto; width: 500px; top: 720.003px; left: 470px; display: block;\"><div class=\"ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix\" style=\"white-space: nowrap;\"><span id=\"ui-id-67\" class=\"ui-dialog-title\">Jan 2014, Homeland Illumination </span><div class=\"ui-dialog-titlebar-buttonpane\" style=\"position: absolute; top: 50%; right: 0.3em; margin-top: -10px; height: 18px;\"><a href=\"#\" class=\"ui-dialog-titlebar-close ui-corner-all\" role=\"button\" style=\"position: relative; float: right; top: auto; right: auto; margin: 0px; display: none;\"><span class=\"ui-icon ui-icon-closethick\">close</span></a><a class=\"ui-dialog-titlebar-collapse ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-triangle-1-s\">collapse</span></a><a class=\"ui-dialog-titlebar-restore ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: block; right: 1.4em;\"><span class=\"ui-icon ui-icon-newwin\">restore</span></a><a class=\"ui-dialog-titlebar-maximize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-extlink\">maximize</span></a><a class=\"ui-dialog-titlebar-minimize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-minus\">minimize</span></a><a href=\"#\" class=\"ep title-handle ui-corner-all ui-icon ui-icon-bullet\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a><a href=\"#\" class=\"scrunchy-button ui-corner-all ui-icon ui-icon-lightbulb\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a></div></div><div id=\"jsonDialog66\" class=\"doc-set docSet ui-dialog-content ui-widget-content ui-resizable ui-dialog-collapsed\" data-id=\"original\" data-source=\"set3\" scrolltop=\"0\" scrollleft=\"0\" style=\"width: auto; min-height: 0px; height: 0px; display: none;\"><div class=\"doc-content\" document_id=\"Disappearance70\">Homeland Illumination VOICES - a blog about what is important to the people Maha Salo 20 January 2014 <br><br> 0926 - Welcome to our coverage of today's events.  I'm standing outside the GAStech headquarters waiting for the GAStech executives who are expected to appear within the hour. GAStech CEO Sten Sanjorge is celebrating the successful initial public offering of his company, which took place last month.   When they leave here the GAStech executives will travel to the capital building where they will meet with President Kapelou and several of his Ministers and Council members.  A private celebration of their successful alliance is planned to take place later today.  One can't help but wonder how much healthcare could be provided with only half the funds used to orchestrate this spectacle. 20 Jan 2014 </div></div></div><div class=\"ui-dialog ui-widget ui-widget-content ui-corner-all close ui-draggable ui-droppable\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"ui-id-68\" id=\"dialog67\" style=\"outline: 0px; z-index: 1781; position: absolute; height: auto; width: 500px; top: 760.003px; left: 470px; display: block;\"><div class=\"ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix\" style=\"white-space: nowrap;\"><span id=\"ui-id-68\" class=\"ui-dialog-title\">Oct. 1982, Leadership</span><div class=\"ui-dialog-titlebar-buttonpane\" style=\"position: absolute; top: 50%; right: 0.3em; margin-top: -10px; height: 18px;\"><a href=\"#\" class=\"ui-dialog-titlebar-close ui-corner-all\" role=\"button\" style=\"position: relative; float: right; top: auto; right: auto; margin: 0px; display: none;\"><span class=\"ui-icon ui-icon-closethick\">close</span></a><a class=\"ui-dialog-titlebar-collapse ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-triangle-1-s\">collapse</span></a><a class=\"ui-dialog-titlebar-restore ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: block; right: 1.4em;\"><span class=\"ui-icon ui-icon-newwin\">restore</span></a><a class=\"ui-dialog-titlebar-maximize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-extlink\">maximize</span></a><a class=\"ui-dialog-titlebar-minimize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-minus\">minimize</span></a><a href=\"#\" class=\"ep title-handle ui-corner-all ui-icon ui-icon-bullet\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a><a href=\"#\" class=\"scrunchy-button ui-corner-all ui-icon ui-icon-lightbulb\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a></div></div><div id=\"jsonDialog67\" class=\"doc-set docSet ui-dialog-content ui-widget-content ui-resizable ui-dialog-collapsed\" data-id=\"original\" data-source=\"set3\" scrolltop=\"0\" scrollleft=\"0\" style=\"width: auto; min-height: 0px; height: 0px; display: none;\"><div class=\"doc-content\" document_id=\"Disappearance71\">International Times  Leadership 4 October 1982  <br><br> In a Times article from 2 October, it was stated that GASTech president Sten Sanjorge was now less active in the day to day operations of the company.  GASTech representatives informed the Times that Sanjorge is as active as ever and providing daily inspirational guidance to the organization.  The Times stands by its original assertions.</div></div></div><div class=\"ui-dialog ui-widget ui-widget-content ui-corner-all close ui-draggable ui-droppable\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"ui-id-69\" id=\"dialog68\" style=\"outline: 0px; z-index: 1069; position: absolute; height: auto; width: 500px; top: 800.003px; left: 470px; display: block;\"><div class=\"ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix\" style=\"white-space: nowrap;\"><span id=\"ui-id-69\" class=\"ui-dialog-title\">Sept. 2012, PROTESTS SWELL IN ABILA IN RESPONSE TO CALLS TO ACTION </span><div class=\"ui-dialog-titlebar-buttonpane\" style=\"position: absolute; top: 50%; right: 0.3em; margin-top: -10px; height: 18px;\"><a href=\"#\" class=\"ui-dialog-titlebar-close ui-corner-all\" role=\"button\" style=\"position: relative; float: right; top: auto; right: auto; margin: 0px; display: none;\"><span class=\"ui-icon ui-icon-closethick\">close</span></a><a class=\"ui-dialog-titlebar-collapse ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-triangle-1-s\">collapse</span></a><a class=\"ui-dialog-titlebar-restore ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: block; right: 1.4em;\"><span class=\"ui-icon ui-icon-newwin\">restore</span></a><a class=\"ui-dialog-titlebar-maximize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-extlink\">maximize</span></a><a class=\"ui-dialog-titlebar-minimize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-minus\">minimize</span></a><a href=\"#\" class=\"ep title-handle ui-corner-all ui-icon ui-icon-bullet\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a><a href=\"#\" class=\"scrunchy-button ui-corner-all ui-icon ui-icon-lightbulb\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a></div></div><div id=\"jsonDialog68\" class=\"doc-set docSet ui-dialog-content ui-widget-content ui-resizable ui-dialog-collapsed\" data-id=\"original\" data-source=\"set3\" scrolltop=\"0\" scrollleft=\"0\" style=\"width: auto; min-height: 0px; height: 0px; display: none;\"><div class=\"doc-content\" document_id=\"Disappearance72\">News Online Today PROTESTS SWELL IN ABILA IN RESPONSE TO CALLS TO ACTION 2012/09/08 ABILA, Kronos <br><br> Thousands of people lined the roads on Thursday in a display of antigovernment solidarity.  Karel was the prior leader of the Protectors of Kronos before his premature death in 2009.  His death, thought to be a murder by many, prompted annul rallies to bring the message of the Protectors of Kronos to the public </div></div></div><div class=\"ui-dialog ui-widget ui-widget-content ui-corner-all close ui-draggable ui-droppable\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"ui-id-70\" id=\"dialog69\" style=\"outline: 0px; z-index: 1070; position: absolute; height: auto; width: 500px; top: 840.003px; left: 470px; display: block;\"><div class=\"ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix\" style=\"white-space: nowrap;\"><span id=\"ui-id-70\" class=\"ui-dialog-title\">Jan 2014, WRAP UP OF EVENTS AT GASTECH </span><div class=\"ui-dialog-titlebar-buttonpane\" style=\"position: absolute; top: 50%; right: 0.3em; margin-top: -10px; height: 18px;\"><a href=\"#\" class=\"ui-dialog-titlebar-close ui-corner-all\" role=\"button\" style=\"position: relative; float: right; top: auto; right: auto; margin: 0px; display: none;\"><span class=\"ui-icon ui-icon-closethick\">close</span></a><a class=\"ui-dialog-titlebar-collapse ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-triangle-1-s\">collapse</span></a><a class=\"ui-dialog-titlebar-restore ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: block; right: 1.4em;\"><span class=\"ui-icon ui-icon-newwin\">restore</span></a><a class=\"ui-dialog-titlebar-maximize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-extlink\">maximize</span></a><a class=\"ui-dialog-titlebar-minimize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-minus\">minimize</span></a><a href=\"#\" class=\"ep title-handle ui-corner-all ui-icon ui-icon-bullet\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a><a href=\"#\" class=\"scrunchy-button ui-corner-all ui-icon ui-icon-lightbulb\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a></div></div><div id=\"jsonDialog69\" class=\"doc-set docSet ui-dialog-content ui-widget-content ui-resizable ui-dialog-collapsed\" data-id=\"original\" data-source=\"set3\" scrolltop=\"0\" scrollleft=\"0\" style=\"width: auto; min-height: 0px; height: 0px; display: none;\"><div class=\"doc-content\" document_id=\"Disappearance73\">Central Bulletin WRAP UP OF EVENTS AT GASTECH  2014/01/20 ABILA, Kronos <br><br> A long tense day of conflicting reports and confusing information has come to an end. What we know for certain is that 14 GAStech employees are not only missing, but kidnapped as confirmed by a Kronos Government source. At this time it is unclear who the missing are and whether they are citizens of Kronos of Tethys, as many GAStech employees are Tethan. Speculation about the motives of the kidnappers has been rampant due to the recent news of the GAStech Initial Public Offering only a month ago. Edvard Vann, a GAStech - Kronos security guard who was interrogated and released after 6 hours, gave the indication that the Protectors of Kronos were involved or at least suspected as being the perpetrators behind today's events.  A GAStech International senior security executive has been on site to support the investigation aiding the Abila Police Department and Kronos Government officials. Shortly after the morning meeting ended at 10:00, Abila Fire Department trucks responded to reports of a fire at the GAStech office. </div></div></div><div class=\"ui-dialog ui-widget ui-widget-content ui-corner-all close ui-draggable ui-droppable\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"ui-id-71\" id=\"dialog70\" style=\"outline: 0px; z-index: 1071; position: absolute; height: auto; width: 500px; top: 880.003px; left: 470px; display: block;\"><div class=\"ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix\" style=\"white-space: nowrap;\"><span id=\"ui-id-71\" class=\"ui-dialog-title\">Jun 2000, DOCUMENTARY CARD OF PUBLIC HEALTH Of ELODIS </span><div class=\"ui-dialog-titlebar-buttonpane\" style=\"position: absolute; top: 50%; right: 0.3em; margin-top: -10px; height: 18px;\"><a href=\"#\" class=\"ui-dialog-titlebar-close ui-corner-all\" role=\"button\" style=\"position: relative; float: right; top: auto; right: auto; margin: 0px; display: none;\"><span class=\"ui-icon ui-icon-closethick\">close</span></a><a class=\"ui-dialog-titlebar-collapse ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-triangle-1-s\">collapse</span></a><a class=\"ui-dialog-titlebar-restore ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: block; right: 1.4em;\"><span class=\"ui-icon ui-icon-newwin\">restore</span></a><a class=\"ui-dialog-titlebar-maximize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-extlink\">maximize</span></a><a class=\"ui-dialog-titlebar-minimize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-minus\">minimize</span></a><a href=\"#\" class=\"ep title-handle ui-corner-all ui-icon ui-icon-bullet\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a><a href=\"#\" class=\"scrunchy-button ui-corner-all ui-icon ui-icon-lightbulb\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a></div></div><div id=\"jsonDialog70\" class=\"doc-set docSet ui-dialog-content ui-widget-content ui-resizable ui-dialog-collapsed\" data-id=\"original\" data-source=\"set3\" scrolltop=\"0\" scrollleft=\"0\" style=\"width: auto; min-height: 0px; height: 0px; display: none;\"><div class=\"doc-content\" document_id=\"Disappearance74\">The Orb DOCUMENTARY CARD OF PUBLIC HEALTH Of ELODIS - UPDATE 2000/06/01 ELODIS, Kronos <br><br> the environmental consequences of acid displacement hyper of substrate (HASR), a technique of drilling discussed took an enormous toll on the health of the residents of Elodis.  An update with health 1998 for all the report/ratio will be announced soon on the municipal Web site of Elodis. Climaxes <br><br> 1- Levels without precedent of toxins were found in supply water, including phenol, acetic anhydride, wire, and ethylene glycol. 2-  The incidence of the chronic disease increased more than 89% of the former years 3- The exceptionally high incidence of cancer became thus about this minister of Nespola health appointed a specialist in oncology at the hospital general in Abila </div></div></div><div class=\"ui-dialog ui-widget ui-widget-content ui-corner-all close ui-draggable ui-droppable\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"ui-id-72\" id=\"dialog71\" style=\"outline: 0px; z-index: 1072; position: absolute; height: auto; width: 500px; top: 920.003px; left: 470px; display: block;\"><div class=\"ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix\" style=\"white-space: nowrap;\"><span id=\"ui-id-72\" class=\"ui-dialog-title\">July 1996, GASTECH SHIFTS THE HEARTH WITH KRONOS </span><div class=\"ui-dialog-titlebar-buttonpane\" style=\"position: absolute; top: 50%; right: 0.3em; margin-top: -10px; height: 18px;\"><a href=\"#\" class=\"ui-dialog-titlebar-close ui-corner-all\" role=\"button\" style=\"position: relative; float: right; top: auto; right: auto; margin: 0px; display: none;\"><span class=\"ui-icon ui-icon-closethick\">close</span></a><a class=\"ui-dialog-titlebar-collapse ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-triangle-1-s\">collapse</span></a><a class=\"ui-dialog-titlebar-restore ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: block; right: 1.4em;\"><span class=\"ui-icon ui-icon-newwin\">restore</span></a><a class=\"ui-dialog-titlebar-maximize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-extlink\">maximize</span></a><a class=\"ui-dialog-titlebar-minimize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-minus\">minimize</span></a><a href=\"#\" class=\"ep title-handle ui-corner-all ui-icon ui-icon-bullet\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a><a href=\"#\" class=\"scrunchy-button ui-corner-all ui-icon ui-icon-lightbulb\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a></div></div><div id=\"jsonDialog71\" class=\"doc-set docSet ui-dialog-content ui-widget-content ui-resizable ui-dialog-collapsed\" data-id=\"original\" data-source=\"set3\" scrolltop=\"0\" scrollleft=\"0\" style=\"width: auto; min-height: 0px; height: 0px; display: none;\"><div class=\"doc-content\" document_id=\"Disappearance75\">The Light of Truth GASTECH SHIFTS THE HEARTH WITH KRONOS 1996/07/08 CENTRUM, Tethys <br><br> international GAStech shifted its hearth of Tethys in the small Mediterranean island of Kronos and the vast gas layers under the ground. The recent expenses of the subsoil water contamination against international GAStech and tightening environmental payments carry out by the interior minister of Tethan, Ivar Blanes, certainly play in the hearth of shift.  With slackened lawful environmental with non-existent in Kronos and a friendly local government, the movement of GAStech is smelled inevitable retrospectively.  </div></div></div><div class=\"ui-dialog ui-widget ui-widget-content ui-corner-all close ui-draggable ui-droppable\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"ui-id-73\" id=\"dialog72\" style=\"outline: 0px; z-index: 1804; position: absolute; height: auto; width: 500px; top: 0px; left: 705px; display: block;\"><div class=\"ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix\" style=\"white-space: nowrap;\"><span id=\"ui-id-73\" class=\"ui-dialog-title\">Feb. 2009, SANJORGE JR CONDEMNS POK LIKE TERRORISTS</span><div class=\"ui-dialog-titlebar-buttonpane\" style=\"position: absolute; top: 50%; right: 0.3em; margin-top: -10px; height: 18px;\"><a href=\"#\" class=\"ui-dialog-titlebar-close ui-corner-all\" role=\"button\" style=\"position: relative; float: right; top: auto; right: auto; margin: 0px; display: none;\"><span class=\"ui-icon ui-icon-closethick\">close</span></a><a class=\"ui-dialog-titlebar-collapse ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-triangle-1-s\">collapse</span></a><a class=\"ui-dialog-titlebar-restore ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: block; right: 1.4em;\"><span class=\"ui-icon ui-icon-newwin\">restore</span></a><a class=\"ui-dialog-titlebar-maximize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-extlink\">maximize</span></a><a class=\"ui-dialog-titlebar-minimize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-minus\">minimize</span></a><a href=\"#\" class=\"ep title-handle ui-corner-all ui-icon ui-icon-bullet\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a><a href=\"#\" class=\"scrunchy-button ui-corner-all ui-icon ui-icon-lightbulb\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a></div></div><div id=\"jsonDialog72\" class=\"doc-set docSet ui-dialog-content ui-widget-content ui-resizable ui-dialog-collapsed\" data-id=\"original\" data-source=\"set4\" scrolltop=\"0\" scrollleft=\"0\" style=\"width: auto; min-height: 0px; height: 0px; display: none;\"><div class=\"doc-content\" document_id=\"Disappearance77\">The Light of Truth SANJORGE JR CONDEMNS POK LIKE TERRORISTS 2009/02/21 CENTRUM, Tethys <br><br> an official report/ratio released by Sten Sanjorge, president de Jr. and PRESIDENT de international GASTech, condemns the guards of Kronos like illegitimate and organization of terrorist. The report/ratio came in response to the gathering from the protest from one Wednesday by the POK with the registered offices from GAStech - from Kronos. Roughly 200 people met in front of the slogans of song of building of GAStech and the undulating signs pleading people died due the results of the contamination starting from a site of drilling of GAStech. Sanjorge, Jr. answered the complaints of the stating of contamination of GAStech, us [GAStech] worked about it inlassablement to meet - if not exceed - with the international standards of health agreed upon with the government of Kronos before and all drilling. Ten protesters of POK were connected with the door of GAStech - Kronos except the entry with the building. In Sanjorge prolonged of report/ratio Jr. present its argument, if a person is laid out with enfreindre on the private property, if a person is been willing to be connected with a door to prevent businesses from then operating, if a person is been willing to break windows and to burn cars in her own city, this person is been willing to do anything. And if a person is been willing to do anything to achieve their goal of end which they run up against fear in the common citizen. I fear what they will do after because I fear of what they are able. When a group of people employ fear and violence to achieve their goals of end there is only one word for them and this word is terrorist. The report/ratio concludes with Sanjorge, Jr. requiring that the government of the whole of Kronos ensure until not only the safety of my employees, but all citizens of Kronos. </div></div></div><div class=\"ui-dialog ui-widget ui-widget-content ui-corner-all close ui-draggable ui-droppable\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"ui-id-74\" id=\"dialog73\" style=\"outline: 0px; z-index: 1074; position: absolute; height: auto; width: 500px; top: 40px; left: 705px; display: block;\"><div class=\"ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix\" style=\"white-space: nowrap;\"><span id=\"ui-id-74\" class=\"ui-dialog-title\">Jan 2014, Police Hold News Conference on GAStech Kidnapping</span><div class=\"ui-dialog-titlebar-buttonpane\" style=\"position: absolute; top: 50%; right: 0.3em; margin-top: -10px; height: 18px;\"><a href=\"#\" class=\"ui-dialog-titlebar-close ui-corner-all\" role=\"button\" style=\"position: relative; float: right; top: auto; right: auto; margin: 0px; display: none;\"><span class=\"ui-icon ui-icon-closethick\">close</span></a><a class=\"ui-dialog-titlebar-collapse ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-triangle-1-s\">collapse</span></a><a class=\"ui-dialog-titlebar-restore ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: block; right: 1.4em;\"><span class=\"ui-icon ui-icon-newwin\">restore</span></a><a class=\"ui-dialog-titlebar-maximize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-extlink\">maximize</span></a><a class=\"ui-dialog-titlebar-minimize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-minus\">minimize</span></a><a href=\"#\" class=\"ep title-handle ui-corner-all ui-icon ui-icon-bullet\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a><a href=\"#\" class=\"scrunchy-button ui-corner-all ui-icon ui-icon-lightbulb\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a></div></div><div id=\"jsonDialog73\" class=\"doc-set docSet ui-dialog-content ui-widget-content ui-resizable ui-dialog-collapsed\" data-id=\"original\" data-source=\"set4\" scrolltop=\"0\" scrollleft=\"0\" style=\"width: auto; min-height: 0px; height: 0px; display: none;\"><div class=\"doc-content\" document_id=\"Disappearance78\">News Online Today Police Hold News Conference on GAStech Kidnapping  2014/01/21 ABILA, Kronos <br><br> The Abila police held a press conference at nine this morning on the kidnapping GAStech headquarters.  Police informed reporters that four of the GAStech employees whose whereabouts were unconfirmed yesterday were found overnight, leaving ten people who are presumed missing. </div></div></div><div class=\"ui-dialog ui-widget ui-widget-content ui-corner-all close ui-draggable ui-droppable\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"ui-id-75\" id=\"dialog74\" style=\"outline: 0px; z-index: 1799; position: absolute; height: auto; width: 500px; top: 80px; left: 705px; display: block;\"><div class=\"ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix\" style=\"white-space: nowrap;\"><span id=\"ui-id-75\" class=\"ui-dialog-title\">Jan 2014, Breaking: Emergency at GAStech Headquarters Building </span><div class=\"ui-dialog-titlebar-buttonpane\" style=\"position: absolute; top: 50%; right: 0.3em; margin-top: -10px; height: 18px;\"><a href=\"#\" class=\"ui-dialog-titlebar-close ui-corner-all\" role=\"button\" style=\"position: relative; float: right; top: auto; right: auto; margin: 0px; display: none;\"><span class=\"ui-icon ui-icon-closethick\">close</span></a><a class=\"ui-dialog-titlebar-collapse ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-triangle-1-s\">collapse</span></a><a class=\"ui-dialog-titlebar-restore ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: block; right: 1.4em;\"><span class=\"ui-icon ui-icon-newwin\">restore</span></a><a class=\"ui-dialog-titlebar-maximize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-extlink\">maximize</span></a><a class=\"ui-dialog-titlebar-minimize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-minus\">minimize</span></a><a href=\"#\" class=\"ep title-handle ui-corner-all ui-icon ui-icon-bullet\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a><a href=\"#\" class=\"scrunchy-button ui-corner-all ui-icon ui-icon-lightbulb\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a></div></div><div id=\"jsonDialog74\" class=\"doc-set docSet ui-dialog-content ui-widget-content ui-resizable ui-dialog-collapsed\" data-id=\"original\" data-source=\"set4\" scrolltop=\"0\" scrollleft=\"0\" style=\"width: auto; min-height: 0px; height: 0px; display: none;\"><div class=\"doc-content\" document_id=\"Disappearance79\">Kronos Star Breaking: Emergency at GAStech Headquarters Building [Updates] Cato Rossini, Marcella Trapani 20 January 2014 <br><br> At approximately 10:15 AM this morning, the fire alarm went off at the GAStech headquarters building in downtown Abila.  At the time of the alarm, the media had gathered in front of the building to cover the meeting of GAStech executives, including GAStech President and CEO Sten Sanjorge Jr. and local GAStech executives and their subsequent transition to the presidentially hosted reception at the Capitol Building </div></div></div><div class=\"ui-dialog ui-widget ui-widget-content ui-corner-all close ui-draggable ui-droppable\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"ui-id-76\" id=\"dialog75\" style=\"outline: 0px; z-index: 1830; position: absolute; height: auto; width: 500px; top: 120px; left: 705px; display: block;\"><div class=\"ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix\" style=\"white-space: nowrap;\"><span id=\"ui-id-76\" class=\"ui-dialog-title\">Jun 2010, THE GOVERNMENT RESPONDS TO ANOTHER REDONDO OF PROTESTS</span><div class=\"ui-dialog-titlebar-buttonpane\" style=\"position: absolute; top: 50%; right: 0.3em; margin-top: -10px; height: 18px;\"><a href=\"#\" class=\"ui-dialog-titlebar-close ui-corner-all\" role=\"button\" style=\"position: relative; float: right; top: auto; right: auto; margin: 0px; display: none;\"><span class=\"ui-icon ui-icon-closethick\">close</span></a><a class=\"ui-dialog-titlebar-collapse ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-triangle-1-s\">collapse</span></a><a class=\"ui-dialog-titlebar-restore ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: block; right: 1.4em;\"><span class=\"ui-icon ui-icon-newwin\">restore</span></a><a class=\"ui-dialog-titlebar-maximize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-extlink\">maximize</span></a><a class=\"ui-dialog-titlebar-minimize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-minus\">minimize</span></a><a href=\"#\" class=\"ep title-handle ui-corner-all ui-icon ui-icon-bullet\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a><a href=\"#\" class=\"scrunchy-button ui-corner-all ui-icon ui-icon-lightbulb\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a></div></div><div id=\"jsonDialog75\" class=\"doc-set docSet ui-dialog-content ui-widget-content ui-resizable ui-dialog-collapsed\" data-id=\"original\" data-source=\"set4\" scrolltop=\"0\" scrollleft=\"0\" style=\"width: auto; min-height: 0px; height: 0px; display: none;\"><div class=\"doc-content\" document_id=\"Disappearance80\">The Explainer THE GOVERNMENT RESPONDS TO ANOTHER REDONDO OF PROTESTS  2010/06/22 ABILA, Kronos <br><br> the demonstrators aligned with the protectors of the buildings surrounded group by the government of the activist of Kronos (POK) that sang and take to supposed images of his martyrs. The forces of the security of government of Kronos in concert with the police of Abila suppressed the protest with an impressive demonstration of the force. Black dress the authorities that put helmets and gasmasks and brandishing the protectors of the uproar, the ignited bottles of the tear gas as the demonstrators rejected to disperse after several warnings. The group collected proved reluctant to even disperse after the tear gas and of the authorities pressed in the group that protected itself with its protectors and who made pivot their command batons freely. As opposed to overwhelming force, most of the demonstrators fled; nevertheless, a hard group of the base was stopped its earth that underwent the consequences. To the police of the uproar they surrounded to the remaining demonstrators and after the repeated command baton blows many were dragged far under halting. When the smoke cleared between the flags and the rejected samples and pisoteadas, the blood was clearly visible in the seat.</div></div></div><div class=\"ui-dialog ui-widget ui-widget-content ui-corner-all close ui-draggable ui-droppable\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"ui-id-77\" id=\"dialog76\" style=\"outline: 0px; z-index: 1077; position: absolute; height: auto; width: 500px; top: 160px; left: 705px; display: block;\"><div class=\"ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix\" style=\"white-space: nowrap;\"><span id=\"ui-id-77\" class=\"ui-dialog-title\">April 2007, TRAFFIC ACCIDENT NEAR ELODIS</span><div class=\"ui-dialog-titlebar-buttonpane\" style=\"position: absolute; top: 50%; right: 0.3em; margin-top: -10px; height: 18px;\"><a href=\"#\" class=\"ui-dialog-titlebar-close ui-corner-all\" role=\"button\" style=\"position: relative; float: right; top: auto; right: auto; margin: 0px; display: none;\"><span class=\"ui-icon ui-icon-closethick\">close</span></a><a class=\"ui-dialog-titlebar-collapse ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-triangle-1-s\">collapse</span></a><a class=\"ui-dialog-titlebar-restore ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: block; right: 1.4em;\"><span class=\"ui-icon ui-icon-newwin\">restore</span></a><a class=\"ui-dialog-titlebar-maximize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-extlink\">maximize</span></a><a class=\"ui-dialog-titlebar-minimize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-minus\">minimize</span></a><a href=\"#\" class=\"ep title-handle ui-corner-all ui-icon ui-icon-bullet\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a><a href=\"#\" class=\"scrunchy-button ui-corner-all ui-icon ui-icon-lightbulb\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a></div></div><div id=\"jsonDialog76\" class=\"doc-set docSet ui-dialog-content ui-widget-content ui-resizable ui-dialog-collapsed\" data-id=\"original\" data-source=\"set4\" scrolltop=\"0\" scrollleft=\"0\" style=\"width: auto; min-height: 0px; height: 0px; display: none;\"><div class=\"doc-content\" document_id=\"Disappearance81\">News Online Today TRAFFIC ACCIDENT NEAR ELODIS 2007/04/11 ABILA, Kronos <br><br> A government investigation has concluded a traffic accident involving a GAStech International vehicle and the vehicle of a family from Elodis resulting in the deaths of the four family members was the result of driver error on the part of the Elodisian driver. </div></div></div><div class=\"ui-dialog ui-widget ui-widget-content ui-corner-all close ui-draggable ui-droppable ui-resizable\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"ui-id-78\" id=\"dialog77\" style=\"outline: 0px; z-index: 1841; position: absolute; height: auto; width: 500px; top: 200px; left: 705px; display: block;\"><div class=\"ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix\" style=\"white-space: normal;\"><span id=\"ui-id-78\" class=\"ui-dialog-title\">Jan 2014, Police Hold News Conference on GAStech Kidnapping Marcella Trapani </span><div class=\"ui-dialog-titlebar-buttonpane\" style=\"position: absolute; top: 50%; right: 0.3em; margin-top: -10px; height: 18px;\"><a href=\"#\" class=\"ui-dialog-titlebar-close ui-corner-all\" role=\"button\" style=\"position: relative; float: right; top: auto; right: auto; margin: 0px; display: none;\"><span class=\"ui-icon ui-icon-closethick\">close</span></a><a class=\"ui-dialog-titlebar-collapse ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: block;\"><span class=\"ui-icon ui-icon-triangle-1-s\">collapse</span></a><a class=\"ui-dialog-titlebar-restore ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none; right: 1.4em;\"><span class=\"ui-icon ui-icon-newwin\">restore</span></a><a class=\"ui-dialog-titlebar-maximize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-extlink\">maximize</span></a><a class=\"ui-dialog-titlebar-minimize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-minus\">minimize</span></a><a href=\"#\" class=\"ep title-handle ui-corner-all ui-icon ui-icon-bullet\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a><a href=\"#\" class=\"scrunchy-button ui-corner-all ui-icon ui-icon-lightbulb\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a></div></div><div id=\"jsonDialog77\" class=\"doc-set docSet ui-dialog-content ui-widget-content ui-resizable ui-dialog-normal\" data-id=\"original\" data-source=\"set4\" scrolltop=\"0\" scrollleft=\"0\" style=\"width: auto; min-height: 0px; height: 348px; display: block;\"><div class=\"doc-content\" document_id=\"Disappearance82\">Kronos Star Police Hold News Conference on GAStech Kidnapping Marcella Trapani 21 January 2014 ABILA, Kronos <br><br> The Abila police held a press conference at nine this morning on the kidnapping GAStech headquarters.  Police informed reporters that four of the GAStech employees whose whereabouts were unconfirmed yesterday were found overnight, leaving ten people who are presumed missing. Police spokesman Adrien Carman said Tethyn federal law enforcement agencies are assisting in the investigation. The POK is suspected of conducting the kidnapping, but they have yet to claim credit or release a ransom request.  The POK rhetoric has become increasingly anarchist and their actions more criminal and violent over the past several years.</div></div><div class=\"ui-resizable-handle ui-resizable-n\" style=\"z-index: 1000;\"></div><div class=\"ui-resizable-handle ui-resizable-e\" style=\"z-index: 1000;\"></div><div class=\"ui-resizable-handle ui-resizable-s\" style=\"z-index: 1000;\"></div><div class=\"ui-resizable-handle ui-resizable-w\" style=\"z-index: 1000;\"></div><div class=\"ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se ui-icon-grip-diagonal-se\" style=\"z-index: 1000;\"></div><div class=\"ui-resizable-handle ui-resizable-sw\" style=\"z-index: 1000;\"></div><div class=\"ui-resizable-handle ui-resizable-ne\" style=\"z-index: 1000;\"></div><div class=\"ui-resizable-handle ui-resizable-nw\" style=\"z-index: 1000;\"></div></div><div class=\"ui-dialog ui-widget ui-widget-content ui-corner-all close ui-draggable ui-droppable\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"ui-id-79\" id=\"dialog78\" style=\"outline: 0px; z-index: 1079; position: absolute; height: auto; width: 500px; top: 240px; left: 705px; display: block;\"><div class=\"ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix\" style=\"white-space: nowrap;\"><span id=\"ui-id-79\" class=\"ui-dialog-title\">Nov 1998, WELLNESS FOR ALL (WFA) BLASTS GASTECH AND KRONOS GOVT</span><div class=\"ui-dialog-titlebar-buttonpane\" style=\"position: absolute; top: 50%; right: 0.3em; margin-top: -10px; height: 18px;\"><a href=\"#\" class=\"ui-dialog-titlebar-close ui-corner-all\" role=\"button\" style=\"position: relative; float: right; top: auto; right: auto; margin: 0px; display: none;\"><span class=\"ui-icon ui-icon-closethick\">close</span></a><a class=\"ui-dialog-titlebar-collapse ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-triangle-1-s\">collapse</span></a><a class=\"ui-dialog-titlebar-restore ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: block; right: 1.4em;\"><span class=\"ui-icon ui-icon-newwin\">restore</span></a><a class=\"ui-dialog-titlebar-maximize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-extlink\">maximize</span></a><a class=\"ui-dialog-titlebar-minimize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-minus\">minimize</span></a><a href=\"#\" class=\"ep title-handle ui-corner-all ui-icon ui-icon-bullet\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a><a href=\"#\" class=\"scrunchy-button ui-corner-all ui-icon ui-icon-lightbulb\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a></div></div><div id=\"jsonDialog78\" class=\"doc-set docSet ui-dialog-content ui-widget-content ui-resizable ui-dialog-collapsed\" data-id=\"original\" data-source=\"set4\" scrolltop=\"0\" scrollleft=\"0\" style=\"width: auto; min-height: 0px; height: 0px; display: none;\"><div class=\"doc-content\" document_id=\"Disappearance83\">Who What News <br><br> WELLNESS FOR ALL (WFA) BLASTS GASTECH AND KRONOS GOVT  1998/11/14 ABILA, Kronos <br><br> The healthy water awareness group, Wellness for All (WFA), has condemned both GAStech International and the Government of Kronos. WFA's statement claims widespread groundwater contamination, a lack of adequate safeguards, clean-up demands being ignored and no government oversight.  <br><br> However, GAStech International's Environmental Safety Advisor Ingmar Casablancas responded to the claims, The alleged charges levied against GAStech International are unfounded. GAStech International and the Government of Kronos cooperate tirelessly to ensure a clean, safe, and prosperous work place. </div></div></div><div class=\"ui-dialog ui-widget ui-widget-content ui-corner-all close ui-draggable ui-droppable\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"ui-id-80\" id=\"dialog79\" style=\"outline: 0px; z-index: 1795; position: absolute; height: auto; width: 500px; top: 280px; left: 705px; display: block;\"><div class=\"ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix\" style=\"white-space: nowrap;\"><span id=\"ui-id-80\" class=\"ui-dialog-title\"><span class=\"highlight-pink\">Jan 2014, DEMANDS OF THE RESCUE DONE IN THE KIDNAPPING OF GASTECH </span></span><div class=\"ui-dialog-titlebar-buttonpane\" style=\"position: absolute; top: 50%; right: 0.3em; margin-top: -10px; height: 18px;\"><a href=\"#\" class=\"ui-dialog-titlebar-close ui-corner-all\" role=\"button\" style=\"position: relative; float: right; top: auto; right: auto; margin: 0px; display: none;\"><span class=\"ui-icon ui-icon-closethick\">close</span></a><a class=\"ui-dialog-titlebar-collapse ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-triangle-1-s\">collapse</span></a><a class=\"ui-dialog-titlebar-restore ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: block; right: 1.4em;\"><span class=\"ui-icon ui-icon-newwin\">restore</span></a><a class=\"ui-dialog-titlebar-maximize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-extlink\">maximize</span></a><a class=\"ui-dialog-titlebar-minimize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-minus\">minimize</span></a><a href=\"#\" class=\"ep title-handle ui-corner-all ui-icon ui-icon-bullet\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a><a href=\"#\" class=\"scrunchy-button ui-corner-all ui-icon ui-icon-lightbulb\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a></div></div><div id=\"jsonDialog79\" class=\"doc-set docSet ui-dialog-content ui-widget-content ui-resizable ui-dialog-collapsed\" data-id=\"original\" data-source=\"set4\" scrolltop=\"0\" scrollleft=\"0\" style=\"width: auto; min-height: 0px; height: 0px; display: none;\"><div class=\"doc-content\" document_id=\"Disappearance84\">The General Post DEMANDS OF THE RESCUE DONE IN THE KIDNAPPING OF GASTECH 2014/01/21 AVILA, Kronos <br><br> the protectors of Kronos not only have taken the responsibility from the kidnapping of the international employees of GAStech, but also they have made a demand of the rescue of <span class=\"highlight-pink\">$20</span>M of the president and the CEO Sten Sanjorge, Jr. According to the disclosed thing yesterday, it was speculated that Sanjorge, Jr was the target of the kidnapping; nevertheless, Sanjorge, Jr are safe posteriora part in Tethys. <br><br> They founded the group of the kidnapping, the protectors of Kronos, in 1998 in Elodis, a rural municipality outside capital Avila. They have been protesting for the clean water, human rights, and against the corruption of the government of international Kronos and GAStech. They have done more and more does violence to with its protests that were incumbent in the uproars, bombings of the fire, vandalism, and sacking. </div></div></div><div class=\"ui-dialog ui-widget ui-widget-content ui-corner-all close ui-draggable ui-droppable\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"ui-id-81\" id=\"dialog80\" style=\"outline: 0px; z-index: 1638; position: absolute; height: auto; width: 500px; top: 320px; left: 705px; display: block;\"><div class=\"ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix\" style=\"white-space: nowrap;\"><span id=\"ui-id-81\" class=\"ui-dialog-title\">Jan 2014, Blog posts: Homeland Illumination </span><div class=\"ui-dialog-titlebar-buttonpane\" style=\"position: absolute; top: 50%; right: 0.3em; margin-top: -10px; height: 18px;\"><a href=\"#\" class=\"ui-dialog-titlebar-close ui-corner-all\" role=\"button\" style=\"position: relative; float: right; top: auto; right: auto; margin: 0px; display: none;\"><span class=\"ui-icon ui-icon-closethick\">close</span></a><a class=\"ui-dialog-titlebar-collapse ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-triangle-1-s\">collapse</span></a><a class=\"ui-dialog-titlebar-restore ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: block; right: 1.4em;\"><span class=\"ui-icon ui-icon-newwin\">restore</span></a><a class=\"ui-dialog-titlebar-maximize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-extlink\">maximize</span></a><a class=\"ui-dialog-titlebar-minimize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-minus\">minimize</span></a><a href=\"#\" class=\"ep title-handle ui-corner-all ui-icon ui-icon-bullet\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a><a href=\"#\" class=\"scrunchy-button ui-corner-all ui-icon ui-icon-lightbulb\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a></div></div><div id=\"jsonDialog80\" class=\"doc-set docSet ui-dialog-content ui-widget-content ui-resizable ui-dialog-collapsed\" data-id=\"original\" data-source=\"set4\" scrolltop=\"0\" scrollleft=\"0\" style=\"width: auto; min-height: 0px; height: 0px; display: none;\"><div class=\"doc-content\" document_id=\"Disappearance85\">Homeland Illumination VOICES - a blog about what is important to the people Maha Salo 20 January 2014 <br><br> 1049 - We still have no information about the evacuation of the GAStech building.  There are no signs of smoke or flame, and officials are not answering questions.  Firemen have entered the building - as many as a dozen in full turnout gear. 20 Jan 2014</div></div></div><div class=\"ui-dialog ui-widget ui-widget-content ui-corner-all close ui-draggable ui-droppable\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"ui-id-82\" id=\"dialog81\" style=\"outline: 0px; z-index: 1082; position: absolute; height: auto; width: 500px; top: 360px; left: 705px; display: block;\"><div class=\"ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix\" style=\"white-space: nowrap;\"><span id=\"ui-id-82\" class=\"ui-dialog-title\">June 2013, Annual ends of gathering of POK in the riot, still </span><div class=\"ui-dialog-titlebar-buttonpane\" style=\"position: absolute; top: 50%; right: 0.3em; margin-top: -10px; height: 18px;\"><a href=\"#\" class=\"ui-dialog-titlebar-close ui-corner-all\" role=\"button\" style=\"position: relative; float: right; top: auto; right: auto; margin: 0px; display: none;\"><span class=\"ui-icon ui-icon-closethick\">close</span></a><a class=\"ui-dialog-titlebar-collapse ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-triangle-1-s\">collapse</span></a><a class=\"ui-dialog-titlebar-restore ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: block; right: 1.4em;\"><span class=\"ui-icon ui-icon-newwin\">restore</span></a><a class=\"ui-dialog-titlebar-maximize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-extlink\">maximize</span></a><a class=\"ui-dialog-titlebar-minimize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-minus\">minimize</span></a><a href=\"#\" class=\"ep title-handle ui-corner-all ui-icon ui-icon-bullet\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a><a href=\"#\" class=\"scrunchy-button ui-corner-all ui-icon ui-icon-lightbulb\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a></div></div><div id=\"jsonDialog81\" class=\"doc-set docSet ui-dialog-content ui-widget-content ui-resizable ui-dialog-collapsed\" data-id=\"original\" data-source=\"set4\" scrolltop=\"0\" scrollleft=\"0\" style=\"width: auto; min-height: 0px; height: 0px; display: none;\"><div class=\"doc-content\" document_id=\"Disappearance86\">Worldwise Annual ends of gathering of POK in the riot, still 2013/06/22 ABILA, Kronos <br><br> the members of POK held their annual demonstration in Abila yesterday.  A crowd larger than usual met in front of the building of capitol, undulating of the signs holding the images of Elian Karel and Juliana Vann, which were painted like POK martyrdoms.  Crowd sang about the corruption of government and claimed President Dorel Kapelou to bring back.  Several protestateurs carried signs claiming an end to the capitalism of exploitive corporation of Tethys and pleading, GAStech poisoned our children.  <br><br> The police force and the forces of safety of government established between the protestateurs and the building of capitol in an exposure of the force, hoping to prevent the kind of chaos which occurred during the riot of last year.  However, after several hours of the song and the speeches, hardenings in crowd widened and the protestateurs precipitated the line of police force.  The police force was forced to employ teargas, the pepper jet, the guns of water, and the rubber balls to subject crowd and to protect the property.  In spite of their heroic efforts, the protestateurs managed to break some windows, damage several vehicles of police force, and wound three leaders.  </div></div></div><div class=\"ui-dialog ui-widget ui-widget-content ui-corner-all close ui-draggable ui-droppable\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"ui-id-83\" id=\"dialog82\" style=\"outline: 0px; z-index: 1670; position: absolute; height: auto; width: 500px; top: 400px; left: 705px; display: block;\"><div class=\"ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix\" style=\"white-space: nowrap;\"><span id=\"ui-id-83\" class=\"ui-dialog-title\">Jan 2014, Breaking: Emergency at GAStech Headquarters Building</span><div class=\"ui-dialog-titlebar-buttonpane\" style=\"position: absolute; top: 50%; right: 0.3em; margin-top: -10px; height: 18px;\"><a href=\"#\" class=\"ui-dialog-titlebar-close ui-corner-all\" role=\"button\" style=\"position: relative; float: right; top: auto; right: auto; margin: 0px; display: none;\"><span class=\"ui-icon ui-icon-closethick\">close</span></a><a class=\"ui-dialog-titlebar-collapse ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-triangle-1-s\">collapse</span></a><a class=\"ui-dialog-titlebar-restore ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: block; right: 1.4em;\"><span class=\"ui-icon ui-icon-newwin\">restore</span></a><a class=\"ui-dialog-titlebar-maximize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-extlink\">maximize</span></a><a class=\"ui-dialog-titlebar-minimize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-minus\">minimize</span></a><a href=\"#\" class=\"ep title-handle ui-corner-all ui-icon ui-icon-bullet\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a><a href=\"#\" class=\"scrunchy-button ui-corner-all ui-icon ui-icon-lightbulb\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a></div></div><div id=\"jsonDialog82\" class=\"doc-set docSet ui-dialog-content ui-widget-content ui-resizable ui-dialog-collapsed\" data-id=\"original\" data-source=\"set4\" scrolltop=\"0\" scrollleft=\"0\" style=\"width: auto; min-height: 0px; height: 0px; display: none;\"><div class=\"doc-content\" document_id=\"Disappearance87\">Kronos Star Breaking: Emergency at GAStech Headquarters Building [Updates] Cato Rossini, Marcella Trapani 20 January 2014 <br><br> Update, 10:30 AM:  Abila fire department responds to the alarm.  Firemen are seen entering the building. </div></div></div><div class=\"ui-dialog ui-widget ui-widget-content ui-corner-all close ui-draggable ui-droppable\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"ui-id-84\" id=\"dialog83\" style=\"outline: 0px; z-index: 1809; position: absolute; height: auto; width: 500px; top: 440px; left: 705px; display: block;\"><div class=\"ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix\" style=\"white-space: nowrap;\"><span id=\"ui-id-84\" class=\"ui-dialog-title\">June 2010, GOVERNMENT RESPONDS TO ANOTHER ROUND OF PROTESTS</span><div class=\"ui-dialog-titlebar-buttonpane\" style=\"position: absolute; top: 50%; right: 0.3em; margin-top: -10px; height: 18px;\"><a href=\"#\" class=\"ui-dialog-titlebar-close ui-corner-all\" role=\"button\" style=\"position: relative; float: right; top: auto; right: auto; margin: 0px; display: none;\"><span class=\"ui-icon ui-icon-closethick\">close</span></a><a class=\"ui-dialog-titlebar-collapse ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-triangle-1-s\">collapse</span></a><a class=\"ui-dialog-titlebar-restore ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: block; right: 1.4em;\"><span class=\"ui-icon ui-icon-newwin\">restore</span></a><a class=\"ui-dialog-titlebar-maximize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-extlink\">maximize</span></a><a class=\"ui-dialog-titlebar-minimize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-minus\">minimize</span></a><a href=\"#\" class=\"ep title-handle ui-corner-all ui-icon ui-icon-bullet\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a><a href=\"#\" class=\"scrunchy-button ui-corner-all ui-icon ui-icon-lightbulb\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a></div></div><div id=\"jsonDialog83\" class=\"doc-set docSet ui-dialog-content ui-widget-content ui-resizable ui-dialog-collapsed\" data-id=\"original\" data-source=\"set4\" scrolltop=\"0\" scrollleft=\"0\" style=\"width: auto; min-height: 0px; height: 0px; display: none;\"><div class=\"doc-content\" document_id=\"Disappearance88\">News Online Today GOVERNMENT RESPONDS TO ANOTHER ROUND OF PROTESTS 2010/06/21 ABILA, Kronos <br><br> Protesters aligned with the Protectors of Kronos (POK) activist group surrounded government buildings chanting and carry images of their so-called martyrs. Kronos government security forces in concert with Abila police suppressed the protest with an impressive show of force.</div></div></div><div class=\"ui-dialog ui-widget ui-widget-content ui-corner-all close ui-draggable ui-droppable\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"ui-id-85\" id=\"dialog84\" style=\"outline: 0px; z-index: 1085; position: absolute; height: auto; width: 500px; top: 480px; left: 705px; display: block;\"><div class=\"ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix\" style=\"white-space: nowrap;\"><span id=\"ui-id-85\" class=\"ui-dialog-title\">June 2000, LEAF OF THE FACT OF THE PUBLIC HEALTH OF ELODIS </span><div class=\"ui-dialog-titlebar-buttonpane\" style=\"position: absolute; top: 50%; right: 0.3em; margin-top: -10px; height: 18px;\"><a href=\"#\" class=\"ui-dialog-titlebar-close ui-corner-all\" role=\"button\" style=\"position: relative; float: right; top: auto; right: auto; margin: 0px; display: none;\"><span class=\"ui-icon ui-icon-closethick\">close</span></a><a class=\"ui-dialog-titlebar-collapse ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-triangle-1-s\">collapse</span></a><a class=\"ui-dialog-titlebar-restore ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: block; right: 1.4em;\"><span class=\"ui-icon ui-icon-newwin\">restore</span></a><a class=\"ui-dialog-titlebar-maximize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-extlink\">maximize</span></a><a class=\"ui-dialog-titlebar-minimize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-minus\">minimize</span></a><a href=\"#\" class=\"ep title-handle ui-corner-all ui-icon ui-icon-bullet\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a><a href=\"#\" class=\"scrunchy-button ui-corner-all ui-icon ui-icon-lightbulb\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a></div></div><div id=\"jsonDialog84\" class=\"doc-set docSet ui-dialog-content ui-widget-content ui-resizable ui-dialog-collapsed\" data-id=\"original\" data-source=\"set4\" scrolltop=\"0\" scrollleft=\"0\" style=\"width: auto; min-height: 0px; height: 0px; display: none;\"><div class=\"doc-content\" document_id=\"Disappearance89\">Daily Pegasus <br><br> LEAF OF THE FACT OF THE PUBLIC HEALTH OF ELODIS - UPDATE <br><br> 2000/06/01 <br><br> ELODIS, Kronos <br><br> the environmental consequences of the hyperactive acid retirement of the substratum (HASR), a technique that perforated controversy have taken an enormous toll in the health from the residents of Elodis.  An update to health 1998 for all the report soon will be fixed to the municipal Web site of Elodis. I touch of light <br><br> * The levels without toxin precedents were found in the water supply, including fenol, the acetic anhydride, the lead, and the ethylene glycol. <br><br> * The incidence of the chronic disease increased on 89% as of previous years <br><br> * The unusually high incidence of the cancer became so referring to that minister of designated the Nespola health a specialist from the oncologeda to the general hospital of Abila </div></div></div><div class=\"ui-dialog ui-widget ui-widget-content ui-corner-all close ui-draggable ui-droppable\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"ui-id-86\" id=\"dialog85\" style=\"outline: 0px; z-index: 1340; position: absolute; height: auto; width: 500px; top: 520px; left: 710px; display: block;\"><div class=\"ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix\" style=\"white-space: nowrap;\"><span id=\"ui-id-86\" class=\"ui-dialog-title\">June 2009, Blog posts: ELIAN KAREL DEAD IN KRONOS JAIL </span><div class=\"ui-dialog-titlebar-buttonpane\" style=\"position: absolute; top: 50%; right: 0.3em; margin-top: -10px; height: 18px;\"><a href=\"#\" class=\"ui-dialog-titlebar-close ui-corner-all\" role=\"button\" style=\"position: relative; float: right; top: auto; right: auto; margin: 0px; display: none;\"><span class=\"ui-icon ui-icon-closethick\">close</span></a><a class=\"ui-dialog-titlebar-collapse ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-triangle-1-s\">collapse</span></a><a class=\"ui-dialog-titlebar-restore ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: block; right: 1.4em;\"><span class=\"ui-icon ui-icon-newwin\">restore</span></a><a class=\"ui-dialog-titlebar-maximize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-extlink\">maximize</span></a><a class=\"ui-dialog-titlebar-minimize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-minus\">minimize</span></a><a href=\"#\" class=\"ep title-handle ui-corner-all ui-icon ui-icon-bullet\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a><a href=\"#\" class=\"scrunchy-button ui-corner-all ui-icon ui-icon-lightbulb\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a></div></div><div id=\"jsonDialog85\" class=\"doc-set docSet ui-dialog-content ui-widget-content ui-resizable ui-dialog-collapsed\" data-id=\"original\" data-source=\"set4\" scrolltop=\"0\" scrollleft=\"0\" style=\"width: auto; min-height: 0px; height: 0px; display: none;\"><div class=\"doc-content\" document_id=\"Disappearance90\">Homeland Illumination ELIAN KAREL DEAD IN KRONOS JAIL Petrus Gerhard 19 June 2009 ABILA, Kronos  <br><br> Elian Karel, age 28, died Friday while unlawfully incarcerated at the Abila City Prison.  Karel was being held on fraudulent tax evasion charges after his arrest on March 12 earlier this year. His attorney, Michale Kraft made the announcement Friday during a noon press conference. We don't know any details yet.  What I can tell you is that when I left Elian yesterday after meeting with him in the prison he was in excellent health and good spirits.  He was expecting to be released in the next few days and return to his work with the Protectors of Kronos, and was excited to continue the Protectors of Kronos mission to which he dedicated his life.  I can assure you that Elian's death will be investigated with all the resources at our disposal and those responsible will be brought to justice. Supporters of the POK and others began gathering outside the police station as news spread. I can't believe it, Kriste Brontes said through her tears, We were at the rally in March.  He looked and sounded so good.  He was so optimistic that changes were coming.  Who will be able to lead POK now? Karel, from Elodis, had been involved with the POK mission since he was young.  He was only a few years older than Juliana Vann, a friend who died in 1998 of toxin poisoning caused by illegal dumping from the Tethyn company GAStech. Calls to the President's office, the office of the Minister of Justice and the office of the Chief of Police were not immediately returned. </div></div></div><div class=\"ui-dialog ui-widget ui-widget-content ui-corner-all close ui-draggable ui-droppable\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"ui-id-87\" id=\"dialog86\" style=\"outline: 0px; z-index: 1087; position: absolute; height: auto; width: 500px; top: 560px; left: 705px; display: block;\"><div class=\"ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix\" style=\"white-space: nowrap;\"><span id=\"ui-id-87\" class=\"ui-dialog-title\">Jan 2014, Breaking: Emergency at GAStech Headquarters Building </span><div class=\"ui-dialog-titlebar-buttonpane\" style=\"position: absolute; top: 50%; right: 0.3em; margin-top: -10px; height: 18px;\"><a href=\"#\" class=\"ui-dialog-titlebar-close ui-corner-all\" role=\"button\" style=\"position: relative; float: right; top: auto; right: auto; margin: 0px; display: none;\"><span class=\"ui-icon ui-icon-closethick\">close</span></a><a class=\"ui-dialog-titlebar-collapse ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-triangle-1-s\">collapse</span></a><a class=\"ui-dialog-titlebar-restore ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: block; right: 1.4em;\"><span class=\"ui-icon ui-icon-newwin\">restore</span></a><a class=\"ui-dialog-titlebar-maximize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-extlink\">maximize</span></a><a class=\"ui-dialog-titlebar-minimize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-minus\">minimize</span></a><a href=\"#\" class=\"ep title-handle ui-corner-all ui-icon ui-icon-bullet\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a><a href=\"#\" class=\"scrunchy-button ui-corner-all ui-icon ui-icon-lightbulb\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a></div></div><div id=\"jsonDialog86\" class=\"doc-set docSet ui-dialog-content ui-widget-content ui-resizable ui-dialog-collapsed\" data-id=\"original\" data-source=\"set4\" scrolltop=\"0\" scrollleft=\"0\" style=\"width: auto; min-height: 0px; height: 0px; display: none;\"><div class=\"doc-content\" document_id=\"Disappearance91\">Kronos Star Breaking: Emergency at GAStech Headquarters Building [Updates] Cato Rossini, Marcella Trapani 20 January 2014 <br><br> Update, 10:50 AM:  A GAStech employee reports that the fire alarm was pulled in response to a bomb threat.</div></div></div><div class=\"ui-dialog ui-widget ui-widget-content ui-corner-all close ui-draggable ui-droppable\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"ui-id-88\" id=\"dialog87\" style=\"outline: 0px; z-index: 1763; position: absolute; height: auto; width: 500px; top: 600px; left: 705px; display: block;\"><div class=\"ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix\" style=\"white-space: nowrap;\"><span id=\"ui-id-88\" class=\"ui-dialog-title\">Aug 2012, THE WGO ARE PROTESTERS  </span><div class=\"ui-dialog-titlebar-buttonpane\" style=\"position: absolute; top: 50%; right: 0.3em; margin-top: -10px; height: 18px;\"><a href=\"#\" class=\"ui-dialog-titlebar-close ui-corner-all\" role=\"button\" style=\"position: relative; float: right; top: auto; right: auto; margin: 0px; display: none;\"><span class=\"ui-icon ui-icon-closethick\">close</span></a><a class=\"ui-dialog-titlebar-collapse ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-triangle-1-s\">collapse</span></a><a class=\"ui-dialog-titlebar-restore ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: block; right: 1.4em;\"><span class=\"ui-icon ui-icon-newwin\">restore</span></a><a class=\"ui-dialog-titlebar-maximize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-extlink\">maximize</span></a><a class=\"ui-dialog-titlebar-minimize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-minus\">minimize</span></a><a href=\"#\" class=\"ep title-handle ui-corner-all ui-icon ui-icon-bullet\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a><a href=\"#\" class=\"scrunchy-button ui-corner-all ui-icon ui-icon-lightbulb\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a></div></div><div id=\"jsonDialog87\" class=\"doc-set docSet ui-dialog-content ui-widget-content ui-resizable ui-dialog-collapsed\" data-id=\"original\" data-source=\"set4\" scrolltop=\"0\" scrollleft=\"0\" style=\"width: auto; min-height: 0px; height: 0px; display: none;\"><div class=\"doc-content\" document_id=\"Disappearance92\">News Desk <br><br> THE WGO ARE PROTESTERS  <br><br> 2012/08/23 ABILA, Kronos <br><br> with the third anniversary of the death of Elian Karel closer coming - former member of the guards of Kronos - the question is: who are protesters? But not only who she, what are and why do they protest?  <br><br> The guards of Kronos or POK were set up in 1997 residents, of rural Elodis on the advice of now overledde Wellness all (WFA), an international group of the water security. POK in functioning were put to bring attention to clean water spend surrounding Elodis to the government Kronos and the world. POK claim that place of the aardgasboring of bending GAStech the international Tiskele the source of both the pollution of drinking water as well as the destruction of the traditional agriculture ground which surrounds Elodis is.  <br><br> In 1998, WFA conducted testing on the water of Elodis from finding high levels of benzene, toluene and xylene arsenic, barium, chromium, lead and selenium. A further declaration which is released by WFA brought international attention to testing and very on the government and GAStech to act. However, with smashing WFA to attribute to the financing of questions, the requirements of POK were mainly ignored and downplayed. <br><br> Also in 1998, Juliana, Vann, rather healthy of ten years - the old little girl died to a dawdling sickness, which wFA-Gefinancierde the gebisteo doctors water pollution was caused. The government of Kronos refuted officially the requirement the quoting fragmentation of the organization trust WFA as a proof material of onbetrouwbare not source. Anyhow, Juliana the first martyr of POK and has the picture of Juliana on campaign literature sinsdien was used.  <br><br> The second most important martyr of POK is Elian Karel, who in 2009, whereas incarcerated died of indefinite causes. POK claim he trumped omhoog charges were arrested whereas the government of Kronos fights he radical and violent activist was charged with belastingontwijking. Karel gefmpliceerdn with POK since its commencement its father had been seen, Jeroen Karel, an original member was.  The death of Karel van Elian in 2009, was seen by spontaneous agencies of protest round Abila. The anniversary of its dead, 19 June, have extra protests, demonstrations, babble, and violence seen.  <br><br> POK of peaceful protests and demonstrations have evolved which require government action babble to violenter activities including since they claim that the government little has done to nothing in aiming pollution, poisonings, and the sterfgevallen which are incurred by their people. As from 2011, the government of Kronos POK as has a public threat gebtiketteerdl.</div></div></div><div class=\"ui-dialog ui-widget ui-widget-content ui-corner-all close ui-draggable ui-droppable ui-resizable\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"ui-id-89\" id=\"dialog88\" style=\"outline: 0px; z-index: 1846; position: absolute; height: auto; width: 500px; top: 640px; left: 705px; display: block;\"><div class=\"ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix\" style=\"white-space: normal;\"><span id=\"ui-id-89\" class=\"ui-dialog-title\"><span class=\"highlight-pink\">Jan 2014, Blog posts: Centrum Sentinel </span></span><div class=\"ui-dialog-titlebar-buttonpane\" style=\"position: absolute; top: 50%; right: 0.3em; margin-top: -10px; height: 18px;\"><a href=\"#\" class=\"ui-dialog-titlebar-close ui-corner-all\" role=\"button\" style=\"position: relative; float: right; top: auto; right: auto; margin: 0px; display: none;\"><span class=\"ui-icon ui-icon-closethick\">close</span></a><a class=\"ui-dialog-titlebar-collapse ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: block;\"><span class=\"ui-icon ui-icon-triangle-1-s\">collapse</span></a><a class=\"ui-dialog-titlebar-restore ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none; right: 1.4em;\"><span class=\"ui-icon ui-icon-newwin\">restore</span></a><a class=\"ui-dialog-titlebar-maximize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-extlink\">maximize</span></a><a class=\"ui-dialog-titlebar-minimize ui-corner-all ui-state-default\" href=\"#\" role=\"button\" style=\"display: none;\"><span class=\"ui-icon ui-icon-minus\">minimize</span></a><a href=\"#\" class=\"ep title-handle ui-corner-all ui-icon ui-icon-bullet\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a><a href=\"#\" class=\"scrunchy-button ui-corner-all ui-icon ui-icon-lightbulb\" role=\"button\" style=\"position: relative;  margin: 3px;\"></a></div></div><div id=\"jsonDialog88\" class=\"doc-set docSet ui-dialog-content ui-widget-content ui-resizable ui-dialog-normal\" data-id=\"original\" data-source=\"set4\" scrolltop=\"0\" scrollleft=\"0\" style=\"width: auto; min-height: 0px; height: 348px; display: block;\"><div class=\"doc-content\" document_id=\"Disappearance93\">Centrum Sentinel </div></div></div>"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 42466, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Centrum Sentinel"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 42573, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 2", 
+  "tags": [
+   "george", 
+   "tomorrow", 
+   "phase", 
+   "downward", 
+   "oblige"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.914993043912532, 
+  "Time": 42631, 
+  "Duration": 167, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 28", 
+  "tags": [
+   "locate", 
+   "newfound", 
+   "wealth", 
+   "perhaps", 
+   "caterers"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0321050190846504, 
+  "Time": 42799, 
+  "Duration": 249, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 14", 
+  "tags": [
+   "outlets", 
+   "media", 
+   "number", 
+   "missing", 
+   "jan"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 43098, 
+  "Duration": 803, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Tethys"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 44843, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 106", 
+  "tags": [
+   "standard", 
+   "flame", 
+   "new", 
+   "blue", 
+   "rebranding"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 4.482181714408019, 
+  "Time": 44893, 
+  "Duration": 17, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 77", 
+  "tags": [
+   "demonstration", 
+   "command", 
+   "batons", 
+   "rejected", 
+   "uproar"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 44931, 
+  "Duration": 70, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 149", 
+  "tags": [
+   "sanjorge", 
+   "take", 
+   "public", 
+   "buurt", 
+   "aardgasexploratie"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 45322, 
+  "Duration": 16, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "bombing"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 45424, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 125", 
+  "tags": [
+   "bend", 
+   "tiskele", 
+   "larger", 
+   "field", 
+   "estimated"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 4.278849926871901, 
+  "Time": 45480, 
+  "Duration": 681, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "2012, president blaim for bombing ", 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 45872, 
+  "Duration": 10, 
+  "InteractionType": "addNote"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "POK"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 46162, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "2009, bombing police headquarter", 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 46392, 
+  "Duration": 10, 
+  "InteractionType": "addNote"
+ }, 
+ {
+  "DocNum": "Disappearance 149", 
+  "tags": [
+   "sanjorge", 
+   "take", 
+   "public", 
+   "buurt", 
+   "aardgasexploratie"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 46517, 
+  "Duration": 11, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 77", 
+  "tags": [
+   "demonstration", 
+   "command", 
+   "batons", 
+   "rejected", 
+   "uproar"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 46554, 
+  "Duration": 648, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 82", 
+  "tags": [
+   "turnout", 
+   "gear", 
+   "flame", 
+   "smoke", 
+   "firemen"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 47240, 
+  "Duration": 43, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 80", 
+  "tags": [
+   "wfa", 
+   "international", 
+   "wellness", 
+   "unfounded", 
+   "groundwater"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.643313237969536, 
+  "Time": 47296, 
+  "Duration": 95, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 61", 
+  "tags": [
+   "gates", 
+   "facility", 
+   "arrests", 
+   "protesters", 
+   "traffic"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 47425, 
+  "Duration": 126, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "hatches", 
+   "short", 
+   "glimpse", 
+   "entrargli", 
+   "sedan"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 6.381728676916491, 
+  "Time": 47579, 
+  "Duration": 307, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "karel"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 47887, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 61", 
+  "tags": [
+   "gates", 
+   "facility", 
+   "arrests", 
+   "protesters", 
+   "traffic"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 48385, 
+  "Duration": 240, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 61", 
+  "tags": [
+   "gates", 
+   "facility", 
+   "arrests", 
+   "protesters", 
+   "traffic"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 48761, 
+  "Duration": 21, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "March 2009: Body of Karel showed with signs of trauma blunked, abrasions and lacerations of force what occured in hours before its death - June 2009: Karel was being held on fraudulent tax evasion charges", 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 48842, 
+  "Duration": 10, 
+  "InteractionType": "addNote"
+ }, 
+ {
+  "DocNum": "Disappearance 90", 
+  "tags": [
+   "taken", 
+   "measurement", 
+   "voices", 
+   "order", 
+   "societies"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 49757, 
+  "Duration": 977, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "POK"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 50975, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 69", 
+  "tags": [
+   "times", 
+   "october", 
+   "activity", 
+   "article", 
+   "inspirational"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 51353, 
+  "Duration": 206, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "bombing"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 51617, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "bomb"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 51709, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 125", 
+  "tags": [
+   "bend", 
+   "tiskele", 
+   "larger", 
+   "field", 
+   "estimated"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 4.278849926871901, 
+  "Time": 51749, 
+  "Duration": 1140, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 113", 
+  "tags": [
+   "removed", 
+   "ransom", 
+   "bomb", 
+   "sanjorge", 
+   "made"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 52890, 
+  "Duration": 14, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 84", 
+  "tags": [
+   "firemen", 
+   "update", 
+   "building", 
+   "fire", 
+   "seen"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 52915, 
+  "Duration": 31, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "disappear"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 53072, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 58", 
+  "tags": [
+   "scheduled", 
+   "awaiting", 
+   "benzene", 
+   "poisoned", 
+   "haneson"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 11.267042414297435, 
+  "Time": 53168, 
+  "Duration": 133, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "fire"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 53496, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 140", 
+  "tags": [
+   "fire", 
+   "explosion", 
+   "bend", 
+   "fireball", 
+   "tiskele"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.1230692398244924, 
+  "Time": 53543, 
+  "Duration": 37, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 87", 
+  "tags": [
+   "karel", 
+   "elian", 
+   "mission", 
+   "friday", 
+   "march"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 53656, 
+  "Duration": 164, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Firemen"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 53821, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 140", 
+  "tags": [
+   "fire", 
+   "explosion", 
+   "bend", 
+   "fireball", 
+   "tiskele"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.1230692398244924, 
+  "Time": 53870, 
+  "Duration": 237, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "dressed in the black"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 54270, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 141", 
+  "tags": [
+   "riot", 
+   "annual", 
+   "occurred", 
+   "kind", 
+   "force"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 4.18253486961795, 
+  "Time": 54295, 
+  "Duration": 17, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 141", 
+  "tags": [
+   "riot", 
+   "annual", 
+   "occurred", 
+   "kind", 
+   "force"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 4.18253486961795, 
+  "Time": 54329, 
+  "Duration": 104, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "fire signale"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 54434, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 113", 
+  "tags": [
+   "removed", 
+   "ransom", 
+   "bomb", 
+   "sanjorge", 
+   "made"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 54454, 
+  "Duration": 225, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "fire signaler"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 54680, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "witness"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 55028, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 122", 
+  "tags": [
+   "violence", 
+   "peaceful", 
+   "crowd", 
+   "karel", 
+   "began"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 55066, 
+  "Duration": 27, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "CEO"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 55328, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 114", 
+  "tags": [
+   "bend", 
+   "tiskele", 
+   "blocked", 
+   "field", 
+   "handcuffed"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 4.417971676238719, 
+  "Time": 55791, 
+  "Duration": 32, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 113", 
+  "tags": [
+   "removed", 
+   "ransom", 
+   "bomb", 
+   "sanjorge", 
+   "made"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 55837, 
+  "Duration": 12, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 87", 
+  "tags": [
+   "karel", 
+   "elian", 
+   "mission", 
+   "friday", 
+   "march"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 55866, 
+  "Duration": 41, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 87", 
+  "tags": [
+   "karel", 
+   "elian", 
+   "mission", 
+   "friday", 
+   "march"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 56211, 
+  "Duration": 11, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 76", 
+  "tags": [
+   "building", 
+   "alarm", 
+   "cover", 
+   "executive", 
+   "hosted"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 56295, 
+  "Duration": 98, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 151", 
+  "tags": [
+   "trapan", 
+   "unofficial", 
+   "kidnappers", 
+   "accountancy", 
+   "suspected"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 9.731352334748333, 
+  "Time": 56418, 
+  "Duration": 113, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 149", 
+  "tags": [
+   "sanjorge", 
+   "take", 
+   "public", 
+   "buurt", 
+   "aardgasexploratie"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 56539, 
+  "Duration": 14, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 79", 
+  "tags": [
+   "kidnapped", 
+   "conference", 
+   "credit", 
+   "police", 
+   "rhetoric"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 56563, 
+  "Duration": 23, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 30", 
+  "tags": [
+   "disorder", 
+   "protesters", 
+   "concerns", 
+   "squat", 
+   "simmered"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 56597, 
+  "Duration": 247, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "IPO"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 56845, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 1", 
+  "tags": [
+   "representatives", 
+   "responsibility", 
+   "health", 
+   "plagued", 
+   "reverse"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 57062, 
+  "Duration": 6, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 1", 
+  "tags": [
+   "representatives", 
+   "responsibility", 
+   "health", 
+   "plagued", 
+   "reverse"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 57093, 
+  "Duration": 283, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "wfa", 
+   "karel", 
+   "julian", 
+   "pok", 
+   "affirmed"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 57377, 
+  "Duration": 72, 
+  "InteractionType": "OpenDoc"
+ }
+]

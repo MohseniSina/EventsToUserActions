@@ -1,0 +1,258 @@
+Timestamp,Transcript
+[00:00:16]:,User starts with reading the prompt note
+[00:00:56]:,Still reading the prompt
+[00:01:17]:,"""I'm thinkiing what to start with"""
+[00:01:31]:,"Picking the last document in bottom right with title ""May 2011. DHS Foils Plot"""
+[00:01:28]:,User changed the topic: (Looking for information on radioactive and network of dread) [bottom-up]
+[00:01:53]:,"Highlighting ""detonate a dirty bomb"""
+[00:01:58]:,"Highlighting ""Network of Dread"""
+[00:02:20]:,"Highlighting "" radioactive material """
+[00:02:21]:,"""So it involves radioactive"""
+[00:02:33]:,"""here is a name"""
+[00:02:34]:,"Highlighting ""Bruno Eggleston"""
+[00:03:11]:,"""Let's look for this guys name"""
+[00:03:16]:,"Searching for ""Bruno eggleston"""
+[00:03:56]:,"Searching for ""radioactive material"""
+[00:03:59]:,"Searching for ""radioactive"""
+[00:04:10]:,"Searching for ""Network of Dread"""
+[00:04:18]:,"Picking a document in title ""May 2011 Overseas Terror Group Threatens Press"""
+[00:04:20]:,Making connection between two documents
+[00:04:32]:,"Highlighting "" threatening email"""
+[00:04:40]:,"Highlighting ""VastPress"""
+[00:05:37]:,"""These two also have same time frame in 2011. So maybe connected"""
+[00:06:08]:,"Searching for ""DHS"""
+[00:06:11]:,"Searching for ""radiation"""
+[00:06:14]:,"Searching for ""radiat"""
+[00:06:19]:,"Searching for ""Bomb"""
+[00:06:25]:,Looking through titles
+[00:06:43]:,"Picking a document from search results in title ""March 2011. Hollywood Hopefuls Look Hard At Turner's New Line Cinema"""
+[00:07:47]:,"Picking a document in title ""March 2011. Not All Security Levels Are Created Equal """
+[00:07:45]:,User changed the topic: (Information on bombs and psychobrotherhood) [bottom-up]
+[00:08:10]:,"Highlighting ""bombing of Pan Am Flight 566"""
+[00:08:53]:,"Highlighting ""airports are likely to have special bomb-detection units"""
+[00:09:28]:,"Highlighting ""US airport. by contrast"""
+[00:10:03]:,"Picking a document in title ""May 2011. Bomb Makers Apprehended """
+[00:10:12]:,"Highlighting ""Psychobrotherhood"""
+[00:10:22]:,"Highlighting ""Ciminally Insane"""
+[00:10:47]:,"Searching for ""psychobrotherhood"""
+[00:11:02]:,"Searching for ""criminally"""
+[00:11:23]:,"Highlighting ""several explosive devices"" in the last article"
+[00:12:12]:,"Searching for ""Vastpress"""
+[00:12:10]:,User changed the topic: (Looking for events related to Vastpress and mice) [bottom-up]
+[00:12:23]:,Looking through titles
+[00:12:37]:,"Picking a document in title ""May 2011. Boatmen's Bancshares Inc's stock price surged """
+[00:12:56]:,"Picking a document in title ""May 2011. threatening emails sent to VastPress"""
+[00:13:10]:,"Highlighting ""Citizens for the Ethical Treatment of Lab Mice"""
+[00:13:16]:,"Highlighting ""connected to the Brotherhood of Antarctica"""
+[00:13:36]:,"Highlighting ""has been sending emails of a threatening nature to"""
+[00:14:04]:,"""So. they're angry about mice"""
+[00:14:15]:,"Highlighting ""The threats are rather strange. with the intent to ``free'' all mice in the city and use humans for experimental purposes"""
+[00:14:22]:,Making connection between mice documents and first group
+[00:14:27]:,Looking through titles
+[00:13:55]:,Looking at old artticles and new articles
+[00:16:00]:,"""I'm not sure these articles are relevant. I'm going to try different search term"""
+[00:16:09]:,"Searching for ""Mice"""
+[00:16:25]:,"Searching for ""brotherhood of antarctica"""
+[00:16:55]:,"Searching for ""Bomb"""
+[00:17:07]:,"Picking a document in title ""May 2011. Explosives Traces Are Said To Be Found in Antarctica Airlines """
+[00:17:26]:,"Highlighting ""Antarctica Airlines flight"""
+[00:17:37]:,"Highlighting ""Bomb"""
+[00:17:59]:,"Highlighting ""PETN. a component of some plastic explosives"""
+[00:19:02]:,user puts the document aside as a separeted group
+[00:19:05]:,"Searching for ""antarctica"""
+[00:19:02]:,User changed the topic: (Looking for events around Antarctica Airline) [bottom-up]
+[00:19:19]:,"Picking a document in title ""May 2011. US Antiterrorism Effort Is Flawed. as Threat Grows """
+[00:19:49]:,"Highlighting ""Antarctica Airlines flight"""
+[00:20:20]:,"Highlighting ""Sen Ricki Dow of Indiana have led the effort to focus political attention on the threat of terrorism"""
+[00:21:13]:,"Highlighting ""Arizona paramilitary group called the Viper Militia"""
+[00:21:55]:,Still reading the document
+[00:22:31]:,"Highlighting ""Jamila S Doak. deputy US attorney general. said the one-year effort deserves the ``same level of urgency'' as the Manhattan Project"""
+[00:22:51]:,Making connection between this documents and previous Antractical article. second group of documents
+[00:23:14]:,"Picking a document in title ""May 2011. Alleged Trade Center Bomber Convicted of Plotting Air """
+[00:23:41]:,"Highlighting ""unsuccessful bombing conspiracy along with two accomplices"""
+[00:24:00]:,Still reading the document
+[00:24:21]:,Still reading the document
+[00:24:39]:,"""Not related to the other ones"""
+[00:24:47]:,"Picking a document in title ""April 2011. Investigators Question Passengers On Previous Leg of Antarctica Airlines Flight"""
+[00:25:06]:,Still reading the document
+[00:25:43]:,Still reading the document
+[00:26:00]:,Still reading the document
+[00:26:22]:,Still reading the document
+[00:26:32]:,"Highlighting ""Antarctica Airlines flight"""
+[00:26:39]:,"Highlighting ""bodies raised the total to 204"""
+[00:26:58]:,"Highlighting ""interviewing all the passengers"""
+[00:27:29]:,Making connection between this documents and Antractica Airline group
+[00:27:38]:,"Picking a document in title ""May 2011. US Antiterrorism Effort Is Flawed. as Threat Grows"""
+[00:28:03]:,Still reading the document
+[00:28:32]:,Still reading the document
+[00:28:52]:,Still reading the document
+[00:29:06]:,"""Not usfull"""
+[00:29:10]:,"Writing a new note, Note 1: ""- Antarctica Flight- Crashed- Could be from bomb,missile, or mechanical failure- 204 dead, many missing"""
+[00:30:52]:,Making connection between the note and Antractica Airline articles group
+[00:31:11]:,"Writing a new note, Note 2: ""- VastPress is often sent threatening emails- One group suspected of sending emails attempted to detonate bomb in a American city"""
+[00:33:02]:,Making a connection between note 2 and first group of documents
+[00:33:24]:,Looking through titles
+[00:33:36]:,"Picking a document in title ""April 2011. South Korean Police Siege on University Students Continues"""
+[00:33:32]:,User changed the topic: (Looking for terrorist groups overseas) [bottom-up]
+[00:33:54]:,"Highlighting ""bloody and violent protests"""
+[00:33:58]:,"Highlighting ""1000 students"""
+[00:34:14]:,"Highlighting ""Seoul"""
+[00:34:55]:,"Highlighting ""pro-unification rally"""
+[00:35:20]:,"""I want to know who they are. but It's not in the Vastopolis area. so may not be relevant"""
+[00:36:00]:,So many documents comes up and looking through topics
+[00:36:26]:,User changed the topic: (Looking for terrorist groups near Vastopolis) [bottom-up]
+[00:36:30]:,"Picking a document in title ""May 2011. City Threat Level Increased"""
+[00:36:40]:,"Highlighting ""increase threat of an attack"""
+[00:36:51]:,"Highlighting ""Vastopolis"""
+[00:37:11]:,"Highlighting ""terrorists"""
+[00:37:17]:,Puts the document aside
+[00:37:30]:,User changed the topic: (Looking at sports information) [bottom-up]
+[00:37:33]:,"Picking a document in title "" April 2011. Games Committee Is Concerned Over the Number of Foul-Ups"""
+[00:38:06]:,Still reading the document
+[00:38:39]:,"Highlighting ""ACOG-IBM"""
+[00:38:46]:,"Highlighting ""severe delays or simply failed to provide data for their own records"""
+[00:39:04]:,"Searching for ""ACOG"""
+[00:39:09]:,"Searching for ""IBM"""
+[00:39:16]:,"Picking a document in title ""May 2011. Open tennis championships Selecting a Tennis Racket Can Be a Game of Inches """
+[00:39:39]:,"Picking a document in title ""April 2011. NCR. IBM Are Awarded Contracts by Post Office"""
+[00:40:00]:,"Picking a document in title ""April 2011. Major Indexes Drop Further As Vastsoft Continues to Fall"""
+[00:40:36]:,Making connection between two documents
+[00:40:46]:,"Highlighting ""Xylan"""
+[00:40:51]:,"Highlighting ""IBM"""
+[00:41:14]:,"Searching for ""olympic"""
+[00:41:24]:,Looking at highlighted words to find search terms
+[00:41:32]:,"Searching for ""IGC"""
+[00:41:46]:,"Searching for ""IOC"""
+[00:41:51]:,"Picking a document in title ""April 2011. Games Committee Is Concerned Over the Number of Foul-Ups"""
+[00:42:10]:,Still reading the document
+[00:42:39]:,Still reading the document
+[00:43:20]:,"""Threre couple of threads so far. There's quiet a bit information about this Antractica Airlines that crash but there's no for sure cause for it just afew suspects."""
+[00:43:37]:,"""Then there's also a dirty bomb"""
+[00:43:59]:,Looking through titles
+[00:44:04]:,"Picking a document in title ""April 2011. Bomb Blast Kills Nine"""
+[00:44:02]:,User changed the topic: (Looking for bombings and threats) [bottom-up]
+[00:44:29]:,"Highlighting ""bomb exploded"""
+[00:44:38]:,"Highlighting ""telephone booth by the main departure lounge"""
+[00:44:45]:,"Highlighting ""killing nine people. wounding 20"""
+[00:45:14]:,Still reading the document
+[00:45:42]:,Highlighting a paragraph about list of explosion and bombings
+[00:45:50]:,"Highlighting ""Minister Brooks Rupe"""
+[00:46:10]:,"Searching for ""brooks rupe"""
+[00:46:15]:,Looking through titles
+[00:47:14]:,"Writing a new note, Note 3: ""Likely not terrorism"""
+[00:47:29]:,Making connection between new note and group of documents
+[00:47:38]:,Looking through titles
+[00:48:52]:,Looking through titles
+[00:49:36]:,Looking through titles
+[00:49:56]:,"Picking a document in title ""May 2011 Fidelity Asks Securities Firms For More-Detailed"""
+[00:50:15]:,"""No. nothing here"""
+[00:50:17]:,Looking through titles
+[00:50:30]:,"Picking a document in title ""May 2011. Explosions at Smogtown Chemical Plant"""
+[00:50:38]:,"Highlighting ""Smogtown Chemical Plant"""
+[00:51:02]:,Still reading the document
+[00:51:20]:,Still reading the document
+[00:51:41]:,"Highlighting ""terrorist act"""
+[00:51:47]:,"Highlighting ""May 17 2011"""
+[00:51:59]:,"Highlighting ""little evidence to support the assertions"""
+[00:52:10]:,"Highlighting ""An accident and that terrorism was not involved"""
+[00:52:24]:,Looking through titles
+[00:52:29]:,"Picking a document in title ""May 2011 Who Will Pay High Cost Of Relief From Pain?"""
+[00:52:44]:,Looking through titles
+[00:53:01]:,"Picking a document in title ""May 2011. UAW. Auto Firms Study Extended National Pac"""
+[00:53:12]:,Looking through titles
+[00:53:42]:,"Picking a document in title ""March 2011 Peter Will Move U.S. Troops In Middle East to Secure Areas"""
+[00:53:40]:,User changed the topic: (Looking through terrorist activities in middleast) [bottom-up]
+[00:53:48]:,"Highlighting ""threatened terrorist attacks"""
+[00:54:00]:,"Highlighting ""Saudi Arabi"""
+[00:54:39]:,"Highlighting ""Gulf region"""
+[00:55:06]:,Looking through titles
+[00:55:42]:,"Picking a document in title ""March 2011. George Excited to Join Oilers For the First Day of Camp """
+[00:56:11]:,Looking through titles
+[00:56:25]:,"Picking a document in title ""April 2011. Saudi Group Claims 6 Militants Confessed to US Base Bombing"""
+[00:56:39]:,"Highlighting ""truck bombing that killed 19 US servicemen in Saudi Arabia"""
+[00:57:39]:,"Highlighting ""statements are not necessarily reliable"""
+[00:57:48]:,"Highlighting ""four Saudi men were arrested and gave televised confessions"""
+[00:58:00]:,"Highlighting ""possible implication of Iran"""
+[00:58:21]:,Still reading the document
+[00:58:47]:,"Highlighting ""possible implication of Iran"""
+[00:58:56]:,Making connection between two documents about middle east events
+[00:59:20]:,User changed the topic: (Looking at airport threats) [bottom-up]
+[00:59:24]:,"Picking a document in title ""May 2011. Suspicious Turkey Found with Man at Airport"""
+[00:59:49]:,"""title is strange"""
+[00:59:54]:,"Highlighting ""treat the package as a bomb"""
+[01:00:06]:,"Highlighting ""wires coming out of it"""
+[01:00:11]:,"Highlighting """"frozen turkey"""
+[01:00:54]:,Looking through titles
+[01:01:17]:,User changed the topic: (Looking at foreign threats to US) [bottom-up]
+[01:01:20]:,"Picking a document in title ""May 2011. Pepsi Asks Venezuela to Perdue Ex-Kunkle's Pact With Coke"""
+[01:01:37]:,"Picking a document in title ""March 2011. US Plans to Seek Indictments Of 2 ADM Execs"""
+[01:01:39]:,Looking through titles
+[01:01:42]:,"Picking a document in title ""May 2011. The Gag Rule Party"""
+[01:02:02]:,"Picking a document in title ""April 2011. Fear of National Rail Strike Eases As Track Union Nears Accord """
+[01:02:25]:,"Picking a document in title ""March 2011. Serbs Threaten UN Staff If NATO Arrests Karadzic """
+[01:02:36]:,"Highlighting ""Bosnian Serbs threatened to revive their wartime practice of taking United Nations peacekeepers hostage to ward off NATO strikes"""
+[01:03:08]:,"""I did much of the articles over the title. but alot are about buisness. companeis and stocks. I can't see anything"""
+[01:03:37]:,"Picking a document in title ""May 2011. Missile-Defense Plans Divide Codi and Dinger Stocks"""
+[01:04:17]:,"Highlighting ""It is over how and when to deploy the first defense against an enemy ballistic-missile attack on the US"""
+[01:05:45]:,"Highlighting ""expand the treaty by adding Ukraine and other former pieces of the Soviet Union to its signatories"""
+[01:05:56]:,"Highlighting ""1972 Anti Ballistic Missile treaty with the Russians"""
+[01:06:11]:,Looking through all highlights and titles
+[01:07:06]:,"Writing a new note, Note 4: ""- Direct International Threats to US, unsure if individuals or organized by government- Mainly from the Gulf Region- US has debated taking steps to prevent missile strikes"""
+[01:08:28]:,Looking through highlights
+[01:08:44]:,"Writing a new note, Note 5: ""Pakistan frequent bombings- only threat \u00a0to Vastopolis if airplane is carrying bomb, like in the May articles"""
+[01:10:10]:,Making connection between the note and the document
+[01:10:21]:,Making connection between note 5 and the document
+[01:10:42]:,Making connection between Note 5 and the document
+[01:10:57]:,"""I'm trying to organize everything. I looked through all the titles. alot of them does not support and other things doesn't likely directly mention terorrisem. So I ignored those and kind of flag those up that could be terorrism"""
+[01:11:27]:,"""Some of my findings are directly fit to vastapolis and some not. There's only one I saw directly related to Vastapolis but there are couple in other area"""
+[01:12:06]:,Looking at highlights
+[01:12:30]:,Making connection between Note 5 and a document
+[01:12:56]:,Still organizing the findings
+[01:13:23]:,"Making a new note, Note 6 ""Unlikely related activityone was prevented and the other was likely an accident"""
+[01:14:34]:,Making connection between Note 6 and a document
+[01:14:43]:,Making connection between Note 6 and a document
+[01:15:27]:,"""I classified everything now"""
+[01:15:44]:,"Searching for ""Korea"""
+[01:15:51]:,"Picking a document in title ""April 2011. South Korean Police Siege on University Students Continues"""
+[01:16:00]:,"""Not helpfull"""
+[01:16:00]:,User changed the topic: (Looking through titles and documents to find new evidences) [bottom-up]
+[01:16:03]:,"Picking a document in title ""Work Week VastPress Interactive Edition News' """
+[01:16:28]:,"""This one actually has some stuff on it"""
+[01:17:35]:,"Highlighting ""Kawasaki City. just south of Tokyo. has scrapped a nationality requirement for civil servants in order to hire from a large ethnic Korean population. setting off an uproar"""
+[01:17:57]:,"Picking a document in title ""April 2011"
+[01:18:17]:,"Picking a document in title ""May 2011. Investing on environmental package to clean toxic waste dumps Codi Unveils"""
+[01:19:00]:,"""Politics"""
+[01:19:08]:,"Picking a document in title ""April 2011. Vietnam's first cybercafe"""
+[01:19:58]:,"Picking a document in title ""May 2011. Fines and penalties by British and Hong kong financial regulators"""
+[01:20:26]:,Looking through titles
+[01:20:49]:,Looking through titles
+[01:20:55]:,"Picking a document in title ""May 2011. Airbus Industrie Prepares For Unique Restructuring """
+[01:21:31]:,Looking through titles
+[01:21:57]:,"Picking a document in title ""March 2011. Karadzic Resigns From Party. Relinquishing Remaining Powers"""
+[01:22:21]:,"Searching for ""Bosnia"""
+[01:22:32]:,"""I'm not looking for anything specific. I'm just looking ffor something related. looking through articles"""
+[01:23:09]:,Looking through titles
+[01:23:44]:,"""This looks interesting"""
+[01:23:46]:,"Picking a document in title ""Large Number of Weapons Found During Traffic Stop"""
+[01:24:11]:,"Highlighting ""Cornertown"""
+[01:24:09]:,User changed the topic: (Looking for terrorist threats) [bottom-up]
+[01:24:21]:,"Highlighting ""Samuel Stansbur"""
+[01:24:27]:,"Highlighting ""Network of Hate"""
+[01:24:47]:,"Highlighting ""3 surface-to-air missiles"""
+[01:24:51]:,"Highlighting ""Classified"""
+[01:25:31]:,"Writing a new note, Note 7: ""- weapons confiscated- intention and other context confidential"""
+[01:26:11]:,"Writing a new note, Note 8: ""They are on alert for terrorist threats"""
+[01:27:27]:,"Picking a document in title ""April 2011. Editorial Scapegoating Gun Owners"""
+[01:27:40]:,"Picking a document in title ""murder of 16 kindergarten children and their teacher in Dunblane. Scotland"""
+[01:27:58]:,"Writing a new note, Note 9: ""Domestic, Individual Mass Violence Possible"""
+[01:28:08]:,Making connection between the note and document
+[01:28:42]:,"Picking a document in title ""May 2011. Suspects Apprehended"""
+[01:28:46]:,"Highlighting ""Paramurderers of Chao"""
+[01:29:08]:,"Highlighting ""they destroyed most of the equipment. and therefore most the evidence"""
+[01:29:24]:,"Making connection between Note 9 and the ""Suspects Apprehended"" documents"
+[01:29:40]:,Looking through titles
+[01:30:17]:,Looking through titles
+[01:30:27]:,"Picking a document in title ""April 2011. Court Papers Link Unabomber To Another Blast After Arrest"""
+[01:30:32]:,"Highlighting ""Theron Silver"""
+[01:30:40]:,"Highlighting ""Montana cabin"""
+[01:31:12]:,"""This last one was personal link to bombing. not really any clear link between the person and the bombings"""

@@ -1,0 +1,335 @@
+Timestamp,Transcript
+0:00:23,User starts the study with reading the prompt note
+0:00:44,"Highlighting ""January. 2014"""
+0:01:05,"""Ok. they did kidnaping"""
+0:01:10,Still reading the prompt
+0:01:20,"""Lots of these here are from Jan 2014"""
+0:01:28,"""Lets look back at the earliest things we can find"""
+0:01:30,User changed the topic: (Looking for origin of the events in past) [bottom-up]
+0:01:35,Looking at dates in the article topics
+0:01:40,"Searching for ""1994"""
+0:01:45,"Searching for ""1995"""
+0:01:48,"""Seems earliest is 1995"""
+0:01:51,"Picking a document in title ""Oct 1995. MAGNIFICENT OPENING GASTECH-KRONOS"""
+0:01:57,"Picking a document in title ""March 1995. DRILLING TECHNIQUE BANNED"""
+0:02:03,"Picking a document in title ""Nov 1995. Araullo announces the new construction of hospital"""
+0:02:12,user starts reading with the first selected article
+0:02:27,"Highlighting ""Sten Sanjorge"""
+0:03:06,"Highlighting ""The gas field in the production outside Avila has exceeded even the expectations great size of Sanjorge. having paid the building often above"""
+0:03:10,"""Seems the government was interested in Gastech"""
+0:03:13,"Highlighting ""was several representatives of the government of Kronos"""
+0:03:18,starts reading the second article
+0:03:38,"""another name here"""
+0:03:50,"Highlighting ""The administrator Torsten Trucco of hospit"""
+0:04:25,Still reading the document
+0:04:50,starts reading the last article from 1995
+0:05:06,"""what tethys? it was Kronos. it say's tethys besed?"""
+0:05:32,"Searching for ""tethys"""
+0:05:36,"""ok. it's too general. let's look at somerthing else"""
+0:05:45,"Searching for ""Hasr"""
+0:05:55,User changed the topic: (Looking for information on HASR) [bottom-up]
+0:06:03,User moves these documents to the top
+0:06:21,"Highlighting ""Hyper Acidic Substrate Removal (HASR) has officially been banned by the Tethys government"""
+0:06:32,Looking through titles from last search
+0:06:44,user picks all four results
+0:06:55,"Reading document in title ""May 2000. ELODIS PUBLIC HEALTH FACT SHEET"" based on date"
+0:07:07,"Highlighting ""Maha Salo 31 May 2000 ELODIS. Kronos"""
+0:07:27,Still reading the document
+0:07:40,"Highlighting ""Minister of Health Nespola appointed an oncology specialist to Abila General Hospital"""
+0:07:59,"Searching for ""Oncology"""
+0:08:02,"Starts reading a document in title ""Jun 2000. DOCUMENTARY CARD OF PUBLIC HEALTH Of ELODIS"""
+0:08:22,Comparing this document with the last one
+0:08:37,"""oh they have the same information"""
+0:08:39,Making connection between these two documents
+0:08:56,"Reading the last document about the ""hast"""
+0:09:16,"""Again same thing. probably diffrent press reporting the same incident"""
+0:09:37,"""I want to hide it behid the last two. so I don't see it again"""
+0:09:45,lets see what's the last one about
+0:10:10,Looking at the highlights from the other one
+0:10:22,"""This one is the same report again"""
+0:10:25,puts all four HASR articles aver each other
+0:10:35,"""ok. I've some names here. let's see what have been they up to"""
+0:10:44,"Searching for ""Nespola"""
+0:10:44,User changed the topic: (Looking for peoples name in articles. Who is Nespola? Tax laws) [bottom-up]
+0:10:51,"""ok. more documents. some of them are early which is awesome"""
+0:11:04,User picks all four results
+0:11:05,"Reading a document in title ""July 1997. Worldwise Additional taxes by champions of Nespola of minister on oil Worldwise Additional"""
+0:11:12,"""So he want's to tax oil"""
+0:11:23,"Highlighting ""Cesare Nespola"""
+0:11:33,"""So he's already some one who doesn't like Gastech. because he wants to tax oil and also put up a ban on the other one"""
+0:11:55,"Highlighting ""increase taxes on the development of oil and gas of one 10% additional"""
+0:12:03,"""He's also responsible for the the oncology problem"""
+0:12:15,"Highlighting ""Nespola minister created a program of the financial incentives conceived to bring the doctors qualified to practice medicine in Abila"""
+0:12:25,"Reading a document in title ""Nov 1998. POK REPRESENTATIVES MEET WITH KRONOS MINISTER OF HEALTH"""
+0:12:34,"""Here is a connection. the met him"""
+0:12:38,"Highlighting ""Protectors of Kronos (POK) met earlier this week with Cesare Nespola"""
+0:12:42,"Writing a new note. Note 1: ""Nov, 1998 - POK met with Admin Nespola """
+0:13:20,"""So POK was formed and response to GAStech"""
+0:13:20,"Highlighting ""The POK formed in 1997 from a grassroots action group in response to the pollution of the Elodis water supply and the resultant sickness and deaths of local residents over the subsequent several years"""
+0:13:43,"Opening a document in title ""March 2001. Added Taxes on Oil."""
+0:14:14,"Highlighting ""A motion to increase taxes on oil and gas development by an additional 10% was defeated today in the General Assembly by a vote of 77 to 23. """
+0:14:23,"Add more notes in Note 1: ""Nov, 1998 - POK met with Admin Nespola """
+0:14:45,"Highlighting ""I'm disappointed by the vote. but the Assembly was concerned that the increase in tax would discourage foreign investment in our energy sector. """
+0:15:00,"""So the tax increases were defited. but the drilling technique was already banned"""
+0:15:03,Looking back to the article about drilling technique
+0:15:14,"""I still don't get it. Is theytas another country?"""
+0:15:33,"Searching for ""Tethys"""
+0:15:39,Looking through titles and highlights
+0:16:21,Making connection between two documents about Nespola
+0:16:34,"""So. in 1997 he proposed it. but in 2001 they vote on it. he probably met with POK and worked with them as a best coarse of action. and at some point they went radical. definatly hard to suspect that they actualy kidnaped people"""
+0:17:00,Looking through highlights
+0:17:09,"""Up until this point he was still trying to fight. but it got wild somehow"""
+0:17:37,"Adding more notes in Note 1: ""July, 1997- Nespola prposed tax increase March, 2001 - Tax increase defeated"""
+0:18:23,Looking through highlights
+0:18:39,"""Here is the adminastrative of the hospital """
+0:18:40,"Searching for ""Torsten Trucco"""
+0:18:40,User changed the topic: (Looking for more people) [bottom-up]
+0:18:45,"""Nothing"""
+0:19:03,"Highlighting ""President Kapelou's"" in one of previous articles"
+0:19:15,"Searching for ""Kapelou"""
+0:19:24,"Picking a document in title ""Feb 2009. The protest of POK at GAStech sits of the ends in the arrests"""
+0:19:35,"Highlighting ""The protest of POK at GAStech sits of the ends in the arrests"""
+0:20:03,"Highlighting ""registered offices of GAStech in Abila"""
+0:20:21,"Highlighting ""The gathering of POK was designed to call the attention to their complaints of the environmental damage caused by the development of the oil and gas layers around Kronos by foreign companies like GAStech"""
+0:20:54,"Searching for ""Carman of Adrien"""
+0:21:00,"Searching for ""Carman"""
+0:21:07,Looking through results
+0:21:23,"Highlighting ""To maintain order Carman of Adrien of spokesman"""
+0:21:52,"Highlighting ""Elian Karel"""
+0:22:03,"Highlighting ""The spokesman Rufus Drymiau of government"""
+0:22:26,"Highlighting ""The POK. once a small political group of activist of the citizens of the area of Elodis. was revitalization under the charismatic control of Elian Karel"""
+0:23:00,"Highlighting ""ordered the police force to assure additional protection for the public futures rallys of POK"""
+0:23:03,"""It seems it's protecting POK which is important"""
+0:23:16,"Adding more note in Note 1: ""February 2009 - POK protest led by Elian Karel in Abila office of GasTech"""
+0:24:19,"""lets cahse this guy"""
+0:24:20,"Highlighting ""Elian Karel"""
+0:24:22,User changed the topic: (Looking for information on Elian Karel) [bottom-up]
+0:24:24,"Searching for ""Karel"""
+0:24:34,"""let's see if any result is in 2009"""
+0:24:43,"Picking a document in title ""Aug 2008. THE WHO IS THE DEMONSTRATORS"""
+0:25:27,Still reading the document
+0:26:18,Still reading the document
+0:26:49,"""He probably died in jail"""
+0:27:10,Still reading the document
+0:27:23,"Adding more notes in Note 1: ""Elias incarcerated and died sometimes after"""
+0:28:08,"Picking a document in title ""March 2009. THE COLLECTION POK DRAWS THOUSANDS OF VERDEDIGERS"""
+0:28:08,User changed the topic: (Why did the Julian Vann die?) [bottom-up]
+0:28:47,"Adding more notes in Note 1: ""???, 1998 - Juliana Vann dies because of water contamination"""
+0:29:05,Still reading the document
+0:29:13,"""So this girl died and people started protesting"""
+0:29:33,"Highlighting ""The hospital has had difficulty which maintains its infrastructure. in spite of the vast restoration"""
+0:30:15,"Highlighting ""Karel took over control POK of Henk Bodrogi. of which bad health forced him of the position"""
+0:30:51,"Picking a document in title ""March 2009. POK RALLY DRAWS THOUSANDS OF SUPPORTERS"""
+0:31:30,Still reading the document
+0:32:09,"Adding more notes to the Note 1: ""March 2009 - Rally for Julianna Van, demanding accounting for tax incentives where is the improvement???"""
+0:33:35,Looking through titles
+0:33:38,"Picking a random document from middle right in title ""Aug 1998. TEN-YEAR OLD ELODIS GIRL DIES OF POISONING"""
+0:33:47,"Picking an old document in title ""Aug 2008. THE WHO IS THE DEMONSTRATORS"""
+0:34:04,Making connection between two last documents
+0:34:27,"""ok. died on 1998"""
+0:34:30,User changed the topic: (The death of Elian Karel) [bottom-up]
+0:34:35,"Picking a document from last search results in title ""Jun 2010. IN THE MEMORY: The DEATH Of ELIAN KAREL. ONE YEAR AFTERWARDS"""
+0:34:38,"""There we go. here is something about his death"""
+0:34:45,"""Let see if I can find something better that this"""
+0:34:49,"Picking a document in title ""June 2010. Protest of POK to the registered offices of police force of Abila"""
+0:34:57,"Picking a document in title ""June 2009. Blog posts: ELIAN KAREL DEAD IN KRONOS JAIL"""
+0:35:08,"""June 2009 he is dead in jail"""
+0:35:39,"Highlighting ""Homeland Illumination"""
+0:35:45,"Highlighting ""Elian Karel. age 28. died Friday while unlawfully incarcerated at the Abila City Prison"""
+0:36:02,"Adding more notes in Note 1: ""June, 2009 - Elian dies in jail"""
+0:36:57,Still reading the document
+0:37:27,"Adding more notes in Note 1: ""Juliana Vann, friend of Elian Keral dies because of water contaminations"""
+0:38:07,Still reading the document
+0:38:41,"Adding more notes in Note 1: ""Elian dies in jail, signs of trauma blunt abrasion and lacerations - possibly police brutality"""
+0:39:14,Back to reading the document
+0:39:16,"""So. polices probably killed Elian in jail which was expected"""
+0:39:24,Making connection between two documents about Elian's death
+0:39:35,User changed the topic: (Getting information on POK protests) [bottom-up]
+0:39:41,"Reading a document in title ""June 2010. Protest of POK to the registered offices of police force of Abila"""
+0:40:23,"Highlighting ""Then the teargas finally got clear. the member of six POK were stopped on expenses of attack on civil authorities and to incite a crowd with violence. """
+0:40:37,"Highlighting ""Silvia Marek """
+0:40:42,"Highlighting ""Carman d' Adrien"""
+0:40:43,"""Ok. I found this guy again."""
+0:40:54,"Searching for ""Carman"""
+0:41:15,"Picking a document in title ""May 2011. Police Hold News Conference on GAStech Kidnapping"""
+0:41:36,back to reading the first document
+0:42:17,"Picking a document in title ""Jan 2014. Conference of news of catch of police force on the kidnapping of GAStech Worldwise Conference"""
+0:42:49,Looking through titles
+0:42:52,"Picking a document in title "" Aug 1998. OLD WOMEN MATRICES OF GIRL Of ELODIS OF POISONING"""
+0:43:17,Making connection between this document and Elian's group
+0:43:36,"Picking a document in title ""June 2010. Protest of POK to the registered offices of police force of Abila"""
+0:43:53,"Adding more notes in Note 1: ""June 2010 - POK protest of police offices in Abila, civilian attacked, several officers injured, 6 POK members arrested"""
+0:44:35,"""I need more infomation about this protest"""
+0:44:49,"Searching for ""2010"""
+0:44:49,User changed the topic: (Looking for people in POK protest) [bottom-up]
+0:44:56,"Picking a document in title ""Jun 2010. THE GOVERNMENT RESPONDS TO ANOTHER REDONDO OF PROTESTS"""
+0:45:02,"Picking a document in title ""June 2010. GOVERNMENT RESPONDS TO ANOTHER ROUND OF PROTESTS """
+0:45:35,Still reading the document
+0:46:04,"Adding more notes to Note 1: ""6 POK members beaten and arrested"""
+0:46:13,Making connection between this document and the one about police
+0:46:43,"Picking a document in title ""March 2010. The race of boat stopped before starting"""
+0:46:55,User changed the topic: (Searching boat disappearance) [bottom-up]
+0:47:28,Still reading the document
+0:48:05,"Highlighting ""Petra Hohimae"""
+0:48:13,"Highlighting ""The presidential boat. had by the family of the President running Karel Kapelou II of Kronos. started to take water and slowly disappeared in the sea"""
+0:48:27,"Highlighting ""comprise their white emblem of hand. It is not known if the group were implied incident of boat. although the group is largely recognized like becoming increasingly violent in their protests against the government."""
+0:48:48,"Adding more notes to the Note 1: ""March 2010 - """
+0:49:11,"Adding more notes in Note 1: ""March 2010 - President boat sank - suspected POK"""
+0:49:14,User changed the topic: (User had a 7:35 break time) [break]
+0:56:49,User changed the topic: (User continues work after the break) [bottom-up]
+0:57:04,"Searching for ""Petra"""
+0:57:04,"""Who is this"""
+0:57:09,"Picking a document in title ""Jan 2014. WRAP UP OF EVENTS AT GASTECH"""
+0:57:24,"Searching for ""Hohimae"""
+0:57:37,"""It doesn't come up anywhere"""
+0:57:49,Looking through titles
+0:57:58,"Searching for ""Kapelou"""
+0:58:14,"Picking a document in title ""June 2012. Kapelou Calls POK A Gang of Criminals"""
+0:58:38,Still reading the document
+0:58:56,"Adding more notes in Note 1: ""June, 2012 - Kapeloucalls POK criminals after riot in the capital"""
+0:58:58,"""Let's see what this is all about. June 2012"""
+0:59:02,Looking through titles
+0:59:12,"Searching for ""Riot"""
+0:59:15,User changed the topic: (Searching for riots and POK) [bottom-up]
+0:59:17,"Picking a document in title ""June 2013. Annual POK Rally Ends in Riot"""
+0:59:38,"""Yeah. after a year in Jun they all protest beause in June is when the she died"""
+0:59:45,"Picking a document in title ""June 2012. Kapelou Calls POK A Gang of Criminals"""
+0:59:58,"Adding more notes in Note 1: ""June 2013 - Annual POK protest ends in violence --- POK protests annually every June since 2009 because of Elian's death"""
+1:00:48,"Picking a document in title ""June 2013. Annual ends of gathering of POK in the riot"""
+1:00:52,"Picking a document in title ""Jun 2013. Annual ends of gathering of POK in the riot"""
+1:01:12,"""More tear gas"""
+1:01:40,"""They're protesting the governmet June 2013"""
+1:01:44,Making connection between last two documents
+1:01:48,"Making connection between last document and ""June 2013. Annual POK Rally Ends in Riot"""
+1:01:58,"Searching for ""2012"""
+1:02:06,"Picking a document in title ""Jun 2012. POK REMIND LEADER MARTYRED"""
+1:02:31,Still reading the document
+1:02:41,"Making connection between last document and “June 2012. Kapelou Calls POK A Gang of Criminals"""
+1:02:44,"Picking a document in title ""March 2011. Peter Will Move US Troops In Middle East to Secure Areas"""
+1:02:59,"Picking a document in title ""June 2011. POK Protesters Vandalize Siopa District"""
+1:03:18,"Adding more notes to Note 1: ""3 Police leaders injured in POK annual protest"""
+1:03:59,Looking through titles
+1:04:14,"Picking a document in title "" March 2007. THE GASTECH CAR STRIKES THE AUTOMOBILE NEAR ELODIS"""
+1:04:25,User changed the topic: (Searching for Gastech car accident) [bottom-up]
+1:04:44,Still reading the document
+1:05:02,"Adding more notes in Note 1: ""June 2011 - POK protest in downtown Abila, vandalism and looting"""
+1:06:02,"Searching for ""2007"""
+1:06:07,"Picking a document in title "" April 2007. TRAFFIC ACCIDENT NEAR ELODIS"""
+1:06:21,"Making connection between last document and “March 2007. THE GASTECH CAR STRIKES THE AUTOMOBILE NEAR ELODIS"""
+1:06:31,"Searching for ""Accident"""
+1:06:46,"Picking a document in title ""May 2011. RELATED HALTINGS DRUG IN THE ASCENT"""
+1:07:09,Still reading the document
+1:07:19,"Adding more notes in Note 1: ""March 2007 - GasTech car runs into another car near Elodis, family of four dead, GasTech rep in jail overnight then released"""
+1:07:40,Still reading the document
+1:08:28,"Making connection between last document and “June 2011. POK Protesters Vandalize Siopa District"""
+1:08:44,"Picking a document in title "" April 2005. Blog post: PROTESTS END IN ARRESTS"""
+1:09:18,"Adding more notes in Note 1: ""May 2011 - Notes incraese in drug use in Abila, drugs finance operations of POK and cause violent tendencies"""
+1:09:59,"Searching for ""Drug"""
+1:10:04,"Picking a document in title "" Feb 2013. Hospitals of Abila that see the affluence of the designer drug users"""
+1:10:33,"Searching for ""Potter"""
+1:10:45,User changed the topic: (Explosions at Gastech site) [bottom-up]
+1:10:57,"Searching for ""Caramel"""
+1:11:04,"Picking a document in title ""Aug 2000. TISKELE BEND EXPLOSION AND FIRE"""
+1:11:29,"Adding more notes in Note 1: ""August 2000, Explosion at GAStech plant"""
+1:12:03,"Picking a document in title ""Explosion"""
+1:12:14,"Picking a document in title ""Aug 2000. EXPLOSION AND FIRE OF THE TISKELE CURVE"""
+1:12:17,"Picking a document in title "" Aug 2000. EXPLOSION ROCKS GASTECH'S TISKELE BEND SITE"""
+1:12:38,Still reading and comparing three documents
+1:13:06,"Adding more notes in Note 1: ""August 2000, Explosion at GAStech plant, 4 injured, workplace accident"""
+1:13:14,Making connections between last three documents about explosion
+1:13:55,"Picking a document in title ""Oct 1997. GOVERNMENT ISCED MINOR CONTAMINATION CLOSE TO ELODIS"""
+1:14:10,"""I'm trying to get the sequence of the events they are describing here. It's not necessarily about POK or anything else. I'm just trying to figure out anything has been happening. Right now it's obvious that ever since their leader died in possible from police forces. They started to increasingly more and more violent qadn protesting around June 20th and 21th which is the anniversary of his death. that keep happening and vandelisem writing usually tear gas involves so far. and Jun 2013 was the last protesting and then kidnaping happend in 2014"""
+1:14:25,User changed the topic: (POK Events) [bottom-up]
+1:15:10,"""The dates doesn't signify anything I guess I just want to took advantage of it"""
+1:15:29,"""I'm seeing these. since may 2011 there is an increase in drug use also.So they're profiting from this. That's kind of POK's operations leading up to this kidnaping"""
+1:15:47,"Picking a document in title ""Dec 2013. POK Assault Police in Abila"""
+1:16:17,"Adding more notes in Note 1: ""December 2013 - POK attacked police officer in Abila"""
+1:16:28,"""A month before kidnaping POK attacks a police officer"""
+1:16:51,"Picking a document in title ""May 2003. THE COO OF DIES IN 73"""
+1:17:12,"Picking a document in title ""Sep.t 2005. RETURN OF THE PROTESTS OF ELODIS TO THE UPROARS AND THE HALTINGS"""
+1:17:31,"Picking a document in title ""Nov 1998. WELLNESS FOR ALL (WFA) BLASTS GASTECH AND KRONOS GOVT"""
+1:17:40,"Picking a document in title ""Jan 2014 Meeting announcement"""
+1:17:57,"Picking a document in title ""Jan 2014. Centrum Sentinel"""
+1:18:07,"Picking a document in title ""Jan 2014. ON SCENE BLOG Modern Rubicon"""
+1:18:08,"Picking a document in title ""Jan 2014. Breaking: Emergency at GAStech Headquarters Building"""
+1:18:16,"Picking a document in title ""Jan 2014. POK Kidnaps GAStech Employees"""
+1:18:43,"Searching for ""edward"""
+1:18:50,"Picking a document in title ""Jan 2014. REMOVAL AT GASTECH KRONOS"""
+1:18:52,"""This has to be related to Juliana"""
+1:18:57,"Picking a document in title ""Jan 2014. WRAP UP OF EVENTS AT GASTECH"""
+1:19:17,Reading and comparing last documents
+1:19:41,"""Still not too much"""
+1:19:55,"Writing a new note, Note 2: ""January 2014 incident - Edvard Vann - Gastech employess, shares family name with several POK members, most likelt related to Julianna Vann"""
+1:20:39,"""This guy Edvard is a Gastech employee but he's most likely related to Juliana. who died because of Gastech contamination"""
+1:20:52,"""He was interigated for six hours which doesn't really fly. seems it was more than interigation"""
+1:21:08,Making connection between four documents about Edvard
+1:21:19,"Highlighting ""On this moment nobody responsibility for removal has gebistc. Edvard Vann. GAStech - Kronos the security guard which was questioned and after 6 hours was delivered. the daders behind the events of today indicated became suspicious on the guards of Kronos such as are"""
+1:21:39,"Picking a document in title ""Jan 2014. REMOVAL AT GASTECH KRONOS"""
+1:21:53,"Picking a document in title ""Jan 2014. Blog posts: ON SCENE BLOG Modern Rubicon"""
+1:21:52,"Picking a document in title "" Jan 2014. DEMANDS OF THE RESCUE DONE IN THE KIDNAPPING OF GASTECH"""
+1:22:01,"""Ok. so POK did it. at least it is what it says here."""
+1:22:23,Still reading the document
+1:22:48,"Highlighting ""the protectors of Kronos not only have taken the responsibility from the kidnapping of the international employees of GAStech. but also they have made a demand of the rescue of $20M of the president and the CEO Sten Sanjorge. Jr."""
+1:22:57,"Searching for ""20m"""
+1:23:02,"Picking a document in title ""Jan 2014. RANSOM DEMANDS MADE IN GASTECH KIDNAPPING"""
+1:23:08,"Picking a document in title ""Jan 2014. THE REQUIREMENTS OF THE RANSOM WHICH ARE MADE IN REMOVAL GASTECH"""
+1:23:17,"""POK did it and they want $20M and the CEO"""
+1:23:25,"Adding more notes in Note 2: ""POK asumed responsiblity of the kidnapping, wants $20M and CEO of GAStech"""
+1:24:02,Making connection between documents about kidnaper's $20M demand
+1:24:11,"Picking a document in title ""Jan 2014. Centrum Sentinel"""
+1:24:15,User changed the topic: (Events in the kidnapping) [bottom-up]
+1:24:24,"Picking a document in title ""Jan 2014. To break off itself: The emergency to GAStech quarters the construction"""
+1:24:30,"Picking a document in title ""Jan 2014. Homeland Illumination"""
+1:24:48,"Picking a document in title ""Jan 2014. MEETING SET FOR TOMORROW MORNING"""
+1:24:49,"""I'm guessing that jet that landed that night was the president and the CEO"""
+1:25:08,"Adding more notes in Note 2: ""CEO of Gastech arrives at night to meet with Abila police the next day"""
+1:25:20,"""So they got the CEO"""
+1:25:31,"Picking a document in title ""an 2014. Blog posts: Homeland Illumination"""
+1:25:44,"Picking a document in title ""Jan 2014. MEETING SET FOR TOMORROW MORNING"""
+1:26:18,"Adding more notes in Note 2: ""Jan 20 Gastech offcials and govt officials suspected to have fled country"""
+1:26:42,"Searching for ""Fled"""
+1:26:55,"""So looks like they met and then they fled the country soon after."""
+1:27:04,"Picking a document in title ""Jan 2014. Blog notes: Homeland Illumination"""
+1:27:24,"Picking a document in title ""Jan 2014. Blog notes: ON SCENE BLOG Modern Rubicon"""
+1:27:53,"Adding more notes in Note 2: ""Bomb theeat or fire caused a distraction which enabled the kidnapping """
+1:28:17,"Picking a document in title ""Jan 2014. Breaking: Emergency at GAStech Headquarters Building"""
+1:28:23,"Picking a document in title ""Jan 2014. MEETING SET FOR TOMORROW MORNING"""
+1:28:26,"""yeah. someone pulled the fire alarm or something"""
+1:28:50,"""What it looks like is that when this happend caused the distraction and this guy Ewrad Vann which is an employee was interigated for 6 hours. he also has same last name with POK guy"""
+1:29:18,"""Later that evening POK got the responsibling for the kidnaping."""
+1:29:38,"""CEO left the Kronos at night to meet ith the police the next they. and 12pm they reported to run away"""
+1:29:49,"Picking a document in title ""Jan 2014. Blog notes: Homeland Illumination"""
+1:29:55,"Picking a document in title ""Jan 2014. Blog notes: Centrum Sentinel"""
+1:30:11,"Picking a document in title ""Jan 2014. Blog notes: ON THE SCENE BLOG"""
+1:30:27,"""Then later it says that Kronos officials and Gastech officials in Thytes """
+1:30:35,"Picking a document in title ""Jan 2014. Blog notes: ON THE SCENE BLOG"""
+1:30:43,"Picking a document in title ""Jan 2014. ABILA AIRPORT CONFIRMS TWO PRIVATE JETS LEFT TODAY"""
+1:30:59,"Picking a document in title "" Jan 2014. Blog notes: ON THE SCENE BLOG"""
+1:31:23,"Picking a document in title ""Jan 2014. To break off itself: The emergency to GAStech quarters the construction"""
+1:31:26,"Picking a document in title "" Jun 2013. The annual ends of the collection POK in babble"""
+1:31:40,"""Some car pulled to the building people assume they are probably government officials. maybe"""
+1:31:48,"Picking a document in title ""Jan 2014 Meeting announcement"""
+1:32:12,"Picking a document in title ""Jan 2014. Blog notes: Homeland Illumination"""
+1:32:18,"Picking a document in title ""Jan 2014. GAStech and Kronos Celebrate Partnership"""
+1:32:34,"Picking a document in title ""Jan 2014. Blog notes: ON THE SCENE BLOG"""
+1:32:54,"Picking a document in title ""Jan 2014. Homeland Illumination"""
+1:32:54,"""One of the plane landed on the way"""
+1:33:03,"""Maybe the kidnapers split them up"""
+1:33:03,"Picking a document in title ""Jan 2014. Police Hold News Conference on GAStech Kidnapping"""
+1:33:09,User changed the topic: (Events after kidnapping day) [bottom-up]
+1:33:13,"""Oh. four people were found"""
+1:33:41,"Adding more notes in Note 2: ""Jan 21, 4 people found, 10 still missing"""
+1:34:02,"Searching for ""Jan 21"""
+1:34:10,"Picking a document in title "" Jan 214. Blog post: Modern Rubicon"""
+1:34:11,"""Nop"""
+1:34:15,"Searching for ""21"""
+1:34:19,"Picking a document in title ""Jan 2014. Blog posts: Centrum Sentinel"""
+1:34:43,"Picking a document in title ""Jan 2014. THE REQUIREMENTS OF THE RANSOM WHICH ARE MADE IN REMOVAL GASTECH"""
+1:34:53,"Picking a document in title "" Jan 2014. RANSOM DEMANDS MADE IN GASTECH KIDNAPPING News Online Today"""
+1:35:04,"""So after 3 people were found"""
+1:35:34,"Picking a document in title "" Jan 2014. Employees of GASTech removed in Kronos"""
+1:35:51,Looking through titles
+1:36:05,"""Four people were found. ten still missing and the POK in the same day got responsibility and want 20M"""
+1:36:24,Looking through titles
+1:36:45,"Picking a document in title ""Jan 2014. Breaking: Emergency at GAStech Headquarters Building"""
+1:36:52,"Picking a document in title ""Jan 2014. ON SCENE BLOG Modern Rubicon"""

@@ -1,0 +1,9200 @@
+[
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "emails", 
+   "located", 
+   "botnet", 
+   "networks", 
+   "encrypted"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -2.0141396933560474, 
+  "Time": 10681, 
+  "Duration": 303, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "emails", 
+   "located", 
+   "botnet", 
+   "networks", 
+   "encrypted"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -2.0141396933560474, 
+  "Time": 10681, 
+  "Duration": 303, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "emails", 
+   "located", 
+   "botnet", 
+   "networks", 
+   "encrypted"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -2.0141396933560474, 
+  "Time": 10681, 
+  "Duration": 303, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "emails", 
+   "located", 
+   "botnet", 
+   "networks", 
+   "encrypted"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -2.0141396933560474, 
+  "Time": 10681, 
+  "Duration": 303, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "emails", 
+   "located", 
+   "botnet", 
+   "networks", 
+   "encrypted"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -2.0141396933560474, 
+  "Time": 10681, 
+  "Duration": 303, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "emails", 
+   "located", 
+   "botnet", 
+   "networks", 
+   "encrypted"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 6.713798977853493, 
+  "Time": 10681, 
+  "Duration": 303, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "dirty bomb"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 10985, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "dirty bomb"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 10985, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "dirty bomb"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 10985, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "dirty bomb"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 10985, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "dirty bomb"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 10985, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "dirty bomb"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 10, 
+  "Time": 10985, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "Network of Dread"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 11175, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "Network of Dread"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 11175, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "Network of Dread"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 11175, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "Network of Dread"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 11175, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "Network of Dread"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 11175, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "Network of Dread"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 10, 
+  "Time": 11175, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "Bruno Eggleston"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 11541, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "Bruno Eggleston"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 11541, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "Bruno Eggleston"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 11541, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "Bruno Eggleston"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 11541, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "Bruno Eggleston"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 11541, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "Bruno Eggleston"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 10, 
+  "Time": 11541, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 158", 
+  "tags": [
+   "game", 
+   "ceremonies", 
+   "securities", 
+   "terrorism", 
+   "scan"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -3.551618398637138, 
+  "Time": 12216, 
+  "Duration": 143, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 158", 
+  "tags": [
+   "game", 
+   "ceremonies", 
+   "securities", 
+   "terrorism", 
+   "scan"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -3.551618398637138, 
+  "Time": 12216, 
+  "Duration": 143, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 158", 
+  "tags": [
+   "game", 
+   "ceremonies", 
+   "securities", 
+   "terrorism", 
+   "scan"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -3.551618398637138, 
+  "Time": 12216, 
+  "Duration": 143, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 158", 
+  "tags": [
+   "game", 
+   "ceremonies", 
+   "securities", 
+   "terrorism", 
+   "scan"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 11.838727995457127, 
+  "Time": 12216, 
+  "Duration": 143, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 158", 
+  "tags": [
+   "game", 
+   "ceremonies", 
+   "securities", 
+   "terrorism", 
+   "scan"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -3.551618398637138, 
+  "Time": 12216, 
+  "Duration": 143, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 158", 
+  "tags": [
+   "game", 
+   "ceremonies", 
+   "securities", 
+   "terrorism", 
+   "scan"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -3.551618398637138, 
+  "Time": 12216, 
+  "Duration": 143, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 158", 
+  "tags": [
+   "Network of Dread"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 12360, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 158", 
+  "tags": [
+   "Network of Dread"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 12360, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 158", 
+  "tags": [
+   "Network of Dread"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 12360, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 158", 
+  "tags": [
+   "Network of Dread"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 10, 
+  "Time": 12360, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 158", 
+  "tags": [
+   "Network of Dread"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 12360, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 158", 
+  "tags": [
+   "Network of Dread"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 12360, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 158", 
+  "tags": [
+   "the Network uses encrypted emails and has a small botnet, making it close to impossible to locate them."
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 13041, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 158", 
+  "tags": [
+   "the Network uses encrypted emails and has a small botnet, making it close to impossible to locate them."
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 13041, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 158", 
+  "tags": [
+   "the Network uses encrypted emails and has a small botnet, making it close to impossible to locate them."
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 13041, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 158", 
+  "tags": [
+   "the Network uses encrypted emails and has a small botnet, making it close to impossible to locate them."
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 10, 
+  "Time": 13041, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 158", 
+  "tags": [
+   "the Network uses encrypted emails and has a small botnet, making it close to impossible to locate them."
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 13041, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 158", 
+  "tags": [
+   "the Network uses encrypted emails and has a small botnet, making it close to impossible to locate them."
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 13041, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 158", 
+  "tags": [
+   "game", 
+   "ceremonies", 
+   "securities", 
+   "terrorism", 
+   "scan"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -3.551618398637138, 
+  "Time": 13075, 
+  "Duration": 69, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 158", 
+  "tags": [
+   "game", 
+   "ceremonies", 
+   "securities", 
+   "terrorism", 
+   "scan"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -3.551618398637138, 
+  "Time": 13075, 
+  "Duration": 69, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 158", 
+  "tags": [
+   "game", 
+   "ceremonies", 
+   "securities", 
+   "terrorism", 
+   "scan"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -3.551618398637138, 
+  "Time": 13075, 
+  "Duration": 69, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 158", 
+  "tags": [
+   "game", 
+   "ceremonies", 
+   "securities", 
+   "terrorism", 
+   "scan"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 11.838727995457127, 
+  "Time": 13075, 
+  "Duration": 69, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 158", 
+  "tags": [
+   "game", 
+   "ceremonies", 
+   "securities", 
+   "terrorism", 
+   "scan"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -3.551618398637138, 
+  "Time": 13075, 
+  "Duration": 69, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 158", 
+  "tags": [
+   "game", 
+   "ceremonies", 
+   "securities", 
+   "terrorism", 
+   "scan"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -3.551618398637138, 
+  "Time": 13075, 
+  "Duration": 69, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 158", 
+  "tags": [
+   "game", 
+   "ceremonies", 
+   "securities", 
+   "terrorism", 
+   "scan"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -3.551618398637138, 
+  "Time": 13151, 
+  "Duration": 134, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 158", 
+  "tags": [
+   "game", 
+   "ceremonies", 
+   "securities", 
+   "terrorism", 
+   "scan"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -3.551618398637138, 
+  "Time": 13151, 
+  "Duration": 134, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 158", 
+  "tags": [
+   "game", 
+   "ceremonies", 
+   "securities", 
+   "terrorism", 
+   "scan"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -3.551618398637138, 
+  "Time": 13151, 
+  "Duration": 134, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 158", 
+  "tags": [
+   "game", 
+   "ceremonies", 
+   "securities", 
+   "terrorism", 
+   "scan"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 11.838727995457127, 
+  "Time": 13151, 
+  "Duration": 134, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 158", 
+  "tags": [
+   "game", 
+   "ceremonies", 
+   "securities", 
+   "terrorism", 
+   "scan"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -3.551618398637138, 
+  "Time": 13151, 
+  "Duration": 134, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 158", 
+  "tags": [
+   "game", 
+   "ceremonies", 
+   "securities", 
+   "terrorism", 
+   "scan"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -3.551618398637138, 
+  "Time": 13151, 
+  "Duration": 134, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 157", 
+  "tags": [
+   "bosnian", 
+   "serb", 
+   "shubert", 
+   "nato", 
+   "serbian"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -1.7841567291311753, 
+  "Time": 13286, 
+  "Duration": 2255, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 157", 
+  "tags": [
+   "bosnian", 
+   "serb", 
+   "shubert", 
+   "nato", 
+   "serbian"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -1.7841567291311753, 
+  "Time": 13286, 
+  "Duration": 2255, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 157", 
+  "tags": [
+   "bosnian", 
+   "serb", 
+   "shubert", 
+   "nato", 
+   "serbian"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -1.7841567291311753, 
+  "Time": 13286, 
+  "Duration": 2255, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 157", 
+  "tags": [
+   "bosnian", 
+   "serb", 
+   "shubert", 
+   "nato", 
+   "serbian"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -1.7841567291311753, 
+  "Time": 13286, 
+  "Duration": 2255, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 157", 
+  "tags": [
+   "bosnian", 
+   "serb", 
+   "shubert", 
+   "nato", 
+   "serbian"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -1.7841567291311753, 
+  "Time": 13286, 
+  "Duration": 2255, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 157", 
+  "tags": [
+   "bosnian", 
+   "serb", 
+   "shubert", 
+   "nato", 
+   "serbian"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 5.9471890971039185, 
+  "Time": 13286, 
+  "Duration": 2255, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 157", 
+  "tags": [
+   "Williemae Poulsen"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 15542, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 157", 
+  "tags": [
+   "Williemae Poulsen"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 15542, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 157", 
+  "tags": [
+   "Williemae Poulsen"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 15542, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 157", 
+  "tags": [
+   "Williemae Poulsen"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 15542, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 157", 
+  "tags": [
+   "Williemae Poulsen"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 15542, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 157", 
+  "tags": [
+   "Williemae Poulsen"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 10, 
+  "Time": 15542, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 157", 
+  "tags": [
+   "Crutchfield Glenn, director general of the International Games Committe"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 15907, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 157", 
+  "tags": [
+   "Crutchfield Glenn, director general of the International Games Committe"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 15907, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 157", 
+  "tags": [
+   "Crutchfield Glenn, director general of the International Games Committe"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 15907, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 157", 
+  "tags": [
+   "Crutchfield Glenn, director general of the International Games Committe"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 15907, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 157", 
+  "tags": [
+   "Crutchfield Glenn, director general of the International Games Committe"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 15907, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 157", 
+  "tags": [
+   "Crutchfield Glenn, director general of the International Games Committe"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 10, 
+  "Time": 15907, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 156", 
+  "tags": [
+   "freight", 
+   "railroads", 
+   "rail", 
+   "union", 
+   "strike"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 16380, 
+  "Duration": 1251, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 156", 
+  "tags": [
+   "freight", 
+   "railroads", 
+   "rail", 
+   "union", 
+   "strike"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 16380, 
+  "Duration": 1251, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 156", 
+  "tags": [
+   "freight", 
+   "railroads", 
+   "rail", 
+   "union", 
+   "strike"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 16380, 
+  "Duration": 1251, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 156", 
+  "tags": [
+   "freight", 
+   "railroads", 
+   "rail", 
+   "union", 
+   "strike"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 16380, 
+  "Duration": 1251, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 156", 
+  "tags": [
+   "freight", 
+   "railroads", 
+   "rail", 
+   "union", 
+   "strike"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 16380, 
+  "Duration": 1251, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 156", 
+  "tags": [
+   "freight", 
+   "railroads", 
+   "rail", 
+   "union", 
+   "strike"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 16380, 
+  "Duration": 1251, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network of Dread"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 17632, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network of Dread"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 17632, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network of Dread"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 17632, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network of Dread"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 17632, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network of Dread"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 7, 
+  "Time": 17632, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network of Dread"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 17632, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 52", 
+  "tags": [
+   "apprehending", 
+   "devices", 
+   "men", 
+   "suspect", 
+   "bomb"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 17683, 
+  "Duration": 567, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 52", 
+  "tags": [
+   "apprehending", 
+   "devices", 
+   "men", 
+   "suspect", 
+   "bomb"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 17683, 
+  "Duration": 567, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 52", 
+  "tags": [
+   "apprehending", 
+   "devices", 
+   "men", 
+   "suspect", 
+   "bomb"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 17683, 
+  "Duration": 567, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 52", 
+  "tags": [
+   "apprehending", 
+   "devices", 
+   "men", 
+   "suspect", 
+   "bomb"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 17683, 
+  "Duration": 567, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 52", 
+  "tags": [
+   "apprehending", 
+   "devices", 
+   "men", 
+   "suspect", 
+   "bomb"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 17683, 
+  "Duration": 567, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 52", 
+  "tags": [
+   "apprehending", 
+   "devices", 
+   "men", 
+   "suspect", 
+   "bomb"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 17683, 
+  "Duration": 567, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Bruno Eggleston"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 18251, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Bruno Eggleston"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 18251, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Bruno Eggleston"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 18251, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Bruno Eggleston"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 18251, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Bruno Eggleston"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 7, 
+  "Time": 18251, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Bruno Eggleston"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 18251, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "emails", 
+   "located", 
+   "botnet", 
+   "networks", 
+   "encrypted"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -2.0141396933560474, 
+  "Time": 18416, 
+  "Duration": 297, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "emails", 
+   "located", 
+   "botnet", 
+   "networks", 
+   "encrypted"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -2.0141396933560474, 
+  "Time": 18416, 
+  "Duration": 297, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "emails", 
+   "located", 
+   "botnet", 
+   "networks", 
+   "encrypted"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -2.0141396933560474, 
+  "Time": 18416, 
+  "Duration": 297, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "emails", 
+   "located", 
+   "botnet", 
+   "networks", 
+   "encrypted"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -2.0141396933560474, 
+  "Time": 18416, 
+  "Duration": 297, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "emails", 
+   "located", 
+   "botnet", 
+   "networks", 
+   "encrypted"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -2.0141396933560474, 
+  "Time": 18416, 
+  "Duration": 297, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "emails", 
+   "located", 
+   "botnet", 
+   "networks", 
+   "encrypted"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 6.713798977853493, 
+  "Time": 18416, 
+  "Duration": 297, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network of Dread"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 18914, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network of Dread"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 18914, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network of Dread"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 18914, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network of Dread"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 18914, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network of Dread"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 7, 
+  "Time": 18914, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network of Dread"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 18914, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 19017, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 19017, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 19017, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 19017, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 19017, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 19017, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 68", 
+  "tags": [
+   "lloyd", 
+   "equitas", 
+   "insurer", 
+   "names", 
+   "regulators"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 19104, 
+  "Duration": 328, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 68", 
+  "tags": [
+   "lloyd", 
+   "equitas", 
+   "insurer", 
+   "names", 
+   "regulators"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 19104, 
+  "Duration": 328, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 68", 
+  "tags": [
+   "lloyd", 
+   "equitas", 
+   "insurer", 
+   "names", 
+   "regulators"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 19104, 
+  "Duration": 328, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 68", 
+  "tags": [
+   "lloyd", 
+   "equitas", 
+   "insurer", 
+   "names", 
+   "regulators"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 19104, 
+  "Duration": 328, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 68", 
+  "tags": [
+   "lloyd", 
+   "equitas", 
+   "insurer", 
+   "names", 
+   "regulators"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 19104, 
+  "Duration": 328, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 68", 
+  "tags": [
+   "lloyd", 
+   "equitas", 
+   "insurer", 
+   "names", 
+   "regulators"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 19104, 
+  "Duration": 328, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 68", 
+  "tags": [
+   " Network of Hate"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 19433, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 68", 
+  "tags": [
+   " Network of Hate"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 19433, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 68", 
+  "tags": [
+   " Network of Hate"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 10, 
+  "Time": 19433, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 68", 
+  "tags": [
+   " Network of Hate"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 19433, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 68", 
+  "tags": [
+   " Network of Hate"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 19433, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 68", 
+  "tags": [
+   " Network of Hate"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 19433, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "<span class=\"highlight-pink\">Network</span> of Hate"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 19641, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "<span class=\"highlight-pink\">Network</span> of Hate"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 19641, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "<span class=\"highlight-pink\">Network</span> of Hate"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 7, 
+  "Time": 19641, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "<span class=\"highlight-pink\">Network</span> of Hate"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 19641, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "<span class=\"highlight-pink\">Network</span> of Hate"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 19641, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "<span class=\"highlight-pink\">Network</span> of Hate"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 19641, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Hate"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 19765, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Hate"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 19765, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Hate"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 19765, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Hate"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 7, 
+  "Time": 19765, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Hate"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 19765, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Hate"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 19765, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "emails", 
+   "located", 
+   "botnet", 
+   "networks", 
+   "encrypted"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -2.0141396933560474, 
+  "Time": 20173, 
+  "Duration": 5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "emails", 
+   "located", 
+   "botnet", 
+   "networks", 
+   "encrypted"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -2.0141396933560474, 
+  "Time": 20173, 
+  "Duration": 5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "emails", 
+   "located", 
+   "botnet", 
+   "networks", 
+   "encrypted"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -2.0141396933560474, 
+  "Time": 20173, 
+  "Duration": 5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "emails", 
+   "located", 
+   "botnet", 
+   "networks", 
+   "encrypted"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -2.0141396933560474, 
+  "Time": 20173, 
+  "Duration": 5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "emails", 
+   "located", 
+   "botnet", 
+   "networks", 
+   "encrypted"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -2.0141396933560474, 
+  "Time": 20173, 
+  "Duration": 5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "emails", 
+   "located", 
+   "botnet", 
+   "networks", 
+   "encrypted"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 6.713798977853493, 
+  "Time": 20173, 
+  "Duration": 5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 68", 
+  "tags": [
+   "lloyd", 
+   "equitas", 
+   "insurer", 
+   "names", 
+   "regulators"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 20273, 
+  "Duration": 5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 68", 
+  "tags": [
+   "lloyd", 
+   "equitas", 
+   "insurer", 
+   "names", 
+   "regulators"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 20273, 
+  "Duration": 5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 68", 
+  "tags": [
+   "lloyd", 
+   "equitas", 
+   "insurer", 
+   "names", 
+   "regulators"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 20273, 
+  "Duration": 5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 68", 
+  "tags": [
+   "lloyd", 
+   "equitas", 
+   "insurer", 
+   "names", 
+   "regulators"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 20273, 
+  "Duration": 5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 68", 
+  "tags": [
+   "lloyd", 
+   "equitas", 
+   "insurer", 
+   "names", 
+   "regulators"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 20273, 
+  "Duration": 5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 68", 
+  "tags": [
+   "lloyd", 
+   "equitas", 
+   "insurer", 
+   "names", 
+   "regulators"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 20273, 
+  "Duration": 5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 20370, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 20370, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 20370, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 20370, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 20370, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 20370, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 94", 
+  "tags": [
+   "fasb", 
+   "pool", 
+   "combination", 
+   "merger", 
+   "accounts"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -2.4843270868824527, 
+  "Time": 20496, 
+  "Duration": 1174, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 94", 
+  "tags": [
+   "fasb", 
+   "pool", 
+   "combination", 
+   "merger", 
+   "accounts"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -2.4843270868824527, 
+  "Time": 20496, 
+  "Duration": 1174, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 94", 
+  "tags": [
+   "fasb", 
+   "pool", 
+   "combination", 
+   "merger", 
+   "accounts"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -2.4843270868824527, 
+  "Time": 20496, 
+  "Duration": 1174, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 94", 
+  "tags": [
+   "fasb", 
+   "pool", 
+   "combination", 
+   "merger", 
+   "accounts"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 8.281090289608176, 
+  "Time": 20496, 
+  "Duration": 1174, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 94", 
+  "tags": [
+   "fasb", 
+   "pool", 
+   "combination", 
+   "merger", 
+   "accounts"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -2.4843270868824527, 
+  "Time": 20496, 
+  "Duration": 1174, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 94", 
+  "tags": [
+   "fasb", 
+   "pool", 
+   "combination", 
+   "merger", 
+   "accounts"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -2.4843270868824527, 
+  "Time": 20496, 
+  "Duration": 1174, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 153", 
+  "tags": [
+   "casino", 
+   "sun", 
+   "taft", 
+   "hayes", 
+   "griffin"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 21671, 
+  "Duration": 1375, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 153", 
+  "tags": [
+   "casino", 
+   "sun", 
+   "taft", 
+   "hayes", 
+   "griffin"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 21671, 
+  "Duration": 1375, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 153", 
+  "tags": [
+   "casino", 
+   "sun", 
+   "taft", 
+   "hayes", 
+   "griffin"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 21671, 
+  "Duration": 1375, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 153", 
+  "tags": [
+   "casino", 
+   "sun", 
+   "taft", 
+   "hayes", 
+   "griffin"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 21671, 
+  "Duration": 1375, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 153", 
+  "tags": [
+   "casino", 
+   "sun", 
+   "taft", 
+   "hayes", 
+   "griffin"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 21671, 
+  "Duration": 1375, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 153", 
+  "tags": [
+   "casino", 
+   "sun", 
+   "taft", 
+   "hayes", 
+   "griffin"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 21671, 
+  "Duration": 1375, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 157", 
+  "tags": [
+   "bosnian", 
+   "serb", 
+   "shubert", 
+   "nato", 
+   "serbian"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -1.7841567291311753, 
+  "Time": 23129, 
+  "Duration": 198, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 157", 
+  "tags": [
+   "bosnian", 
+   "serb", 
+   "shubert", 
+   "nato", 
+   "serbian"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -1.7841567291311753, 
+  "Time": 23129, 
+  "Duration": 198, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 157", 
+  "tags": [
+   "bosnian", 
+   "serb", 
+   "shubert", 
+   "nato", 
+   "serbian"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -1.7841567291311753, 
+  "Time": 23129, 
+  "Duration": 198, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 157", 
+  "tags": [
+   "bosnian", 
+   "serb", 
+   "shubert", 
+   "nato", 
+   "serbian"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -1.7841567291311753, 
+  "Time": 23129, 
+  "Duration": 198, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 157", 
+  "tags": [
+   "bosnian", 
+   "serb", 
+   "shubert", 
+   "nato", 
+   "serbian"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -1.7841567291311753, 
+  "Time": 23129, 
+  "Duration": 198, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 157", 
+  "tags": [
+   "bosnian", 
+   "serb", 
+   "shubert", 
+   "nato", 
+   "serbian"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 5.9471890971039185, 
+  "Time": 23129, 
+  "Duration": 198, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Antarctica Airlines"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 23328, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Antarctica Airlines"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 23328, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Antarctica Airlines"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 23328, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Antarctica Airlines"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 23328, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Antarctica Airlines"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 23328, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Antarctica Airlines"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 7, 
+  "Time": 23328, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 122", 
+  "tags": [
+   "freeze", 
+   "theory", 
+   "camps", 
+   "tax", 
+   "ahead"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 23439, 
+  "Duration": 1742, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 122", 
+  "tags": [
+   "freeze", 
+   "theory", 
+   "camps", 
+   "tax", 
+   "ahead"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 23439, 
+  "Duration": 1742, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 122", 
+  "tags": [
+   "freeze", 
+   "theory", 
+   "camps", 
+   "tax", 
+   "ahead"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 23439, 
+  "Duration": 1742, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 122", 
+  "tags": [
+   "freeze", 
+   "theory", 
+   "camps", 
+   "tax", 
+   "ahead"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 23439, 
+  "Duration": 1742, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 122", 
+  "tags": [
+   "freeze", 
+   "theory", 
+   "camps", 
+   "tax", 
+   "ahead"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 23439, 
+  "Duration": 1742, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 122", 
+  "tags": [
+   "freeze", 
+   "theory", 
+   "camps", 
+   "tax", 
+   "ahead"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 23439, 
+  "Duration": 1742, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 93", 
+  "tags": [
+   "comedy", 
+   "comedians", 
+   "danae", 
+   "spot", 
+   "politicians"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 25348, 
+  "Duration": 1198, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 93", 
+  "tags": [
+   "comedy", 
+   "comedians", 
+   "danae", 
+   "spot", 
+   "politicians"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 25348, 
+  "Duration": 1198, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 93", 
+  "tags": [
+   "comedy", 
+   "comedians", 
+   "danae", 
+   "spot", 
+   "politicians"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 25348, 
+  "Duration": 1198, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 93", 
+  "tags": [
+   "comedy", 
+   "comedians", 
+   "danae", 
+   "spot", 
+   "politicians"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 25348, 
+  "Duration": 1198, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 93", 
+  "tags": [
+   "comedy", 
+   "comedians", 
+   "danae", 
+   "spot", 
+   "politicians"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 25348, 
+  "Duration": 1198, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 93", 
+  "tags": [
+   "comedy", 
+   "comedians", 
+   "danae", 
+   "spot", 
+   "politicians"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 25348, 
+  "Duration": 1198, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 93", 
+  "tags": [
+   " PETN, a component of some plastic explosives"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 26547, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 93", 
+  "tags": [
+   " PETN, a component of some plastic explosives"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 10, 
+  "Time": 26547, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 93", 
+  "tags": [
+   " PETN, a component of some plastic explosives"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 26547, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 93", 
+  "tags": [
+   " PETN, a component of some plastic explosives"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 26547, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 93", 
+  "tags": [
+   " PETN, a component of some plastic explosives"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 26547, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 93", 
+  "tags": [
+   " PETN, a component of some plastic explosives"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 26547, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "TerroristActivity 93", 
+  "tags": [
+   "comedy", 
+   "comedians", 
+   "danae", 
+   "spot", 
+   "politicians"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 27255, 
+  "Duration": 17, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 93", 
+  "tags": [
+   "comedy", 
+   "comedians", 
+   "danae", 
+   "spot", 
+   "politicians"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 27255, 
+  "Duration": 17, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 93", 
+  "tags": [
+   "comedy", 
+   "comedians", 
+   "danae", 
+   "spot", 
+   "politicians"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 27255, 
+  "Duration": 17, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 93", 
+  "tags": [
+   "comedy", 
+   "comedians", 
+   "danae", 
+   "spot", 
+   "politicians"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 27255, 
+  "Duration": 17, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 93", 
+  "tags": [
+   "comedy", 
+   "comedians", 
+   "danae", 
+   "spot", 
+   "politicians"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 27255, 
+  "Duration": 17, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 93", 
+  "tags": [
+   "comedy", 
+   "comedians", 
+   "danae", 
+   "spot", 
+   "politicians"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 27255, 
+  "Duration": 17, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "PETN"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 27372, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "PETN"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 27372, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "PETN"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 27372, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "PETN"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 27372, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "PETN"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 27372, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "PETN"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 7, 
+  "Time": 27372, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "plastic explosives"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 27564, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "plastic explosives"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 27564, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "plastic explosives"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 27564, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "plastic explosives"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 27564, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "plastic explosives"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 7, 
+  "Time": 27564, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "plastic explosives"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 27564, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Bosnia"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 28640, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Bosnia"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 28640, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Bosnia"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 28640, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Bosnia"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 28640, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Bosnia"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 28640, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Bosnia"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 7, 
+  "Time": 28640, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 61", 
+  "tags": [
+   "taiwan", 
+   "china", 
+   "mainland", 
+   "volume", 
+   "falls"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 28730, 
+  "Duration": 1345, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 61", 
+  "tags": [
+   "taiwan", 
+   "china", 
+   "mainland", 
+   "volume", 
+   "falls"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 28730, 
+  "Duration": 1345, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 61", 
+  "tags": [
+   "taiwan", 
+   "china", 
+   "mainland", 
+   "volume", 
+   "falls"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 28730, 
+  "Duration": 1345, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 61", 
+  "tags": [
+   "taiwan", 
+   "china", 
+   "mainland", 
+   "volume", 
+   "falls"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 28730, 
+  "Duration": 1345, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 61", 
+  "tags": [
+   "taiwan", 
+   "china", 
+   "mainland", 
+   "volume", 
+   "falls"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 28730, 
+  "Duration": 1345, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 61", 
+  "tags": [
+   "taiwan", 
+   "china", 
+   "mainland", 
+   "volume", 
+   "falls"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 28730, 
+  "Duration": 1345, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 122", 
+  "tags": [
+   "freeze", 
+   "theory", 
+   "camps", 
+   "tax", 
+   "ahead"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 30439, 
+  "Duration": 24, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 122", 
+  "tags": [
+   "freeze", 
+   "theory", 
+   "camps", 
+   "tax", 
+   "ahead"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 30439, 
+  "Duration": 24, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 122", 
+  "tags": [
+   "freeze", 
+   "theory", 
+   "camps", 
+   "tax", 
+   "ahead"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 30439, 
+  "Duration": 24, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 122", 
+  "tags": [
+   "freeze", 
+   "theory", 
+   "camps", 
+   "tax", 
+   "ahead"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 30439, 
+  "Duration": 24, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 122", 
+  "tags": [
+   "freeze", 
+   "theory", 
+   "camps", 
+   "tax", 
+   "ahead"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 30439, 
+  "Duration": 24, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 122", 
+  "tags": [
+   "freeze", 
+   "theory", 
+   "camps", 
+   "tax", 
+   "ahead"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 30439, 
+  "Duration": 24, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "bomb"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 30464, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "bomb"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 30464, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "bomb"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 30464, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "bomb"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 30464, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "bomb"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 7, 
+  "Time": 30464, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "bomb"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 30464, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 75", 
+  "tags": [
+   "deductible", 
+   "accounts", 
+   "medical", 
+   "savings", 
+   "insurer"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 30519, 
+  "Duration": 492, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 75", 
+  "tags": [
+   "deductible", 
+   "accounts", 
+   "medical", 
+   "savings", 
+   "insurer"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 30519, 
+  "Duration": 492, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 75", 
+  "tags": [
+   "deductible", 
+   "accounts", 
+   "medical", 
+   "savings", 
+   "insurer"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 30519, 
+  "Duration": 492, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 75", 
+  "tags": [
+   "deductible", 
+   "accounts", 
+   "medical", 
+   "savings", 
+   "insurer"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 30519, 
+  "Duration": 492, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 75", 
+  "tags": [
+   "deductible", 
+   "accounts", 
+   "medical", 
+   "savings", 
+   "insurer"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 30519, 
+  "Duration": 492, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 75", 
+  "tags": [
+   "deductible", 
+   "accounts", 
+   "medical", 
+   "savings", 
+   "insurer"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 30519, 
+  "Duration": 492, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 137", 
+  "tags": [
+   "characters", 
+   "editor", 
+   "derryberry", 
+   "children", 
+   "virtues"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0227143668370244, 
+  "Time": 31012, 
+  "Duration": 794, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 137", 
+  "tags": [
+   "characters", 
+   "editor", 
+   "derryberry", 
+   "children", 
+   "virtues"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -0.9068143100511071, 
+  "Time": 31012, 
+  "Duration": 794, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 137", 
+  "tags": [
+   "characters", 
+   "editor", 
+   "derryberry", 
+   "children", 
+   "virtues"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -0.9068143100511071, 
+  "Time": 31012, 
+  "Duration": 794, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 137", 
+  "tags": [
+   "characters", 
+   "editor", 
+   "derryberry", 
+   "children", 
+   "virtues"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -0.9068143100511071, 
+  "Time": 31012, 
+  "Duration": 794, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 137", 
+  "tags": [
+   "characters", 
+   "editor", 
+   "derryberry", 
+   "children", 
+   "virtues"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -0.9068143100511071, 
+  "Time": 31012, 
+  "Duration": 794, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 137", 
+  "tags": [
+   "characters", 
+   "editor", 
+   "derryberry", 
+   "children", 
+   "virtues"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -0.9068143100511071, 
+  "Time": 31012, 
+  "Duration": 794, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Vastopolis"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 31807, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Vastopolis"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 31807, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Vastopolis"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 31807, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Vastopolis"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 7, 
+  "Time": 31807, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Vastopolis"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 31807, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Vastopolis"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 31807, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 154", 
+  "tags": [
+   "abortion", 
+   "democrats", 
+   "women", 
+   "life", 
+   "party"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -1.9604770017035773, 
+  "Time": 32186, 
+  "Duration": 178, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 154", 
+  "tags": [
+   "abortion", 
+   "democrats", 
+   "women", 
+   "life", 
+   "party"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -1.9604770017035773, 
+  "Time": 32186, 
+  "Duration": 178, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 154", 
+  "tags": [
+   "abortion", 
+   "democrats", 
+   "women", 
+   "life", 
+   "party"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -1.9604770017035773, 
+  "Time": 32186, 
+  "Duration": 178, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 154", 
+  "tags": [
+   "abortion", 
+   "democrats", 
+   "women", 
+   "life", 
+   "party"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -1.9604770017035773, 
+  "Time": 32186, 
+  "Duration": 178, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 154", 
+  "tags": [
+   "abortion", 
+   "democrats", 
+   "women", 
+   "life", 
+   "party"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -1.9604770017035773, 
+  "Time": 32186, 
+  "Duration": 178, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 154", 
+  "tags": [
+   "abortion", 
+   "democrats", 
+   "women", 
+   "life", 
+   "party"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 6.534923339011925, 
+  "Time": 32186, 
+  "Duration": 178, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 7", 
+  "tags": [
+   "tam", 
+   "noel", 
+   "cafe", 
+   "cybercafe", 
+   "mail"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 33641, 
+  "Duration": 575, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 7", 
+  "tags": [
+   "tam", 
+   "noel", 
+   "cafe", 
+   "cybercafe", 
+   "mail"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 33641, 
+  "Duration": 575, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 7", 
+  "tags": [
+   "tam", 
+   "noel", 
+   "cafe", 
+   "cybercafe", 
+   "mail"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 33641, 
+  "Duration": 575, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 7", 
+  "tags": [
+   "tam", 
+   "noel", 
+   "cafe", 
+   "cybercafe", 
+   "mail"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 33641, 
+  "Duration": 575, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 7", 
+  "tags": [
+   "tam", 
+   "noel", 
+   "cafe", 
+   "cybercafe", 
+   "mail"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 33641, 
+  "Duration": 575, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 7", 
+  "tags": [
+   "tam", 
+   "noel", 
+   "cafe", 
+   "cybercafe", 
+   "mail"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 33641, 
+  "Duration": 575, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Citizens for the Ethical Treatment of Lab Mice"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 34217, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Citizens for the Ethical Treatment of Lab Mice"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 34217, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Citizens for the Ethical Treatment of Lab Mice"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 34217, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Citizens for the Ethical Treatment of Lab Mice"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 34217, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Citizens for the Ethical Treatment of Lab Mice"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 34217, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Citizens for the Ethical Treatment of Lab Mice"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 7, 
+  "Time": 34217, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Brotherhood of Antarctica"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 34343, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Brotherhood of Antarctica"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 34343, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Brotherhood of Antarctica"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 34343, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Brotherhood of Antarctica"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 34343, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Brotherhood of Antarctica"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 34343, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Brotherhood of Antarctica"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 7, 
+  "Time": 34343, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Vastopolis"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 34538, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Vastopolis"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 34538, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Vastopolis"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 34538, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Vastopolis"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 7, 
+  "Time": 34538, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Vastopolis"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 34538, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Vastopolis"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 34538, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 151", 
+  "tags": [
+   "ferreira", 
+   "dolphins", 
+   "coach", 
+   "shula", 
+   "jona"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 34684, 
+  "Duration": 938, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 151", 
+  "tags": [
+   "ferreira", 
+   "dolphins", 
+   "coach", 
+   "shula", 
+   "jona"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 34684, 
+  "Duration": 938, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 151", 
+  "tags": [
+   "ferreira", 
+   "dolphins", 
+   "coach", 
+   "shula", 
+   "jona"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 34684, 
+  "Duration": 938, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 151", 
+  "tags": [
+   "ferreira", 
+   "dolphins", 
+   "coach", 
+   "shula", 
+   "jona"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 34684, 
+  "Duration": 938, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 151", 
+  "tags": [
+   "ferreira", 
+   "dolphins", 
+   "coach", 
+   "shula", 
+   "jona"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 34684, 
+  "Duration": 938, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 151", 
+  "tags": [
+   "ferreira", 
+   "dolphins", 
+   "coach", 
+   "shula", 
+   "jona"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 34684, 
+  "Duration": 938, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "bomb"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 35623, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "bomb"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 35623, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "bomb"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 35623, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "bomb"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 35623, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "bomb"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 7, 
+  "Time": 35623, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "bomb"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 35623, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "turkey"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 36129, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "turkey"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 36129, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "turkey"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 7, 
+  "Time": 36129, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "turkey"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 36129, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "turkey"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 36129, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "turkey"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 36129, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Vastopolis"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 36584, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Vastopolis"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 36584, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Vastopolis"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 36584, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Vastopolis"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 7, 
+  "Time": 36584, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Vastopolis"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 36584, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Vastopolis"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 36584, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 50", 
+  "tags": [
+   "airport", 
+   "airlines", 
+   "carriers", 
+   "securities", 
+   "minimum"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 37266, 
+  "Duration": 68, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 50", 
+  "tags": [
+   "airport", 
+   "airlines", 
+   "carriers", 
+   "securities", 
+   "minimum"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 37266, 
+  "Duration": 68, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 50", 
+  "tags": [
+   "airport", 
+   "airlines", 
+   "carriers", 
+   "securities", 
+   "minimum"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 37266, 
+  "Duration": 68, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 50", 
+  "tags": [
+   "airport", 
+   "airlines", 
+   "carriers", 
+   "securities", 
+   "minimum"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 37266, 
+  "Duration": 68, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 50", 
+  "tags": [
+   "airport", 
+   "airlines", 
+   "carriers", 
+   "securities", 
+   "minimum"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 37266, 
+  "Duration": 68, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 50", 
+  "tags": [
+   "airport", 
+   "airlines", 
+   "carriers", 
+   "securities", 
+   "minimum"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 37266, 
+  "Duration": 68, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 50", 
+  "tags": [
+   "airport", 
+   "airlines", 
+   "carriers", 
+   "securities", 
+   "minimum"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 37367, 
+  "Duration": 398, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 50", 
+  "tags": [
+   "airport", 
+   "airlines", 
+   "carriers", 
+   "securities", 
+   "minimum"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 37367, 
+  "Duration": 398, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 50", 
+  "tags": [
+   "airport", 
+   "airlines", 
+   "carriers", 
+   "securities", 
+   "minimum"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 37367, 
+  "Duration": 398, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 50", 
+  "tags": [
+   "airport", 
+   "airlines", 
+   "carriers", 
+   "securities", 
+   "minimum"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 37367, 
+  "Duration": 398, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 50", 
+  "tags": [
+   "airport", 
+   "airlines", 
+   "carriers", 
+   "securities", 
+   "minimum"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 37367, 
+  "Duration": 398, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 50", 
+  "tags": [
+   "airport", 
+   "airlines", 
+   "carriers", 
+   "securities", 
+   "minimum"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 37367, 
+  "Duration": 398, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "VastPress"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 37766, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "VastPress"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 37766, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "VastPress"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 37766, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "VastPress"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 7, 
+  "Time": 37766, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "VastPress"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 37766, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "VastPress"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 37766, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 134", 
+  "tags": [
+   "marks", 
+   "german", 
+   "dax", 
+   "settled", 
+   "bonds"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 37988, 
+  "Duration": 208, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 134", 
+  "tags": [
+   "marks", 
+   "german", 
+   "dax", 
+   "settled", 
+   "bonds"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 37988, 
+  "Duration": 208, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 134", 
+  "tags": [
+   "marks", 
+   "german", 
+   "dax", 
+   "settled", 
+   "bonds"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 37988, 
+  "Duration": 208, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 134", 
+  "tags": [
+   "marks", 
+   "german", 
+   "dax", 
+   "settled", 
+   "bonds"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 37988, 
+  "Duration": 208, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 134", 
+  "tags": [
+   "marks", 
+   "german", 
+   "dax", 
+   "settled", 
+   "bonds"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 37988, 
+  "Duration": 208, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 134", 
+  "tags": [
+   "marks", 
+   "german", 
+   "dax", 
+   "settled", 
+   "bonds"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 37988, 
+  "Duration": 208, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 136", 
+  "tags": [
+   "gunning", 
+   "arthur", 
+   "law", 
+   "hubert", 
+   "abiding"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 38328, 
+  "Duration": 16, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 136", 
+  "tags": [
+   "gunning", 
+   "arthur", 
+   "law", 
+   "hubert", 
+   "abiding"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 38328, 
+  "Duration": 16, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 136", 
+  "tags": [
+   "gunning", 
+   "arthur", 
+   "law", 
+   "hubert", 
+   "abiding"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 38328, 
+  "Duration": 16, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 136", 
+  "tags": [
+   "gunning", 
+   "arthur", 
+   "law", 
+   "hubert", 
+   "abiding"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 38328, 
+  "Duration": 16, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 136", 
+  "tags": [
+   "gunning", 
+   "arthur", 
+   "law", 
+   "hubert", 
+   "abiding"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 38328, 
+  "Duration": 16, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 136", 
+  "tags": [
+   "gunning", 
+   "arthur", 
+   "law", 
+   "hubert", 
+   "abiding"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 38328, 
+  "Duration": 16, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 134", 
+  "tags": [
+   "marks", 
+   "german", 
+   "dax", 
+   "settled", 
+   "bonds"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 38345, 
+  "Duration": 29, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 134", 
+  "tags": [
+   "marks", 
+   "german", 
+   "dax", 
+   "settled", 
+   "bonds"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 38345, 
+  "Duration": 29, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 134", 
+  "tags": [
+   "marks", 
+   "german", 
+   "dax", 
+   "settled", 
+   "bonds"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 38345, 
+  "Duration": 29, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 134", 
+  "tags": [
+   "marks", 
+   "german", 
+   "dax", 
+   "settled", 
+   "bonds"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 38345, 
+  "Duration": 29, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 134", 
+  "tags": [
+   "marks", 
+   "german", 
+   "dax", 
+   "settled", 
+   "bonds"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 38345, 
+  "Duration": 29, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 134", 
+  "tags": [
+   "marks", 
+   "german", 
+   "dax", 
+   "settled", 
+   "bonds"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 38345, 
+  "Duration": 29, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 90", 
+  "tags": [
+   "lloyd", 
+   "berry", 
+   "sue", 
+   "investors", 
+   "settlement"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 38701, 
+  "Duration": 542, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 90", 
+  "tags": [
+   "lloyd", 
+   "berry", 
+   "sue", 
+   "investors", 
+   "settlement"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 38701, 
+  "Duration": 542, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 90", 
+  "tags": [
+   "lloyd", 
+   "berry", 
+   "sue", 
+   "investors", 
+   "settlement"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 38701, 
+  "Duration": 542, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 90", 
+  "tags": [
+   "lloyd", 
+   "berry", 
+   "sue", 
+   "investors", 
+   "settlement"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 38701, 
+  "Duration": 542, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 90", 
+  "tags": [
+   "lloyd", 
+   "berry", 
+   "sue", 
+   "investors", 
+   "settlement"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 38701, 
+  "Duration": 542, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 90", 
+  "tags": [
+   "lloyd", 
+   "berry", 
+   "sue", 
+   "investors", 
+   "settlement"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 38701, 
+  "Duration": 542, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Mice"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 39244, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Mice"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 39244, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Mice"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 39244, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Mice"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 39244, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Mice"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 39244, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Mice"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 7, 
+  "Time": 39244, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 40018, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 40018, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 40018, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 40018, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 40018, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 40018, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 78", 
+  "tags": [
+   "tractor", 
+   "deere", 
+   "farmers", 
+   "showdowns", 
+   "magnum"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 40154, 
+  "Duration": 492, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 78", 
+  "tags": [
+   "tractor", 
+   "deere", 
+   "farmers", 
+   "showdowns", 
+   "magnum"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 40154, 
+  "Duration": 492, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 78", 
+  "tags": [
+   "tractor", 
+   "deere", 
+   "farmers", 
+   "showdowns", 
+   "magnum"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 40154, 
+  "Duration": 492, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 78", 
+  "tags": [
+   "tractor", 
+   "deere", 
+   "farmers", 
+   "showdowns", 
+   "magnum"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 40154, 
+  "Duration": 492, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 78", 
+  "tags": [
+   "tractor", 
+   "deere", 
+   "farmers", 
+   "showdowns", 
+   "magnum"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 40154, 
+  "Duration": 492, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 78", 
+  "tags": [
+   "tractor", 
+   "deere", 
+   "farmers", 
+   "showdowns", 
+   "magnum"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 40154, 
+  "Duration": 492, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 3", 
+  "tags": [
+   "district", 
+   "school", 
+   "suburbia", 
+   "religious", 
+   "handicapped"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -2.376149914821124, 
+  "Time": 44639, 
+  "Duration": 383, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 3", 
+  "tags": [
+   "district", 
+   "school", 
+   "suburbia", 
+   "religious", 
+   "handicapped"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -2.376149914821124, 
+  "Time": 44639, 
+  "Duration": 383, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 3", 
+  "tags": [
+   "district", 
+   "school", 
+   "suburbia", 
+   "religious", 
+   "handicapped"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -2.376149914821124, 
+  "Time": 44639, 
+  "Duration": 383, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 3", 
+  "tags": [
+   "district", 
+   "school", 
+   "suburbia", 
+   "religious", 
+   "handicapped"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 7.920499716070415, 
+  "Time": 44639, 
+  "Duration": 383, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 3", 
+  "tags": [
+   "district", 
+   "school", 
+   "suburbia", 
+   "religious", 
+   "handicapped"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -2.376149914821124, 
+  "Time": 44639, 
+  "Duration": 383, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 3", 
+  "tags": [
+   "district", 
+   "school", 
+   "suburbia", 
+   "religious", 
+   "handicapped"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -2.376149914821124, 
+  "Time": 44639, 
+  "Duration": 383, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 35", 
+  "tags": [
+   "session", 
+   "stock", 
+   "quarter", 
+   "nasdaq", 
+   "sank"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -1.2645655877342419, 
+  "Time": 45122, 
+  "Duration": 1701, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 35", 
+  "tags": [
+   "session", 
+   "stock", 
+   "quarter", 
+   "nasdaq", 
+   "sank"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -1.2645655877342419, 
+  "Time": 45122, 
+  "Duration": 1701, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 35", 
+  "tags": [
+   "session", 
+   "stock", 
+   "quarter", 
+   "nasdaq", 
+   "sank"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 4.215218625780807, 
+  "Time": 45122, 
+  "Duration": 1701, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 35", 
+  "tags": [
+   "session", 
+   "stock", 
+   "quarter", 
+   "nasdaq", 
+   "sank"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -1.2645655877342419, 
+  "Time": 45122, 
+  "Duration": 1701, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 35", 
+  "tags": [
+   "session", 
+   "stock", 
+   "quarter", 
+   "nasdaq", 
+   "sank"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -1.2645655877342419, 
+  "Time": 45122, 
+  "Duration": 1701, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 35", 
+  "tags": [
+   "session", 
+   "stock", 
+   "quarter", 
+   "nasdaq", 
+   "sank"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -1.2645655877342419, 
+  "Time": 45122, 
+  "Duration": 1701, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 31", 
+  "tags": [
+   "ncr", 
+   "terminating", 
+   "postal", 
+   "registered", 
+   "posts"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -1.8906303236797275, 
+  "Time": 46824, 
+  "Duration": 461, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 31", 
+  "tags": [
+   "ncr", 
+   "terminating", 
+   "postal", 
+   "registered", 
+   "posts"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 6.302101078932425, 
+  "Time": 46824, 
+  "Duration": 461, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 31", 
+  "tags": [
+   "ncr", 
+   "terminating", 
+   "postal", 
+   "registered", 
+   "posts"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -1.8906303236797275, 
+  "Time": 46824, 
+  "Duration": 461, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 31", 
+  "tags": [
+   "ncr", 
+   "terminating", 
+   "postal", 
+   "registered", 
+   "posts"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -1.8906303236797275, 
+  "Time": 46824, 
+  "Duration": 461, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 31", 
+  "tags": [
+   "ncr", 
+   "terminating", 
+   "postal", 
+   "registered", 
+   "posts"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -1.8906303236797275, 
+  "Time": 46824, 
+  "Duration": 461, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 31", 
+  "tags": [
+   "ncr", 
+   "terminating", 
+   "postal", 
+   "registered", 
+   "posts"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -1.8906303236797275, 
+  "Time": 46824, 
+  "Duration": 461, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 33", 
+  "tags": [
+   "intel", 
+   "microprocessors", 
+   "quarter", 
+   "technology", 
+   "per"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -1.140204429301533, 
+  "Time": 47921, 
+  "Duration": 456, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 33", 
+  "tags": [
+   "intel", 
+   "microprocessors", 
+   "quarter", 
+   "technology", 
+   "per"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -1.140204429301533, 
+  "Time": 47921, 
+  "Duration": 456, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 33", 
+  "tags": [
+   "intel", 
+   "microprocessors", 
+   "quarter", 
+   "technology", 
+   "per"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 3.8006814310051107, 
+  "Time": 47921, 
+  "Duration": 456, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 33", 
+  "tags": [
+   "intel", 
+   "microprocessors", 
+   "quarter", 
+   "technology", 
+   "per"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -1.140204429301533, 
+  "Time": 47921, 
+  "Duration": 456, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 33", 
+  "tags": [
+   "intel", 
+   "microprocessors", 
+   "quarter", 
+   "technology", 
+   "per"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -1.140204429301533, 
+  "Time": 47921, 
+  "Duration": 456, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 33", 
+  "tags": [
+   "intel", 
+   "microprocessors", 
+   "quarter", 
+   "technology", 
+   "per"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -1.140204429301533, 
+  "Time": 47921, 
+  "Duration": 456, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "microprocessors"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 48378, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "microprocessors"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 48378, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "microprocessors"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 7, 
+  "Time": 48378, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "microprocessors"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 48378, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "microprocessors"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 48378, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "microprocessors"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 48378, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 49197, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 49197, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 49197, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 49197, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 49197, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 49197, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 30", 
+  "tags": [
+   "eds", 
+   "debt", 
+   "services", 
+   "computer", 
+   "telecommunications"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 49315, 
+  "Duration": 2413, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 30", 
+  "tags": [
+   "eds", 
+   "debt", 
+   "services", 
+   "computer", 
+   "telecommunications"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 49315, 
+  "Duration": 2413, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 30", 
+  "tags": [
+   "eds", 
+   "debt", 
+   "services", 
+   "computer", 
+   "telecommunications"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 49315, 
+  "Duration": 2413, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 30", 
+  "tags": [
+   "eds", 
+   "debt", 
+   "services", 
+   "computer", 
+   "telecommunications"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 49315, 
+  "Duration": 2413, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 30", 
+  "tags": [
+   "eds", 
+   "debt", 
+   "services", 
+   "computer", 
+   "telecommunications"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 49315, 
+  "Duration": 2413, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 30", 
+  "tags": [
+   "eds", 
+   "debt", 
+   "services", 
+   "computer", 
+   "telecommunications"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 49315, 
+  "Duration": 2413, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 94", 
+  "tags": [
+   "fasb", 
+   "pool", 
+   "combination", 
+   "merger", 
+   "accounts"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -2.4843270868824527, 
+  "Time": 51973, 
+  "Duration": 843, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 94", 
+  "tags": [
+   "fasb", 
+   "pool", 
+   "combination", 
+   "merger", 
+   "accounts"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -2.4843270868824527, 
+  "Time": 51973, 
+  "Duration": 843, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 94", 
+  "tags": [
+   "fasb", 
+   "pool", 
+   "combination", 
+   "merger", 
+   "accounts"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -2.4843270868824527, 
+  "Time": 51973, 
+  "Duration": 843, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 94", 
+  "tags": [
+   "fasb", 
+   "pool", 
+   "combination", 
+   "merger", 
+   "accounts"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 8.281090289608176, 
+  "Time": 51973, 
+  "Duration": 843, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 94", 
+  "tags": [
+   "fasb", 
+   "pool", 
+   "combination", 
+   "merger", 
+   "accounts"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -2.4843270868824527, 
+  "Time": 51973, 
+  "Duration": 843, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 94", 
+  "tags": [
+   "fasb", 
+   "pool", 
+   "combination", 
+   "merger", 
+   "accounts"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -2.4843270868824527, 
+  "Time": 51973, 
+  "Duration": 843, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "Network of Dread ~= Vastpress", 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 52070, 
+  "Duration": 20, 
+  "InteractionType": "addNote"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "Network of Dread ~= Vastpress", 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 52070, 
+  "Duration": 20, 
+  "InteractionType": "addNote"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "Network of Dread ~= Vastpress", 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 52070, 
+  "Duration": 20, 
+  "InteractionType": "addNote"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "Network of Dread ~= Vastpress", 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 52070, 
+  "Duration": 20, 
+  "InteractionType": "addNote"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "Network of Dread ~= Vastpress", 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 10, 
+  "Time": 52070, 
+  "Duration": 20, 
+  "InteractionType": "addNote"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "Network of Dread ~= Vastpress", 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 52070, 
+  "Duration": 20, 
+  "InteractionType": "addNote"
+ }, 
+ {
+  "DocNum": "TerroristActivity 52", 
+  "tags": [
+   "apprehending", 
+   "devices", 
+   "men", 
+   "suspect", 
+   "bomb"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 52888, 
+  "Duration": 35, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 52", 
+  "tags": [
+   "apprehending", 
+   "devices", 
+   "men", 
+   "suspect", 
+   "bomb"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 52888, 
+  "Duration": 35, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 52", 
+  "tags": [
+   "apprehending", 
+   "devices", 
+   "men", 
+   "suspect", 
+   "bomb"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 52888, 
+  "Duration": 35, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 52", 
+  "tags": [
+   "apprehending", 
+   "devices", 
+   "men", 
+   "suspect", 
+   "bomb"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 52888, 
+  "Duration": 35, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 52", 
+  "tags": [
+   "apprehending", 
+   "devices", 
+   "men", 
+   "suspect", 
+   "bomb"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 52888, 
+  "Duration": 35, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 52", 
+  "tags": [
+   "apprehending", 
+   "devices", 
+   "men", 
+   "suspect", 
+   "bomb"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 52888, 
+  "Duration": 35, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "emails", 
+   "located", 
+   "botnet", 
+   "networks", 
+   "encrypted"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -2.0141396933560474, 
+  "Time": 53025, 
+  "Duration": 5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "emails", 
+   "located", 
+   "botnet", 
+   "networks", 
+   "encrypted"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -2.0141396933560474, 
+  "Time": 53025, 
+  "Duration": 5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "emails", 
+   "located", 
+   "botnet", 
+   "networks", 
+   "encrypted"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -2.0141396933560474, 
+  "Time": 53025, 
+  "Duration": 5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "emails", 
+   "located", 
+   "botnet", 
+   "networks", 
+   "encrypted"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -2.0141396933560474, 
+  "Time": 53025, 
+  "Duration": 5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "emails", 
+   "located", 
+   "botnet", 
+   "networks", 
+   "encrypted"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -2.0141396933560474, 
+  "Time": 53025, 
+  "Duration": 5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 159", 
+  "tags": [
+   "emails", 
+   "located", 
+   "botnet", 
+   "networks", 
+   "encrypted"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 6.713798977853493, 
+  "Time": 53025, 
+  "Duration": 5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 52", 
+  "tags": [
+   "apprehending", 
+   "devices", 
+   "men", 
+   "suspect", 
+   "bomb"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 53084, 
+  "Duration": 41, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 52", 
+  "tags": [
+   "apprehending", 
+   "devices", 
+   "men", 
+   "suspect", 
+   "bomb"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 53084, 
+  "Duration": 41, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 52", 
+  "tags": [
+   "apprehending", 
+   "devices", 
+   "men", 
+   "suspect", 
+   "bomb"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 53084, 
+  "Duration": 41, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 52", 
+  "tags": [
+   "apprehending", 
+   "devices", 
+   "men", 
+   "suspect", 
+   "bomb"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 53084, 
+  "Duration": 41, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 52", 
+  "tags": [
+   "apprehending", 
+   "devices", 
+   "men", 
+   "suspect", 
+   "bomb"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 53084, 
+  "Duration": 41, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 52", 
+  "tags": [
+   "apprehending", 
+   "devices", 
+   "men", 
+   "suspect", 
+   "bomb"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 53084, 
+  "Duration": 41, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 68", 
+  "tags": [
+   "lloyd", 
+   "equitas", 
+   "insurer", 
+   "names", 
+   "regulators"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 53273, 
+  "Duration": 362, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 68", 
+  "tags": [
+   "lloyd", 
+   "equitas", 
+   "insurer", 
+   "names", 
+   "regulators"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 53273, 
+  "Duration": 362, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 68", 
+  "tags": [
+   "lloyd", 
+   "equitas", 
+   "insurer", 
+   "names", 
+   "regulators"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 53273, 
+  "Duration": 362, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 68", 
+  "tags": [
+   "lloyd", 
+   "equitas", 
+   "insurer", 
+   "names", 
+   "regulators"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 53273, 
+  "Duration": 362, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 68", 
+  "tags": [
+   "lloyd", 
+   "equitas", 
+   "insurer", 
+   "names", 
+   "regulators"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 53273, 
+  "Duration": 362, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 68", 
+  "tags": [
+   "lloyd", 
+   "equitas", 
+   "insurer", 
+   "names", 
+   "regulators"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 53273, 
+  "Duration": 362, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "<span class=\"highlight-pink\">Network</span> of Hate"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 53636, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "<span class=\"highlight-pink\">Network</span> of Hate"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 53636, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "<span class=\"highlight-pink\">Network</span> of Hate"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 7, 
+  "Time": 53636, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "<span class=\"highlight-pink\">Network</span> of Hate"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 53636, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "<span class=\"highlight-pink\">Network</span> of Hate"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 53636, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "<span class=\"highlight-pink\">Network</span> of Hate"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 53636, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "Followed: - Network", 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 53710, 
+  "Duration": 20, 
+  "InteractionType": "addNote"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "Followed: - Network", 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 10, 
+  "Time": 53710, 
+  "Duration": 20, 
+  "InteractionType": "addNote"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "Followed: - Network", 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 53710, 
+  "Duration": 20, 
+  "InteractionType": "addNote"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "Followed: - Network", 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 53710, 
+  "Duration": 20, 
+  "InteractionType": "addNote"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "Followed: - Network", 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 53710, 
+  "Duration": 20, 
+  "InteractionType": "addNote"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "Followed: - Network", 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -3.0, 
+  "Time": 53710, 
+  "Duration": 20, 
+  "InteractionType": "addNote"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 53786, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 53786, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 53786, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 53786, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 53786, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Network"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 53786, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 95", 
+  "tags": [
+   "taiwan", 
+   "plastic", 
+   "formosa", 
+   "sector", 
+   "leeanna"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -2.1964224872231686, 
+  "Time": 53858, 
+  "Duration": 616, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 95", 
+  "tags": [
+   "taiwan", 
+   "plastic", 
+   "formosa", 
+   "sector", 
+   "leeanna"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -2.1964224872231686, 
+  "Time": 53858, 
+  "Duration": 616, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 95", 
+  "tags": [
+   "taiwan", 
+   "plastic", 
+   "formosa", 
+   "sector", 
+   "leeanna"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 7.321408290743896, 
+  "Time": 53858, 
+  "Duration": 616, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 95", 
+  "tags": [
+   "taiwan", 
+   "plastic", 
+   "formosa", 
+   "sector", 
+   "leeanna"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -2.1964224872231686, 
+  "Time": 53858, 
+  "Duration": 616, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 95", 
+  "tags": [
+   "taiwan", 
+   "plastic", 
+   "formosa", 
+   "sector", 
+   "leeanna"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -2.1964224872231686, 
+  "Time": 53858, 
+  "Duration": 616, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 95", 
+  "tags": [
+   "taiwan", 
+   "plastic", 
+   "formosa", 
+   "sector", 
+   "leeanna"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -2.1964224872231686, 
+  "Time": 53858, 
+  "Duration": 616, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Hate"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 54475, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Hate"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 54475, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Hate"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 54475, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Hate"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 7, 
+  "Time": 54475, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Hate"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 54475, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Hate"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 54475, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 142", 
+  "tags": [
+   "pesos", 
+   "subindex", 
+   "uniwide", 
+   "philippines", 
+   "profit"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 54527, 
+  "Duration": 273, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 142", 
+  "tags": [
+   "pesos", 
+   "subindex", 
+   "uniwide", 
+   "philippines", 
+   "profit"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 54527, 
+  "Duration": 273, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 142", 
+  "tags": [
+   "pesos", 
+   "subindex", 
+   "uniwide", 
+   "philippines", 
+   "profit"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 54527, 
+  "Duration": 273, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 142", 
+  "tags": [
+   "pesos", 
+   "subindex", 
+   "uniwide", 
+   "philippines", 
+   "profit"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 54527, 
+  "Duration": 273, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 142", 
+  "tags": [
+   "pesos", 
+   "subindex", 
+   "uniwide", 
+   "philippines", 
+   "profit"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 54527, 
+  "Duration": 273, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 142", 
+  "tags": [
+   "pesos", 
+   "subindex", 
+   "uniwide", 
+   "philippines", 
+   "profit"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 54527, 
+  "Duration": 273, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 85", 
+  "tags": [
+   "pesetas", 
+   "mapfre", 
+   "madrid", 
+   "traders", 
+   "result"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 54903, 
+  "Duration": 272, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 85", 
+  "tags": [
+   "pesetas", 
+   "mapfre", 
+   "madrid", 
+   "traders", 
+   "result"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 54903, 
+  "Duration": 272, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 85", 
+  "tags": [
+   "pesetas", 
+   "mapfre", 
+   "madrid", 
+   "traders", 
+   "result"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 54903, 
+  "Duration": 272, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 85", 
+  "tags": [
+   "pesetas", 
+   "mapfre", 
+   "madrid", 
+   "traders", 
+   "result"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 54903, 
+  "Duration": 272, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 85", 
+  "tags": [
+   "pesetas", 
+   "mapfre", 
+   "madrid", 
+   "traders", 
+   "result"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 54903, 
+  "Duration": 272, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 85", 
+  "tags": [
+   "pesetas", 
+   "mapfre", 
+   "madrid", 
+   "traders", 
+   "result"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 54903, 
+  "Duration": 272, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 7", 
+  "tags": [
+   "tam", 
+   "noel", 
+   "cafe", 
+   "cybercafe", 
+   "mail"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 55176, 
+  "Duration": 286, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 7", 
+  "tags": [
+   "tam", 
+   "noel", 
+   "cafe", 
+   "cybercafe", 
+   "mail"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 55176, 
+  "Duration": 286, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 7", 
+  "tags": [
+   "tam", 
+   "noel", 
+   "cafe", 
+   "cybercafe", 
+   "mail"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 55176, 
+  "Duration": 286, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 7", 
+  "tags": [
+   "tam", 
+   "noel", 
+   "cafe", 
+   "cybercafe", 
+   "mail"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 55176, 
+  "Duration": 286, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 7", 
+  "tags": [
+   "tam", 
+   "noel", 
+   "cafe", 
+   "cybercafe", 
+   "mail"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 55176, 
+  "Duration": 286, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 7", 
+  "tags": [
+   "tam", 
+   "noel", 
+   "cafe", 
+   "cybercafe", 
+   "mail"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 55176, 
+  "Duration": 286, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 7", 
+  "tags": [
+   "tam", 
+   "noel", 
+   "cafe", 
+   "cybercafe", 
+   "mail"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 55470, 
+  "Duration": 273, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 7", 
+  "tags": [
+   "tam", 
+   "noel", 
+   "cafe", 
+   "cybercafe", 
+   "mail"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 55470, 
+  "Duration": 273, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 7", 
+  "tags": [
+   "tam", 
+   "noel", 
+   "cafe", 
+   "cybercafe", 
+   "mail"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 55470, 
+  "Duration": 273, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 7", 
+  "tags": [
+   "tam", 
+   "noel", 
+   "cafe", 
+   "cybercafe", 
+   "mail"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 55470, 
+  "Duration": 273, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 7", 
+  "tags": [
+   "tam", 
+   "noel", 
+   "cafe", 
+   "cybercafe", 
+   "mail"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 55470, 
+  "Duration": 273, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 7", 
+  "tags": [
+   "tam", 
+   "noel", 
+   "cafe", 
+   "cybercafe", 
+   "mail"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 55470, 
+  "Duration": 273, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "VastPress"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 55744, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "VastPress"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 55744, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "VastPress"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 55744, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "VastPress"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 55744, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "VastPress"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 55744, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "VastPress"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 55744, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 41", 
+  "tags": [
+   "brokers", 
+   "nasd", 
+   "imposters", 
+   "testing", 
+   "regulators"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 55997, 
+  "Duration": 382, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 41", 
+  "tags": [
+   "brokers", 
+   "nasd", 
+   "imposters", 
+   "testing", 
+   "regulators"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 55997, 
+  "Duration": 382, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 41", 
+  "tags": [
+   "brokers", 
+   "nasd", 
+   "imposters", 
+   "testing", 
+   "regulators"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 55997, 
+  "Duration": 382, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 41", 
+  "tags": [
+   "brokers", 
+   "nasd", 
+   "imposters", 
+   "testing", 
+   "regulators"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 55997, 
+  "Duration": 382, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 41", 
+  "tags": [
+   "brokers", 
+   "nasd", 
+   "imposters", 
+   "testing", 
+   "regulators"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 55997, 
+  "Duration": 382, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 41", 
+  "tags": [
+   "brokers", 
+   "nasd", 
+   "imposters", 
+   "testing", 
+   "regulators"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 55997, 
+  "Duration": 382, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 147", 
+  "tags": [
+   "atlanta", 
+   "game", 
+   "ioc", 
+   "city", 
+   "hanh"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 56441, 
+  "Duration": 521, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 147", 
+  "tags": [
+   "atlanta", 
+   "game", 
+   "ioc", 
+   "city", 
+   "hanh"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 56441, 
+  "Duration": 521, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 147", 
+  "tags": [
+   "atlanta", 
+   "game", 
+   "ioc", 
+   "city", 
+   "hanh"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 56441, 
+  "Duration": 521, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 147", 
+  "tags": [
+   "atlanta", 
+   "game", 
+   "ioc", 
+   "city", 
+   "hanh"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 56441, 
+  "Duration": 521, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 147", 
+  "tags": [
+   "atlanta", 
+   "game", 
+   "ioc", 
+   "city", 
+   "hanh"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 56441, 
+  "Duration": 521, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 147", 
+  "tags": [
+   "atlanta", 
+   "game", 
+   "ioc", 
+   "city", 
+   "hanh"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 56441, 
+  "Duration": 521, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Samuel Stansbury"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 56963, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Samuel Stansbury"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 56963, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Samuel Stansbury"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 56963, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Samuel Stansbury"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 56963, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Samuel Stansbury"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 56963, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Samuel Stansbury"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 56963, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "missiles"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 57068, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "missiles"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 57068, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "missiles"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 57068, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "missiles"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 57068, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "missiles"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 57068, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "missiles"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 57068, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 132", 
+  "tags": [
+   "cents", 
+   "seng", 
+   "hanging", 
+   "subindex", 
+   "chip"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 57135, 
+  "Duration": 436, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 132", 
+  "tags": [
+   "cents", 
+   "seng", 
+   "hanging", 
+   "subindex", 
+   "chip"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 57135, 
+  "Duration": 436, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 132", 
+  "tags": [
+   "cents", 
+   "seng", 
+   "hanging", 
+   "subindex", 
+   "chip"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 57135, 
+  "Duration": 436, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 132", 
+  "tags": [
+   "cents", 
+   "seng", 
+   "hanging", 
+   "subindex", 
+   "chip"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 57135, 
+  "Duration": 436, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 132", 
+  "tags": [
+   "cents", 
+   "seng", 
+   "hanging", 
+   "subindex", 
+   "chip"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 57135, 
+  "Duration": 436, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 132", 
+  "tags": [
+   "cents", 
+   "seng", 
+   "hanging", 
+   "subindex", 
+   "chip"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 57135, 
+  "Duration": 436, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 1", 
+  "tags": [
+   "radioactive", 
+   "bomb", 
+   "dhs", 
+   "dirty", 
+   "eggleston"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -1.392333901192504, 
+  "Time": 57844, 
+  "Duration": 669, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 1", 
+  "tags": [
+   "radioactive", 
+   "bomb", 
+   "dhs", 
+   "dirty", 
+   "eggleston"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -1.392333901192504, 
+  "Time": 57844, 
+  "Duration": 669, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 1", 
+  "tags": [
+   "radioactive", 
+   "bomb", 
+   "dhs", 
+   "dirty", 
+   "eggleston"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -1.392333901192504, 
+  "Time": 57844, 
+  "Duration": 669, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 1", 
+  "tags": [
+   "radioactive", 
+   "bomb", 
+   "dhs", 
+   "dirty", 
+   "eggleston"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -1.392333901192504, 
+  "Time": 57844, 
+  "Duration": 669, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 1", 
+  "tags": [
+   "radioactive", 
+   "bomb", 
+   "dhs", 
+   "dirty", 
+   "eggleston"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 4.641113003975014, 
+  "Time": 57844, 
+  "Duration": 669, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 1", 
+  "tags": [
+   "radioactive", 
+   "bomb", 
+   "dhs", 
+   "dirty", 
+   "eggleston"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -1.392333901192504, 
+  "Time": 57844, 
+  "Duration": 669, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 112", 
+  "tags": [
+   "apprehending", 
+   "suspect", 
+   "revealing", 
+   "raided", 
+   "police"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -0.9519591141396933, 
+  "Time": 58566, 
+  "Duration": 472, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 112", 
+  "tags": [
+   "apprehending", 
+   "suspect", 
+   "revealing", 
+   "raided", 
+   "police"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -0.9519591141396933, 
+  "Time": 58566, 
+  "Duration": 472, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 112", 
+  "tags": [
+   "apprehending", 
+   "suspect", 
+   "revealing", 
+   "raided", 
+   "police"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -0.9519591141396933, 
+  "Time": 58566, 
+  "Duration": 472, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 112", 
+  "tags": [
+   "apprehending", 
+   "suspect", 
+   "revealing", 
+   "raided", 
+   "police"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -0.9519591141396933, 
+  "Time": 58566, 
+  "Duration": 472, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 112", 
+  "tags": [
+   "apprehending", 
+   "suspect", 
+   "revealing", 
+   "raided", 
+   "police"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 3.1731970471323114, 
+  "Time": 58566, 
+  "Duration": 472, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 112", 
+  "tags": [
+   "apprehending", 
+   "suspect", 
+   "revealing", 
+   "raided", 
+   "police"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -0.9519591141396933, 
+  "Time": 58566, 
+  "Duration": 472, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 2", 
+  "tags": [
+   "nationsbank", 
+   "boatmen", 
+   "combination", 
+   "richard", 
+   "bank"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -0.9204429301533219, 
+  "Time": 59039, 
+  "Duration": 625, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 2", 
+  "tags": [
+   "nationsbank", 
+   "boatmen", 
+   "combination", 
+   "richard", 
+   "bank"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -0.9204429301533219, 
+  "Time": 59039, 
+  "Duration": 625, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 2", 
+  "tags": [
+   "nationsbank", 
+   "boatmen", 
+   "combination", 
+   "richard", 
+   "bank"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 3.0681431005110733, 
+  "Time": 59039, 
+  "Duration": 625, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 2", 
+  "tags": [
+   "nationsbank", 
+   "boatmen", 
+   "combination", 
+   "richard", 
+   "bank"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -0.9204429301533219, 
+  "Time": 59039, 
+  "Duration": 625, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 2", 
+  "tags": [
+   "nationsbank", 
+   "boatmen", 
+   "combination", 
+   "richard", 
+   "bank"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -0.9204429301533219, 
+  "Time": 59039, 
+  "Duration": 625, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 2", 
+  "tags": [
+   "nationsbank", 
+   "boatmen", 
+   "combination", 
+   "richard", 
+   "bank"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -0.9204429301533219, 
+  "Time": 59039, 
+  "Duration": 625, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 15", 
+  "tags": [
+   "argentina", 
+   "america", 
+   "dow", 
+   "stock", 
+   "jones"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 59665, 
+  "Duration": 1271, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 15", 
+  "tags": [
+   "argentina", 
+   "america", 
+   "dow", 
+   "stock", 
+   "jones"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 59665, 
+  "Duration": 1271, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 15", 
+  "tags": [
+   "argentina", 
+   "america", 
+   "dow", 
+   "stock", 
+   "jones"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 59665, 
+  "Duration": 1271, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 15", 
+  "tags": [
+   "argentina", 
+   "america", 
+   "dow", 
+   "stock", 
+   "jones"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 59665, 
+  "Duration": 1271, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 15", 
+  "tags": [
+   "argentina", 
+   "america", 
+   "dow", 
+   "stock", 
+   "jones"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 59665, 
+  "Duration": 1271, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 15", 
+  "tags": [
+   "argentina", 
+   "america", 
+   "dow", 
+   "stock", 
+   "jones"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 59665, 
+  "Duration": 1271, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Inventories"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 60937, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Inventories"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 60937, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Inventories"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 7, 
+  "Time": 60937, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Inventories"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 60937, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Inventories"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 60937, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Inventories"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -2.1, 
+  "Time": 60937, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "TerroristActivity 111", 
+  "tags": [
+   "chateau", 
+   "roc", 
+   "community", 
+   "merged", 
+   "swap"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 61105, 
+  "Duration": 1093, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 111", 
+  "tags": [
+   "chateau", 
+   "roc", 
+   "community", 
+   "merged", 
+   "swap"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 61105, 
+  "Duration": 1093, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 111", 
+  "tags": [
+   "chateau", 
+   "roc", 
+   "community", 
+   "merged", 
+   "swap"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 61105, 
+  "Duration": 1093, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 111", 
+  "tags": [
+   "chateau", 
+   "roc", 
+   "community", 
+   "merged", 
+   "swap"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 61105, 
+  "Duration": 1093, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 111", 
+  "tags": [
+   "chateau", 
+   "roc", 
+   "community", 
+   "merged", 
+   "swap"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 61105, 
+  "Duration": 1093, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 111", 
+  "tags": [
+   "chateau", 
+   "roc", 
+   "community", 
+   "merged", 
+   "swap"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 61105, 
+  "Duration": 1093, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "", 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 62199, 
+  "Duration": 20, 
+  "InteractionType": "createNote"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "", 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 10, 
+  "Time": 62199, 
+  "Duration": 20, 
+  "InteractionType": "createNote"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "", 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 10, 
+  "Time": 62199, 
+  "Duration": 20, 
+  "InteractionType": "createNote"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "", 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 10, 
+  "Time": 62199, 
+  "Duration": 20, 
+  "InteractionType": "createNote"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "", 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 10, 
+  "Time": 62199, 
+  "Duration": 20, 
+  "InteractionType": "createNote"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "", 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 10, 
+  "Time": 62199, 
+  "Duration": 20, 
+  "InteractionType": "createNote"
+ }, 
+ {
+  "DocNum": "TerroristActivity 59", 
+  "tags": [
+   "kong", 
+   "hong", 
+   "sanctions", 
+   "china", 
+   "quoted"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 62663, 
+  "Duration": 558, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 59", 
+  "tags": [
+   "kong", 
+   "hong", 
+   "sanctions", 
+   "china", 
+   "quoted"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 62663, 
+  "Duration": 558, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 59", 
+  "tags": [
+   "kong", 
+   "hong", 
+   "sanctions", 
+   "china", 
+   "quoted"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 62663, 
+  "Duration": 558, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 59", 
+  "tags": [
+   "kong", 
+   "hong", 
+   "sanctions", 
+   "china", 
+   "quoted"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 62663, 
+  "Duration": 558, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 59", 
+  "tags": [
+   "kong", 
+   "hong", 
+   "sanctions", 
+   "china", 
+   "quoted"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -0.8999999999999999, 
+  "Time": 62663, 
+  "Duration": 558, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 59", 
+  "tags": [
+   "kong", 
+   "hong", 
+   "sanctions", 
+   "china", 
+   "quoted"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 62663, 
+  "Duration": 558, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 34", 
+  "tags": [
+   "guilders", 
+   "nutricia", 
+   "unilever", 
+   "aex", 
+   "dutch"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -1.7211243611584326, 
+  "Time": 63364, 
+  "Duration": 446, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 34", 
+  "tags": [
+   "guilders", 
+   "nutricia", 
+   "unilever", 
+   "aex", 
+   "dutch"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -1.7211243611584326, 
+  "Time": 63364, 
+  "Duration": 446, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 34", 
+  "tags": [
+   "guilders", 
+   "nutricia", 
+   "unilever", 
+   "aex", 
+   "dutch"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 5.737081203861443, 
+  "Time": 63364, 
+  "Duration": 446, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 34", 
+  "tags": [
+   "guilders", 
+   "nutricia", 
+   "unilever", 
+   "aex", 
+   "dutch"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -1.7211243611584326, 
+  "Time": 63364, 
+  "Duration": 446, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 34", 
+  "tags": [
+   "guilders", 
+   "nutricia", 
+   "unilever", 
+   "aex", 
+   "dutch"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -1.7211243611584326, 
+  "Time": 63364, 
+  "Duration": 446, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 34", 
+  "tags": [
+   "guilders", 
+   "nutricia", 
+   "unilever", 
+   "aex", 
+   "dutch"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": -1.7211243611584326, 
+  "Time": 63364, 
+  "Duration": 446, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "", 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 63811, 
+  "Duration": 20, 
+  "InteractionType": "createNote"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "", 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 10, 
+  "Time": 63811, 
+  "Duration": 20, 
+  "InteractionType": "createNote"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "", 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 10, 
+  "Time": 63811, 
+  "Duration": 20, 
+  "InteractionType": "createNote"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "", 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 10, 
+  "Time": 63811, 
+  "Duration": 20, 
+  "InteractionType": "createNote"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "", 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 10, 
+  "Time": 63811, 
+  "Duration": 20, 
+  "InteractionType": "createNote"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "", 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 10, 
+  "Time": 63811, 
+  "Duration": 20, 
+  "InteractionType": "createNote"
+ }, 
+ {
+  "DocNum": "TerroristActivity 32", 
+  "tags": [
+   "circon", 
+   "surgical", 
+   "takeover", 
+   "retention", 
+   "employee"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": -0.9051107325383304, 
+  "Time": 64006, 
+  "Duration": 354, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 32", 
+  "tags": [
+   "circon", 
+   "surgical", 
+   "takeover", 
+   "retention", 
+   "employee"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": -0.9051107325383304, 
+  "Time": 64006, 
+  "Duration": 354, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 32", 
+  "tags": [
+   "circon", 
+   "surgical", 
+   "takeover", 
+   "retention", 
+   "employee"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": -0.9051107325383304, 
+  "Time": 64006, 
+  "Duration": 354, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 32", 
+  "tags": [
+   "circon", 
+   "surgical", 
+   "takeover", 
+   "retention", 
+   "employee"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": -0.9051107325383304, 
+  "Time": 64006, 
+  "Duration": 354, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 32", 
+  "tags": [
+   "circon", 
+   "surgical", 
+   "takeover", 
+   "retention", 
+   "employee"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": -0.9051107325383304, 
+  "Time": 64006, 
+  "Duration": 354, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "TerroristActivity 32", 
+  "tags": [
+   "circon", 
+   "surgical", 
+   "takeover", 
+   "retention", 
+   "employee"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 3.017035775127768, 
+  "Time": 64006, 
+  "Duration": 354, 
+  "InteractionType": "OpenDoc"
+ }
+]

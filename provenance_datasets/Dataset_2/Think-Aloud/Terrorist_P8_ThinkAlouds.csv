@@ -1,0 +1,247 @@
+Timestamp,Transcript
+[00:00:22]:,User starts the study with reading the prompt note
+[00:01:29]:,"Searching for ""Suspicious"""
+[00:01:27]:,User changed the topic: (Looking for Suspicious Activities with animals) (type 1)[bottom-up]
+[00:01:41]:,"Picking a document in title ""May 2011. Suspicious Turkey Found with Man at Airport"""
+[00:02:02]:,Still reading the document
+[00:02:25]:,"""This is about a man carrying a frozen turkey at the airport"""
+[00:02:41]:,"Highlighting ""Suspicious Turkey Found"""
+[00:02:56]:,Users puts the docoument aside
+[00:03:06]:,Making a new note: Note 1 -empty-
+[00:03:24]:,"Searching for ""Frozen turkey"""
+[00:03:36]:,"Searching for ""Turkey"""
+[00:03:42]:,"""I'm going back to suspicious"""
+[00:03:55]:,"Picking a document in title ""April 2011. Update on Animal Deaths"""
+[00:04:07]:,"Highlighting ""mass livestock deaths on April 1"""
+[00:04:36]:,"Searching for ""Animal death"""
+[00:04:45]:,"Searching for ""Livestock"""
+[00:04:58]:,"Searching for ""Mass death"""
+[00:05:11]:,"Searching for ""Suspicious"""
+[00:05:14]:,"Picking a document in title ""May 2011. City Threat Level Increased"""
+[00:05:51]:,"Highlighting ""raised the threat level around the country. including Vastopolis"""
+[00:06:14]:,"Picking a document in title ""May 2011. City Threat Level Increased"""
+[00:06:17]:,"""I'm searcjhing the keyword Suspicious and reading results. after that I search the terms in each of these results"""
+[00:07:10]:,"Searching for ""Bomb"""
+[00:07:23]:,"Picking a document in title ""April 2011. Bomb Blast Kills Nine"""
+[00:07:25]:,"""this one has an interesting title"""
+[00:07:43]:,"Highlighting ""April 03. 2011"""
+[00:07:58]:,"Highlighting ""airport security"""
+[00:07:55]:,User changed the topic: (Looking for Events in Airlines and Airports)[bottom-up]
+[00:08:10]:,"Highlighting """"killing nine people"""
+[00:08:33]:,"Highlighting ""A bomb exploded"""
+[00:08:58]:,"Searching for ""Airport"""
+[00:09:16]:,"Picking a document in title ""May 2011. Explosives Traces Are Said To Be Found in Antarctica Airlines"""
+[00:09:41]:,"Picking a document in title "" May 2011. Corrections & Amplifications"""
+[00:09:46]:,"Picking a document in title ""March 2011. The Big Hustle The Big Hustle"""
+[00:09:59]:,"Picking a document in title ""March 2011. Officials Confident of Security"""
+[00:10:20]:,User is looking at the dates
+[00:10:20]:,"Highlighting ""March 2011"""
+[00:10:38]:,"Highlighting ""the crash of a Antarctica Airlines jet"""
+[00:10:49]:,"""They had a airplane crash on March and this one says some chemicals disapeared"""
+[00:11:03]:,"Picking a document in title ""May 2011. Explosives Traces Are Said To Be Found in Antarctica Airlines"""
+[00:11:08]:,"Highlighting ""Traces of a chemical residue that may have come from a bomb or a missile were found on wreckage fragments of the Antarctica Airlines flight"""
+[00:11:23]:,Making connection between two documents about airline crash and chemical residue
+[00:11:43]:,"Picking a document in title ""April 2011. Investigators Question Passengers On Previous Leg of Antarctica Airlines Flight"""
+[00:12:19]:,Still reading the document
+[00:12:23]:,"Highlighting ""Investigators seeking clues to the downing of the Antarctica Airlines flight"""
+[00:12:28]:,"Highlighting ""April 29. 2011"""
+[00:12:47]:,"Picking a document in title ""March 2011. Not All Security Levels Are Created Equal"""
+[00:12:48]:,"""This one is about airports also"""
+[00:13:07]:,Making connection between another document and two other ones about airport
+[00:13:56]:,Still reading the document
+[00:14:07]:,"""This one is also relevant to the other airport ones"""
+[00:14:17]:,"Highlighting ""March 30. 2011"""
+[00:14:22]:,"Highlighting "" US airports are required to meet minimum security standards"""
+[00:14:34]:,"""There is also a document here about contamination in airport. this gives me a new idea to search about"""
+[00:14:45]:,User changed the topic: (Searching for food contamination) [bottom-up]
+[00:14:48]:,"Searching for ""Food"""
+[00:14:59]:,"""Two of results are about South Korea here"""
+[00:15:09]:,"Picking a document in title "" April 2011. South Korean Police Siege on University Students Continues"""
+[00:15:48]:,Still reading the document
+[00:16:18]:,Still reading the document
+[00:16:45]:,"Picking a document in title "" May 2011. Royal Dutch Buoys Market"""
+[00:16:51]:,Looking through titles
+[00:17:10]:,"Searching for ""Contamination"""
+[00:17:19]:,"Searching for ""Contaminate"""
+[00:17:24]:,Looking through titles
+[00:17:57]:,Looking through titles
+[00:18:06]:,"""I'm looking randomly through the titles here"""
+[00:18:22]:,"Searching for ""explosion"""
+[00:18:20]:,"User changed the topic: (Looking for Bombing and Explosions, Smogtown) [bottom-up]"
+[00:18:32]:,"Picking a document in title "" May 2011. Explosions at Smogtown Chemical Plant """
+[00:18:41]:,"Highlighting ""May 17. 2011"""
+[00:18:45]:,"Highlighting ""Explosions at Smogtown Chemical Plan"""
+[00:19:26]:,"Searching for ""Chemical Plant"""
+[00:19:33]:,"Searching for ""Smogtown"""
+[00:19:50]:,"""I'm seeing two other documents related"""
+[00:20:06]:,"Highlighting ""A consensus exists among local residents that the explosions were caused by some kind of terrorist act"""
+[00:20:10]:,"""I was searching for explosions at the beggining. then I found some article that states explosion happend in smogtown chemical plant. so I searched for new search term smogtom to find other related articles. next I'm going to go back to explosion later"""
+[00:21:19]:,"Picking a document in title ""May 2011. Bomb Makers Apprehended"""
+[00:21:33]:,"Highlighting ""May 12. 2011"""
+[00:21:45]:,"Highlighting ""In Smogtown. two men with enough material to construct several explosive devices were apprehended before the devices were completed"""
+[00:22:08]:,Making connection between two documents about bombs
+[00:22:24]:,"Picking a document in title ""May 2009. A controversial public school of the Suburbia religious community was declared illegal by a state court """
+[00:23:00]:,Still reading the document
+[00:23:13]:,"""I don't think it's related. but I want to look at the livestock article again"""
+[00:23:40]:,"Picking a document in title ""April 2011. Update on Animal Deaths"""
+[00:23:38]:,User changed the topic: (Looking for threats related to foods and livestock) [bottom-up]
+[00:23:48]:,"Highlighting ""April 14. 2011"""
+[00:24:23]:,Still reading the document
+[00:24:37]:,"""I'm going to search again for it"""
+[00:24:41]:,"Searching for ""livestock"""
+[00:24:48]:,"Picking a document in title ""March 2011. US Plans to Seek Indictments Of 2 ADM Execs in"""
+[00:25:15]:,"Searching for ""Poison"""
+[00:25:28]:,"Picking a document in title ""May 2011. Circon Corp. Attempts to Block Takeover With Worker Benefits"""
+[00:26:12]:,"Searching for ""Trespass"""
+[00:26:23]:,"Searching for ""Threat"""
+[00:26:42]:,"Picking a document in title ""May 2011. threatening emails sent to VastPress Animal Activist Threatens Press"""
+[00:27:18]:,"Highlighting ""Ethical Treatment of Lab Mice"""
+[00:27:14]:,User changed the topic: (Looking for terrorist groups) [bottom-up]
+[00:27:28]:,"Highlighting ""connected to the Brotherhood of Antarctica"""
+[00:27:35]:,"Highlighting ""mails of a threatening nature to VastPress"""
+[00:27:59]:,"Searching for ""brotherhood"""
+[00:28:12]:,"Searching for ""brotherhood of antarctica"""
+[00:28:16]:,"Searching for ""brotherhood"""
+[00:28:26]:,"Picking a document in title ""May 2011. Bomb Makers Apprehended """
+[00:28:40]:,"Highlighting ""Psychobrotherhood"""
+[00:29:05]:,"Searching for ""psychobrotherhood"""
+[00:29:10]:,"Searching for ""Brotherhood"""
+[00:29:14]:,"Picking a document in title ""April 2011. Rail Workers' Union Reaches Pact. Cutting Strike Threat"""
+[00:29:20]:,"Picking a document in title "" April 2011. Fear of National Rail Strike Eases As Track Union Nears Accord """
+[00:29:24]:,"Picking a document in title ""May 2011. The Gag Rule Party"""
+[00:29:50]:,Looking through titles
+[00:30:04]:,"""I search for bunch of stuff but I didn't find anything that I like to continue. So now I'm passing over titles quikly"""
+[00:30:20]:,"Picking a document in title ""May 2011. Suspects Apprehended"""
+[00:30:32]:,"Highlighting ""Paramurderers of Chaos"""
+[00:30:46]:,"Highlighting ""apprehended three people"""
+[00:31:29]:,"Highlighting ""expensive high-end workbenches along with stacks of Petri dishes"""
+[00:31:36]:,"Highlighting ""laboratory in the basement"""
+[00:31:38]:,"""In terms of finding threats I think it good to keep this one too"""
+[00:32:03]:,"Searching for ""paramurderers"""
+[00:32:07]:,"Searching for ""Chaos"""
+[00:32:17]:,"Picking a document in title "" May 2011. DHS Foils Plot"""
+[00:32:24]:,"""There is a Network of Deard"""
+[00:32:28]:,"Highlighting ""Dread"""
+[00:32:36]:,"Searching for ""Dread"""
+[00:32:43]:,"Picking a document in title ""May 2011. Overseas Terror Group Threatens Press"""
+[00:33:37]:,"Highlighting ""VastPress has recently received numerous threatening emails"""
+[00:33:58]:,"""Regarding finding information about threats. a number of threatening emails have been sent to this press"""
+[00:34:00]:,"Picking a document in title ""May 2011. DHS Foils Plot May"""
+[00:34:11]:,"Highlighting ""Network of Dread"""
+[00:34:29]:,"Highlighting ""Network of Dread. DHS officials said there was evidence that the target had been Washington"""
+[00:34:49]:,"Picking a document in title ""May 2011. Overseas Terror Group Threatens"""
+[00:34:49]:,"""I can use the dates infanct"""
+[00:34:55]:,"Highlighting ""May 2011"""
+[00:35:06]:,"Picking a document in title ""May 2011. DHS Foils Plot"""
+[00:35:07]:,"Highlighting ""May 2011"""
+[00:35:11]:,Making connection between two documents about Network of Dread
+[00:35:23]:,"Picking a document in title ""Work Week ''VastPress Interactive Edition News''"""
+[00:35:45]:,Looking through titles
+[00:36:03]:,"Picking a document in title ""May 2011. Investing on environmental package to clean toxic waste dumps"""
+[00:36:23]:,Looking through titles
+[00:36:43]:,Looking through titles
+[00:37:04]:,"Picking a document in title ""Large Number of Weapons Found During Traffic Stop"""
+[00:37:19]:,"Highlighting ""May 16. 201"""
+[00:37:21]:,"Highlighting ""Large Number of Weapons Found During Traffic Stop"""
+[00:37:36]:,"Highlighting ""Cornertown"""
+[00:37:48]:,"Highlighting "" Samuel Stansbury"""
+[00:37:58]:,"""One individual arrested and he was a part of Network of Hate"""
+[00:38:09]:,"Highlighting ""Network of Hate"""
+[00:38:29]:,Looking through highlights and titles
+[00:38:50]:,"Searching for ""Cornertown"""
+[00:38:58]:,"Searching for ""Network of Hate"""
+[00:39:27]:,Looking through highlights old documents
+[00:39:43]:,"Picking a document in title ""March 2011. Officials Confident of Security"""
+[00:39:42]:,User changed the topic: (Looking for suspicious activities by groups) [bottom-up]
+[00:40:01]:,Looking through titles
+[00:40:58]:,Still looking through titles
+[00:41:09]:,"""I've information on Network of Hate. some suspects working on a labratory n basement. then there was an explision in a cheemical plant by psychobrotherhood. Also a bombing in antractia airline jet"""
+[00:42:11]:,"""Now I'm looking at the rest of data and try to find something meaningful"""
+[00:43:34]:,"Searching for ""Suspect"""
+[00:43:56]:,"Picking a document in title "" May 2011. US Antiterrorism Effort Is Flawed. as Threat Grows"""
+[00:44:12]:,"Picking a document in title ""April 2011. Three Face Charges in Plot To Kill Bangladesh's Leader"""
+[00:44:34]:,"Highlighting ""Three retired military officers"""
+[00:44:48]:,"Highlighting ""in Plot To Kill Bangladesh's Leader"""
+[00:45:00]:,"Highlighting ""April 29. 2011"""
+[00:45:35]:,"Picking a document in title ""May 2011. Corrections & Amplifications"""
+[00:46:05]:,"Picking a document in title "" May 2011. FDA Warns Three Airlines About Food Contamination"""
+[00:46:15]:,"Highlighting ""contaminating drinking water and food"""
+[00:46:37]:,User changed the topic: (User had 7 minutes break! ) [break]
+[00:53:37]:,User changed the topic: (Looking at bombings at different places) [bottom-up]
+[00:53:40]:,"""I'm going to keep looking at the titles here"""
+[00:54:21]:,"""I've found many places"""
+[00:54:36]:,"Picking a document in title ""May 2011. Bomb Makers Apprehended"""
+[00:55:22]:,Looking through titles
+[00:55:55]:,Looking through titles
+[00:56:29]:,Looking through titles
+[00:57:09]:,Looking through titles
+[00:57:52]:,Looking through titles
+[00:58:12]:,"Picking a document in title ""May 2011. The Gag Rule Party"""
+[00:58:24]:,Looking through titles
+[00:58:28]:,"Picking a document in title ""Work Week ''VastPress Interactive Edition News'' """
+[00:58:47]:,"Picking a document in title ""March 2011. Peter Will Move US Troops In Middle East to Secure Areas"""
+[00:58:45]:,User changed the topic: (Looking into a Bombing Happened in Saudi Arabia) [bottom-up]
+[00:59:08]:,Still reading the document
+[00:59:15]:,"Searching for ""servicemen"""
+[00:59:29]:,"Picking a document in title ""April 2011. Saudi Group Claims 6 Militants Confessed to US Base Bombing"""
+[00:59:57]:,"Highlighting ""truck bombing"""
+[01:00:00]:,"Highlighting ""April 26. 2011"""
+[01:00:08]:,"Highlighting ""US Base Bombin"""
+[01:00:29]:,"Highlighting ""DUBAI. United Arab Emirates"""
+[01:00:33]:,"Highlighting ""killed 19 US servicemen in Saudi Arabia"""
+[01:01:10]:,"Picking a document in title ""March 2011. Peter Will Move US Troops In Middle East to Secure Areas """
+[01:01:23]:,"Highlighting ""March 29. 2011"""
+[01:01:28]:,"""By chance (I was looking through titles and suddenly found this one) I found a bombing in Saudi Araibia that killed 19 people. I've been searched for bombs before maybe this one was hidden"""
+[01:02:45]:,"""I searched for the location and also servicemen and found the second documentyou see"""
+[01:02:05]:,"Highlighting ""Move US Troops In Middle East to Secure Areas"""
+[01:02:34]:,Making connection between two documents about bombing in Saudi Arabia
+[01:03:17]:,"Picking a document in title "" April 2011. Editorial Scapegoating Gun Owners"""
+[01:03:17]:,User changed the topic: (Searching for poison and chemical threats) [bottom-up]
+[01:03:27]:,"Searching for ""Arson"""
+[01:03:54]:,"Searching for ""kindergarten"""
+[01:03:56]:,"""Sounds like this article doesn't have anything to do with other evidences"""
+[01:04:17]:,"Highlighting ""horrific violence"""
+[01:04:23]:,"Highlighting ""the murder of 16 kindergarten children and their teacher in Dunblane. Scotland."""
+[01:04:29]:,"Picking a document in title ""March"""
+[01:04:38]:,"Highlighting ""the shooting and arson spree in Port Arthur. Tasmania. in April"""
+[01:04:58]:,"Searching for ""port arthur"""
+[01:05:08]:,"""No. nothing on this"""
+[01:05:57]:,Looking through titles
+[01:06:10]:,"Picking a document in title ""March 2011. Tractor Makers Stage Showdowns for Farmers"""
+[01:06:20]:,"Picking a document in title ""May 2011. FDA Warns Three Airlines About Food Contamination"""
+[01:07:15]:,"Picking a document in title ""May 2011. Corrections & Amplifications"""
+[01:07:45]:,Looking through titles
+[01:08:38]:,Looking through titles
+[01:08:57]:,"Searching for ""Mice"""
+[01:09:02]:,"Searching for ""Lab"""
+[01:09:22]:,"Searching for ""Toxic"""
+[01:09:53]:,"Searching for ""Vastopolis"""
+[01:10:14]:,"Searching for ""vastopolis death"""
+[01:10:57]:,"Picking a document in title ""May 2011. US Antiterrorism Effort Is Flawed. as Threat Grows"""
+[01:11:28]:,Looking through titles
+[01:11:54]:,Looking through titles
+[01:12:02]:,"Picking a document in title "" May 2011. Suspicious Turkey Found with Man at Airport"""
+[01:12:08]:,"Highlighting ""May 14. 2011"""
+[01:12:52]:,"Highlighting ""Vastopolis airport"""
+[01:13:51]:,"Picking a document in title ""May 2011. City Threat Level Increased"""
+[01:13:59]:,"Highlighting ""May 10. 2011"""
+[01:14:21]:,"""This is one the articles I've been read before I just noticed that I didn't highlight the details about who/what/where/when. So now I'm reading it again to find more"""
+[01:15:21]:,Looking through highlights
+[01:15:49]:,"""I think I'm at a good point to stop. the rest are mainly ecconimic news and I don't think that's somthing related"""
+[01:17:16]:,"Searching for ""trafficing"""
+[01:17:37]:,"Searching for ""traffic"""
+[01:17:36]:,"Picking a document in title ""April 2011. Key Thai Party Quits Coalition."""
+[01:17:58]:,"Searching for ""launder"""
+[01:18:00]:,"""Nothing comes up for my new searches"""
+[01:18:36]:,Looking through titles and highlights
+[01:19:09]:,User changed the topic: (Reviewing articls and making conclusions) [bottom-up]
+[01:19:29]:,"Picking a document in title ""May 2011. FDA Warns Three Airlines About Food Contamination"""
+[01:19:37]:,"Highlighting ""May 01. 2011"""
+[01:19:43]:,"Highlighting ""several airlines"""
+[01:20:27]:,"Picking a document in title ""May 2011. Bomb Makers Apprehended Bomb Makers Apprehended"""
+[01:21:13]:,"Adding notes, Note 1: ""Bombing attempt in Smogtown chemical plant May 17"""
+[01:22:10]:,"Picking a document in title ""May. 2011 Explosive traces has been found"""
+[01:22:45]:,"Making a new note, Note 2: -empty-"
+[01:23:15]:,"Picking a document in title ""May 2011. Suspects Apprehended"""
+[01:24:12]:,Looking through highlights
+[01:25:45]:,Looking through titles

@@ -1,0 +1,436 @@
+Timestamp,Transcript
+[00:00:36]:,Reading the prompt note
+[00:01:01]:,"""So there is a new infection disease started in 2009"""
+[00:01:21]:,"""I want to start with looking for disease"""
+[00:01:24]:,"Searching for ""disease"""
+[00:01:24]:,User changed the topic: (Looking for evidence of disease) [bottom-up]
+[00:01:56]:,"Searching for ""Pendemic"""
+[00:02:01]:,"Searching for ""Death"""
+[00:02:09]:,Picking a document from last search
+[00:02:27]:,Picking a document from last search
+[00:02:48]:,Still reading the document
+[00:02:53]:,Picking a document from last search
+[00:03:03]:,Picking a document from last search
+[00:03:29]:,"""They don't seem to be related to diseases"""
+[00:03:40]:,"Searching for ""sick"""
+[00:03:52]:,Picking a document from last search
+[00:04:03]:,Still reading the document
+[00:04:36]:,"""It's an email about disease from Michel Dombrovski to Dr, George"""
+[00:04:57]:,"Writing a new note about the names in last article and also the dates: ""Email, Dombrovski. Russia. Dr. George and Family. April 15th - transactions"""
+[00:05:34]:,"Searching for ""Russia"""
+[00:05:45]:,Picking a document from last search
+[00:05:53]:,Picking a document from last search
+[00:05:58]:,Picking a document from last search
+[00:06:03]:,"""It's not helping"""
+[00:06:10]:,"Searching for ""George"""
+[00:06:16]:,Picking a document from last search
+[00:06:23]:,Picking a document from last search
+[00:06:38]:,Picking a document from last search
+[00:06:40]:,moving documents to the right side
+[00:06:51]:,"""I searched for russia but that was about military and no disease then I searched for George and I found these emails and a phone call"""
+[00:07:25]:,Making connection between two documents
+[00:07:32]:,Making connection between two documents
+[00:07:35]:,Making connection between two documents
+[00:07:38]:,"Making connection between four documents about George, Dombrovski and Fushoo"
+[00:07:45]:,starts reading the four new documents
+[00:08:06]:,Still reading the document
+[00:08:08]:,Picking an othr one
+[00:08:26]:,Still reading the document
+[00:08:28]:,Picking a document from last search
+[00:08:42]:,Picking a document from last search
+[00:09:19]:,"Searching for ""Niegria"""
+[00:09:27]:,Picking a document from last search
+[00:09:58]:,Still reading the document
+[00:10:01]:,"""Nothing about the disease but there are diamonds here"""
+[00:10:35]:,User changed the topic: (Who is Minsky and what does he do?) [Top-down]
+[00:10:35]:,"Searching for ""Minsky"""
+[00:10:40]:,Picking a document from last search
+[00:11:06]:,"""I found this guy Minsky in Nigeria articles, I don't know he is related to George or Dombrovski"""
+[00:12:01]:,Making connection between two documents
+[00:12:01]:,Making connection between two documents
+[00:12:01]:,"""I'm connecting these Minsky articles, he is dead, they found arms receipts """
+[00:12:05]:,"Searching for ""Bridge"""
+[00:12:07]:,"Searching for ""Civil"""
+[00:12:12]:,Picking a document from last search
+[00:12:27]:,User changed the topic: (Illigal arms dealing in each country) [Bottom-up]
+[00:12:27]:,"Searching for ""Kenya"""
+[00:12:38]:,"Searching for ""Syria"""
+[00:12:48]:,"""Now I'm searching for other countries and it seems that they are also linked with illigal arms dealing"""
+[00:12:59]:,"Searching for ""Lebonan"""
+[00:13:07]:,"Searching for ""Pakistan"""
+[00:13:14]:,"Searching for ""Yemen"""
+[00:13:27]:,"Searching for ""Spread"""
+[00:13:33]:,"Searching for ""Infect"""
+[00:13:37]:,"Searching for ""Hospital"""
+[00:13:49]:,Picking a document from last search
+[00:13:55]:,"Searching for ""Kenya"""
+[00:14:01]:,Picking a document from last search
+[00:14:22]:,Still reading the document
+[00:14:32]:,Picking a document from last search
+[00:14:45]:,Picking a document from last search
+[00:14:52]:,Picking a document from last search
+[00:15:13]:,Still reading the document
+[00:15:17]:,Picking a document
+[00:15:26]:,Picking a document from last search
+[00:15:39]:,Picking a document from last search
+[00:15:45]:,Picking a document from last search
+[00:16:05]:,"""I'm reading from Kenya article and there is a report from April 2009 that says Kenya has weapon shipments and some weapon charges in Jan 2009 Kenya and in May somebody died in the hospital"""
+[00:16:33]:,Making connection between two documents
+[00:16:36]:,Making connection between two documents
+[00:16:49]:,"Searching for ""Hospital"""
+[00:16:49]:,User changed the topic: (Looking for evidence of sickness) [Bottom-up]
+[00:16:55]:,Picking a document from last search
+[00:17:01]:,Picking a document from last search
+[00:17:04]:,Picking a document from last search
+[00:17:24]:,"Searching for ""Otieno"""
+[00:17:28]:,Picking a document from last search
+[00:17:49]:,Picking a document from last search
+[00:18:02]:,"Searching for ""British"""
+[00:18:06]:,Picking a document from last search
+[00:18:31]:,Picking a document from last search
+[00:18:35]:,Picking a document from last search
+[00:18:56]:,Picking a document from last search
+[00:19:01]:,"Searching for ""Mombasa"""
+[00:19:12]:,Looking through titles
+[00:19:18]:,Picking a document
+[00:19:24]:,Looking through titles
+[00:19:52]:,"""I'm looking at dates started from Feb 2009, I'm kind of stuck now"""
+[00:19:18]:,User started the first topic: (Looking at events on 2009) [Bottom-up]
+[00:20:32]:,Picking a document from upper right corner
+[00:20:42]:,Picking a document from upper right corner
+[00:20:46]:,Picking a document from upper right corner
+[00:20:53]:,Picking a document from upper right corner
+[00:21:13]:,Still reading the document
+[00:21:31]:,"""This one is a telephone call, They talk about guns and one is from Venezuela which is from countries that disease is spread to later"""
+[00:22:17]:,"Writing a new note: ""Venezuela, Jorge, Barcelona, Bets"""
+[00:22:50]:,"Searching for ""Barcelona"""
+[00:21:13]:,User changed the topic: (Looking for arm dealers in Venezuela) [Top-down]
+[00:22:53]:,Picking a document from last search
+[00:23:07]:,Picking a document from last search
+[00:23:27]:,Making connection between two documents
+[00:23:29]:,Making connection between two documents
+[00:23:31]:,"Searching for ""Jeorge"""
+[00:23:35]:,"Searching for ""Beto"""
+[00:23:39]:,"Searching for ""Venezuela"""
+[00:23:45]:,Picking a document from last search
+[00:23:57]:,Making connection between two documents
+[00:24:00]:,"Searching for ""Jhon"""
+[00:24:00]:,User changed the topic: (Looking for arm dealer name Jhon) [bottom-up]
+[00:24:07]:,Picking a document from last search
+[00:24:15]:,"""So, I looked at Venezuela and I found this guy Jhon and now I'm searching for him"""
+[00:24:37]:,Picking a document from last search
+[00:24:41]:,Picking a document from last search
+[00:24:43]:,"""They are sending messages talking about parts which is probably about guns, I'm not sure"""
+[00:24:47]:,Picking a document from last search
+[00:24:53]:,Picking a document from last search
+[00:24:59]:,"""Jhon is messaging JT"""
+[00:25:09]:,Reviewing all four documents
+[00:25:17]:,Making connection between two documents
+[00:25:18]:,Making connection between two documents
+[00:25:20]:,Making connection between two documents
+[00:25:26]:,"Writing a new note: ""Jtomski"""
+[00:25:33]:,"Searching for ""jtomski"""
+[00:25:42]:,Picking a document from last search
+[00:25:55]:,"Searching for ""VolksWagon"""
+[00:25:55]:,User changed the topic: (Looking at car part dealers) [bottom-up]
+[00:26:56]:,"""They're talking about VW part which is probably a code word"""
+[00:26:13]:,Picking a document from last search
+[00:26:15]:,Picking a document from last search
+[00:26:41]:,"Searching for ""VWhombre"""
+[00:27:00]:,"Writing a new note: ""VWhombre"""
+[00:27:04]:,Picking a document from last search
+[00:27:10]:,Picking a document from last search
+[00:27:14]:,Picking a document from last search
+[00:27:32]:,"Searching for ""April"""
+[00:27:34]:,Picking a document from last search
+[00:27:41]:,Picking a document from last search
+[00:27:50]:,Picking a document from last search
+[00:27:53]:,Picking a document from last search
+[00:27:56]:,Picking a document from last search
+[00:27:59]:,Picking a document from last search
+[00:28:02]:,Picking a document from last search
+[00:28:15]:,"""I'm still raeding these VW messages, vwhombre said said we'll meet you at hotel on April 22nd"""
+[00:28:35]:,"Searching for ""savvytraveladvice"""
+[00:28:40]:,"Searching for ""april"""
+[00:28:46]:,"Searching for ""JT"""
+[00:28:56]:,"Searching for ""Pontiac"""
+[00:29:02]:,Picking a document from last search
+[00:29:04]:,Picking a document
+[00:29:11]:,"Searching for ""Arab"""
+[00:29:20]:,"Searching for ""Jewel"""
+[00:29:24]:,Picking a document from last search
+[00:29:34]:,Picking a document from last search
+[00:29:51]:,"Searching for ""Giunter"""
+[00:30:08]:,"Searching for ""Barcelona"""
+[00:30:16]:,Picking a document
+[00:30:16]:,Looking through titles
+[00:30:37]:,Picking a document
+[00:30:49]:,Picking a document
+[00:31:32]:,"""I'm just reading articles now, and there is this email from Dombrovsky to someone named boyo there also jotomosky which I think is the guy as JT or Jtomski, So, I think I may search for it"""
+[00:31:54]:,"Searching for ""joetomsk"""
+[00:32:01]:,"Searching for ""boyo"""
+[00:32:16]:,Picking a document from last search
+[00:32:45]:,Still reading the document
+[00:33:09]:,Still reading the document
+[00:33:25]:,Looking through titles
+[00:33:32]:,Picking a document
+[00:33:52]:,"Searching for ""Ahemd"""
+[00:33:52]:,User changed the topic: (Looking for arm dealersin Yemen) [top-down]
+[00:33:55]:,"""So, I'm readign telepohne call between Ahmed and Dobrovski"""
+[00:34:17]:,Picking a document from last search
+[00:34:29]:,Picking a document from last search
+[00:34:36]:,"""Lot's of information here, Ahmed was part of arms dealing in Saudia Arabia"""
+[00:35:04]:,Still reading the document
+[00:35:29]:,Picking a document from last search
+[00:35:51]:,"Writing a new note about Ahmed: ""Ahmed"""
+[00:35:58]:,"Searching for ""Leonid"""
+[00:36:29]:,Still reading the document
+[00:36:40]:,"""Leonid was brother of ,,,"""
+[00:37:04]:,Still reading the document
+[00:37:22]:,Picking a document from last search
+[00:37:55]:,Still reading the document
+[00:38:08]:,"Searching for ""Yemen"""
+[00:38:18]:,Picking a document from last search
+[00:38:28]:,Picking a document from last search
+[00:38:52]:,Looking through titles
+[00:39:03]:,Picking a document from last search
+[00:39:16]:,Still reading the document
+[00:39:31]:,Picking a document from last search
+[00:39:39]:,"""This one is farming equipments that goes to Sana"""
+[00:39:55]:,"Writing a new note about Yemen: ""Yemen"""
+[00:40:07]:,"Searching for ""Sana"""
+[00:40:16]:,Picking a document from last search
+[00:40:25]:,Picking a document from last search
+[00:40:37]:,Picking a document from top
+[00:40:44]:,Picking a document from top left
+[00:41:06]:,"""So, I opend a random article on March 2009, it is between Anka and Kasem, the car is stolen, Kasem say's it is no longer usefull"""
+[00:40:44]:,User changed the topic: (Who are Anka and Kasem) [bottom-up]
+[00:41:36]:,"Searching for ""Kasem"""
+[00:41:38]:,Picking a document from last search
+[00:41:42]:,Picking a document from last search
+[00:41:53]:,Picking a document from last search
+[00:42:16]:,Picking a document from last search
+[00:42:36]:,"Searching for ""Anka"""
+[00:42:41]:,Picking a document from last search
+[00:42:44]:,Picking a document from last search
+[00:42:45]:,Picking a document from last search
+[00:42:47]:,Picking a document from last search
+[00:42:49]:,Picking a document from last search
+[00:43:13]:,Picking a document from last search
+[00:43:27]:,Picking a document from last search
+[00:43:30]:,Picking a document from last search
+[00:43:37]:,Picking a document from last search
+[00:43:47]:,"""I'm looking at Anka documents and It's related to Serilanka and these articles are about a plan with weapons, I don't know the connections with that"""
+[00:44:02]:,Grouping documents aside
+[00:44:15]:,User changed the topic: (What is about the Rassia-Korea plane) [top-down]
+[00:44:15]:,"Searching for ""Ilyushin"""
+[00:44:21]:,"""It's a plane from Russia to North Korea"""
+[00:44:25]:,Picking a document from last search
+[00:44:43]:,Grouping documents aside
+[00:44:53]:,Picking a document from center
+[00:45:03]:,Picking a document
+[00:45:20]:,Picking a document
+[00:45:32]:,Picking a document
+[00:45:40]:,User changed the topic: (What is the meeting in Dubai about?) [top-down]
+[00:45:40]:,"Searching for ""Dubai"""
+[00:46:36]:,"""It looks like a meeting place"""
+[00:46:38]:,Picking a document from last search
+[00:47:02]:,"Searching for ""Maulana"""
+[00:47:02]:,User changed the topic: (Who is Maulana Khori?) [top-down]
+[00:47:02]:,Picking a document from last search
+[00:47:07]:,Picking a document from last search
+[00:47:11]:,Picking a document from
+[00:45:59]:,"""I'm going to read about Dubai"""
+[00:45:47]:,Picking a document from last search
+[00:46:32]:,"""Maulana Khori says he suspected to be a top leader in Karachi fraction"""
+[00:47:14]:,Picking a document from last search
+[00:47:19]:,Picking a document from last search
+[00:47:47]:,"""It came up that there are bank transactions which have ID numbers"""
+[00:47:54]:,Picking a document from last search
+[00:47:57]:,Picking a document from last search
+[00:48:02]:,Picking a document from last search
+[00:48:21]:,Still reading the document
+[00:48:38]:,Picking a document from last search
+[00:48:53]:,"Writing a new note about Mulanua: ""Mulanua"""
+[00:49:04]:,Picking a document from last search
+[00:49:12]:,"Searching for ""Akram"""
+[00:49:12]:,User changed the topic: (Who is Akram?) [bottom-up]
+[00:49:18]:,Picking a document from last search
+[00:49:24]:,Picking a document from last search
+[00:49:30]:,"Searching for ""Delivery"""
+[00:49:32]:,"""Maybe they are delivering a disease in the form of weapon"""
+[00:49:44]:,Picking a document from last search
+[00:49:58]:,Picking a document from last search
+[00:50:00]:,"""Some of Maulana articles say a delivery is made to the house by two men in boxes, Now I have new documents about farm equipments"""
+[00:50:28]:,"Searching for ""Farming"""
+[00:50:33]:,Picking a document from last search
+[00:50:49]:,"Searching for ""Aden"""
+[00:50:51]:,Picking a document from last search
+[00:50:54]:,Picking a document from last search
+[00:51:01]:,Picking a document from last search
+[00:51:02]:,User changed the topic: (Who is  Nicolai) [Top-down]
+[00:51:02]:,"Searching for ""Nicolai"""
+[00:51:14]:,Picking a document from last search
+[00:51:19]:,Picking a document from last search
+[00:51:27]:,Picking a document from last search
+[00:51:35]:,Picking a document from last search
+[00:51:40]:,Picking a document from last search
+[00:51:44]:,Picking a document from last search
+[00:52:00]:,Picking a document from last search
+[00:52:17]:,"Searching for ""Moscow"""
+[00:52:21]:,Picking a document from last search
+[00:52:29]:,Picking a document from last search
+[00:52:43]:,Looking through titles
+[00:52:55]:,Picking a document from bottom left
+[00:53:02]:,Picking a document
+[00:53:05]:,Picking a document
+[00:53:14]:,Picking a document
+[00:53:16]:,Picking a document
+[00:53:16]:,User changed the topic: (Who is proffesor?) [top-down]
+[00:53:23]:,"""I'm going through these phone call logs about professor"""
+[00:53:39]:,Picking a document from last search
+[00:53:43]:,"""There's no connection with other articles"""
+[00:53:50]:,"Searching for ""Professor"""
+[00:53:58]:,Picking a document from last search
+[00:54:03]:,Picking a document from top
+[00:54:12]:,"Searching for ""Sviatoslavich"""
+[00:54:31]:,"Searching for ""Soltanzadeh"""
+[00:54:34]:,User changed the topic: (Looking for North Korea's role) [top-down]
+[00:54:34]:,"Searching for ""Pyongyang"""
+[00:54:38]:,Picking a document from last search
+[00:54:48]:,Picking a document from last search
+[00:54:53]:,"""Maybe Norht Korea is involved"""
+[00:55:11]:,Looking through titles
+[00:55:19]:,Picking a document
+[00:55:37]:,Picking a document
+[00:55:43]:,Picking a document
+[00:56:02]:,Still reading the document
+[00:56:09]:,Picking a document
+[00:56:13]:,Picking a document
+[00:56:17]:,Picking a document
+[00:56:21]:,Picking a document
+[00:56:23]:,Picking a document
+[00:56:37]:,Picking a document
+[00:56:53]:,Picking a document
+[00:56:59]:,Picking a document
+[00:57:14]:,Reviewing the topics
+[00:57:30]:,"Searching for ""Lebonan"""
+[00:57:30]:,User changed the topic: (Searching for countries in the list) [bottom-up]
+[00:57:35]:,Picking a document from last search
+[00:57:43]:,"Searching for ""Iran"""
+[00:57:52]:,Picking a document from last search
+[00:58:01]:,Picking a document from last search
+[00:58:10]:,Picking a document from last search
+[00:58:13]:,Picking a document from last search
+[00:58:15]:,Picking a document from last search
+[00:58:17]:,Picking a document from last search
+[00:58:28]:,Picking a document from last search
+[00:58:38]:,Picking a document from last search
+[00:58:44]:,Picking a document from last search
+[00:58:52]:,"Searching for ""Igor"""
+[00:58:56]:,Picking a document from last search
+[00:59:02]:,Picking a document from last search
+[00:59:27]:,"Searching for ""Saudi"""
+[00:59:28]:,Picking a document from last search
+[00:59:44]:,Picking a document from last search
+[00:59:54]:,Picking a document from last search
+[01:00:05]:,"Searching for ""Columbia"""
+[01:00:09]:,Picking a document from last search
+[01:00:31]:,"Searching for ""Health"""
+[01:00:31]:,User changed the topic: (Looking for evidences of health related terorrist activities ) [bottom-up]
+[01:00:45]:,Picking a document from last search
+[01:00:57]:,Picking a document from last search
+[01:01:25]:,Picking a document from last search
+[01:01:53]:,"""I'm looking at health articles, they should be related to disease, They are talking about a project,"""
+[01:02:43]:,Picking a document from last search
+[01:03:03]:,Picking a document from last search
+[01:03:05]:,Picking a document from last search
+[01:03:14]:,"Searching for ""project"""
+[01:03:17]:,Picking a document from last search
+[01:03:25]:,Picking a document from last search
+[01:03:36]:,Picking a document from last search
+[01:03:41]:,Picking a document from last search
+[01:03:41]:,User changed the topic: (Who is Funsho?) [bottom-up]
+[01:03:57]:,"""Who is this Funsho"""
+[01:04:05]:,Still reading the document
+[01:04:26]:,"Searching for ""Funsho"""
+[01:04:37]:,"Searching for ""Energy"""
+[01:04:42]:,"Searching for ""Mineral"""
+[01:04:45]:,"Searching for ""Water"""
+[01:04:50]:,Picking a document from last search
+[01:05:29]:,"""I searched for water and led me to this email, from boyo email address which is Funsho guy, He is talking about his project about water wings"""
+[01:06:00]:,"Searching for ""Investment"""
+[01:06:07]:,Picking a document from last search
+[01:06:25]:,"Searching for ""Project"""
+[01:06:30]:,Picking a document from last search
+[01:06:35]:,Picking a document from last search
+[01:06:45]:,Picking a document from last search
+[01:07:19]:,"Searching for ""Lagos"""
+[01:07:26]:,Picking a document from last search
+[01:07:34]:,"Searching for ""Nigeria"""
+[01:07:19]:,User changed the topic: (Looking at the countries in the list) [bottom-up]
+[01:07:49]:,"Searching for ""Syria"""
+[01:07:56]:,Picking a document from last search
+[01:07:58]:,Picking a document from last search
+[01:08:03]:,Picking a document from last search
+[01:08:09]:,"Searching for ""Kenya"""
+[01:08:13]:,Picking a document from last search
+[01:08:24]:,Picking a document
+[01:08:35]:,"Searching for ""Green"""
+[01:08:34]:,User changed the topic: (Looking for different people) [bottom-up]
+[01:08:37]:,Picking a document from last search
+[01:08:38]:,Picking a document from last search
+[01:08:40]:,Picking a document from last search
+[01:09:13]:,Picking a document
+[01:09:29]:,Picking a document
+[01:09:53]:,"Searching for ""Mikhail"""
+[01:09:56]:,Picking a document from last search
+[01:10:30]:,Picking a document
+[01:10:37]:,Picking a document
+[01:10:38]:,Picking a document
+[01:11:35]:,"Searching for ""Soltan"""
+[01:11:37]:,Picking a document from last search
+[01:11:48]:,Picking a document from last search
+[01:11:51]:,Picking a document from last search
+[01:12:01]:,"Searching for ""Borodinski"""
+[01:12:03]:,Picking a document from last search
+[01:12:08]:,Picking a document
+[01:12:31]:,"Searching for ""Khouri"""
+[01:12:33]:,Picking a document from last search
+[01:12:36]:,Picking a document from last search
+[01:12:44]:,Picking a document from last search
+[01:12:55]:,"""I'm looking at another conversation betwee Khori and Kasem, Khori saied we need equipments with supperior quality which we haven't used then in the past, They are out of Russian military, I assume they're talking about the arms, Maybe Russia is involved"""
+[01:13:39]:,Picking a document from last search
+[01:13:49]:,"Searching for ""Kasem"""
+[01:13:56]:,Picking a document from last search
+[01:14:09]:,Picking a document from last search
+[01:14:12]:,Picking a document from last search
+[01:14:24]:,Picking a document from last search
+[01:14:30]:,User changed the topic: (How is Russia involved in arms dealing) [bottom-up]
+[01:14:30]:,"Searching for ""Russia"""
+[01:14:36]:,Picking a document from last search
+[01:14:41]:,Picking a document from last search
+[01:14:49]:,Picking a document from last search
+[01:14:58]:,"Searching for ""Giunter"""
+[01:15:26]:,Picking a document
+[01:15:53]:,Looking through titles
+[01:16:12]:,"Searching for ""Sick"""
+[01:16:20]:,Picking a document from last search
+[01:17:45]:,Picking a document
+[01:18:12]:,"Searching for ""Mombasa"""
+[01:18:14]:,Picking a document from last search
+[01:18:27]:,"""I'm reading this article which says Kenya is the middle man for weapon shipments """
+[01:18:55]:,"Searching for ""Ukraine"""
+[01:18:58]:,Picking a document from last search
+[01:19:00]:,Picking a document from last search
+[01:19:16]:,Picking a document from last search
+[01:19:31]:,"""Russia and Ukraine are somehow involved """
+[01:19:41]:,Picking a document from last search
+[01:20:18]:,Picking a document
+[01:20:28]:,Picking a document
+[01:20:32]:,Picking a document
+[01:20:36]:,Picking a document
+[01:20:44]:,Picking a document
+[01:20:50]:,Picking a document
+[01:21:04]:,Picking a document
+[01:21:13]:,Looking through titles

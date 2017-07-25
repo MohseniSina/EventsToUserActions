@@ -1,0 +1,337 @@
+Timestamp,Transcript
+[00:01:34]:,User starts with reding the prompt note
+[00:01:57]:,Picking the last document in the screen
+[00:02:07]:,"""I just picked one up randomly and trying to see I can find anything at least I can go somewhere with it I guess"""
+[00:02:57]:,"Searching for ""Illigal arms"""
+[00:02:57]:,User changed the topic: (Information about arm dealers) (type 1) [top-down]
+[00:03:11]:,Picking a document from last search
+[00:03:24]:,Still reading the document
+[00:03:32]:,"""It doesn't have anything to the countries in the list so I'm not sure if it is helpful"""
+[00:03:38]:,Picking a document from last search
+[00:04:05]:,Still reading the document
+[00:04:15]:,"""This one at least mentions both illigal arms dealings and... there is no disease but it is highly suspect"""
+[00:04:21]:,Picking a document from last search
+[00:05:09]:,"""seems irelevant"" puts the documents near lower center"
+[00:05:11]:,Picking a document from last search
+[00:05:48]:,User changed the topic: (Looking for evidence of disease) (type 1) [top-down]
+[00:05:48]:,"Searching for ""Disease"""
+[00:06:01]:,"Searching for ""Sick"""
+[00:06:04]:,Picking a document from last search
+[00:06:24]:,Still reading the document
+[00:06:36]:,"""This looks alittle suspicious but doesn't go with the first one either"""
+[00:06:49]:,"""I want to pick another one random"""
+[00:06:54]:,Picking a document
+[00:07:23]:,Picking a document
+[00:07:55]:,"""I couldn't find anything on that So I switch back to the guns"". Searching for ""Guns"""
+[00:07:55]:,User changed the topic: (Looking for evidence gun and arm dealings) (type 3) [top-down]
+[00:08:00]:,Picking a document from last search
+[00:08:18]:,Opening an old document which has gun as well
+[00:08:27]:,Making connection between two documents
+[00:08:34]:,Picking a document from last search
+[00:09:12]:,Still reading the document
+[00:09:23]:,Making connection between two documents
+[00:09:38]:,Picking a document from last search
+[00:09:57]:,Still reading the document
+[00:10:28]:,Looking through topics
+[00:10:54]:,Making connection between two documents
+[00:11:11]:,Picking a document from last search
+[00:11:46]:,Picking a document from last search
+[00:12:22]:,"""I want to search through countries to see what I can find there"" Searching for ""Kenya"""
+[00:12:22]:,User changed the topic: (Reading about countries in the list) (type 3) [bottom-up]
+[00:12:28]:,Picking a document from last search
+[00:13:02]:,Still reading the document
+[00:13:08]:,Making connection between two documents
+[00:13:58]:,Picking a document from last search
+[00:14:12]:,Picking a document from last search
+[00:14:30]:,Making connection between two documents
+[00:14:37]:,Picking a document from last search
+[00:14:59]:,Switching between couple of documents
+[00:15:14]:,Picking a document from last search
+[00:15:26]:,Making connection between two documents
+[00:15:55]:,Picking a document from last search
+[00:16:12]:,"Searching for ""Nigeria"""
+[00:16:20]:,Picking a document from last search
+[00:16:28]:,"""I linked to gather Kenya and weapons on the right and there is another one down here and they were doing jewellery on hotel on the left"""
+[00:17:24]:,Picking a document from last search
+[00:17:53]:,Picking a document from last search
+[00:18:06]:,Picking a document from last search
+[00:18:24]:,Still reading the document
+[00:18:30]:,Picking a document from last search
+[00:18:50]:,"""Searching Nigeria didn't give out much"""
+[00:19:21]:,Picking a document from arm dealing group
+[00:19:46]:,Picking a document from arm dealing group
+[00:19:59]:,Picking a document from arm dealing group
+[00:20:20]:,Picking an old document
+[00:20:41]:,Picking an old document
+[00:21:00]:,"Searching for ""Syria"""
+[00:21:04]:,Picking a document from last search
+[00:21:30]:,Picking a document from last search
+[00:21:44]:,Picking a document from last search
+[00:21:58]:,Making connection between two documents
+[00:22:14]:,"""These are a professor and somebody talking about Turkey and some body in lapho"""
+[00:22:30]:,Picking a document from last search
+[00:22:37]:,Making connection between two documents
+[00:23:06]:,"Searching for ""Lebonan"""
+[00:23:10]:,Picking a document from last search
+[00:23:32]:,"Searching for ""Pakistan"""
+[00:23:39]:,Picking a document from last search
+[00:23:50]:,Picking a document from last search
+[00:24:10]:,Picking a document from last search
+[00:24:29]:,Picking a document from last search
+[00:24:44]:,Picking a document from last search and comparing with the other
+[00:25:02]:,Making connection between two documents
+[00:26:05]:,Picking a document from last search
+[00:26:21]:,Picking a document from last search
+[00:26:44]:,Picking a document from last search
+[00:26:49]:,Picking a document from last search
+[00:26:57]:,Picking a document from last search
+[00:27:21]:,Making connection between two documents
+[00:27:29]:,Picking a document from last search
+[00:27:42]:,Picking a document from last search
+[00:27:52]:,Picking a document from last search
+[00:28:08]:,"Searching for ""Yemen"""
+[00:28:13]:,Picking a document from last search
+[00:28:38]:,Still reading the document
+[00:28:46]:,Picking a document from last search
+[00:29:03]:,Picking a document from last search
+[00:29:14]:,Picking a document from last search
+[00:29:37]:,Picking a document from last search
+[00:29:43]:,Picking a document from last search
+[00:30:13]:,"Searching for ""Minsky"""
+[00:30:30]:,Making connection between two documents
+[00:30:41]:,Moving documents over eacch other
+[00:31:07]:,"Searching for ""Saudi Arabia"""
+[00:31:15]:,Picking a document from last search
+[00:31:19]:,Picking a document from last search
+[00:31:26]:,"Searching for ""Iran"""
+[00:31:46]:,Picking a document from last search
+[00:31:53]:,Picking a document from last search
+[00:32:05]:,Picking a document from last search
+[00:32:11]:,"""The strongest thing I've seen is that Kenya seems to be the source of the arms."""
+[00:32:47]:,Picking a document from last search
+[00:33:00]:,Picking a document from last search
+[00:33:19]:,"Searching for ""Venezuela"""
+[00:33:23]:,Picking a document from last search
+[00:33:26]:,Picking a document from last search
+[00:33:31]:,Picking a document from last search
+[00:33:39]:,"Searching for ""Columbia"""
+[00:33:49]:,"""So I went through all the countries listeed in the propmt and yet the Kenya is the country that seems to be the biggest problem"""
+[00:34:01]:,User changed the topic: (Looking for a evidences of sickness in Kenya) (type 1) [top-down]
+[00:34:01]:,"Searching for ""Kenya"""
+[00:34:21]:,Picking a document from last search
+[00:34:41]:,Picking a document from last search
+[00:35:00]:,Picking a random document
+[00:35:18]:,Making connection between two documents
+[00:35:29]:,"Searching for ""Otieno"""
+[00:35:49]:,Picking a document from last search
+[00:35:53]:,Picking a document from last search
+[00:36:35]:,User changed the topic: (Looking for a evidences of sickness) (type 3) [top-down]
+[00:36:35]:,"Searching for ""Disease"""
+[00:36:40]:,"Searching for ""Sick"""
+[00:36:56]:,"""There is not much of the mention of disease or sicknedss in any of it"""
+[00:37:26]:,"Searching for ""2009"""
+[00:37:46]:,Picking a document from last search
+[00:38:07]:,Picking a document from last search
+[00:38:40]:,"""This doctors refrences the disease or acknoledges the epidemic seems trying to be sure his friend or something is ok and should come"""
+[00:39:17]:,Picking a document from last search
+[00:39:21]:,Picking a document from last search
+[00:39:27]:,Picking a document from last search
+[00:39:31]:,Picking a document from last search
+[00:39:36]:,Picking a document from last search
+[00:39:39]:,Picking a document from last search
+[00:39:44]:,Picking a document from last search
+[00:40:05]:,Still reading the document
+[00:40:27]:,Making connection between two documents
+[00:40:31]:,Picking a document from last search
+[00:40:35]:,Picking a document from last search
+[00:40:43]:,Picking a document from last search
+[00:41:02]:,Still reading the document
+[00:41:18]:,Making connection between two documents
+[00:41:31]:,Picking a document from last search
+[00:41:39]:,Picking a document from last search
+[00:42:13]:,"Searching for ""Dombrovski"""
+[00:42:13]:,User changed the topic: (Who is Dombrovski) (type 2) [Bottom-up]
+[00:42:24]:,Picking a document from last search
+[00:42:46]:,Still reading the document
+[00:42:58]:,Looking through titles
+[00:43:15]:,Picking a document from arm dealing group
+[00:43:35]:,Picking a random document
+[00:43:58]:,Picking a random document
+[00:44:10]:,Picking a random document
+[00:44:24]:,Picking a random document
+[00:44:47]:,Picking a document
+[00:45:08]:,"Searching for ""Ahmed"""
+[00:45:08]:,User changed the topic: (Who is Ahmed) (type 2) [top-down]
+[00:45:14]:,Picking a document from last search
+[00:45:47]:,Picking a document from last search
+[00:45:55]:,Thinking
+[00:46:33]:,Picking a document
+[00:47:18]:,"Searching for ""Infection"""
+[00:47:20]:,"Searching for ""Pandemic"""
+[00:47:26]:,"Searching for ""arms"""
+[00:47:26]:,User changed the topic: (Looking for arm dealing) (type 3) [bottom-up]
+[00:47:32]:,Picking a document from last search
+[00:47:46]:,Picking a document from last search
+[00:48:23]:,Highlighting a sentence
+[00:48:30]:,Picking a document from last search
+[00:48:39]:,Picking a document from last search
+[00:48:50]:,Making connection between two documents
+[00:49:00]:,Picking a document from last search
+[00:49:33]:,Picking a document from last search
+[00:50:05]:,Picking a document
+[00:50:13]:,Picking a document from last search
+[00:50:28]:,Picking a document
+[00:50:41]:,Picking a document from lower right
+[00:51:00]:,Picking a document
+[00:51:29]:,Picking an old document about arms
+[00:51:49]:,"Searching for ""Saudan"""
+[00:51:59]:,Picking a document from last search
+[00:52:14]:,Picking a document from arms
+[00:52:32]:,Making connection between two documents
+[00:52:39]:,Picking a document from arms
+[00:53:11]:,"Searching for ""Death"""
+[00:53:11]:,User changed the topic: (Looking for clues of sickness in time) (type 3 )[bottom-up]
+[00:53:16]:,Picking a document from last search
+[00:53:35]:,"Searching for ""May 2009"""
+[00:53:40]:,Picking a document from last search
+[00:54:07]:,Picking a document from last search
+[00:54:11]:,"Searching for ""May"""
+[00:54:18]:,Picking a document from last search
+[00:54:44]:,"Searching for ""Otieno"""
+[00:54:54]:,Picking a document from last search
+[00:55:03]:,Making connection between two documents
+[00:55:11]:,"Searching for ""Onyango"""
+[00:55:22]:,"Searching for ""Owiti"""
+[00:55:49]:,Picking a document
+[00:56:00]:,"Searching for ""Health"""
+[00:56:03]:,Picking a document from last search
+[00:57:04]:,Looking through titles
+[00:57:14]:,Picking a document
+[00:57:39]:,Picking a document
+[00:58:20]:,Making connection between two documents
+[00:58:55]:,Picking a document
+[00:58:58]:,Picking a document
+[00:59:07]:,Picking a document
+[00:59:11]:,Picking a document
+[00:59:40]:,Picking a document
+[00:59:49]:,Making connection between two documents
+[01:00:37]:,Picking a document
+[01:01:07]:,Looking through titles
+[01:01:23]:,Picking a document
+[01:01:35]:,"Searching for ""George"""
+[01:01:42]:,Picking a document from last search
+[01:02:10]:,Still reading the document
+[01:02:32]:,Putting document aside
+[01:03:09]:,"""Still have Kenya's theory going I see quite afew connections there"""
+[01:03:31]:,Picking a document from arms search results
+[01:03:57]:,"Searching for ""Munition"""
+[01:04:54]:,"Searching for ""Dealing"""
+[01:04:57]:,Picking a document from last search
+[01:05:30]:,"Searching for ""Nigeria"""
+[01:05:37]:,Picking a document from last search
+[01:05:44]:,Picking a document from last search
+[01:06:22]:,"Searching for ""Disease"""
+[01:06:29]:,"Searching for ""Sick"""
+[01:06:49]:,Picking a document
+[01:07:21]:,Picking a document
+[01:07:38]:,Picking a document
+[01:08:19]:,Picking a document
+[01:09:13]:,"Searching for ""April"""
+[01:09:22]:,Picking a document from last search
+[01:09:51]:,Picking a document from last search
+[01:10:16]:,Picking a document from last search
+[01:10:22]:,Picking a document from last search
+[01:10:31]:,Picking a document from last search
+[01:11:02]:,Picking a document from last search
+[01:11:21]:,Looking through titles
+[01:12:03]:,"Searching for ""March"""
+[01:12:15]:,Picking a document from last search
+[01:12:54]:,"Searching for ""Gun"""
+[01:12:54]:,User changed the topic: (Looking for Gun dealings and shipments) (type 3) [Bottom-up]
+[01:13:16]:,Picking a document from last search
+[01:13:19]:,Picking a document from last search
+[01:13:24]:,Picking a document from last search
+[01:13:27]:,Picking a document
+[01:13:33]:,Picking a document
+[01:13:41]:,Picking a document
+[01:13:47]:,Picking a document from last search
+[01:14:11]:,Picking a document from last search
+[01:14:31]:,Picking a document from last search
+[01:14:36]:,Picking a document from last search
+[01:14:40]:,Picking a document from last search
+[01:14:57]:,Picking a document from last search
+[01:15:01]:,"""It seems they're using car parts as a cover for their guns. Lets see if I can find more"""
+[01:15:27]:,User changed the topic: (Looking for Guns and car parts relations) (type 2) [top-down]
+[01:15:27]:,"Searching for ""car"""
+[01:15:30]:,Picking a document from last search
+[01:15:45]:,Picking a document from last search
+[01:15:55]:,Picking a document from last search
+[01:16:03]:,Picking a document from last search
+[01:16:05]:,Picking a document from last search
+[01:16:14]:,Picking a document from last search
+[01:16:30]:,"Searching for ""jtomski"""
+[01:16:47]:,Picking a document from last search
+[01:17:03]:,"Searching for ""car"""
+[01:17:15]:,Picking a document from last search
+[01:17:18]:,Picking a document from last search
+[01:17:22]:,Picking a document from last search
+[01:17:24]:,Picking a document from last search
+[01:17:26]:,Picking a document from last search
+[01:17:28]:,Picking a document from last search
+[01:17:33]:,Picking a document from last search
+[01:17:41]:,Picking a document from last search
+[01:17:46]:,Picking a document from last search
+[01:18:00]:,Picking a document
+[01:18:13]:,"Searching for ""Volkswagon"""
+[01:18:18]:,Picking a document from last search
+[01:18:22]:,Picking a document from last search
+[01:18:34]:,Making connection between two documents
+[01:18:37]:,Picking a document from last search
+[01:18:47]:,Making connection between two documents
+[01:18:56]:,Making connection between two documents
+[01:19:09]:,Making connection between two documents
+[01:19:19]:,Picking a document
+[01:19:26]:,"Searching for ""Sail"""
+[01:19:31]:,Picking a document from last search
+[01:19:38]:,"Searching for ""Car"""
+[01:19:43]:,Picking a document from last search
+[01:19:52]:,Picking a document from last search
+[01:19:58]:,Picking a document from last search
+[01:20:02]:,Picking a document from last search
+[01:20:04]:,Picking a document from last search
+[01:20:10]:,Picking a document from last search
+[01:20:16]:,Picking a document from last search
+[01:20:35]:,Looking through titles
+[01:21:06]:,"Searching for ""Money"""
+[01:21:21]:,Picking a document from last search
+[01:21:28]:,"Searching for ""green"""
+[01:21:42]:,"Searching for ""136"""
+[01:21:54]:,Picking a document
+[01:22:08]:,Making connection between two documents
+[01:22:21]:,Picking a document
+[01:22:26]:,Making connection between two documents
+[01:22:30]:,Picking a document
+[01:22:49]:,Picking a document
+[01:23:08]:,"Searching for ""Celik"""
+[01:23:17]:,"Searching for ""Hakan"""
+[01:23:53]:,Making connection between two documents
+[01:24:16]:,Making a group of 4 documents
+[01:24:24]:,Picking a document
+[01:24:50]:,"Searching for ""Dubai"""
+[01:24:58]:,Picking a document from last search
+[01:25:19]:,Making connection between two documents
+[01:25:32]:,"Searching for ""Farm"""
+[01:25:32]:,User changed the topic: (Looking for farm equipments and Dr.) (type 2) [bottom-up]
+[01:25:36]:,Picking a document from last search
+[01:25:47]:,Picking a document from last search
+[01:26:07]:,Making connection between two documents
+[01:26:19]:,"""At this point I've got anything talking about cars. It's guns and then also farm equipments has to do with that and that's somehow is tied into this Dr. ...?"""
+[01:27:13]:,"Searching for ""Dr"""
+[01:27:18]:,Picking a document from last search
+[01:27:35]:,Picking a document from last search
+[01:27:41]:,Making connection between two documents
+[01:27:45]:,Picking a document
+[01:28:17]:,Picking a document
+[01:29:34]:,Looking through titles
+[01:30:12]:,Picking a document
+[01:30:48]:,"Searching for ""Minsky"""

@@ -1,0 +1,1868 @@
+[
+ {
+  "DocNum": "", 
+  "tags": [
+   "pok"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 7, 
+  "Time": 4944, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 4", 
+  "tags": [
+   "opening", 
+   "cut", 
+   "tape", 
+   "size", 
+   "avila"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 5003, 
+  "Duration": 1624, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "hatches", 
+   "pulled", 
+   "word", 
+   "hardly", 
+   "main"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 6628, 
+  "Duration": 675, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "employees"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 7, 
+  "Time": 7561, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "pok"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 7, 
+  "Time": 7766, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "hatches", 
+   "pulled", 
+   "word", 
+   "hardly", 
+   "main"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 7827, 
+  "Duration": 168, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "gastech"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 7, 
+  "Time": 7996, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "gas"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 8140, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "environment"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 7, 
+  "Time": 8300, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 31", 
+  "tags": [
+   "destination", 
+   "plane", 
+   "confirmed", 
+   "passengers", 
+   "yet"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 8554, 
+  "Duration": 1554, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 31", 
+  "tags": [
+   "Hundreds rural citizens suffer from important sicknesses which are apparently caused by exhibition to GAStech waste streams, although this no official gesubstanti\u00ebrd have been or recognize by or the company or government"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 10109, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 31", 
+  "tags": [
+   "destination", 
+   "plane", 
+   "confirmed", 
+   "passengers", 
+   "yet"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 10506, 
+  "Duration": 5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 37", 
+  "tags": [
+   "hard", 
+   "work", 
+   "recover", 
+   "outlets", 
+   "wonders"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 10559, 
+  "Duration": 356, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 37", 
+  "tags": [
+   "the healthy group of the knowledge of the water, health for all (WFA), has condemned international GAStech and the government of Kronos"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 10, 
+  "Time": 10916, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance37,Disappearance31", 
+  "tags": [
+   "Disappearance37,Disappearance31"
+  ], 
+  "ClassNum": [
+   5, 
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 11614, 
+  "Duration": 20, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Disappearance 74", 
+  "tags": [
+   "willing", 
+   "personal", 
+   "feared", 
+   "ratio", 
+   "goal"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 3.0184721481055785, 
+  "Time": 11669, 
+  "Duration": 529, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance74,Disappearance37", 
+  "tags": [
+   "Disappearance74,Disappearance37"
+  ], 
+  "ClassNum": [
+   5, 
+   5
+  ], 
+  "stepHeight": 10, 
+  "Time": 12199, 
+  "Duration": 20, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Disappearance 75", 
+  "tags": [
+   "kidnapping", 
+   "missing", 
+   "conference", 
+   "whereabouts", 
+   "presumed"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 4.004884856943475, 
+  "Time": 12250, 
+  "Duration": 960, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 75", 
+  "tags": [
+   " The recent expenses of the subsoil water contamination against international GAStech and tightening environmental payments carry out by the interior minister of Tethan, Ivar Blanes, certainly play in the hearth of shift"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 10, 
+  "Time": 13211, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance75,Disappearance37", 
+  "tags": [
+   "Disappearance75,Disappearance37"
+  ], 
+  "ClassNum": [
+   5, 
+   5
+  ], 
+  "stepHeight": 10, 
+  "Time": 13418, 
+  "Duration": 20, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Disappearance 83", 
+  "tags": [
+   "protestateurs", 
+   "force", 
+   "crowd", 
+   "pok", 
+   "riot"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 13459, 
+  "Duration": 284, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance83,Disappearance37", 
+  "tags": [
+   "Disappearance83,Disappearance37"
+  ], 
+  "ClassNum": [
+   3, 
+   5
+  ], 
+  "stepHeight": 10, 
+  "Time": 13744, 
+  "Duration": 20, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Disappearance 89", 
+  "tags": [
+   "pok", 
+   "wfa", 
+   "karel", 
+   "protesters", 
+   "pollution"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 13767, 
+  "Duration": 727, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance89,Disappearance37", 
+  "tags": [
+   "Disappearance89,Disappearance37"
+  ], 
+  "ClassNum": [
+   3, 
+   5
+  ], 
+  "stepHeight": 10, 
+  "Time": 14495, 
+  "Duration": 20, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Disappearance 142", 
+  "tags": [
+   "commissioner", 
+   "elodis", 
+   "koppolis", 
+   "program", 
+   "schools"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 14579, 
+  "Duration": 193, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance142,Disappearance37", 
+  "tags": [
+   "Disappearance142,Disappearance37"
+  ], 
+  "ClassNum": [
+   1, 
+   5
+  ], 
+  "stepHeight": 10, 
+  "Time": 14813, 
+  "Duration": 20, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Disappearance 108", 
+  "tags": [
+   "sure", 
+   "marked", 
+   "ones", 
+   "number", 
+   "sentinel"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 14893, 
+  "Duration": 880, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance108,Disappearance37", 
+  "tags": [
+   "Disappearance108,Disappearance37"
+  ], 
+  "ClassNum": [
+   5, 
+   5
+  ], 
+  "stepHeight": 10, 
+  "Time": 15774, 
+  "Duration": 20, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Disappearance 109", 
+  "tags": [
+   "pulled", 
+   "marked", 
+   "modernizations", 
+   "fire", 
+   "signaler"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 5.914904971060301, 
+  "Time": 15848, 
+  "Duration": 1285, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance109,Disappearance37", 
+  "tags": [
+   "Disappearance109,Disappearance37"
+  ], 
+  "ClassNum": [
+   5, 
+   5
+  ], 
+  "stepHeight": 10, 
+  "Time": 17169, 
+  "Duration": 20, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Disappearance 105", 
+  "tags": [
+   "fluss", 
+   "coo", 
+   "sanjorge", 
+   "hank", 
+   "operations"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 17215, 
+  "Duration": 1424, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance105,Disappearance37", 
+  "tags": [
+   "Disappearance105,Disappearance37"
+  ], 
+  "ClassNum": [
+   1, 
+   5
+  ], 
+  "stepHeight": 10, 
+  "Time": 18640, 
+  "Duration": 20, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Disappearance 105", 
+  "tags": [
+   "dozen protesters being present guards of gathering of Kronos (POK) in front of the regional registered offices of GAStech in Abila was stopped for enfreindre this morning"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 18783, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 110", 
+  "tags": [
+   "explainer", 
+   "order", 
+   "potential", 
+   "neither", 
+   "recent"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 9.369196666803498, 
+  "Time": 18856, 
+  "Duration": 1003, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 110", 
+  "tags": [
+   "Sten Sanjorge, Jr declined to directly comment with respect to questions with respect protests and to the contamination of environment. It turned aside, is today a great day for GAStech. I will not let the day be made derail by infundado, border libelous, allegations."
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 10, 
+  "Time": 19860, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance110,Disappearance37", 
+  "tags": [
+   "Disappearance110,Disappearance37"
+  ], 
+  "ClassNum": [
+   5, 
+   5
+  ], 
+  "stepHeight": 10, 
+  "Time": 19905, 
+  "Duration": 20, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "The company itself can be behind at this employee mising ", 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 10, 
+  "Time": 19920, 
+  "Duration": 20, 
+  "InteractionType": "addNote"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "mob", 
+   "protestors", 
+   "different", 
+   "collection", 
+   "pok"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 19946, 
+  "Duration": 2457, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "mob", 
+   "protestors", 
+   "different", 
+   "collection", 
+   "pok"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 22435, 
+  "Duration": 154, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": 0, 
+  "tags": "", 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 10, 
+  "Time": 22590, 
+  "Duration": 20, 
+  "InteractionType": "createNote"
+ }, 
+ {
+  "DocNum": "Disappearance 25", 
+  "tags": [
+   "mob", 
+   "protestors", 
+   "different", 
+   "collection", 
+   "pok"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 23325, 
+  "Duration": 16, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance25,Disappearance37", 
+  "tags": [
+   "Disappearance25,Disappearance37"
+  ], 
+  "ClassNum": [
+   3, 
+   5
+  ], 
+  "stepHeight": 10, 
+  "Time": 23342, 
+  "Duration": 20, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "employee"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 7, 
+  "Time": 23801, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "coo"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 24077, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 109", 
+  "tags": [
+   "pulled", 
+   "marked", 
+   "modernizations", 
+   "fire", 
+   "signaler"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 5.914904971060301, 
+  "Time": 24370, 
+  "Duration": 91, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Sanjorge"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 24462, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Fluss"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 24752, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 46", 
+  "tags": [
+   "limousine", 
+   "classified", 
+   "relationship", 
+   "passengers", 
+   "directly"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 24790, 
+  "Duration": 1870, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Sanjorge"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 26661, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 2", 
+  "tags": [
+   "george", 
+   "tomorrow", 
+   "saving", 
+   "athena", 
+   "meet"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 26781, 
+  "Duration": 684, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "The reporter they are levando in feet outside of the centers of GAStech that wait for the pictures of GAStech that they are believed that they appear in the hour. The CEO Sten <span class=\"highlight-pink\">Sanjorge</span> di GAStech is celebrating the public offer begins them succeeded of its company, that last month has happened"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 27466, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 2", 
+  "tags": [
+   "The reporter they are levando in feet outside of the centers of GAStech that wait for the pictures of GAStech that they are believed that they appear in the hour. The CEO Sten Sanjorge di GAStech is celebrating the public offer begins them succeeded of its company, that last month has happened"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 10, 
+  "Time": 27500, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Sanjorge"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 27600, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance2,Disappearance46", 
+  "tags": [
+   "Disappearance2,Disappearance46"
+  ], 
+  "ClassNum": [
+   5, 
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 27634, 
+  "Duration": 20, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Disappearance 2", 
+  "tags": [
+   "george", 
+   "tomorrow", 
+   "saving", 
+   "athena", 
+   "meet"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 27675, 
+  "Duration": 5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 64", 
+  "tags": [
+   "boring", 
+   "verrichtingen", 
+   "gas", 
+   "elodis", 
+   "supplies"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 27797, 
+  "Duration": 989, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 77", 
+  "tags": [
+   "demonstration", 
+   "command", 
+   "batons", 
+   "rejected", 
+   "uproar"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 29259, 
+  "Duration": 100, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "gas"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 29670, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 75", 
+  "tags": [
+   "kidnapping", 
+   "missing", 
+   "conference", 
+   "whereabouts", 
+   "presumed"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 4.004884856943475, 
+  "Time": 29769, 
+  "Duration": 52, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 75", 
+  "tags": [
+   "kidnapping", 
+   "missing", 
+   "conference", 
+   "whereabouts", 
+   "presumed"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 4.004884856943475, 
+  "Time": 29851, 
+  "Duration": 5, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "cancer"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 7, 
+  "Time": 29936, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 50", 
+  "tags": [
+   "modernizations", 
+   "attend", 
+   "units", 
+   "rubicon", 
+   "event"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 29968, 
+  "Duration": 177, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "pok"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 7, 
+  "Time": 30295, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "hatches", 
+   "pulled", 
+   "word", 
+   "hardly", 
+   "main"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 30379, 
+  "Duration": 452, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "KAREL"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 30832, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 99", 
+  "tags": [
+   "tinted", 
+   "unmarked", 
+   "arrived", 
+   "cordon", 
+   "apparent"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 30949, 
+  "Duration": 882, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 15", 
+  "tags": [
+   "of June 19, Elian Karel died with unexplainable damage with the official cause of death. The report/ratio released by the death of Karel allotted of coroner of town of Abila in July 2010 to the sudden stop, and seeks it was enclosed soon then"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 10, 
+  "Time": 33842, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance15,Disappearance99", 
+  "tags": [
+   "Disappearance15,Disappearance99"
+  ], 
+  "ClassNum": [
+   5, 
+   5
+  ], 
+  "stepHeight": 10, 
+  "Time": 33872, 
+  "Duration": 20, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Disappearance 90", 
+  "tags": [
+   "taken", 
+   "measurement", 
+   "voices", 
+   "order", 
+   "employees"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 5.198185624563852, 
+  "Time": 34199, 
+  "Duration": 1068, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Vann"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 7, 
+  "Time": 35268, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 132", 
+  "tags": [
+   "limousine", 
+   "gerhard", 
+   "homeland", 
+   "illumination", 
+   "droves"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 35395, 
+  "Duration": 224, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance132,Disappearance90", 
+  "tags": [
+   "Disappearance132,Disappearance90"
+  ], 
+  "ClassNum": [
+   1, 
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 35643, 
+  "Duration": 20, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Disappearance 54", 
+  "tags": [
+   "kidnapping", 
+   "missing", 
+   "conference", 
+   "rhetoric", 
+   "whereabouts"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 35809, 
+  "Duration": 1038, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 54", 
+  "tags": [
+   " Abila police quickly secured the building and interviewed the remaining GAStech employees. One employee, Edvard Vann of Abila, was questioned for hours because he shares a family name with several known POK members. Vann denied involvement with the POK and claimed to have no knowledge of the kidnapping. "
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 10, 
+  "Time": 36848, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance 123", 
+  "tags": [
+   "phillies", 
+   "chamberlain", 
+   "games", 
+   "inning", 
+   "running"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 37111, 
+  "Duration": 215, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Edvard <span class=\"highlight-pink\">Vann</span>"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 7, 
+  "Time": 37490, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Edvard Vann"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 7, 
+  "Time": 37566, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 7", 
+  "tags": [
+   "construction", 
+   "helicopter", 
+   "modernizations", 
+   "sheets", 
+   "evacuating"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 37623, 
+  "Duration": 1223, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 73", 
+  "tags": [
+   "shifts", 
+   "hearth", 
+   "environmental", 
+   "island", 
+   "vast"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 38881, 
+  "Duration": 148, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 96", 
+  "tags": [
+   "pok", 
+   "wfa", 
+   "julian", 
+   "affirmed", 
+   "karel"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 39073, 
+  "Duration": 191, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "kidnapping"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 7, 
+  "Time": 39376, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "kidnapp"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 7, 
+  "Time": 39396, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 133", 
+  "tags": [
+   "better", 
+   "accountancy", 
+   "want", 
+   "revenues", 
+   "rallies"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 3.0221665777266944, 
+  "Time": 39551, 
+  "Duration": 984, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 133", 
+  "tags": [
+   "better", 
+   "accountancy", 
+   "want", 
+   "revenues", 
+   "rallies"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 3.0221665777266944, 
+  "Time": 40579, 
+  "Duration": 27, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "refuse"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 7, 
+  "Time": 41642, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "explosion"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 7, 
+  "Time": 42673, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 12", 
+  "tags": [
+   "modernizations", 
+   "confusing", 
+   "adding", 
+   "rubicon", 
+   "happened"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 42830, 
+  "Duration": 1533, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 138", 
+  "tags": [
+   "construction", 
+   "lurking", 
+   "modernizations", 
+   "relationship", 
+   "fire"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 44364, 
+  "Duration": 107, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 12", 
+  "tags": [
+   "Rebecca Cato said, After sending us away without a single question answered, they came to our doors and told us to leave our homes"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 10, 
+  "Time": 44472, 
+  "Duration": 20, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "Disappearance12,Disappearance90", 
+  "tags": [
+   "Disappearance12,Disappearance90"
+  ], 
+  "ClassNum": [
+   5, 
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 44536, 
+  "Duration": 20, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Disappearance138,Disappearance12", 
+  "tags": [
+   "Disappearance138,Disappearance12"
+  ], 
+  "ClassNum": [
+   5, 
+   5
+  ], 
+  "stepHeight": 10, 
+  "Time": 44570, 
+  "Duration": 16, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Disappearance138,Disappearance90", 
+  "tags": [
+   "Disappearance138,Disappearance90"
+  ], 
+  "ClassNum": [
+   5, 
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 44587, 
+  "Duration": 20, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Disappearance 12", 
+  "tags": [
+   "modernizations", 
+   "confusing", 
+   "adding", 
+   "rubicon", 
+   "happened"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 44733, 
+  "Duration": 17, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 143", 
+  "tags": [
+   "elodis", 
+   "website", 
+   "health", 
+   "full", 
+   "study"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 3.0258610073478103, 
+  "Time": 45852, 
+  "Duration": 1077, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance143,Disappearance138", 
+  "tags": [
+   "Disappearance143,Disappearance138"
+  ], 
+  "ClassNum": [
+   6, 
+   5
+  ], 
+  "stepHeight": 10, 
+  "Time": 46996, 
+  "Duration": 20, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Disappearance 143", 
+  "tags": [
+   "elodis", 
+   "website", 
+   "health", 
+   "full", 
+   "study"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 3.0258610073478103, 
+  "Time": 47081, 
+  "Duration": 10, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 132", 
+  "tags": [
+   "limousine", 
+   "gerhard", 
+   "homeland", 
+   "illumination", 
+   "droves"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 47127, 
+  "Duration": 62, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Cato"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 7, 
+  "Time": 47304, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 42", 
+  "tags": [
+   "update", 
+   "affairs", 
+   "enforcement", 
+   "ministry", 
+   "staff"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 47344, 
+  "Duration": 278, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 43", 
+  "tags": [
+   "assembly", 
+   "vote", 
+   "taxes", 
+   "gas", 
+   "oil"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 3.0221665777266944, 
+  "Time": 47666, 
+  "Duration": 25, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 91", 
+  "tags": [
+   "defeated", 
+   "taxes", 
+   "gas", 
+   "oil", 
+   "assembly"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 7.8433972332827055, 
+  "Time": 47703, 
+  "Duration": 17, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 87", 
+  "tags": [
+   "elian", 
+   "karel", 
+   "mission", 
+   "friday", 
+   "pok"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 47730, 
+  "Duration": 13, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 53", 
+  "tags": [
+   "district", 
+   "looting", 
+   "siopa", 
+   "vandalize", 
+   "pok"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 47756, 
+  "Duration": 16, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 79", 
+  "tags": [
+   "kidnapping", 
+   "pok", 
+   "missing", 
+   "conference", 
+   "credit"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 47783, 
+  "Duration": 15, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 131", 
+  "tags": [
+   "letters", 
+   "threat", 
+   "occasions", 
+   "kapelou", 
+   "pok"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 47810, 
+  "Duration": 12, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 76", 
+  "tags": [
+   "building", 
+   "alarm", 
+   "executive", 
+   "hosted", 
+   "ivar"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 4.887853536390132, 
+  "Time": 47837, 
+  "Duration": 15, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Rebecca <span class=\"highlight-pink\">Cato</span>"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 7, 
+  "Time": 47927, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "explosion+"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 7, 
+  "Time": 48039, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "explosion"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 7, 
+  "Time": 48060, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "poison"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 48183, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 123", 
+  "tags": [
+   "phillies", 
+   "chamberlain", 
+   "games", 
+   "inning", 
+   "running"
+  ], 
+  "ClassNum": [
+   4
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 48345, 
+  "Duration": 55, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 140", 
+  "tags": [
+   "explosion", 
+   "bend", 
+   "fire", 
+   "tiskele", 
+   "owned"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 48426, 
+  "Duration": 57, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 92", 
+  "tags": [
+   "tomorrow", 
+   "set", 
+   "meet", 
+   "initial", 
+   "offer"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 48510, 
+  "Duration": 88, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 57", 
+  "tags": [
+   "kidnapping", 
+   "ransom", 
+   "demanding", 
+   "made", 
+   "employees"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 4.7622429292721975, 
+  "Time": 48644, 
+  "Duration": 46, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "mystery"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 49036, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "mystery"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 49138, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "mystary"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 49176, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "stewardship"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 49538, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "new-found"
+  ], 
+  "ClassNum": [
+   6
+  ], 
+  "stepHeight": 7, 
+  "Time": 49651, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "missing"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 7, 
+  "Time": 49830, 
+  "Duration": 20, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Disappearance 56", 
+  "tags": [
+   "kidnapping", 
+   "pok", 
+   "force", 
+   "conference", 
+   "credit"
+  ], 
+  "ClassNum": [
+   3
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 50272, 
+  "Duration": 500, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 34", 
+  "tags": [
+   "banned", 
+   "tethys", 
+   "probability", 
+   "substrate", 
+   "hyper"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 50773, 
+  "Duration": 593, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 13", 
+  "tags": [
+   "explosion", 
+   "away", 
+   "rebecca", 
+   "cato", 
+   "homes"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 3.2844710808259103, 
+  "Time": 51367, 
+  "Duration": 149, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Disappearance 40", 
+  "tags": [
+   "unofficial", 
+   "thought", 
+   "kidnappers", 
+   "declaration", 
+   "pok"
+  ], 
+  "ClassNum": [
+   5
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 51517, 
+  "Duration": 672, 
+  "InteractionType": "OpenDoc"
+ }
+]

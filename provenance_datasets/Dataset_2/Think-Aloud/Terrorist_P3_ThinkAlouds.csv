@@ -1,0 +1,173 @@
+Timestamp,Transcript
+[00:00:19]:,User starts with reading the prompt note
+[00:01:29]:,User asks a question about the process
+[00:02:03]:,"Picking the first document in title ""May 2011. Boatmen's Bancshares Inc's stock price surged """
+[00:02:01]:,User changed the topic: (Picking documents based on their order) [bottom-up]
+[00:02:38]:,Still reading the document
+[00:03:08]:,Still reading the document
+[00:03:28]:,Still reading the document
+[00:03:47]:,"Picking a document in title "" May 2009. A controversial public school of the Suburbia religious community was declared illegal by a state court"""
+[00:04:14]:,Still reading the document
+[00:04:42]:,Still reading the document
+[00:04:59]:,"""I didn't find anything relevant so far but let see"""
+[00:05:03]:,"Picking a document in title ""May 2011. Television Notes """
+[00:05:29]:,Still reading the document
+[00:05:32]:,"Picking a document in title ""May 2011. Investing on environmental package to clean toxic waste dumps Codi Unveils Initiative To Clean Up Environment"""
+[00:06:27]:,Still reading the document
+[00:06:57]:,"""I might come back to this one later if needed"""
+[00:07:11]:,"Picking a document in title ""May 2011. Digial TV maket growth in Latin America Television Espanola in Talks For Grupo Televisa Alliance """
+[00:07:44]:,"""I'm reading new information about sth in Vietnam"""
+[00:08:30]:,Still reading the document
+[00:08:54]:,Still reading the document
+[00:09:06]:,"""This one could be sort of related. I want to mark it for later"""
+[00:09:36]:,"Highlighting ""There are exceptions"""
+[00:09:47]:,"Picking a document in title ""May 2011. threatening emails sent to VastPress Animal Activist Threatens Press"""
+[00:10:06]:,Still reading the document
+[00:10:25]:,"""it sounds sketchy. I need to highlight some"""
+[00:10:31]:,Highlighting a part of document
+[00:10:54]:,"""Let's search for some keywords"""
+[00:11:01]:,"Searching for ""Threat"""
+[00:10:58]:,User changed the topic: (Looking for terrorist activities and threads ) [bottom-up]
+[00:11:06]:,"Searching for ""Terror"""
+[00:11:13]:,"Picking a document from last search in title ""March 2011. Not All Security Levels Are Created Equal """
+[00:11:42]:,Still reading the document
+[00:12:12]:,"""It's talking about airport security. so this might not be helpfull"""
+[00:12:15]:,"Picking a document in title "" May 2011. DHS Foils Plot"""
+[00:12:45]:,"""This one is 2011. what was date of the other one? that is 2011 too. so they may be related"""
+[00:13:00]:,Making connection between two documents
+[00:13:30]:,Still reading the document
+[00:14:00]:,Still reading the document
+[00:14:10]:,"Picking a document in title ""May 2011. US Antiterrorism Effort Is Flawed. as Threat Grows """
+[00:14:44]:,Still reading the document
+[00:15:07]:,Still reading the document
+[00:15:13]:,"""This is a general article. may not be relevant"""
+[00:15:42]:,Still reading the document
+[00:16:19]:,Still reading the document
+[00:16:53]:,Still reading the document
+[00:17:23]:,Still reading the document
+[00:17:27]:,"""I think this could be related to the other ones but it's not because it happend in Feb or March but the other ones are in May"""
+[00:18:06]:,"Picking a document in title ""May 2011. Explosions at Smogtown Chemical Plant"""
+[00:18:39]:,Still reading the document
+[00:19:00]:,"""It about an explosion. doesn't look connected. but you never know"""
+[00:19:08]:,Making connection between two documents
+[00:19:22]:,"Highlighting ""that the explosions were caused by some kind of terrorist act"""
+[00:20:12]:,Looking at old documents and dates
+[00:20:22]:,"Picking a document in title ""May 2011. Explosions at Smogtown Chemical Plant"""
+[00:20:42]:,User is comparing these documents and the events time
+[00:21:04]:,"""They recieved lab mouse threads on May"""
+[00:22:08]:,"Picking a document in title "" March 2011. Peter Will Move US Troops In Middle East to Secure Areas """
+[00:22:46]:,Still reading the document
+[00:23:03]:,"""Sounds something political happend in Saudi Arabia"""
+[00:23:09]:,"Picking a document in title ""May 2011. City Threat Level Increased """
+[00:23:31]:,Making connection between new documents and old ones
+[00:24:23]:,"Picking a document in title ""May 2011. The Gag Rule Party"""
+[00:25:02]:,"""It's too long. something about governmet. based on date I should find something in March"""
+[00:25:15]:,"Picking a document in title ""March 2011. Officials Confident of Security"""
+[00:25:23]:,"""oh no. It should be in May or in April"""
+[00:25:43]:,"Picking a document in title ""May 2011. Overseas Terror Group Threatens Press"""
+[00:26:27]:,Making connection between new documents and old group
+[00:27:07]:,"Searching for ""threat"""
+[00:27:04]:,User changed the topic: (Looking for bombs) [bottom-up]
+[00:27:27]:,"Searching for ""bomb"""
+[00:27:55]:,"Picking a document in title ""April 2011. South Korean Police Siege on University Students Continues """
+[00:27:59]:,"""hum. not helpfull"""
+[00:28:03]:,"Picking a document in title "" March 2011. Officials Confident of Security"""
+[00:28:40]:,"Picking a document in title ""May 2011. US Antiterrorism Effort Is Flawed"
+[00:28:51]:,"Picking a document in title ""May 2011. Theater Shields Nurse """
+[00:29:00]:,"Picking a document in title ""May 2011. Shula Expects a Difficult Sunday As Dolphins Play Without Him """
+[00:29:10]:,"Picking a document in title ""May 2011. Suspicious Turkey Found with Man at Airport """
+[00:29:26]:,"""Ok. we've something new"""
+[00:29:37]:,"Highlighting ""whether it was a bomb or a sick joke. they are required to treat the package as a bomb pending further verification. """
+[00:29:45]:,Looking at an old document about Alleged Trade Center Bomber
+[00:29:53]:,"Picking a document in title ""April 2011. Investigators Question Passengers On Previous Leg of Antarctica Airlines Flight"""
+[00:30:35]:,User keeps the document open
+[00:30:14]:,"Picking a document in title ""April 2011. Court Papers Link Unabomber To Another Blast After Arrest"""
+[00:30:35]:,user keeps the document open
+[00:30:36]:,"Picking a document in title ""March 2011. Not All Security Levels Are Created Equal """
+[00:30:40]:,"Picking a document in title ""March 2011. Hollywood Hopefuls Look Hard At Turner's New Line Cinema"""
+[00:30:47]:,User changed the topic: (Looking for other types of threats)[bottom-up]
+[00:30:50]:,"Searching for ""mice"""
+[00:30:58]:,"Searching for ""Biological"""
+[00:31:08]:,"Picking a document in title ""March 2011. Peter Will Move US Troops In Middle East to Secure Areas """
+[00:31:20]:,"Searching for ""May"""
+[00:31:22]:,"Searching for ""May 18"""
+[00:31:29]:,"Picking a document in title ""May 2011. Jardine Fleming Taipei Trust Learns From Earlier Mistakes """
+[00:31:34]:,"Picking a document in title ""May 2011. Fines and penalties by British and Hong kong financial regulators"""
+[00:31:54]:,"Searching for ""British"""
+[00:32:02]:,Looking through titles and old documents
+[00:32:13]:,"Picking a document in title ""March 2011. The Big Hustle The Big Hustle"""
+[00:32:18]:,"""I think I've got the piece of evidences that I've need"""
+[00:32:40]:,Reading the prompt again
+[00:32:40]:,User changed the topic: (User making conclusion out of chemical and mice incidents he found) [bottom-up]
+[00:32:59]:,Arranging 7 connected documents based on time
+[00:33:39]:,"""Ok. Now that I've got everything sorted let's see what happend there"""
+[00:34:05]:,"""So. this first one says they're doing something bad to the Vastpress because of mice"""
+[00:34:12]:,"""Second one says the thread level has increased in May"""
+[00:35:07]:,Reading the third document
+[00:35:45]:,Reading the forth document about suspicious turkey
+[00:35:49]:,Making connection this documents and first one in the row
+[00:35:57]:,Picking the fifth document
+[00:36:14]:,Picking the last document
+[00:36:31]:,"""This one could be seperated. I'm not sure"""
+[00:37:11]:,User is sumerizing and listing already found evidences again
+[00:37:49]:,"""The terrorist activity could happen in Vastapolis or anywhere else"""
+[00:39:40]:,User explaining the event again in a time manner
+[00:38:22]:,"""On May 9th they reccieve an email about treating lab people like mice. chemical experiments"""
+[00:38:56]:,"""So. I think based on this event they increased the city thread level in May 10th"""
+[00:39:14]:,"""Then in May 13th. they found 3 people in this place where they were building chemical explosive stuff"""
+[00:39:41]:,"""And on 14th there was a man found in airport with a frozen turkey with wires coming out"""
+[00:40:05]:,"""Again in May 17th what happend was an incident in chemical plant that they are not sure if it was a terorrist activity oer not"""
+[00:40:22]:,"""Then after that on May 18th the government found another plot of dirty bomb that could blow up Washington"""
+[00:40:46]:,"""Also I was looking at different groups that were doing that. and there was only one group named DHS"""
+[00:42:05]:,"""It seems to be a kind of chemichal attak"""
+[00:42:26]:,"Writing a new note. Note 1: ""Who - The rest of the terrorist group that has not been caught yet"""
+[00:42:49]:,"Writing a new note. Note 2: ""When - Towards the end of May probably in the upcoming 10 days"""
+[00:43:23]:,"Writing a new note. Note 3: ""Where - Around the Vastopolis area or around big and prominent places like Washington"""
+[00:44:21]:,"Writing a new note. Note 4: ""How - Expecting it to be some sort of a chemical attack that has the ability to reach a large number of people. Could be another dirty bomb sort of made up of some radioactive materials"""
+[00:46:01]:,"Writing a new note. Note 5: ""What - Could affect a large number of people in the area taken care of immediately and also has the ability to spread rapidly """
+[00:47:22]:,"Writing a new note. Note 6: ""All of the evidence sort of connects -- May 9: Threats are made to the people that are experimenting with mice --> May 10: Threat level in the city increased --> May 13: People apprehended, but only 3. Many people are still out there --> May 14: Turkey incident (could be a member of the group) --> May 17: Chemical plant explosion (possibly connected, but not very sure) --> May 18 --> Another important group caughtIt's sounds like all of them could be related and actions must be taken to prevent further attacks"""
+[00:50:08]:,still lookoing at the connections and writing the notes
+[00:51:51]:,still lookoing at the connections and writing the notes
+[00:52:47]:,"Searching for ""caught"""
+[00:52:44]:,"User changed the topic: (Looking at remaining documents for more evidences about ""who is responsible) [bottom-up]"
+[00:52:54]:,"Searching for ""Might"""
+[00:53:13]:,User closeing all articles
+[00:53:18]:,Looking through titles
+[00:54:31]:,"Searching for ""Killed"""
+[00:54:33]:,"Picking a document in title ""May 2011. Explosives Traces Are Said To Be Found in Antarctica Airlines """
+[00:54:53]:,Putting the document aside
+[00:54:57]:,"Searching for ""Airline"""
+[00:55:01]:,"Picking a document in title ""March 2011. Officials Confident of Security """
+[00:55:22]:,"Picking a document in title ""March 2011. Not All Security Levels Are Created Equal """
+[00:55:32]:,"Writing a new note. Note 8: ""New clue found since there have been incidents on the airlines"""
+[00:56:01]:,Making connection between the explosion document and the last note
+[00:56:35]:,"Picking a document in title ""May 2011. Energy-Rich Saudi Arabia Is Running Low on Electricity """
+[00:56:43]:,"Picking a document in title ""April 2011. ValuJet Conducts Test Flight To Prepare for FAA Inspection """
+[00:57:05]:,"Searching for ""Killed"""
+[00:57:13]:,"Picking a document in title ""May 2011. Corrections & Amplifications """
+[00:57:19]:,"""It says about some bombing but it's not near Vastapolice"""
+[00:57:39]:,"Picking a document in title ""March 2011. Peter Will Move US Troops In Middle East"""
+[00:57:43]:,"Picking a document in title ""March 2011. Editorial Who's Crying Now?"""
+[00:58:42]:,Making connection between documents and new notes
+[00:58:42]:,User changed the topic: (Looking for Evidences in Airlines and Airplanes) [bottom-up]
+[00:58:58]:,"""There two type pf threats. either on the air or on the ground"""
+[00:59:20]:,"""I tried to find some document from some Nicolai guy name"""
+[00:59:25]:,Looking at documents
+[00:59:36]:,Making connection between documents and new notes
+[01:00:05]:,"Writing a new note. Note 9: ""There is also an imminent airplane threat that could exist"""
+[01:00:40]:,Looking through titles
+[01:01:12]:,Making an empty note. Note 10
+[01:01:14]:,"Searching for ""Airplanes"""
+[01:01:21]:,"Picking a document in title ""May 2011. Airbus Industrie Prepares For Unique Restructuring """
+[01:01:36]:,"Searching for ""Airplanes"""
+[01:02:01]:,"Picking a document in title ""May 2011. Airbus Industrie Prepares For Unique Restructuring """
+[01:02:09]:,"""There are some articles about airplane terroris activities. but it's not clear"""
+[01:02:46]:,"""There're also lots of documents about stocks and economy. but I can't see anything specific"""
+[01:02:59]:,"""Maybe some of these buisneses are sponsering those threads. but I could find anything clear"""
+[01:03:15]:,"""Non of articles I've read have shown any relation to buisness or sponsers """
+[01:03:59]:,"""There is also something aobut food contamination"""
+[01:04:04]:,"adding some text to Note 7: ""Food contamination could tie in to airline crashes, but not sure"""
+[01:04:57]:,"Picking a document in title "" March 2011. Employees had used cocaine and hallucinogenic drugs """
+[01:05:12]:,"""Time frame on this one doesn't make sense"""
+[01:05:22]:,"Picking a document in title ""May 2016. Enis Rushes for 241 Yards As Penn State Upends USC """
+[01:05:31]:,"""And lots of documents about foootball games"""
