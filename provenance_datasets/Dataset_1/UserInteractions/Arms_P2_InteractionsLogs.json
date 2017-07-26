@@ -1,6001 +1,5140 @@
 [
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Nigeria in February of 2009", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "", 
-  "time": 210
+  "time": 21.0
  }, 
  {
-  "duration": 30, 
+  "duration": 3.0, 
   "Text": "Armsdealing 48", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 48", 
-  "time": 330
+  "time": 33.0
  }, 
  {
-  "duration": 19, 
+  "duration": 1.9, 
   "Text": "Armsdealing 85", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 85", 
-  "time": 364
+  "time": 36.4
  }, 
  {
-  "duration": 74, 
+  "duration": 7.4, 
   "Text": "Armsdealing 28", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 28", 
-  "time": 644
+  "time": 64.4
  }, 
  {
-  "duration": 24, 
+  "duration": 2.4, 
   "Text": "Armsdealing 54", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 54", 
-  "time": 846
+  "time": 84.6
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "It's says illigal arms dealing. Maybe arms is good word to start with", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 1252
+  "time": 125.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "arms", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 1392
+  "time": 139.2
  }, 
  {
   "duration": 0, 
   "Text": " Searching  for documents about arms) (type 1)[bottom-up]", 
-  "InteractionType": "Topic_change", 
+  "InteractionType": "topic_change", 
   "ID": "bottom-up", 
-  "time": 1392
+  "time": 139.2
  }, 
  {
-  "duration": 15, 
+  "duration": 1.5, 
   "Text": "Armsdealing 91", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 91", 
-  "time": 1407
+  "time": 140.7
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "Armsdealing 90", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 90", 
-  "time": 1422
+  "time": 142.2
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 96", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 96", 
-  "time": 1442
+  "time": 144.2
  }, 
  {
-  "duration": 16, 
+  "duration": 1.6, 
   "Text": "Armsdealing 98", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 98", 
-  "time": 1477
+  "time": 147.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "I'm going to look for 2009", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 1482
+  "time": 148.2
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Armsdealing 102", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 102", 
-  "time": 1519
+  "time": 151.9
  }, 
  {
-  "duration": 20, 
+  "duration": 2.0, 
   "Text": "Armsdealing 101", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 101", 
-  "time": 1526
+  "time": 152.6
  }, 
  {
-  "duration": 19, 
+  "duration": 1.9, 
   "Text": "Armsdealing 101", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 101", 
-  "time": 1547
+  "time": 154.7
  }, 
  {
-  "duration": 39, 
+  "duration": 3.9, 
   "Text": "Armsdealing 102", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 102", 
-  "time": 1574
+  "time": 157.4
  }, 
  {
-  "duration": 43, 
+  "duration": 4.3, 
   "Text": "Armsdealing 68", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 68", 
-  "time": 1628
+  "time": 162.8
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 71", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 71", 
-  "time": 1682
+  "time": 168.2
  }, 
  {
-  "duration": 29, 
+  "duration": 2.9, 
   "Text": "Armsdealing 69", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 69", 
-  "time": 1713
+  "time": 171.3
  }, 
  {
-  "duration": 27, 
+  "duration": 2.7, 
   "Text": "Armsdealing 102", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 102", 
-  "time": 1760
+  "time": 176.0
  }, 
  {
-  "duration": 28, 
+  "duration": 2.8, 
   "Text": "Armsdealing 101", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 101", 
-  "time": 1794
+  "time": 179.4
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 69", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 69", 
-  "time": 1826
+  "time": 182.6
  }, 
  {
-  "duration": 15, 
+  "duration": 1.5, 
   "Text": "Armsdealing 69", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 69", 
-  "time": 1833
+  "time": 183.3
  }, 
  {
-  "duration": 21, 
+  "duration": 2.1, 
   "Text": "Armsdealing 68", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 68", 
-  "time": 1859
+  "time": 185.9
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 44", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 44", 
-  "time": 1904
+  "time": 190.4
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 36", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 36", 
-  "time": 1915
+  "time": 191.5
  }, 
  {
-  "duration": 60, 
+  "duration": 6.0, 
   "Text": "Armsdealing 26", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 26", 
-  "time": 1938
+  "time": 193.8
  }, 
  {
-  "duration": 87, 
+  "duration": 8.7, 
   "Text": "Armsdealing 68", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 68", 
-  "time": 1999
+  "time": 199.9
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "This is about an arm exibition in Dubai. wow. this sounds fishy but the disease started in Nigeria", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 2012
+  "time": 201.2
  }, 
  {
-  "duration": 21, 
+  "duration": 2.1, 
   "Text": "Armsdealing 68", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 68", 
-  "time": 2165
+  "time": 216.5
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "Armsdealing 68", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 68", 
-  "time": 2189
+  "time": 218.9
  }, 
  {
-  "duration": 66, 
+  "duration": 6.6, 
   "Text": "Armsdealing 68", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 68", 
-  "time": 2205
+  "time": 220.5
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Opening one of selected documents about Kenya because it's closer to Nigeria", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 2262
+  "time": 226.2
  }, 
  {
-  "duration": 685, 
+  "duration": 68.5, 
   "Text": "Armsdealing 68", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 68", 
-  "time": 2272
+  "time": 227.2
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Armsdealing 68", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 68", 
-  "time": 2296
+  "time": 229.6
  }, 
  {
-  "duration": 308, 
+  "duration": 30.8, 
   "Text": "Armsdealing 68", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 68", 
-  "time": 2365
+  "time": 236.5
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Still reading the document", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 2532
+  "time": 253.2
  }, 
  {
-  "duration": 225, 
+  "duration": 22.5, 
   "Text": "Armsdealing 68", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 68", 
-  "time": 2678
+  "time": 267.8
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Still reading the document", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 2752
+  "time": 275.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Ok. next I'm going to search for Nigeria articles", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 2972
+  "time": 297.2
  }, 
  {
   "duration": 0, 
   "Text": " Who are the gun dealers in Nigeria) (type 1)[bottom-up]", 
-  "InteractionType": "Topic_change", 
+  "InteractionType": "topic_change", 
   "ID": "bottom-up", 
-  "time": 3082
+  "time": 308.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Nigeria", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 3119
+  "time": 311.9
  }, 
  {
-  "duration": 18, 
+  "duration": 1.8, 
   "Text": "Armsdealing 72", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 72", 
-  "time": 3173
+  "time": 317.3
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Armsdealing 24", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 24", 
-  "time": 3191
+  "time": 319.1
  }, 
  {
-  "duration": 20, 
+  "duration": 2.0, 
   "Text": "Armsdealing 24", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 24", 
-  "time": 3200
+  "time": 320.0
  }, 
  {
-  "duration": 21, 
+  "duration": 2.1, 
   "Text": "Armsdealing 72", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 72", 
-  "time": 3238
+  "time": 323.8
  }, 
  {
-  "duration": 3257, 
+  "duration": 325.7, 
   "Text": "Armsdealing 72", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 72", 
-  "time": 3269
+  "time": 326.9
  }, 
  {
-  "duration": 162, 
+  "duration": 16.2, 
   "Text": "Armsdealing 72", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 72", 
-  "time": 3270
+  "time": 327.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Start reading the article", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 3282
+  "time": 328.2
  }, 
  {
   "duration": 0, 
   "Text": " Who is Minsky) (type 2)[top-down]", 
-  "InteractionType": "Topic_change", 
+  "InteractionType": "topic_change", 
   "ID": "top-down", 
-  "time": 3282
+  "time": 328.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Who's Minsky?", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 3432
+  "time": 343.2
  }, 
  {
-  "duration": 30, 
+  "duration": 3.0, 
   "Text": "Armsdealing 72", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 72", 
-  "time": 3438
+  "time": 343.8
  }, 
  {
-  "duration": 5, 
+  "duration": 4.5, 
   "Text": "Armsdealing 72", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 72", 
-  "time": 3471
+  "time": 350.9
  }, 
  {
-  "duration": 9, 
+  "duration": 11.0, 
   "Text": "Armsdealing 72", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 72", 
-  "time": 3479
+  "time": 358.0
  }, 
  {
-  "duration": 9, 
-  "Text": "Armsdealing 72", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 72", 
-  "time": 3492
- }, 
- {
-  "duration": 5, 
-  "Text": "Armsdealing 72", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 72", 
-  "time": 3501
- }, 
- {
-  "duration": 45, 
-  "Text": "Armsdealing 72", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 72", 
-  "time": 3509
- }, 
- {
-  "duration": 5, 
-  "Text": "Armsdealing 72", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 72", 
-  "time": 3574
- }, 
- {
-  "duration": 110, 
-  "Text": "Armsdealing 72", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 72", 
-  "time": 3580
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "This one say's they have found diamonds in Minsky's office. I'm going to find out who is Minsky", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 3642
+  "time": 364.2
  }, 
  {
-  "duration": 104, 
+  "duration": 10.4, 
   "Text": "Armsdealing 72", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 72", 
-  "time": 3838
+  "time": 383.8
  }, 
  {
-  "duration": 12, 
+  "duration": 1.2, 
   "Text": "Armsdealing 72", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 72", 
-  "time": 3864
+  "time": 386.4
  }, 
  {
-  "duration": 5, 
+  "duration": 2.5, 
   "Text": "Armsdealing 72", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 72", 
-  "time": 3970
+  "time": 397.7
  }, 
  {
-  "duration": 25, 
-  "Text": "Armsdealing 72", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 72", 
-  "time": 3977
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Minsky", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 4056
+  "time": 405.6
  }, 
  {
-  "duration": 23, 
+  "duration": 2.3, 
   "Text": "Armsdealing 72", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 72", 
-  "time": 4058
+  "time": 405.8
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "Armsdealing 65", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 65", 
-  "time": 4091
+  "time": 409.1
  }, 
  {
-  "duration": 2425, 
+  "duration": 242.5, 
   "Text": "Armsdealing 65", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 65", 
-  "time": 4113
+  "time": 411.3
  }, 
  {
-  "duration": 12, 
+  "duration": 1.2, 
   "Text": "Armsdealing 65", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 65", 
-  "time": 4114
+  "time": 411.4
  }, 
  {
-  "duration": 64, 
+  "duration": 6.4, 
   "Text": "Armsdealing 65", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 65", 
-  "time": 4128
+  "time": 412.8
  }, 
  {
-  "duration": 36, 
+  "duration": 3.6, 
   "Text": "Armsdealing 72", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 72", 
-  "time": 4194
+  "time": 419.4
  }, 
  {
-  "duration": 5, 
+  "duration": 2.0, 
+  "Text": "Armsdealing 65", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 65", 
+  "time": 423.4
+ }, 
+ {
+  "duration": 7.6, 
+  "Text": "Armsdealing 65", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 65", 
+  "time": 425.5
+ }, 
+ {
+  "duration": 1.1, 
+  "Text": "Armsdealing 65", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 65", 
+  "time": 433.5
+ }, 
+ {
+  "duration": 0.8, 
+  "Text": "Armsdealing 65", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 65", 
+  "time": 433.8
+ }, 
+ {
+  "duration": 1.5, 
+  "Text": "Armsdealing 65", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 65", 
+  "time": 435.0
+ }, 
+ {
+  "duration": 0.6, 
+  "Text": "Armsdealing 65", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 65", 
+  "time": 435.7
+ }, 
+ {
+  "duration": 2.1, 
   "Text": "Armsdealing 72", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 72", 
-  "time": 4231
+  "time": 436.6
  }, 
  {
-  "duration": 20, 
+  "duration": 1.8, 
   "Text": "Armsdealing 65", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 65", 
-  "time": 4234
+  "time": 440.2
  }, 
  {
-  "duration": 76, 
-  "Text": "Armsdealing 65", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 65", 
-  "time": 4255
- }, 
- {
-  "duration": 11, 
-  "Text": "Armsdealing 65", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 65", 
-  "time": 4335
- }, 
- {
-  "duration": 8, 
-  "Text": "Armsdealing 65", 
-  "InteractionType": "Draging", 
-  "ID": "Armsdealing 65", 
-  "time": 4338
- }, 
- {
-  "duration": 15, 
-  "Text": "Armsdealing 65", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 65", 
-  "time": 4350
- }, 
- {
-  "duration": 6, 
-  "Text": "Armsdealing 65", 
-  "InteractionType": "Draging", 
-  "ID": "Armsdealing 65", 
-  "time": 4357
- }, 
- {
-  "duration": 21, 
-  "Text": "Armsdealing 72", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 72", 
-  "time": 4366
- }, 
- {
-  "duration": 5, 
-  "Text": "Armsdealing 65", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 65", 
-  "time": 4388
- }, 
- {
-  "duration": 5, 
-  "Text": "Armsdealing 65", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 65", 
-  "time": 4389
- }, 
- {
-  "duration": 5, 
-  "Text": "Armsdealing 72", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 72", 
-  "time": 4394
- }, 
- {
-  "duration": 5, 
-  "Text": "Armsdealing 65", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 65", 
-  "time": 4397
- }, 
- {
-  "duration": 5, 
-  "Text": "Armsdealing 72", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 72", 
-  "time": 4399
- }, 
- {
-  "duration": 18, 
-  "Text": "Armsdealing 65", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 65", 
-  "time": 4402
- }, 
- {
-  "duration": 6, 
-  "Text": "Armsdealing 72", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 72", 
-  "time": 4421
- }, 
- {
-  "duration": 26, 
+  "duration": 2.6, 
   "Text": "Armsdealing 94", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 94", 
-  "time": 4434
+  "time": 443.4
  }, 
  {
-  "duration": 16, 
+  "duration": 1.6, 
   "Text": "Armsdealing 93", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 93", 
-  "time": 4460
+  "time": 446.0
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Armsdealing 37", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 37", 
-  "time": 4480
+  "time": 448.0
  }, 
  {
-  "duration": 45, 
+  "duration": 4.5, 
   "Text": "Armsdealing 39", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 39", 
-  "time": 4492
+  "time": 449.2
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 101", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 101", 
-  "time": 4554
+  "time": 455.4
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Armsdealing 72", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 72", 
-  "time": 4566
+  "time": 456.6
  }, 
  {
-  "duration": 5, 
-  "Text": "Armsdealing 65", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 65", 
-  "time": 4577
+  "duration": 2.3, 
+  "Text": "Armsdealing 69", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 69", 
+  "time": 462.9
  }, 
  {
-  "duration": 5, 
+  "duration": 0.8, 
+  "Text": "Armsdealing 69", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 69", 
+  "time": 465.3
+ }, 
+ {
+  "duration": 1217.0, 
+  "Text": "Armsdealing 69", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 69", 
+  "time": 467.1
+ }, 
+ {
+  "duration": 3.8, 
+  "Text": "Armsdealing 69", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 69", 
+  "time": 467.2
+ }, 
+ {
+  "duration": 1.5, 
   "Text": "Armsdealing 72", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 72", 
-  "time": 4579
+  "time": 471.0
  }, 
  {
-  "duration": 5, 
-  "Text": "Armsdealing 65", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 65", 
-  "time": 4580
- }, 
- {
-  "duration": 5, 
-  "Text": "Armsdealing 65", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 65", 
-  "time": 4583
- }, 
- {
-  "duration": 5, 
-  "Text": "Armsdealing 72", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 72", 
-  "time": 4585
- }, 
- {
-  "duration": 23, 
+  "duration": 10.8, 
   "Text": "Armsdealing 69", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 69", 
-  "time": 4629
+  "time": 472.7
  }, 
  {
-  "duration": 8, 
-  "Text": "Armsdealing 69", 
-  "InteractionType": "Draging", 
-  "ID": "Armsdealing 69", 
-  "time": 4653
- }, 
- {
-  "duration": 12170, 
-  "Text": "Armsdealing 69", 
-  "InteractionType": "Doc_open", 
-  "ID": "Armsdealing 69", 
-  "time": 4671
- }, 
- {
-  "duration": 38, 
-  "Text": "Armsdealing 69", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 69", 
-  "time": 4672
- }, 
- {
-  "duration": 15, 
-  "Text": "Armsdealing 72", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 72", 
-  "time": 4710
- }, 
- {
-  "duration": 108, 
-  "Text": "Armsdealing 69", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 69", 
-  "time": 4727
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "It doesn't look relevant but I want to find out who is this guy", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 4812
+  "time": 481.2
  }, 
  {
-  "duration": 5, 
-  "Text": "Armsdealing 72", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 72", 
-  "time": 4836
- }, 
- {
-  "duration": 5, 
-  "Text": "Armsdealing 72", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 72", 
-  "time": 4852
- }, 
- {
-  "duration": 31, 
+  "duration": 3.1, 
   "Text": "Armsdealing 69", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 69", 
-  "time": 4853
+  "time": 485.3
  }, 
  {
-  "duration": 367, 
+  "duration": 36.7, 
   "Text": "Armsdealing 69", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 69", 
-  "time": 4887
+  "time": 488.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "So he was involved with arms dealings in Yemen and Yemen is one of the countries which the disease spread to. Minsky's arms dealing might result to disease in Yemen", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 5192
+  "time": 519.2
  }, 
  {
-  "duration": 5, 
-  "Text": "Armsdealing 72", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 72", 
-  "time": 5254
- }, 
- {
-  "duration": 5, 
-  "Text": "Armsdealing 72", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 72", 
-  "time": 5358
- }, 
- {
-  "duration": 8, 
+  "duration": 1.8, 
   "Text": "Armsdealing 69", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 69", 
-  "time": 5361
+  "time": 537.1
  }, 
  {
-  "duration": 18, 
+  "duration": 1.3, 
   "Text": "Armsdealing 69", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 69", 
-  "time": 5371
+  "time": 543.4
  }, 
  {
-  "duration": 5, 
-  "Text": "Armsdealing 72", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 72", 
-  "time": 5391
- }, 
- {
-  "duration": 5, 
-  "Text": "Armsdealing 72", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 72", 
-  "time": 5433
- }, 
- {
-  "duration": 13, 
+  "duration": 6.2, 
   "Text": "Armsdealing 69", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 69", 
-  "time": 5434
+  "time": 547.6
  }, 
  {
-  "duration": 5, 
-  "Text": "Armsdealing 72", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 72", 
-  "time": 5447
- }, 
- {
-  "duration": 5, 
-  "Text": "Armsdealing 72", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 72", 
-  "time": 5472
- }, 
- {
-  "duration": 62, 
+  "duration": 0.7, 
   "Text": "Armsdealing 69", 
-  "InteractionType": "Reading", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 69", 
-  "time": 5476
+  "time": 551.9
  }, 
  {
-  "duration": 7, 
-  "Text": "Armsdealing 69", 
-  "InteractionType": "Draging", 
-  "ID": "Armsdealing 69", 
-  "time": 5519
- }, 
- {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "Armsdealing 90", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 90", 
-  "time": 5542
+  "time": 554.2
  }, 
  {
-  "duration": 35, 
+  "duration": 3.5, 
   "Text": "Armsdealing 92", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 92", 
-  "time": 5552
+  "time": 555.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Armsdealing 91", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 91", 
-  "time": 5587
+  "time": 558.7
  }, 
  {
-  "duration": 5, 
-  "Text": "Armsdealing 69", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 69", 
-  "time": 5597
- }, 
- {
-  "duration": 25, 
+  "duration": 2.5, 
   "Text": "Armsdealing 4", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 4", 
-  "time": 5621
+  "time": 562.1
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 5", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 5", 
-  "time": 5646
+  "time": 564.6
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Armsdealing 4", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 4", 
-  "time": 5652
+  "time": 565.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Opening a random document", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 5652
+  "time": 565.2
  }, 
  {
-  "duration": 62, 
+  "duration": 6.2, 
   "Text": "Armsdealing 4", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 4", 
-  "time": 5661
+  "time": 566.1
  }, 
  {
-  "duration": 36, 
+  "duration": 3.6, 
   "Text": "Armsdealing 5", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 5", 
-  "time": 5743
+  "time": 574.3
  }, 
  {
-  "duration": 93, 
+  "duration": 9.3, 
   "Text": "Armsdealing 4", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 4", 
-  "time": 5779
+  "time": 577.9
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "I chosed this one because it says supply of supperior quality which obviously refers to illigal shipments", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 5842
+  "time": 584.2
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Armsdealing 5", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 5", 
-  "time": 5897
+  "time": 589.7
  }, 
  {
-  "duration": 40, 
+  "duration": 4.0, 
   "Text": "Armsdealing 5", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 5", 
-  "time": 5913
+  "time": 591.3
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Armsdealing 6", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 6", 
-  "time": 5953
+  "time": 595.3
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Armsdealing 7", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 7", 
-  "time": 5964
+  "time": 596.4
  }, 
  {
-  "duration": 62, 
+  "duration": 6.2, 
   "Text": "Armsdealing 6", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 6", 
-  "time": 5980
+  "time": 598.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Opening the document below last one", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 5982
+  "time": 598.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "So I've stablished that... Let's highlight some words", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 6042
+  "time": 604.2
  }, 
  {
-  "duration": 37, 
+  "duration": 3.7, 
   "Text": "Armsdealing 69", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 69", 
-  "time": 6076
+  "time": 607.6
  }, 
  {
-  "duration": 17, 
+  "duration": 1.7, 
   "Text": "Armsdealing 69", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 69", 
-  "time": 6126
+  "time": 612.6
  }, 
  {
-  "duration": 5, 
+  "duration": 5.2, 
   "Text": "Armsdealing 69", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 69", 
-  "time": 6145
+  "time": 615.0
  }, 
  {
-  "duration": 52, 
+  "duration": 4.3, 
   "Text": "Armsdealing 69", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 69", 
-  "time": 6150
+  "time": 621.5
  }, 
  {
-  "duration": 43, 
+  "duration": 7.8, 
   "Text": "Armsdealing 69", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 69", 
-  "time": 6215
+  "time": 626.8
  }, 
  {
-  "duration": 6, 
-  "Text": "Armsdealing 72", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 72", 
-  "time": 6259
- }, 
- {
-  "duration": 78, 
-  "Text": "Armsdealing 69", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 69", 
-  "time": 6268
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": " Leonid Minsky", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Armsdealing 69", 
-  "time": 6364
+  "time": 636.4
  }, 
  {
-  "duration": 81, 
+  "duration": 8.1, 
   "Text": "Armsdealing 69", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 69", 
-  "time": 6365
+  "time": 636.5
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "gun shipments to Yemen", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Armsdealing 69", 
-  "time": 6462
+  "time": 646.2
  }, 
  {
-  "duration": 5, 
+  "duration": 0.6, 
+  "Text": "Armsdealing 72", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 72", 
+  "time": 654.2
+ }, 
+ {
+  "duration": 2.0, 
+  "Text": "Armsdealing 72", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 72", 
+  "time": 654.9
+ }, 
+ {
+  "duration": 1.1, 
   "Text": "Armsdealing 69", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 69", 
-  "time": 6463
+  "time": 659.6
  }, 
  {
-  "duration": 5, 
-  "Text": "Armsdealing 72", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 72", 
-  "time": 6465
- }, 
- {
-  "duration": 5, 
-  "Text": "Armsdealing 72", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 72", 
-  "time": 6511
- }, 
- {
-  "duration": 5, 
-  "Text": "Armsdealing 65", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 65", 
-  "time": 6513
- }, 
- {
-  "duration": 5, 
-  "Text": "Armsdealing 65", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 65", 
-  "time": 6528
- }, 
- {
-  "duration": 6, 
-  "Text": "Armsdealing 72", 
-  "InteractionType": "Mouse_hover", 
-  "ID": "Armsdealing 72", 
-  "time": 6542
- }, 
- {
-  "duration": 20, 
-  "Text": "Armsdealing 72", 
-  "InteractionType": "Draging", 
-  "ID": "Armsdealing 72", 
-  "time": 6549
- }, 
- {
-  "duration": 11, 
-  "Text": "Armsdealing 69", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 69", 
-  "time": 6596
- }, 
- {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 39", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 39", 
-  "time": 6610
+  "time": 661.0
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Armsdealing 35", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 35", 
-  "time": 6617
+  "time": 661.7
  }, 
  {
-  "duration": 48, 
+  "duration": 4.8, 
   "Text": "Armsdealing 56", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 56", 
-  "time": 6626
+  "time": 662.6
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Nigeria", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Armsdealing 69", 
-  "time": 6745
+  "time": 674.5
  }, 
  {
   "duration": 0, 
   "Text": " Finding information about Nigeria) (type 3)[top-down]", 
-  "InteractionType": "Topic_change", 
+  "InteractionType": "topic_change", 
   "ID": "top-down", 
-  "time": 6802
+  "time": 680.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Nigeria", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 6901
+  "time": 690.1
  }, 
  {
-  "duration": 5, 
-  "Text": "Armsdealing 69", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 69", 
-  "time": 6931
- }, 
- {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 81", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 81", 
-  "time": 6982
+  "time": 698.2
  }, 
  {
-  "duration": 12, 
+  "duration": 1.2, 
   "Text": "Armsdealing 79", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 79", 
-  "time": 6990
+  "time": 699.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "There are some emails here about Nigeria I want to read it", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 7012
+  "time": 701.2
  }, 
  {
-  "duration": 5, 
-  "Text": "Armsdealing 69", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 69", 
-  "time": 7035
- }, 
- {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 79", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 79", 
-  "time": 7046
+  "time": 704.6
  }, 
  {
-  "duration": 20, 
+  "duration": 2.0, 
   "Text": "Armsdealing 81", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 81", 
-  "time": 7057
+  "time": 705.7
  }, 
  {
-  "duration": 50, 
+  "duration": 5.0, 
   "Text": "Armsdealing 80", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 80", 
-  "time": 7077
+  "time": 707.7
  }, 
  {
-  "duration": 18, 
+  "duration": 1.8, 
   "Text": "Armsdealing 79", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 79", 
-  "time": 7153
+  "time": 715.3
  }, 
  {
-  "duration": 42, 
+  "duration": 4.2, 
   "Text": "Armsdealing 79", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 79", 
-  "time": 7172
+  "time": 717.2
  }, 
  {
-  "duration": 18, 
+  "duration": 1.8, 
   "Text": "Armsdealing 79", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 79", 
-  "time": 7227
+  "time": 722.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "I want to read these four based on dates so it would be Dec 2008", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 7232
+  "time": 723.2
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Armsdealing 85", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 85", 
-  "time": 7249
+  "time": 724.9
  }, 
  {
-  "duration": 55, 
+  "duration": 5.5, 
   "Text": "Armsdealing 84", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 84", 
-  "time": 7260
+  "time": 726.0
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "Armsdealing 85", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 85", 
-  "time": 7323
+  "time": 732.3
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Armsdealing 84", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 84", 
-  "time": 7332
+  "time": 733.2
  }, 
  {
-  "duration": 1142, 
+  "duration": 114.2, 
   "Text": "Armsdealing 84", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 84", 
-  "time": 7344
+  "time": 734.4
  }, 
  {
-  "duration": 32, 
+  "duration": 3.2, 
   "Text": "Armsdealing 84", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 84", 
-  "time": 7345
+  "time": 734.5
  }, 
  {
-  "duration": 394, 
+  "duration": 39.4, 
   "Text": "Armsdealing 84", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 84", 
-  "time": 7396
+  "time": 739.6
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Still reading the document", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 7702
+  "time": 770.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": " THE ENTIRE FUNDS TRANSFER WOULD STILL BE IN ITS FETUS STAGE.", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Armsdealing 84", 
-  "time": 7804
+  "time": 780.4
  }, 
  {
-  "duration": 187, 
+  "duration": 18.7, 
   "Text": "Armsdealing 84", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 84", 
-  "time": 7806
+  "time": 780.6
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Maybe it's good to find out what is that fund for", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 7952
+  "time": 795.2
  }, 
  {
-  "duration": 122, 
+  "duration": 12.2, 
   "Text": "Armsdealing 84", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 84", 
-  "time": 7994
+  "time": 799.4
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Still reading the document", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 8322
+  "time": 832.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "I've no idea what this guy is talking aobut", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 8472
+  "time": 847.2
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Armsdealing 85", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 85", 
-  "time": 8495
+  "time": 849.5
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 84", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 84", 
-  "time": 8506
+  "time": 850.6
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Opening a new document from the last search results", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 8522
+  "time": 852.2
  }, 
  {
-  "duration": 1500, 
+  "duration": 150.0, 
   "Text": "Armsdealing 85", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 85", 
-  "time": 8525
+  "time": 852.5
  }, 
  {
-  "duration": 415, 
+  "duration": 41.5, 
   "Text": "Armsdealing 85", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 85", 
-  "time": 8526
+  "time": 852.6
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Still reading the document", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 8942
+  "time": 894.2
  }, 
  {
-  "duration": 367, 
+  "duration": 36.7, 
   "Text": "Armsdealing 85", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 85", 
-  "time": 8945
+  "time": 894.5
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "This one is about the Money went to Centeral bank of Nigeria. I'm thinking if these guys bought oil from Nigeria and the disease started from Oil", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 9182
+  "time": 918.2
  }, 
  {
-  "duration": 5, 
+  "duration": 2.7, 
   "Text": "Armsdealing 69", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 69", 
-  "time": 9312
+  "time": 953.9
  }, 
  {
-  "duration": 27, 
-  "Text": "Armsdealing 69", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 69", 
-  "time": 9539
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Note", 
-  "InteractionType": "Create Note", 
+  "InteractionType": "create_note", 
   "ID": 0, 
-  "time": 9609
+  "time": 960.9
  }, 
  {
   "duration": 0, 
   "Text": " Terrorists doing money laundary in Nigeria) (type 2)[bottom-up]", 
-  "InteractionType": "Topic_change", 
+  "InteractionType": "topic_change", 
   "ID": "bottom-up", 
-  "time": 9632
+  "time": 963.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Oil from Nigeria - Arms?", 
-  "InteractionType": "Add note", 
+  "InteractionType": "writing_notes", 
   "ID": 0, 
-  "time": 9632
+  "time": 963.2
  }, 
  {
-  "duration": 5, 
-  "Text": "Armsdealing 69", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 69", 
-  "time": 9641
- }, 
- {
-  "duration": 8, 
+  "duration": 2.2, 
   "Text": "Armsdealing 85", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 85", 
-  "time": 9642
+  "time": 998.7
  }, 
  {
-  "duration": 5, 
-  "Text": "Armsdealing 69", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 69", 
-  "time": 9651
- }, 
- {
-  "duration": 22, 
+  "duration": 1.6, 
   "Text": "Armsdealing 85", 
-  "InteractionType": "Reading", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 85", 
-  "time": 9987
+  "time": 999.5
  }, 
  {
-  "duration": 16, 
+  "duration": 1.9, 
   "Text": "Armsdealing 85", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 85", 
-  "time": 9995
+  "time": 1003.6
  }, 
  {
-  "duration": 19, 
-  "Text": "Armsdealing 85", 
-  "InteractionType": "Draging", 
-  "ID": "Armsdealing 85", 
-  "time": 10036
- }, 
- {
-  "duration": 5, 
-  "Text": "Armsdealing 69", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 69", 
-  "time": 10062
- }, 
- {
-  "duration": 9, 
-  "Text": "Armsdealing 69", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 69", 
-  "time": 10069
- }, 
- {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 79", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 79", 
-  "time": 10087
+  "time": 1008.7
  }, 
  {
-  "duration": 61, 
+  "duration": 6.1, 
   "Text": "Armsdealing 81", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 81", 
-  "time": 10094
+  "time": 1009.4
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "Armsdealing 82", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 82", 
-  "time": 10155
+  "time": 1015.5
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Armsdealing 81", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 81", 
-  "time": 10182
+  "time": 1018.2
  }, 
  {
-  "duration": 345, 
+  "duration": 34.5, 
   "Text": "Armsdealing 81", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 81", 
-  "time": 10190
+  "time": 1019.0
  }, 
  {
-  "duration": 5, 
-  "Text": "Armsdealing 81", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 81", 
-  "time": 10191
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Moving the document close to last Note", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 10522
+  "time": 1052.2
  }, 
  {
-  "duration": 100, 
+  "duration": 10.0, 
   "Text": "Armsdealing 81", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 81", 
-  "time": 10543
+  "time": 1054.3
  }, 
  {
-  "duration": 5, 
-  "Text": "Armsdealing 69", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 69", 
-  "time": 10649
- }, 
- {
-  "duration": 12, 
+  "duration": 1.2, 
   "Text": "Armsdealing 81", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 81", 
-  "time": 10690
+  "time": 1069.0
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Armsdealing 85", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 85", 
-  "time": 10714
+  "time": 1071.4
  }, 
  {
-  "duration": 15, 
+  "duration": 1.5, 
   "Text": "Armsdealing 81", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 81", 
-  "time": 10730
+  "time": 1073.0
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 85", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 85", 
-  "time": 10849
+  "time": 1084.9
  }, 
  {
-  "duration": 63, 
+  "duration": 6.3, 
   "Text": "Armsdealing 85", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 85", 
-  "time": 10864
+  "time": 1086.4
  }, 
  {
-  "duration": 5, 
-  "Text": "Armsdealing 69", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 69", 
-  "time": 10931
- }, 
- {
-  "duration": 5, 
-  "Text": "Armsdealing 69", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 69", 
-  "time": 10939
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "So far they tried to ship guns illigaly and the money was recieved in Nigeria. let me write it down", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 11132
+  "time": 1113.2
  }, 
  {
-  "duration": 110, 
+  "duration": 11.0, 
   "Text": "Armsdealing 81", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 81", 
-  "time": 11191
+  "time": 1119.1
  }, 
  {
-  "duration": 9, 
-  "Text": "Armsdealing 69", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 69", 
-  "time": 11302
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Some guy X sold weapons from Nigeria to somewhere else. Minsky sold guns to Yemen", 
-  "InteractionType": "Add note", 
+  "InteractionType": "writing_notes", 
   "ID": 0, 
-  "time": 11402
+  "time": 1140.2
  }, 
  {
-  "duration": 674, 
+  "duration": 67.4, 
   "Text": "Armsdealing 85", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 85", 
-  "time": 12139
+  "time": 1213.9
  }, 
  {
-  "duration": 10, 
+  "duration": 1.1, 
   "Text": "Armsdealing 85", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 85", 
-  "time": 12140
+  "time": 1214.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Armsdealing 85", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 85", 
-  "time": 12148
+  "time": 1214.8
  }, 
  {
-  "duration": 9, 
+  "duration": 1.7, 
   "Text": "Armsdealing 85", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 85", 
-  "time": 12168
+  "time": 1218.8
  }, 
  {
-  "duration": 17, 
+  "duration": 37.3, 
   "Text": "Armsdealing 85", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 85", 
-  "time": 12188
+  "time": 1220.7
  }, 
  {
-  "duration": 373, 
+  "duration": 0.8, 
   "Text": "Armsdealing 85", 
-  "InteractionType": "Reading", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 85", 
-  "time": 12207
+  "time": 1281.9
  }, 
  {
-  "duration": 8, 
+  "duration": 229.0, 
+  "Text": "Armsdealing 81", 
+  "InteractionType": "open_document", 
+  "ID": "Armsdealing 81", 
+  "time": 1283.5
+ }, 
+ {
+  "duration": 2.1, 
+  "Text": "Armsdealing 81", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 81", 
+  "time": 1283.6
+ }, 
+ {
+  "duration": 0.9, 
+  "Text": "Armsdealing 81", 
+  "InteractionType": "moving_document", 
+  "ID": "Armsdealing 81", 
+  "time": 1284.1
+ }, 
+ {
+  "duration": 8.2, 
+  "Text": "Armsdealing 81", 
+  "InteractionType": "reading_document", 
+  "ID": "Armsdealing 81", 
+  "time": 1292.2
+ }, 
+ {
+  "duration": 1.9, 
   "Text": "Armsdealing 85", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 85", 
-  "time": 12819
+  "time": 1301.3
  }, 
  {
-  "duration": 2290, 
+  "duration": 3.3, 
   "Text": "Armsdealing 81", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 81", 
-  "time": 12835
+  "time": 1304.2
  }, 
  {
-  "duration": 8, 
+  "duration": 2.2, 
   "Text": "Armsdealing 81", 
-  "InteractionType": "Reading", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 81", 
-  "time": 12836
+  "time": 1304.8
  }, 
  {
-  "duration": 9, 
-  "Text": "Armsdealing 81", 
-  "InteractionType": "Draging", 
-  "ID": "Armsdealing 81", 
-  "time": 12841
- }, 
- {
-  "duration": 82, 
-  "Text": "Armsdealing 81", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 81", 
-  "time": 12922
- }, 
- {
-  "duration": 19, 
+  "duration": 1.1, 
   "Text": "Armsdealing 85", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 85", 
-  "time": 13013
+  "time": 1308.4
  }, 
  {
-  "duration": 5, 
+  "duration": 17.7, 
   "Text": "Armsdealing 81", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 81", 
-  "time": 13033
+  "time": 1310.1
  }, 
  {
-  "duration": 33, 
+  "duration": 14.8, 
   "Text": "Armsdealing 81", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 81", 
-  "time": 13042
+  "time": 1328.0
  }, 
  {
-  "duration": 22, 
-  "Text": "Armsdealing 81", 
-  "InteractionType": "Draging", 
-  "ID": "Armsdealing 81", 
-  "time": 13048
- }, 
- {
-  "duration": 11, 
-  "Text": "Armsdealing 85", 
-  "InteractionType": "Draging", 
-  "ID": "Armsdealing 85", 
-  "time": 13084
- }, 
- {
-  "duration": 5, 
-  "Text": "Armsdealing 81", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 81", 
-  "time": 13096
- }, 
- {
-  "duration": 177, 
-  "Text": "Armsdealing 81", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 81", 
-  "time": 13101
- }, 
- {
-  "duration": 148, 
-  "Text": "Armsdealing 81", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 81", 
-  "time": 13280
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Still reading the document", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 13342
+  "time": 1334.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "TO DO THIS IT BECOMES ABSOLUTELY NECESSARY FOR US TO OFFICIALISE THE FUNDS TRANSFER PROCESS MAKING IT TAKE THE SEMBLANCE OF AN ACTUAL CONTRACT PAYMENT.", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Armsdealing 81", 
-  "time": 13447
+  "time": 1344.7
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Armsdealing 81", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 81", 
-  "time": 13449
+  "time": 1344.9
  }, 
  {
-  "duration": 80, 
+  "duration": 8.0, 
   "Text": "Armsdealing 81", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 81", 
-  "time": 13462
+  "time": 1346.2
  }, 
  {
-  "duration": 649, 
+  "duration": 64.9, 
   "Text": "Armsdealing 81", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 81", 
-  "time": 13556
+  "time": 1355.6
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Still reading the document", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 13782
+  "time": 1378.2
  }, 
  {
-  "duration": 9, 
+  "duration": 13.9, 
   "Text": "Armsdealing 81", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 81", 
-  "time": 14315
+  "time": 1434.7
  }, 
  {
-  "duration": 139, 
-  "Text": "Armsdealing 81", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 81", 
-  "time": 14347
- }, 
- {
-  "duration": 5, 
-  "Text": "Armsdealing 81", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 81", 
-  "time": 14490
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "It seems that they sold some arms and instead of bringing the money back home they bought some thing to do a terrorist attact", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 14672
+  "time": 1467.2
  }, 
  {
-  "duration": 5, 
+  "duration": 0.7, 
   "Text": "Armsdealing 81", 
-  "InteractionType": "Reading", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 81", 
-  "time": 15103
+  "time": 1513.2
  }, 
  {
-  "duration": 7, 
+  "duration": 0.8, 
   "Text": "Armsdealing 81", 
-  "InteractionType": "Draging", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 81", 
-  "time": 15132
+  "time": 1514.5
  }, 
  {
-  "duration": 8, 
+  "duration": 0.9, 
+  "Text": "Armsdealing 85", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 85", 
+  "time": 1516.4
+ }, 
+ {
+  "duration": 2.2, 
   "Text": "Armsdealing 81", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 81", 
-  "time": 15145
+  "time": 1517.6
  }, 
  {
-  "duration": 9, 
+  "duration": 1.4, 
   "Text": "Armsdealing 85", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 85", 
-  "time": 15164
+  "time": 1520.4
  }, 
  {
-  "duration": 22, 
+  "duration": 1.3, 
+  "Text": "Armsdealing 85", 
+  "InteractionType": "brush_document_title", 
+  "ID": "Armsdealing 85", 
+  "time": 1523.0
+ }, 
+ {
+  "duration": 0.8, 
   "Text": "Armsdealing 81", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 81", 
-  "time": 15176
+  "time": 1526.0
  }, 
  {
-  "duration": 14, 
+  "duration": 1.9, 
   "Text": "Armsdealing 85", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 85", 
-  "time": 15204
+  "time": 1527.0
  }, 
  {
-  "duration": 13, 
+  "duration": 0.6, 
   "Text": "Armsdealing 85", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 85", 
-  "time": 15230
+  "time": 1530.3
  }, 
  {
-  "duration": 8, 
-  "Text": "Armsdealing 81", 
-  "InteractionType": "Mouse_hover", 
-  "ID": "Armsdealing 81", 
-  "time": 15260
- }, 
- {
-  "duration": 19, 
+  "duration": 1.8, 
   "Text": "Armsdealing 85", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 85", 
-  "time": 15270
+  "time": 1531.0
  }, 
  {
-  "duration": 10, 
-  "Text": "ArmsDealing81,ArmsDealing85", 
-  "InteractionType": "Connection", 
-  "ID": "ArmsDealing81,ArmsDealing85", 
-  "time": 15282
- }, 
- {
-  "duration": 6, 
-  "Text": "Armsdealing 85", 
-  "InteractionType": "Mouse_hover", 
-  "ID": "Armsdealing 85", 
-  "time": 15303
- }, 
- {
-  "duration": 18, 
-  "Text": "Armsdealing 85", 
-  "InteractionType": "Draging", 
-  "ID": "Armsdealing 85", 
-  "time": 15310
- }, 
- {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "Armsdealing 72", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 72", 
-  "time": 15342
+  "time": 1534.2
  }, 
  {
-  "duration": 17, 
+  "duration": 1.7, 
   "Text": "Armsdealing 72", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 72", 
-  "time": 15374
+  "time": 1537.4
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Armsdealing 72", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 72", 
-  "time": 15409
+  "time": 1540.9
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Armsdealing 72", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 72", 
-  "time": 15422
+  "time": 1542.2
  }, 
  {
-  "duration": 10, 
-  "Text": "ArmsDealing65,ArmsDealing72", 
-  "InteractionType": "Connection", 
-  "ID": "ArmsDealing65,ArmsDealing72", 
-  "time": 15425
- }, 
- {
-  "duration": 18, 
+  "duration": 1.8, 
   "Text": "Armsdealing 72", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 72", 
-  "time": 15445
+  "time": 1544.5
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Armsdealing 26", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 26", 
-  "time": 15478
+  "time": 1547.8
  }, 
  {
-  "duration": 5, 
-  "Text": "Armsdealing 69", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 69", 
-  "time": 15606
- }, 
- {
-  "duration": 16, 
+  "duration": 1.6, 
   "Text": "Armsdealing 24", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 24", 
-  "time": 15610
+  "time": 1561.0
  }, 
  {
-  "duration": 46, 
+  "duration": 4.6, 
   "Text": "Armsdealing 69", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 69", 
-  "time": 15626
+  "time": 1562.6
  }, 
  {
-  "duration": 20, 
+  "duration": 2.0, 
   "Text": "Armsdealing 86", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 86", 
-  "time": 15691
+  "time": 1569.1
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "Armsdealing 87", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 87", 
-  "time": 15711
+  "time": 1571.1
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 88", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 88", 
-  "time": 15724
+  "time": 1572.4
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 89", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 89", 
-  "time": 15730
+  "time": 1573.0
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 91", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 91", 
-  "time": 15738
+  "time": 1573.8
  }, 
  {
-  "duration": 22, 
+  "duration": 2.2, 
   "Text": "Armsdealing 92", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 92", 
-  "time": 15744
+  "time": 1574.4
  }, 
  {
-  "duration": 5, 
-  "Text": "Armsdealing 69", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 69", 
-  "time": 15766
- }, 
- {
-  "duration": 5, 
-  "Text": "Armsdealing 69", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 69", 
-  "time": 15891
- }, 
- {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 89", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 89", 
-  "time": 15906
+  "time": 1590.6
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Armsdealing 91", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 91", 
-  "time": 15912
+  "time": 1591.2
  }, 
  {
-  "duration": 57, 
+  "duration": 5.7, 
   "Text": "Armsdealing 96", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 96", 
-  "time": 15933
+  "time": 1593.3
  }, 
  {
-  "duration": 17, 
+  "duration": 1.7, 
   "Text": "Armsdealing 58", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 58", 
-  "time": 16004
+  "time": 1600.4
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Armsdealing 65", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 65", 
-  "time": 16051
+  "time": 1605.1
  }, 
  {
-  "duration": 5, 
-  "Text": "Armsdealing 69", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 69", 
-  "time": 16071
- }, 
- {
-  "duration": 5, 
-  "Text": "Armsdealing 69", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 69", 
-  "time": 16077
- }, 
- {
-  "duration": 7, 
-  "Text": "Armsdealing 69", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 69", 
-  "time": 16083
- }, 
- {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "Armsdealing 102", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 102", 
-  "time": 16199
+  "time": 1619.9
  }, 
  {
-  "duration": 21, 
+  "duration": 2.1, 
   "Text": "Armsdealing 101", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 101", 
-  "time": 16212
+  "time": 1621.2
  }, 
  {
-  "duration": 15, 
+  "duration": 1.5, 
   "Text": "Armsdealing 72", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 72", 
-  "time": 16342
+  "time": 1634.2
  }, 
  {
-  "duration": 5, 
-  "Text": "Armsdealing 69", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 69", 
-  "time": 16359
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "I've seen the Yemen but there are more countries here in the list", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 16382
+  "time": 1638.2
  }, 
  {
-  "duration": 5, 
+  "duration": 32.5, 
   "Text": "Armsdealing 69", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 69", 
-  "time": 16495
+  "time": 1649.5
  }, 
  {
-  "duration": 20, 
+  "duration": 2.0, 
   "Text": "Armsdealing 53", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 53", 
-  "time": 16571
+  "time": 1657.1
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Armsdealing 6", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 6", 
-  "time": 16591
+  "time": 1659.1
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Armsdealing 5", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 5", 
-  "time": 16602
+  "time": 1660.2
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Armsdealing 4", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 4", 
-  "time": 16610
+  "time": 1661.0
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 4", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 4", 
-  "time": 16622
+  "time": 1662.2
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 5", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 5", 
-  "time": 16628
+  "time": 1662.8
  }, 
  {
-  "duration": 17, 
+  "duration": 1.7, 
   "Text": "Armsdealing 6", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 6", 
-  "time": 16660
+  "time": 1666.0
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Armsdealing 5", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 5", 
-  "time": 16677
+  "time": 1667.7
  }, 
  {
-  "duration": 25, 
+  "duration": 2.5, 
   "Text": "Armsdealing 5", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 5", 
-  "time": 16691
+  "time": 1669.1
  }, 
  {
-  "duration": 12, 
+  "duration": 1.2, 
   "Text": "Armsdealing 6", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 6", 
-  "time": 16716
+  "time": 1671.6
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 52", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 52", 
-  "time": 16730
+  "time": 1673.0
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "Armsdealing 31", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 31", 
-  "time": 16773
+  "time": 1677.3
  }, 
  {
-  "duration": 38, 
+  "duration": 3.8, 
   "Text": "Armsdealing 6", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 6", 
-  "time": 16792
+  "time": 1679.2
  }, 
  {
-  "duration": 19, 
+  "duration": 1.9, 
   "Text": "Armsdealing 69", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 69", 
-  "time": 16849
+  "time": 1684.9
  }, 
  {
-  "duration": 18, 
+  "duration": 1.8, 
   "Text": "Armsdealing 6", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 6", 
-  "time": 16896
+  "time": 1689.6
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 5", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 5", 
-  "time": 16922
+  "time": 1692.2
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "Armsdealing 5", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 5", 
-  "time": 16929
+  "time": 1692.9
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "moving some documents", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 16932
+  "time": 1693.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Armsdealing 4", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 4", 
-  "time": 16947
+  "time": 1694.7
  }, 
  {
-  "duration": 19, 
+  "duration": 1.9, 
   "Text": "Armsdealing 27", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 27", 
-  "time": 16966
+  "time": 1696.6
  }, 
  {
-  "duration": 17, 
+  "duration": 1.7, 
   "Text": "Armsdealing 56", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 56", 
-  "time": 17124
+  "time": 1712.4
  }, 
  {
-  "duration": 105, 
+  "duration": 10.5, 
   "Text": "Armsdealing 56", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 56", 
-  "time": 17154
+  "time": 1715.4
  }, 
  {
-  "duration": 68, 
+  "duration": 6.8, 
   "Text": "Armsdealing 56", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 56", 
-  "time": 17155
+  "time": 1715.5
  }, 
  {
   "duration": 0, 
   "Text": " Looking at other countries in the list (type 2) [bottom-up]", 
-  "InteractionType": "Topic_change", 
+  "InteractionType": "topic_change", 
   "ID": "bottom-up", 
-  "time": 17172
+  "time": 1717.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "2009", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 17244
+  "time": 1724.4
  }, 
  {
-  "duration": 27, 
+  "duration": 2.7, 
   "Text": "Armsdealing 28", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 28", 
-  "time": 17294
+  "time": 1729.4
  }, 
  {
-  "duration": 12, 
+  "duration": 1.2, 
   "Text": "Armsdealing 29", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 29", 
-  "time": 17327
+  "time": 1732.7
  }, 
  {
-  "duration": 23, 
+  "duration": 2.3, 
   "Text": "Armsdealing 29", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 29", 
-  "time": 17340
+  "time": 1734.0
  }, 
  {
-  "duration": 35, 
+  "duration": 3.5, 
   "Text": "Armsdealing 30", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 30", 
-  "time": 17370
+  "time": 1737.0
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "Armsdealing 31", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 31", 
-  "time": 17408
+  "time": 1740.8
  }, 
  {
-  "duration": 25, 
+  "duration": 2.5, 
   "Text": "Armsdealing 54", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 54", 
-  "time": 17421
+  "time": 1742.1
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Iran", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 17663
+  "time": 1766.3
  }, 
  {
-  "duration": 23, 
+  "duration": 2.3, 
   "Text": "Armsdealing 11", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 11", 
-  "time": 17688
+  "time": 1768.8
  }, 
  {
-  "duration": 177, 
+  "duration": 17.7, 
   "Text": "Armsdealing 11", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 11", 
-  "time": 17712
+  "time": 1771.2
  }, 
  {
-  "duration": 5, 
-  "Text": "Armsdealing 11", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 11", 
-  "time": 17713
- }, 
- {
-  "duration": 15, 
+  "duration": 1.5, 
   "Text": "Armsdealing 34", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 34", 
-  "time": 17900
+  "time": 1790.0
  }, 
  {
-  "duration": 161, 
+  "duration": 16.1, 
   "Text": "Armsdealing 34", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 34", 
-  "time": 17916
+  "time": 1791.6
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Armsdealing 60", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 60", 
-  "time": 18083
+  "time": 1808.3
  }, 
  {
-  "duration": 37, 
+  "duration": 3.7, 
   "Text": "Armsdealing 60", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 60", 
-  "time": 18094
+  "time": 1809.4
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 64", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 64", 
-  "time": 18136
+  "time": 1813.6
  }, 
  {
-  "duration": 109, 
+  "duration": 10.9, 
   "Text": "Armsdealing 64", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 64", 
-  "time": 18143
+  "time": 1814.3
  }, 
  {
-  "duration": 206, 
+  "duration": 20.6, 
   "Text": "Armsdealing 71", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 71", 
-  "time": 18266
+  "time": 1826.6
  }, 
  {
-  "duration": 10, 
-  "Text": "Armsdealing 71", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 71", 
-  "time": 18267
- }, 
- {
-  "duration": 16, 
+  "duration": 1.6, 
   "Text": "Armsdealing 89", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 89", 
-  "time": 18279
+  "time": 1827.9
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 64", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 64", 
-  "time": 18472
+  "time": 1847.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "2009", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 18614
+  "time": 1861.4
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "Armsdealing 28", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 28", 
-  "time": 18634
+  "time": 1863.4
  }, 
  {
-  "duration": 29, 
+  "duration": 2.9, 
   "Text": "Armsdealing 3", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 3", 
-  "time": 18647
+  "time": 1864.7
  }, 
  {
-  "duration": 84, 
+  "duration": 8.4, 
   "Text": "Armsdealing 51", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 51", 
-  "time": 18682
+  "time": 1868.2
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "Armsdealing 65", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 65", 
-  "time": 18846
+  "time": 1884.6
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 65", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 65", 
-  "time": 18866
+  "time": 1886.6
  }, 
  {
-  "duration": 15, 
+  "duration": 1.5, 
   "Text": "Armsdealing 72", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 72", 
-  "time": 18879
+  "time": 1887.9
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Armsdealing 69", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 69", 
-  "time": 18904
+  "time": 1890.4
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Armsdealing 26", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 26", 
-  "time": 18924
+  "time": 1892.4
  }, 
  {
-  "duration": 19, 
+  "duration": 1.9, 
   "Text": "Armsdealing 25", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 25", 
-  "time": 18953
+  "time": 1895.3
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 28", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 28", 
-  "time": 18980
+  "time": 1898.0
  }, 
  {
-  "duration": 21, 
+  "duration": 2.1, 
   "Text": "Armsdealing 28", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 28", 
-  "time": 18987
+  "time": 1898.7
  }, 
  {
-  "duration": 18, 
+  "duration": 1.8, 
   "Text": "Armsdealing 29", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 29", 
-  "time": 19035
+  "time": 1903.5
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Armsdealing 28", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 28", 
-  "time": 19061
+  "time": 1906.1
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "Armsdealing 29", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 29", 
-  "time": 19076
+  "time": 1907.6
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "grouping documents from last search on upper right corner of screen so later I could search for each countries name which involved with the disease", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 19082
+  "time": 1908.2
  }, 
  {
-  "duration": 17, 
+  "duration": 1.7, 
   "Text": "Armsdealing 30", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 30", 
-  "time": 19100
+  "time": 1910.0
  }, 
  {
-  "duration": 27, 
+  "duration": 2.7, 
   "Text": "Armsdealing 51", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 51", 
-  "time": 19131
+  "time": 1913.1
  }, 
  {
-  "duration": 24, 
+  "duration": 2.4, 
   "Text": "Armsdealing 52", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 52", 
-  "time": 19174
+  "time": 1917.4
  }, 
  {
-  "duration": 33, 
+  "duration": 3.3, 
   "Text": "Armsdealing 53", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 53", 
-  "time": 19219
+  "time": 1921.9
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "Armsdealing 53", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 53", 
-  "time": 19258
+  "time": 1925.8
  }, 
  {
-  "duration": 12, 
+  "duration": 1.2, 
   "Text": "Armsdealing 54", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 54", 
-  "time": 19282
+  "time": 1928.2
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Armsdealing 54", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 54", 
-  "time": 19306
+  "time": 1930.6
  }, 
  {
-  "duration": 19, 
+  "duration": 1.9, 
   "Text": "Armsdealing 77", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 77", 
-  "time": 19326
+  "time": 1932.6
  }, 
  {
-  "duration": 24, 
+  "duration": 2.4, 
   "Text": "Armsdealing 56", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 56", 
-  "time": 19358
+  "time": 1935.8
  }, 
  {
-  "duration": 26, 
+  "duration": 2.6, 
   "Text": "Armsdealing 84", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 84", 
-  "time": 19396
+  "time": 1939.6
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Armsdealing 83", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 83", 
-  "time": 19428
+  "time": 1942.8
  }, 
  {
-  "duration": 26, 
+  "duration": 2.6, 
   "Text": "Armsdealing 87", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 87", 
-  "time": 19446
+  "time": 1944.6
  }, 
  {
-  "duration": 21, 
+  "duration": 2.1, 
   "Text": "Armsdealing 88", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 88", 
-  "time": 19487
+  "time": 1948.7
  }, 
  {
-  "duration": 16, 
+  "duration": 1.6, 
   "Text": "Armsdealing 89", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 89", 
-  "time": 19521
+  "time": 1952.1
  }, 
  {
-  "duration": 12, 
+  "duration": 1.2, 
   "Text": "Armsdealing 90", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 90", 
-  "time": 19552
+  "time": 1955.2
  }, 
  {
-  "duration": 21, 
+  "duration": 2.1, 
   "Text": "Armsdealing 70", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 70", 
-  "time": 19579
+  "time": 1957.9
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Armsdealing 71", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 71", 
-  "time": 19611
+  "time": 1961.1
  }, 
  {
-  "duration": 15, 
+  "duration": 1.5, 
   "Text": "Armsdealing 71", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 71", 
-  "time": 19626
+  "time": 1962.6
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Kenya", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 19738
+  "time": 1973.8
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "Armsdealing 68", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 68", 
-  "time": 19787
+  "time": 1978.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Armsdealing 68", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 68", 
-  "time": 19818
+  "time": 1981.8
  }, 
  {
-  "duration": 43, 
+  "duration": 4.3, 
   "Text": "Armsdealing 68", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 68", 
-  "time": 19829
+  "time": 1982.9
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "Armsdealing 101", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 101", 
-  "time": 19892
+  "time": 1989.2
  }, 
  {
-  "duration": 131, 
+  "duration": 13.1, 
   "Text": "Armsdealing 101", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 101", 
-  "time": 19906
+  "time": 1990.6
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "This one seems irelevant because it's talking about pirotes", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 20012
+  "time": 2001.2
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Armsdealing 101", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 101", 
-  "time": 20048
+  "time": 2004.8
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 101", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 101", 
-  "time": 20067
+  "time": 2006.7
  }, 
  {
-  "duration": 27, 
+  "duration": 2.7, 
   "Text": "Armsdealing 102", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 102", 
-  "time": 20079
+  "time": 2007.9
  }, 
  {
-  "duration": 5, 
-  "Text": "Armsdealing 102", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 102", 
-  "time": 20080
- }, 
- {
-  "duration": 28, 
+  "duration": 2.8, 
   "Text": "Armsdealing 68", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 68", 
-  "time": 20114
+  "time": 2011.4
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 102", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 102", 
-  "time": 20148
+  "time": 2014.8
  }, 
  {
-  "duration": 37, 
+  "duration": 3.7, 
   "Text": "Armsdealing 102", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 102", 
-  "time": 20155
+  "time": 2015.5
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Armsdealing 102", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 102", 
-  "time": 20199
+  "time": 2019.9
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "Armsdealing 68", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 68", 
-  "time": 20211
+  "time": 2021.1
  }, 
  {
-  "duration": 14, 
+  "duration": 1.4, 
   "Text": "Armsdealing 102", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 102", 
-  "time": 20221
+  "time": 2022.1
  }, 
  {
-  "duration": 10, 
-  "Text": "ArmsDealing68,ArmsDealing102", 
-  "InteractionType": "Connection", 
-  "ID": "ArmsDealing68,ArmsDealing102", 
-  "time": 20232
- }, 
- {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 68", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 68", 
-  "time": 20236
+  "time": 2023.6
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 68", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 68", 
-  "time": 20243
+  "time": 2024.3
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Armsdealing 81", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 81", 
-  "time": 20254
+  "time": 2025.4
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 102", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 102", 
-  "time": 20268
+  "time": 2026.8
  }, 
  {
-  "duration": 15, 
+  "duration": 1.5, 
   "Text": "Armsdealing 30", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 30", 
-  "time": 20323
+  "time": 2032.3
  }, 
  {
-  "duration": 18, 
+  "duration": 1.8, 
   "Text": "Armsdealing 30", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 30", 
-  "time": 20339
+  "time": 2033.9
  }, 
  {
-  "duration": 5908, 
+  "duration": 590.8, 
   "Text": "Armsdealing 30", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 30", 
-  "time": 20371
+  "time": 2037.1
  }, 
  {
-  "duration": 428, 
+  "duration": 42.8, 
   "Text": "Armsdealing 30", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 30", 
-  "time": 20372
+  "time": 2037.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Tania's jewellery's here seems to be reffering to illigal shipment and this guy meets in Dubai", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 20732
+  "time": 2073.2
  }, 
  {
-  "duration": 19, 
+  "duration": 1.9, 
   "Text": "Armsdealing 30", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 30", 
-  "time": 20776
+  "time": 2077.6
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Armsdealing 68", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 68", 
-  "time": 20808
+  "time": 2080.8
  }, 
  {
-  "duration": 26, 
+  "duration": 2.6, 
   "Text": "Armsdealing 102", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 102", 
-  "time": 20824
+  "time": 2082.4
  }, 
  {
-  "duration": 56, 
+  "duration": 5.6, 
   "Text": "Armsdealing 30", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 30", 
-  "time": 20852
+  "time": 2085.2
  }, 
  {
-  "duration": 24, 
+  "duration": 2.4, 
   "Text": "Armsdealing 30", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 30", 
-  "time": 20999
+  "time": 2099.9
  }, 
  {
-  "duration": 5, 
-  "Text": "Armsdealing 30", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 30", 
-  "time": 21026
- }, 
- {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Armsdealing 81", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 81", 
-  "time": 21034
+  "time": 2103.4
  }, 
  {
-  "duration": 16, 
+  "duration": 1.6, 
   "Text": "Armsdealing 81", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 81", 
-  "time": 21043
+  "time": 2104.3
  }, 
  {
-  "duration": 15, 
+  "duration": 1.5, 
   "Text": "Armsdealing 71", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 71", 
-  "time": 21087
+  "time": 2108.7
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 70", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 70", 
-  "time": 21102
+  "time": 2110.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Syria", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 21173
+  "time": 2117.3
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Armsdealing 71", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 71", 
-  "time": 21187
+  "time": 2118.7
  }, 
  {
-  "duration": 4296, 
+  "duration": 429.6, 
   "Text": "Armsdealing 71", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 71", 
-  "time": 21196
+  "time": 2119.6
  }, 
  {
-  "duration": 16, 
+  "duration": 1.6, 
   "Text": "Armsdealing 71", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 71", 
-  "time": 21197
+  "time": 2119.7
  }, 
  {
-  "duration": 116, 
+  "duration": 11.6, 
   "Text": "Armsdealing 71", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 71", 
-  "time": 21219
+  "time": 2121.9
  }, 
  {
-  "duration": 5, 
-  "Text": "Armsdealing 71", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 71", 
-  "time": 21398
- }, 
- {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 70", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 70", 
-  "time": 21400
+  "time": 2140.0
  }, 
  {
-  "duration": 5, 
-  "Text": "Armsdealing 71", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 71", 
-  "time": 21431
- }, 
- {
-  "duration": 5, 
-  "Text": "Armsdealing 30", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 30", 
-  "time": 21432
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Armsdealing 22", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 22", 
-  "time": 21451
+  "time": 2145.1
  }, 
  {
-  "duration": 146, 
+  "duration": 14.6, 
   "Text": "Armsdealing 22", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 22", 
-  "time": 21469
+  "time": 2146.9
  }, 
  {
-  "duration": 22, 
+  "duration": 2.2, 
   "Text": "Armsdealing 22", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 22", 
-  "time": 21478
+  "time": 2147.8
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 22", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 22", 
-  "time": 21622
+  "time": 2162.2
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "Armsdealing 17", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 17", 
-  "time": 21641
+  "time": 2164.1
  }, 
  {
-  "duration": 133, 
+  "duration": 13.3, 
   "Text": "Armsdealing 17", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 17", 
-  "time": 21658
+  "time": 2165.8
  }, 
  {
-  "duration": 14, 
+  "duration": 1.4, 
   "Text": "Armsdealing 17", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 17", 
-  "time": 21797
+  "time": 2179.7
  }, 
  {
-  "duration": 5, 
-  "Text": "Armsdealing 30", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 30", 
-  "time": 21814
- }, 
- {
-  "duration": 54, 
+  "duration": 5.4, 
   "Text": "Armsdealing 81", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 81", 
-  "time": 21820
+  "time": 2182.0
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Armsdealing 30", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 30", 
-  "time": 21899
+  "time": 2189.9
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Lebanon", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 21982
+  "time": 2198.2
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Armsdealing 28", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 28", 
-  "time": 22001
+  "time": 2200.1
  }, 
  {
-  "duration": 174, 
+  "duration": 17.4, 
   "Text": "Armsdealing 28", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 28", 
-  "time": 22014
+  "time": 2201.4
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "Armsdealing 28", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 28", 
-  "time": 22211
+  "time": 2221.1
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Note", 
-  "InteractionType": "Create Note", 
+  "InteractionType": "create_note", 
   "ID": 0, 
-  "time": 22237
+  "time": 2223.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Onyangn and otieno and Nahid Owiti from Kenya", 
-  "InteractionType": "Add note", 
+  "InteractionType": "writing_notes", 
   "ID": 0, 
-  "time": 22252
+  "time": 2225.2
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 28", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 28", 
-  "time": 22348
+  "time": 2234.8
  }, 
  {
-  "duration": 3029, 
+  "duration": 302.9, 
   "Text": "Armsdealing 28", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 28", 
-  "time": 22355
+  "time": 2235.5
  }, 
  {
-  "duration": 38, 
+  "duration": 3.8, 
   "Text": "Armsdealing 28", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 28", 
-  "time": 22356
+  "time": 2235.6
  }, 
  {
-  "duration": 9, 
-  "Text": "Armsdealing 30", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 30", 
-  "time": 22402
- }, 
- {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 68", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 68", 
-  "time": 22422
+  "time": 2242.2
  }, 
  {
-  "duration": 604, 
+  "duration": 60.4, 
   "Text": "Armsdealing 68", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 68", 
-  "time": 22436
+  "time": 2243.6
  }, 
  {
-  "duration": 18, 
+  "duration": 1.8, 
   "Text": "Armsdealing 68", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 68", 
-  "time": 22437
+  "time": 2243.7
  }, 
  {
-  "duration": 5, 
-  "Text": "Armsdealing 68", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 68", 
-  "time": 23030
- }, 
- {
-  "duration": 21, 
+  "duration": 2.1, 
   "Text": "Armsdealing 30", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 30", 
-  "time": 23056
+  "time": 2305.6
  }, 
  {
-  "duration": 17, 
+  "duration": 1.7, 
   "Text": "Armsdealing 30", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 30", 
-  "time": 23089
+  "time": 2308.9
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "Armsdealing 30", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 30", 
-  "time": 23095
+  "time": 2309.5
  }, 
  {
-  "duration": 5, 
+  "duration": 1.4, 
   "Text": "Armsdealing 28", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 28", 
-  "time": 23189
+  "time": 2320.2
  }, 
  {
-  "duration": 5, 
+  "duration": 1.8, 
   "Text": "Armsdealing 28", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 28", 
-  "time": 23200
+  "time": 2372.3
  }, 
  {
-  "duration": 14, 
-  "Text": "Armsdealing 28", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 28", 
-  "time": 23202
- }, 
- {
-  "duration": 7, 
-  "Text": "Armsdealing 30", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 30", 
-  "time": 23218
- }, 
- {
-  "duration": 5, 
-  "Text": "Armsdealing 30", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 30", 
-  "time": 23229
- }, 
- {
-  "duration": 5, 
-  "Text": "Armsdealing 28", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 28", 
-  "time": 23400
- }, 
- {
-  "duration": 5, 
-  "Text": "Armsdealing 28", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 28", 
-  "time": 23488
- }, 
- {
-  "duration": 18, 
-  "Text": "Armsdealing 28", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 28", 
-  "time": 23723
- }, 
- {
-  "duration": 6, 
-  "Text": "Armsdealing 28", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 28", 
-  "time": 23745
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "I think nahid is one of the arm dealers wife", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 23822
+  "time": 2382.2
  }, 
  {
-  "duration": 21, 
+  "duration": 2.1, 
   "Text": "Armsdealing 30", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 30", 
-  "time": 23849
+  "time": 2384.9
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Armsdealing 30", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 30", 
-  "time": 23896
+  "time": 2389.6
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "Armsdealing 102", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 102", 
-  "time": 23914
+  "time": 2391.4
  }, 
  {
-  "duration": 15, 
+  "duration": 1.5, 
   "Text": "Armsdealing 30", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 30", 
-  "time": 23951
+  "time": 2395.1
  }, 
  {
-  "duration": 20, 
+  "duration": 2.0, 
   "Text": "Armsdealing 102", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 102", 
-  "time": 23971
+  "time": 2397.1
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Armsdealing 102", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 102", 
-  "time": 23996
+  "time": 2399.6
  }, 
  {
-  "duration": 34, 
+  "duration": 3.4, 
   "Text": "Armsdealing 30", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 30", 
-  "time": 24019
+  "time": 2401.9
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 30", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 30", 
-  "time": 24033
+  "time": 2403.3
  }, 
  {
-  "duration": 16, 
+  "duration": 1.6, 
   "Text": "Armsdealing 81", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 81", 
-  "time": 24119
+  "time": 2411.9
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Armsdealing 81", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 81", 
-  "time": 24144
+  "time": 2414.4
  }, 
  {
-  "duration": 49, 
+  "duration": 4.9, 
   "Text": "Armsdealing 30", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 30", 
-  "time": 24155
+  "time": 2415.5
  }, 
  {
-  "duration": 5, 
-  "Text": "Armsdealing 28", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 28", 
-  "time": 24205
- }, 
- {
-  "duration": 5, 
+  "duration": 15.1, 
   "Text": "Armsdealing 30", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 30", 
-  "time": 24222
+  "time": 2422.9
  }, 
  {
-  "duration": 151, 
-  "Text": "Armsdealing 30", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 30", 
-  "time": 24229
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Reading a document about Tania", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 24362
+  "time": 2436.2
  }, 
  {
-  "duration": 8, 
+  "duration": 2.4, 
   "Text": "Armsdealing 30", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 30", 
-  "time": 24646
+  "time": 2465.6
  }, 
  {
-  "duration": 24, 
-  "Text": "Armsdealing 30", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 30", 
-  "time": 24656
- }, 
- {
-  "duration": 5, 
-  "Text": "Armsdealing 30", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 30", 
-  "time": 24682
- }, 
- {
-  "duration": 5, 
-  "Text": "Armsdealing 28", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 28", 
-  "time": 24693
- }, 
- {
-  "duration": 5, 
-  "Text": "Armsdealing 28", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 28", 
-  "time": 24696
- }, 
- {
-  "duration": 32, 
+  "duration": 3.2, 
   "Text": "Armsdealing 5", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 5", 
-  "time": 24778
+  "time": 2477.8
  }, 
  {
-  "duration": 5, 
-  "Text": "Armsdealing 28", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 28", 
-  "time": 24817
- }, 
- {
-  "duration": 5, 
-  "Text": "Armsdealing 30", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 30", 
-  "time": 25032
- }, 
- {
-  "duration": 5, 
-  "Text": "Armsdealing 30", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 30", 
-  "time": 25036
- }, 
- {
-  "duration": 33, 
+  "duration": 3.3, 
   "Text": "Armsdealing 17", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 17", 
-  "time": 25044
+  "time": 2504.4
  }, 
  {
-  "duration": 135, 
+  "duration": 13.5, 
   "Text": "Armsdealing 4", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 4", 
-  "time": 25083
+  "time": 2508.3
  }, 
  {
-  "duration": 5, 
+  "duration": 1.8, 
   "Text": "Armsdealing 28", 
-  "InteractionType": "Reading", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 28", 
-  "time": 25331
+  "time": 2539.2
  }, 
  {
-  "duration": 18, 
-  "Text": "Armsdealing 28", 
-  "InteractionType": "Draging", 
-  "ID": "Armsdealing 28", 
-  "time": 25392
- }, 
- {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Armsdealing 56", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 56", 
-  "time": 25421
+  "time": 2542.1
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 56", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 56", 
-  "time": 25428
+  "time": 2542.8
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Armsdealing 56", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 56", 
-  "time": 25435
+  "time": 2543.5
  }, 
  {
-  "duration": 5, 
+  "duration": 0.7, 
   "Text": "Armsdealing 71", 
-  "InteractionType": "Reading", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 71", 
-  "time": 25449
+  "time": 2547.8
  }, 
  {
-  "duration": 5, 
-  "Text": "Armsdealing 71", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 71", 
-  "time": 25457
- }, 
- {
-  "duration": 7, 
-  "Text": "Armsdealing 71", 
-  "InteractionType": "Draging", 
-  "ID": "Armsdealing 71", 
-  "time": 25478
- }, 
- {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Armsdealing 56", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 56", 
-  "time": 25505
+  "time": 2550.5
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Reading a document from May 2009", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 25512
+  "time": 2551.2
  }, 
  {
-  "duration": 138, 
+  "duration": 13.8, 
   "Text": "Armsdealing 56", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 56", 
-  "time": 25517
+  "time": 2551.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Reading a document from May 2009", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 25652
+  "time": 2565.2
  }, 
  {
-  "duration": 15, 
+  "duration": 1.5, 
   "Text": "Armsdealing 70", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 70", 
-  "time": 25675
+  "time": 2567.5
  }, 
  {
-  "duration": 2971, 
+  "duration": 297.1, 
   "Text": "Armsdealing 70", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 70", 
-  "time": 25691
+  "time": 2569.1
  }, 
  {
-  "duration": 5, 
+  "duration": 18.5, 
   "Text": "Armsdealing 70", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 70", 
-  "time": 25692
+  "time": 2574.0
  }, 
  {
-  "duration": 185, 
-  "Text": "Armsdealing 70", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 70", 
-  "time": 25740
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "So It seems three arm dealers are died in May. Or maybe they are poisened", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 25872
+  "time": 2587.2
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "Armsdealing 28", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 28", 
-  "time": 26079
+  "time": 2607.9
  }, 
  {
-  "duration": 55, 
+  "duration": 5.5, 
   "Text": "Armsdealing 29", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 29", 
-  "time": 26092
+  "time": 2609.2
  }, 
  {
-  "duration": 5, 
-  "Text": "Armsdealing 30", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 30", 
-  "time": 26153
- }, 
- {
-  "duration": 10, 
-  "Text": "Armsdealing 30", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 30", 
-  "time": 26155
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Still reading the document", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 26202
+  "time": 2620.2
  }, 
  {
-  "duration": 5, 
+  "duration": 5.8, 
   "Text": "Armsdealing 70", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 70", 
-  "time": 26398
+  "time": 2640.2
  }, 
  {
-  "duration": 58, 
-  "Text": "Armsdealing 70", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 70", 
-  "time": 26402
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "May 2009", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 26588
+  "time": 2658.8
  }, 
  {
-  "duration": 17, 
+  "duration": 1.7, 
   "Text": "Armsdealing 56", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 56", 
-  "time": 26681
+  "time": 2668.1
  }, 
  {
-  "duration": 67, 
+  "duration": 6.7, 
   "Text": "Armsdealing 70", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 70", 
-  "time": 26703
+  "time": 2670.3
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "oh. nothing but these two articles. Lets search all these countries one by one", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 26892
+  "time": 2689.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Pakistan", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 26992
+  "time": 2699.2
  }, 
  {
-  "duration": 79, 
+  "duration": 7.9, 
   "Text": "Armsdealing 52", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 52", 
-  "time": 27081
+  "time": 2708.1
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "This is betweem Pakistan and Dubai. and again I think why no body from Dubai are infected", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 27162
+  "time": 2716.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Armsdealing 52", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 52", 
-  "time": 27173
+  "time": 2717.3
  }, 
  {
-  "duration": 15, 
+  "duration": 1.5, 
   "Text": "Armsdealing 52", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 52", 
-  "time": 27194
+  "time": 2719.4
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 52", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 52", 
-  "time": 27211
+  "time": 2721.1
  }, 
  {
-  "duration": 512, 
+  "duration": 51.2, 
   "Text": "Armsdealing 52", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 52", 
-  "time": 27218
+  "time": 2721.8
  }, 
  {
-  "duration": 28, 
+  "duration": 2.8, 
   "Text": "Armsdealing 52", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 52", 
-  "time": 27219
+  "time": 2721.9
  }, 
  {
-  "duration": 268, 
+  "duration": 26.8, 
   "Text": "Armsdealing 52", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 52", 
-  "time": 27328
+  "time": 2732.8
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Still reading the document", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 27552
+  "time": 2755.2
  }, 
  {
-  "duration": 5, 
-  "Text": "Armsdealing 52", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 52", 
-  "time": 27714
- }, 
- {
-  "duration": 19, 
+  "duration": 1.9, 
   "Text": "Armsdealing 54", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 54", 
-  "time": 27745
+  "time": 2774.5
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 53", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 53", 
-  "time": 27765
+  "time": 2776.5
  }, 
  {
-  "duration": 202, 
+  "duration": 20.2, 
   "Text": "Armsdealing 53", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 53", 
-  "time": 27772
+  "time": 2777.2
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Armsdealing 52", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 52", 
-  "time": 27978
+  "time": 2797.8
  }, 
  {
-  "duration": 40, 
+  "duration": 4.0, 
   "Text": "Armsdealing 52", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 52", 
-  "time": 27986
+  "time": 2798.6
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 54", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 54", 
-  "time": 28030
+  "time": 2803.0
  }, 
  {
-  "duration": 382, 
+  "duration": 38.2, 
   "Text": "Armsdealing 54", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 54", 
-  "time": 28037
+  "time": 2803.7
  }, 
  {
-  "duration": 194, 
+  "duration": 19.4, 
   "Text": "Armsdealing 54", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 54", 
-  "time": 28038
+  "time": 2803.8
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Armsdealing 52", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 52", 
-  "time": 28232
+  "time": 2823.2
  }, 
  {
-  "duration": 5, 
-  "Text": "Armsdealing 54", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 54", 
-  "time": 28242
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Saudi Arabia,", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 28527
+  "time": 2852.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Saudi Arabia", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 28592
+  "time": 2859.2
  }, 
  {
-  "duration": 10, 
-  "Text": "Armsdealing 70", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 70", 
-  "time": 28642
- }, 
- {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 88", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 88", 
-  "time": 28662
+  "time": 2866.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "I'm certein that there is no connection to Saudi Arabia cause I've no information about arms dealer in Saudi Arabia", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 28672
+  "time": 2867.2
  }, 
  {
-  "duration": 16, 
+  "duration": 1.6, 
   "Text": "Armsdealing 56", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 56", 
-  "time": 28688
+  "time": 2868.8
  }, 
  {
-  "duration": 26, 
+  "duration": 2.6, 
   "Text": "Armsdealing 51", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 51", 
-  "time": 28861
+  "time": 2886.1
  }, 
  {
-  "duration": 12, 
+  "duration": 1.2, 
   "Text": "Armsdealing 95", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 95", 
-  "time": 28900
+  "time": 2890.0
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 96", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 96", 
-  "time": 28912
+  "time": 2891.2
  }, 
  {
-  "duration": 114, 
+  "duration": 11.4, 
   "Text": "Armsdealing 96", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 96", 
-  "time": 28919
+  "time": 2891.9
  }, 
  {
-  "duration": 26, 
+  "duration": 2.6, 
   "Text": "Armsdealing 96", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 96", 
-  "time": 28938
+  "time": 2893.8
  }, 
  {
-  "duration": 17, 
+  "duration": 1.7, 
   "Text": "Armsdealing 96", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 96", 
-  "time": 29038
+  "time": 2903.8
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Armsdealing 63", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 63", 
-  "time": 29061
+  "time": 2906.1
  }, 
  {
-  "duration": 779, 
+  "duration": 77.9, 
   "Text": "Armsdealing 63", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 63", 
-  "time": 29070
+  "time": 2907.0
  }, 
  {
-  "duration": 484, 
+  "duration": 48.4, 
   "Text": "Armsdealing 63", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 63", 
-  "time": 29071
+  "time": 2907.1
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Still reading the document", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 29442
+  "time": 2944.2
  }, 
  {
-  "duration": 282, 
+  "duration": 28.2, 
   "Text": "Armsdealing 92", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 92", 
-  "time": 29555
+  "time": 2955.5
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Still reading the document", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 29812
+  "time": 2981.2
  }, 
  {
-  "duration": 5, 
-  "Text": "Armsdealing 63", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 63", 
-  "time": 29838
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Venezuela", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 29922
+  "time": 2992.2
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "Armsdealing 6", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 6", 
-  "time": 29944
+  "time": 2994.4
  }, 
  {
-  "duration": 219, 
+  "duration": 21.9, 
   "Text": "Armsdealing 6", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 6", 
-  "time": 29954
+  "time": 2995.4
  }, 
  {
-  "duration": 43, 
+  "duration": 4.3, 
   "Text": "Armsdealing 5", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 5", 
-  "time": 30180
+  "time": 3018.0
  }, 
  {
-  "duration": 6632, 
+  "duration": 663.2, 
   "Text": "Armsdealing 5", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 5", 
-  "time": 30224
+  "time": 3022.4
  }, 
  {
-  "duration": 41, 
+  "duration": 4.1, 
   "Text": "Armsdealing 5", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 5", 
-  "time": 30225
+  "time": 3022.5
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Armsdealing 72", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 72", 
-  "time": 30274
+  "time": 3027.4
  }, 
  {
-  "duration": 5, 
-  "Text": "Armsdealing 5", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 5", 
-  "time": 30387
- }, 
- {
-  "duration": 5, 
-  "Text": "Armsdealing 5", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 5", 
-  "time": 30397
- }, 
- {
-  "duration": 5, 
-  "Text": "Armsdealing 5", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 5", 
-  "time": 30402
- }, 
- {
-  "duration": 14, 
+  "duration": 1.4, 
   "Text": "Armsdealing 78", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 78", 
-  "time": 30430
+  "time": 3043.0
  }, 
  {
-  "duration": 41, 
+  "duration": 4.1, 
   "Text": "Armsdealing 5", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 5", 
-  "time": 30525
+  "time": 3052.5
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "Armsdealing 90", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 90", 
-  "time": 30607
+  "time": 3060.7
  }, 
  {
-  "duration": 22, 
+  "duration": 2.2, 
   "Text": "Armsdealing 90", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 90", 
-  "time": 30621
+  "time": 3062.1
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Armsdealing 89", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 89", 
-  "time": 30699
+  "time": 3069.9
  }, 
  {
-  "duration": 167, 
+  "duration": 16.7, 
   "Text": "Armsdealing 89", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 89", 
-  "time": 30708
+  "time": 3070.8
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Armsdealing 90", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 90", 
-  "time": 30885
+  "time": 3088.5
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "Armsdealing 90", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 90", 
-  "time": 30915
+  "time": 3091.5
  }, 
  {
-  "duration": 74, 
+  "duration": 7.4, 
   "Text": "Armsdealing 88", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 88", 
-  "time": 30934
+  "time": 3093.4
  }, 
  {
-  "duration": 66, 
+  "duration": 6.6, 
   "Text": "Armsdealing 87", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 87", 
-  "time": 31019
+  "time": 3101.9
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "I've seen some talks about some partes in Jan 2009", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 31072
+  "time": 3107.2
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "Armsdealing 84", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 84", 
-  "time": 31092
+  "time": 3109.2
  }, 
  {
-  "duration": 24, 
+  "duration": 2.4, 
   "Text": "Armsdealing 88", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 88", 
-  "time": 31103
+  "time": 3110.3
  }, 
  {
-  "duration": 46, 
+  "duration": 4.6, 
   "Text": "Armsdealing 88", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 88", 
-  "time": 31128
+  "time": 3112.8
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Armsdealing 89", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 89", 
-  "time": 31178
+  "time": 3117.8
  }, 
  {
-  "duration": 218, 
+  "duration": 21.8, 
   "Text": "Armsdealing 89", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 89", 
-  "time": 31190
+  "time": 3119.0
  }, 
  {
-  "duration": 58, 
+  "duration": 5.8, 
   "Text": "Armsdealing 90", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 90", 
-  "time": 31418
+  "time": 3141.8
  }, 
  {
-  "duration": 37, 
+  "duration": 3.7, 
   "Text": "Armsdealing 70", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 70", 
-  "time": 31478
+  "time": 3147.8
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Armsdealing 52", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 52", 
-  "time": 31518
+  "time": 3151.8
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Armsdealing 54", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 54", 
-  "time": 31526
+  "time": 3152.6
  }, 
  {
-  "duration": 56, 
+  "duration": 5.6, 
   "Text": "Armsdealing 54", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 54", 
-  "time": 31535
+  "time": 3153.5
  }, 
  {
-  "duration": 10, 
+  "duration": 3.1, 
   "Text": "Armsdealing 54", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 54", 
-  "time": 31536
+  "time": 3155.2
  }, 
  {
-  "duration": 31, 
-  "Text": "Armsdealing 54", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 54", 
-  "time": 31552
- }, 
- {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "Armsdealing 53", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 53", 
-  "time": 31595
+  "time": 3159.5
  }, 
  {
-  "duration": 15, 
+  "duration": 1.5, 
   "Text": "Armsdealing 53", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 53", 
-  "time": 31609
+  "time": 3160.9
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Armsdealing 51", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 51", 
-  "time": 31633
+  "time": 3163.3
  }, 
  {
-  "duration": 356, 
+  "duration": 35.6, 
   "Text": "Armsdealing 51", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 51", 
-  "time": 31641
+  "time": 3164.1
  }, 
  {
-  "duration": 52, 
+  "duration": 5.2, 
   "Text": "Armsdealing 25", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 25", 
-  "time": 32014
+  "time": 3201.4
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 25", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 25", 
-  "time": 32166
+  "time": 3216.6
  }, 
  {
-  "duration": 272, 
+  "duration": 27.2, 
   "Text": "Armsdealing 25", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 25", 
-  "time": 32173
+  "time": 3217.3
  }, 
  {
-  "duration": 18, 
+  "duration": 1.8, 
   "Text": "Armsdealing 25", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 25", 
-  "time": 32174
+  "time": 3217.4
  }, 
  {
-  "duration": 5, 
-  "Text": "Armsdealing 25", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 25", 
-  "time": 32205
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Back to find relations between arm dealers", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 32262
+  "time": 3226.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "There are having a meeting in Borj al Arab", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 32442
+  "time": 3244.2
  }, 
  {
-  "duration": 12, 
+  "duration": 1.2, 
   "Text": "Armsdealing 87", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 87", 
-  "time": 32457
+  "time": 3245.7
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Armsdealing 84", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 84", 
-  "time": 32469
+  "time": 3246.9
  }, 
  {
-  "duration": 510, 
+  "duration": 51.0, 
   "Text": "Armsdealing 25", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 25", 
-  "time": 32523
+  "time": 3252.3
  }, 
  {
-  "duration": 82, 
+  "duration": 8.2, 
   "Text": "Armsdealing 25", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 25", 
-  "time": 32524
+  "time": 3252.4
  }, 
  {
-  "duration": 44, 
+  "duration": 4.4, 
   "Text": "Armsdealing 25", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 25", 
-  "time": 32616
+  "time": 3261.6
  }, 
  {
   "duration": 0, 
   "Text": " What's the meeting in Dubai about (type 1)[bottom-up]", 
-  "InteractionType": "Topic_change", 
+  "InteractionType": "topic_change", 
   "ID": "bottom-up", 
-  "time": 32632
+  "time": 3263.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Burj", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 32671
+  "time": 3267.1
  }, 
  {
-  "duration": 49, 
+  "duration": 4.9, 
   "Text": "Armsdealing 25", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 25", 
-  "time": 32673
+  "time": 3267.3
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Armsdealing 25", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 25", 
-  "time": 32714
+  "time": 3271.4
  }, 
  {
-  "duration": 330, 
+  "duration": 33.0, 
   "Text": "Armsdealing 29", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 29", 
-  "time": 32735
+  "time": 3273.5
  }, 
  {
-  "duration": 74, 
+  "duration": 7.4, 
   "Text": "Armsdealing 29", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 29", 
-  "time": 32736
+  "time": 3273.6
  }, 
  {
-  "duration": 137, 
+  "duration": 13.7, 
   "Text": "Armsdealing 28", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 28", 
-  "time": 32810
+  "time": 3281.0
  }, 
  {
-  "duration": 12, 
+  "duration": 1.2, 
   "Text": "Armsdealing 29", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 29", 
-  "time": 32947
+  "time": 3294.7
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "Armsdealing 29", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 29", 
-  "time": 32960
+  "time": 3296.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "So of there arm dealers are planning to meet in borj al arab", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 32982
+  "time": 3298.2
  }, 
  {
-  "duration": 32, 
+  "duration": 3.2, 
   "Text": "Armsdealing 29", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 29", 
-  "time": 32993
+  "time": 3299.3
  }, 
  {
-  "duration": 53, 
+  "duration": 5.3, 
   "Text": "Armsdealing 29", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 29", 
-  "time": 33072
+  "time": 3307.2
  }, 
  {
-  "duration": 29, 
+  "duration": 2.9, 
   "Text": "Armsdealing 77", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 77", 
-  "time": 33210
+  "time": 3321.0
  }, 
  {
-  "duration": 1483, 
+  "duration": 148.3, 
   "Text": "Armsdealing 8", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 8", 
-  "time": 33258
+  "time": 3325.8
  }, 
  {
-  "duration": 61, 
+  "duration": 6.1, 
   "Text": "Armsdealing 8", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 8", 
-  "time": 33259
+  "time": 3325.9
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Yeah. the meeting area is the Borj", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 33352
+  "time": 3335.2
  }, 
  {
-  "duration": 129, 
+  "duration": 12.9, 
   "Text": "Armsdealing 8", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 8", 
-  "time": 33367
+  "time": 3336.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Kasem and Khouri in GAza", 
-  "InteractionType": "Add note", 
+  "InteractionType": "writing_notes", 
   "ID": 0, 
-  "time": 33512
+  "time": 3351.2
  }, 
  {
-  "duration": 86, 
+  "duration": 8.6, 
   "Text": "Armsdealing 8", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 8", 
-  "time": 33707
+  "time": 3370.7
  }, 
  {
-  "duration": 5, 
-  "Text": "Armsdealing 5", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 5", 
-  "time": 33794
- }, 
- {
-  "duration": 5, 
-  "Text": "Armsdealing 5", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 5", 
-  "time": 33826
- }, 
- {
-  "duration": 32, 
+  "duration": 3.2, 
   "Text": "Armsdealing 91", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 91", 
-  "time": 33850
+  "time": 3385.0
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Armsdealing 92", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 92", 
-  "time": 33907
+  "time": 3390.7
  }, 
  {
-  "duration": 51, 
+  "duration": 5.1, 
   "Text": "Armsdealing 92", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 92", 
-  "time": 33919
+  "time": 3391.9
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Armsdealing 93", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 93", 
-  "time": 33976
+  "time": 3397.6
  }, 
  {
-  "duration": 25, 
+  "duration": 2.5, 
   "Text": "Armsdealing 93", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 93", 
-  "time": 33988
+  "time": 3398.8
  }, 
  {
-  "duration": 20, 
+  "duration": 2.0, 
   "Text": "Armsdealing 94", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 94", 
-  "time": 34018
+  "time": 3401.8
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "Armsdealing 94", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 94", 
-  "time": 34039
+  "time": 3403.9
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "These are a series of replys. I'm foing to connect the together", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 34052
+  "time": 3405.2
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Armsdealing 60", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 60", 
-  "time": 34077
+  "time": 3407.7
  }, 
  {
-  "duration": 21, 
+  "duration": 2.1, 
   "Text": "Armsdealing 93", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 93", 
-  "time": 34104
+  "time": 3410.4
  }, 
  {
-  "duration": 28, 
+  "duration": 2.8, 
   "Text": "Armsdealing 30", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 30", 
-  "time": 34151
+  "time": 3415.1
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Armsdealing 69", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 69", 
-  "time": 34188
+  "time": 3418.8
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Minsky and Nikolai in Russia", 
-  "InteractionType": "Add note", 
+  "InteractionType": "writing_notes", 
   "ID": 0, 
-  "time": 34202
+  "time": 3420.2
  }, 
  {
-  "duration": 37, 
+  "duration": 3.7, 
   "Text": "Armsdealing 56", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 56", 
-  "time": 34414
+  "time": 3441.4
  }, 
  {
-  "duration": 89, 
+  "duration": 8.9, 
   "Text": "Armsdealing 56", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 56", 
-  "time": 34452
+  "time": 3445.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "salah ahmed", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 34624
+  "time": 3462.4
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": " ahmed", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 34682
+  "time": 3468.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "ahmed", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 34702
+  "time": 3470.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Here is says three of the arm dealers died in May 2009 and I'm going to figure out if and how they met somewhere", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 34782
+  "time": 3478.2
  }, 
  {
-  "duration": 20, 
+  "duration": 2.0, 
   "Text": "Armsdealing 87", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 87", 
-  "time": 34802
+  "time": 3480.2
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "Armsdealing 29", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 29", 
-  "time": 34837
+  "time": 3483.7
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Armsdealing 51", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 51", 
-  "time": 34868
+  "time": 3486.8
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Armsdealing 29", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 29", 
-  "time": 34882
+  "time": 3488.2
  }, 
  {
-  "duration": 245, 
+  "duration": 24.5, 
   "Text": "Armsdealing 29", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 29", 
-  "time": 34893
+  "time": 3489.3
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Apparently all of them had plan to meet in Dubai", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 35142
+  "time": 3514.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "April 19th reunion in Burj Al Arab Dubai", 
-  "InteractionType": "Add note", 
+  "InteractionType": "writing_notes", 
   "ID": 0, 
-  "time": 35192
+  "time": 3519.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "April 19th reunion in Dubai\n", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Armsdealing 8", 
-  "time": 35415
+  "time": 3541.5
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "Armsdealing 53", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 53", 
-  "time": 35450
+  "time": 3545.0
  }, 
  {
-  "duration": 81, 
+  "duration": 8.1, 
   "Text": "Armsdealing 29", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 29", 
-  "time": 35492
+  "time": 3549.2
  }, 
  {
-  "duration": 89, 
+  "duration": 8.9, 
   "Text": "Armsdealing 29", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 29", 
-  "time": 35574
+  "time": 3557.4
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "nicolai", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 35772
+  "time": 3577.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "nikolai", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 35847
+  "time": 3584.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "nicolai", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 35905
+  "time": 3590.5
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "Armsdealing 26", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 26", 
-  "time": 35936
+  "time": 3593.6
  }, 
  {
-  "duration": 12, 
+  "duration": 1.2, 
   "Text": "Armsdealing 30", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 30", 
-  "time": 35981
+  "time": 3598.1
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "the week of", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 36055
+  "time": 3605.5
  }, 
  {
-  "duration": 5, 
-  "Text": "Armsdealing 5", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 5", 
-  "time": 36089
- }, 
- {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 92", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 92", 
-  "time": 36093
+  "time": 3609.3
  }, 
  {
-  "duration": 193, 
+  "duration": 19.3, 
   "Text": "Armsdealing 92", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 92", 
-  "time": 36100
+  "time": 3610.0
  }, 
  {
-  "duration": 25, 
+  "duration": 2.5, 
   "Text": "Armsdealing 5", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 5", 
-  "time": 36311
+  "time": 3631.1
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Armsdealing 91", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 91", 
-  "time": 36342
+  "time": 3634.2
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "Armsdealing 61", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 61", 
-  "time": 36357
+  "time": 3635.7
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "Armsdealing 60", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 60", 
-  "time": 36372
+  "time": 3637.2
  }, 
  {
-  "duration": 18, 
+  "duration": 1.8, 
   "Text": "Armsdealing 60", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 60", 
-  "time": 36382
+  "time": 3638.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Armsdealing 82", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 82", 
-  "time": 36411
+  "time": 3641.1
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Armsdealing 58", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 58", 
-  "time": 36422
+  "time": 3642.2
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "Armsdealing 58", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 58", 
-  "time": 36430
+  "time": 3643.0
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Armsdealing 58", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 58", 
-  "time": 36491
+  "time": 3649.1
  }, 
  {
-  "duration": 65, 
+  "duration": 6.5, 
   "Text": "Armsdealing 58", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 58", 
-  "time": 36503
+  "time": 3650.3
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "For the most part I don't mind about in early 2008 articles here because the disease started in 2009 So late late 2008 is important", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 36562
+  "time": 3656.2
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Armsdealing 58", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 58", 
-  "time": 36572
+  "time": 3657.2
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Armsdealing 78", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 78", 
-  "time": 36581
+  "time": 3658.1
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "Armsdealing 72", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 72", 
-  "time": 36622
+  "time": 3662.2
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Armsdealing 72", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 72", 
-  "time": 36644
+  "time": 3664.4
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Armsdealing 39", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 39", 
-  "time": 36670
+  "time": 3667.0
  }, 
  {
-  "duration": 15, 
+  "duration": 1.5, 
   "Text": "Armsdealing 38", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 38", 
-  "time": 36680
+  "time": 3668.0
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "Armsdealing 72", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 72", 
-  "time": 36778
+  "time": 3677.8
  }, 
  {
-  "duration": 5, 
-  "Text": "Armsdealing 5", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 5", 
-  "time": 36791
- }, 
- {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Armsdealing 84", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 84", 
-  "time": 37074
+  "time": 3707.4
  }, 
  {
-  "duration": 50, 
+  "duration": 5.0, 
   "Text": "Armsdealing 90", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 90", 
-  "time": 37089
+  "time": 3708.9
  }, 
  {
-  "duration": 53, 
+  "duration": 5.3, 
   "Text": "Armsdealing 88", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 88", 
-  "time": 37151
+  "time": 3715.1
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 69", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 69", 
-  "time": 37291
+  "time": 3729.1
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "I want to use the rest of my time to look at the data that I didn't review so far because I see interactions betweenarm dealer during that time", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 37332
+  "time": 3733.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "I also think arm dealing and disease are not related because if it was other countries would have been in this problem as well", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 37622
+  "time": 3762.2
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "Armsdealing 8", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 8", 
-  "time": 37751
+  "time": 3775.1
  }, 
  {
-  "duration": 21, 
+  "duration": 2.1, 
   "Text": "Armsdealing 36", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 36", 
-  "time": 37764
+  "time": 3776.4
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 64", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 64", 
-  "time": 37824
+  "time": 3782.4
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Armsdealing 9", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 9", 
-  "time": 37857
+  "time": 3785.7
  }, 
  {
-  "duration": 17, 
+  "duration": 1.7, 
   "Text": "Armsdealing 8", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 8", 
-  "time": 37865
+  "time": 3786.5
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Armsdealing 58", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 58", 
-  "time": 37884
+  "time": 3788.4
  }, 
  {
-  "duration": 12, 
+  "duration": 1.2, 
   "Text": "Armsdealing 3", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 3", 
-  "time": 37897
+  "time": 3789.7
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 58", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 58", 
-  "time": 37989
+  "time": 3798.9
  }, 
  {
-  "duration": 62, 
+  "duration": 6.2, 
   "Text": "Armsdealing 58", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 58", 
-  "time": 38005
+  "time": 3800.5
  }, 
  {
-  "duration": 189, 
+  "duration": 18.9, 
   "Text": "Armsdealing 79", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 79", 
-  "time": 38165
+  "time": 3816.5
  }, 
  {
-  "duration": 27, 
+  "duration": 2.7, 
   "Text": "Armsdealing 76", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 76", 
-  "time": 38394
+  "time": 3839.4
  }, 
  {
-  "duration": 16, 
+  "duration": 1.6, 
   "Text": "Armsdealing 76", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 76", 
-  "time": 38422
+  "time": 3842.2
  }, 
  {
   "duration": 0, 
   "Text": " What happened in late 2008 (type 1) [bottom-up]", 
-  "InteractionType": "Topic_change", 
+  "InteractionType": "topic_change", 
   "ID": "bottom-up", 
-  "time": 38432
+  "time": 3843.2
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Armsdealing 100", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 100", 
-  "time": 38446
+  "time": 3844.6
  }, 
  {
-  "duration": 16, 
+  "duration": 1.6, 
   "Text": "Armsdealing 100", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 100", 
-  "time": 38461
+  "time": 3846.1
  }, 
  {
-  "duration": 37, 
+  "duration": 3.7, 
   "Text": "Armsdealing 26", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 26", 
-  "time": 38488
+  "time": 3848.8
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 26", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 26", 
-  "time": 38526
+  "time": 3852.6
  }, 
  {
-  "duration": 177, 
+  "duration": 17.7, 
   "Text": "Armsdealing 26", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 26", 
-  "time": 38539
+  "time": 3853.9
  }, 
  {
-  "duration": 62, 
+  "duration": 6.2, 
   "Text": "Armsdealing 26", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 26", 
-  "time": 38540
+  "time": 3854.0
  }, 
  {
-  "duration": 33, 
+  "duration": 3.3, 
   "Text": "Armsdealing 101", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 101", 
-  "time": 38738
+  "time": 3873.8
  }, 
  {
-  "duration": 15, 
+  "duration": 1.5, 
   "Text": "Armsdealing 25", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 25", 
-  "time": 38779
+  "time": 3877.9
  }, 
  {
-  "duration": 932, 
+  "duration": 93.2, 
   "Text": "Armsdealing 25", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 25", 
-  "time": 38795
+  "time": 3879.5
  }, 
  {
-  "duration": 5, 
-  "Text": "Armsdealing 25", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 25", 
-  "time": 38796
- }, 
- {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "Armsdealing 52", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 52", 
-  "time": 39108
+  "time": 3910.8
  }, 
  {
-  "duration": 35, 
+  "duration": 3.5, 
   "Text": "Armsdealing 25", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 25", 
-  "time": 39117
+  "time": 3911.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "I see a new name in articles Baltasar", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 39142
+  "time": 3914.2
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "Armsdealing 25", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 25", 
-  "time": 39153
+  "time": 3915.3
  }, 
  {
-  "duration": 23, 
+  "duration": 2.3, 
   "Text": "Armsdealing 53", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 53", 
-  "time": 39166
+  "time": 3916.6
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "baltasar", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 39268
+  "time": 3926.8
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Armsdealing 10", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 10", 
-  "time": 39316
+  "time": 3931.6
  }, 
  {
-  "duration": 63, 
+  "duration": 6.3, 
   "Text": "Armsdealing 10", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 10", 
-  "time": 39338
+  "time": 3933.8
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "This is the guy who ships arms to Turkey and reffers himself as Professor for some reason. Now I'm going put these together", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 39382
+  "time": 3938.2
  }, 
  {
-  "duration": 5, 
-  "Text": "Armsdealing 25", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 25", 
-  "time": 39415
- }, 
- {
-  "duration": 17, 
+  "duration": 1.7, 
   "Text": "Armsdealing 10", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 10", 
-  "time": 39431
+  "time": 3943.1
  }, 
  {
-  "duration": 57, 
+  "duration": 5.7, 
   "Text": "Armsdealing 10", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 10", 
-  "time": 39452
+  "time": 3945.2
  }, 
  {
-  "duration": 8, 
-  "Text": "Armsdealing 25", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 25", 
-  "time": 39517
- }, 
- {
-  "duration": 16, 
+  "duration": 1.6, 
   "Text": "Armsdealing 10", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 10", 
-  "time": 39541
+  "time": 3954.1
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Armsdealing 72", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 72", 
-  "time": 39574
+  "time": 3957.4
  }, 
  {
-  "duration": 5, 
+  "duration": 2.3, 
   "Text": "Armsdealing 25", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 25", 
-  "time": 39618
+  "time": 3962.4
  }, 
  {
-  "duration": 23, 
+  "duration": 2.1, 
   "Text": "Armsdealing 25", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 25", 
-  "time": 39624
+  "time": 3967.1
  }, 
  {
-  "duration": 5, 
+  "duration": 1.8, 
   "Text": "Armsdealing 25", 
-  "InteractionType": "Reading", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 25", 
-  "time": 39647
+  "time": 3968.0
  }, 
  {
-  "duration": 21, 
+  "duration": 2.4, 
   "Text": "Armsdealing 25", 
-  "InteractionType": "Reading", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 25", 
-  "time": 39671
+  "time": 3973.3
  }, 
  {
-  "duration": 18, 
-  "Text": "Armsdealing 25", 
-  "InteractionType": "Draging", 
-  "ID": "Armsdealing 25", 
-  "time": 39680
- }, 
- {
-  "duration": 24, 
-  "Text": "Armsdealing 25", 
-  "InteractionType": "Draging", 
-  "ID": "Armsdealing 25", 
-  "time": 39733
- }, 
- {
-  "duration": 22, 
+  "duration": 2.2, 
   "Text": "Armsdealing 54", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 54", 
-  "time": 39767
+  "time": 3976.7
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 29", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 29", 
-  "time": 39799
+  "time": 3979.9
  }, 
  {
-  "duration": 23, 
+  "duration": 2.3, 
   "Text": "Armsdealing 29", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 29", 
-  "time": 39806
+  "time": 3980.6
  }, 
  {
-  "duration": 18, 
+  "duration": 1.8, 
   "Text": "Armsdealing 51", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 51", 
-  "time": 39835
+  "time": 3983.5
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Armsdealing 52", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 52", 
-  "time": 39853
+  "time": 3985.3
  }, 
  {
-  "duration": 31, 
+  "duration": 3.1, 
   "Text": "Armsdealing 17", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 17", 
-  "time": 39921
+  "time": 3992.1
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 6", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 6", 
-  "time": 39957
+  "time": 3995.7
  }, 
  {
-  "duration": 18, 
+  "duration": 1.8, 
   "Text": "Armsdealing 30", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 30", 
-  "time": 39970
+  "time": 3997.0
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "Armsdealing 10", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 10", 
-  "time": 39993
+  "time": 3999.3
  }, 
  {
-  "duration": 14, 
+  "duration": 1.4, 
   "Text": "Armsdealing 25", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 25", 
-  "time": 40003
+  "time": 4000.3
  }, 
  {
-  "duration": 10, 
-  "Text": "ArmsDealing10,ArmsDealing25", 
-  "InteractionType": "Connection", 
-  "ID": "ArmsDealing10,ArmsDealing25", 
-  "time": 40009
- }, 
- {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "Armsdealing 17", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 17", 
-  "time": 40018
+  "time": 4001.8
  }, 
  {
-  "duration": 10, 
-  "Text": "ArmsDealing25,ArmsDealing17", 
-  "InteractionType": "Connection", 
-  "ID": "ArmsDealing25,ArmsDealing17", 
-  "time": 40023
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Baltasar in Turkey - aka the professor", 
-  "InteractionType": "Add note", 
+  "InteractionType": "writing_notes", 
   "ID": 0, 
-  "time": 40042
+  "time": 4004.2
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 37", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 37", 
-  "time": 40535
+  "time": 4053.5
  }, 
  {
-  "duration": 47, 
+  "duration": 4.7, 
   "Text": "Armsdealing 59", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 59", 
-  "time": 40556
+  "time": 4055.6
  }, 
  {
-  "duration": 354, 
+  "duration": 35.4, 
   "Text": "Armsdealing 59", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 59", 
-  "time": 40604
+  "time": 4060.4
  }, 
  {
-  "duration": 114, 
+  "duration": 11.4, 
   "Text": "Armsdealing 59", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 59", 
-  "time": 40605
+  "time": 4060.5
  }, 
  {
-  "duration": 54, 
+  "duration": 5.4, 
   "Text": "Armsdealing 59", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 59", 
-  "time": 40734
+  "time": 4073.4
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "Armsdealing 86", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 86", 
-  "time": 40789
+  "time": 4078.9
  }, 
  {
-  "duration": 19, 
+  "duration": 1.9, 
   "Text": "Armsdealing 83", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 83", 
-  "time": 40967
+  "time": 4096.7
  }, 
  {
-  "duration": 81, 
+  "duration": 8.1, 
   "Text": "Armsdealing 83", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 83", 
-  "time": 40997
+  "time": 4099.7
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Armsdealing 86", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 86", 
-  "time": 41082
+  "time": 4108.2
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "Armsdealing 37", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 37", 
-  "time": 41091
+  "time": 4109.1
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 38", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 38", 
-  "time": 41104
+  "time": 4110.4
  }, 
  {
-  "duration": 128, 
+  "duration": 12.8, 
   "Text": "Armsdealing 38", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 38", 
-  "time": 41132
+  "time": 4113.2
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Armsdealing 39", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 39", 
-  "time": 41263
+  "time": 4126.3
  }, 
  {
-  "duration": 121, 
+  "duration": 12.1, 
   "Text": "Armsdealing 39", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 39", 
-  "time": 41271
+  "time": 4127.1
  }, 
  {
-  "duration": 143, 
+  "duration": 14.3, 
   "Text": "Armsdealing 40", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 40", 
-  "time": 41401
+  "time": 4140.1
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Armsdealing 41", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 41", 
-  "time": 41548
+  "time": 4154.8
  }, 
  {
-  "duration": 230, 
+  "duration": 23.0, 
   "Text": "Armsdealing 41", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 41", 
-  "time": 41556
+  "time": 4155.6
  }, 
  {
-  "duration": 21, 
+  "duration": 2.1, 
   "Text": "Armsdealing 41", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 41", 
-  "time": 41557
+  "time": 4155.7
  }, 
  {
-  "duration": 449, 
+  "duration": 44.9, 
   "Text": "Armsdealing 42", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 42", 
-  "time": 41795
+  "time": 4179.5
  }, 
  {
-  "duration": 9, 
-  "Text": "Armsdealing 42", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 42", 
-  "time": 41796
- }, 
- {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 13", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 13", 
-  "time": 41807
+  "time": 4180.7
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 38", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 38", 
-  "time": 41821
+  "time": 4182.1
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 37", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 37", 
-  "time": 41827
+  "time": 4182.7
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Armsdealing 36", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 36", 
-  "time": 41833
+  "time": 4183.3
  }, 
  {
-  "duration": 52, 
+  "duration": 5.2, 
   "Text": "Armsdealing 11", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 11", 
-  "time": 41840
+  "time": 4184.0
  }, 
  {
-  "duration": 17, 
+  "duration": 1.7, 
   "Text": "Armsdealing 42", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 42", 
-  "time": 41896
+  "time": 4189.6
  }, 
  {
-  "duration": 5, 
+  "duration": 3.0, 
   "Text": "Armsdealing 42", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 42", 
-  "time": 41917
+  "time": 4192.2
  }, 
  {
-  "duration": 30, 
-  "Text": "Armsdealing 42", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 42", 
-  "time": 41922
- }, 
- {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Armsdealing 83", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 83", 
-  "time": 41985
+  "time": 4198.5
  }, 
  {
-  "duration": 237, 
+  "duration": 23.7, 
   "Text": "Armsdealing 91", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 91", 
-  "time": 41998
+  "time": 4199.8
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "I forget to search for sick or disease key words", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 42332
+  "time": 4233.2
  }, 
  {
   "duration": 0, 
   "Text": " Looking for evidence of sickness (type 3) [bottom-up]", 
-  "InteractionType": "Topic_change", 
+  "InteractionType": "topic_change", 
   "ID": "bottom-up", 
-  "time": 42362
+  "time": 4236.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "sick", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 42397
+  "time": 4239.7
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Armsdealing 95", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 95", 
-  "time": 42451
+  "time": 4245.1
  }, 
  {
-  "duration": 353, 
+  "duration": 35.3, 
   "Text": "Armsdealing 95", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 95", 
-  "time": 42469
+  "time": 4246.9
  }, 
  {
-  "duration": 10, 
+  "duration": 1.2, 
   "Text": "Armsdealing 95", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 95", 
-  "time": 42470
+  "time": 4247.0
  }, 
  {
-  "duration": 14, 
+  "duration": 1.4, 
   "Text": "Armsdealing 95", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 95", 
-  "time": 42476
+  "time": 4247.6
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "[Still reading the document]", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 42752
+  "time": 4275.2
  }, 
  {
-  "duration": 19, 
+  "duration": 1.9, 
   "Text": "Armsdealing 95", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 95", 
-  "time": 42835
+  "time": 4283.5
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "Armsdealing 95", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 95", 
-  "time": 42864
+  "time": 4286.4
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 95", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 95", 
-  "time": 42875
+  "time": 4287.5
  }, 
  {
-  "duration": 1213, 
+  "duration": 121.3, 
   "Text": "Armsdealing 95", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 95", 
-  "time": 42882
+  "time": 4288.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.2, 
   "Text": "Armsdealing 95", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 95", 
-  "time": 42883
+  "time": 4288.3
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Armsdealing 95", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 95", 
-  "time": 42889
+  "time": 4288.9
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": " I know with your committment to our mutual business goals you will be able to persevere through sickness for our successful meeting.", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Armsdealing 95", 
-  "time": 43079
+  "time": 4307.9
  }, 
  {
-  "duration": 183, 
+  "duration": 18.3, 
   "Text": "Armsdealing 95", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 95", 
-  "time": 43080
+  "time": 4308.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "The receiver of this email is boyo and boyo was from Yemen I think", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 43232
+  "time": 4323.2
  }, 
  {
-  "duration": 23, 
+  "duration": 2.3, 
   "Text": "Armsdealing 95", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 95", 
-  "time": 43238
+  "time": 4323.8
  }, 
  {
-  "duration": 46, 
+  "duration": 4.6, 
   "Text": "Armsdealing 81", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 81", 
-  "time": 43272
+  "time": 4327.2
  }, 
  {
-  "duration": 8, 
-  "Text": "Armsdealing 81", 
-  "InteractionType": "Reading", 
-  "ID": "Armsdealing 81", 
-  "time": 43273
- }, 
- {
-  "duration": 447, 
+  "duration": 44.7, 
   "Text": "Armsdealing 95", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 95", 
-  "time": 43326
+  "time": 4332.6
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "[Still reading the document]", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 43432
+  "time": 4343.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "I think I got what is going on", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 43742
+  "time": 4374.2
  }, 
  {
-  "duration": 5, 
+  "duration": 11.2, 
   "Text": "Armsdealing 95", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 95", 
-  "time": 43827
+  "time": 4383.5
  }, 
  {
-  "duration": 112, 
+  "duration": 3.3, 
   "Text": "Armsdealing 95", 
-  "InteractionType": "Reading", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 95", 
-  "time": 43835
+  "time": 4397.2
  }, 
  {
-  "duration": 33, 
+  "duration": 1.4, 
   "Text": "Armsdealing 95", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 95", 
-  "time": 43972
+  "time": 4410.4
  }, 
  {
-  "duration": 14, 
-  "Text": "Armsdealing 95", 
-  "InteractionType": "Draging", 
-  "ID": "Armsdealing 95", 
-  "time": 44104
- }, 
- {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "Armsdealing 85", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 85", 
-  "time": 44263
+  "time": 4426.3
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "They are having a reunion in April 19th. and they are coming from all countries that disease is there. One of them is sick and all others got the sickness from that guy. right after the meeting all went back to their countries and then the disease got spreaded", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 44292
+  "time": 4429.2
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "Armsdealing 92", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 92", 
-  "time": 44554
+  "time": 4455.4
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "Armsdealing 17", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 17", 
-  "time": 44627
+  "time": 4462.7
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Armsdealing 59", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 59", 
-  "time": 44659
+  "time": 4465.9
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Armsdealing 95", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 95", 
-  "time": 44704
+  "time": 4470.4
  }, 
  {
-  "duration": 272, 
+  "duration": 27.2, 
   "Text": "Armsdealing 95", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 95", 
-  "time": 44711
+  "time": 4471.1
  }, 
  {
-  "duration": 6, 
+  "duration": 1.1, 
   "Text": "Armsdealing 95", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 95", 
-  "time": 44712
+  "time": 4471.2
  }, 
  {
-  "duration": 61, 
+  "duration": 6.1, 
   "Text": "Armsdealing 95", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 95", 
-  "time": 44717
+  "time": 4471.7
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Armsdealing 17", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 17", 
-  "time": 44789
+  "time": 4478.9
  }, 
  {
-  "duration": 19, 
+  "duration": 1.9, 
   "Text": "Armsdealing 25", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 25", 
-  "time": 44805
+  "time": 4480.5
  }, 
  {
-  "duration": 5, 
+  "duration": 0.7, 
   "Text": "Armsdealing 95", 
-  "InteractionType": "Reading", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 95", 
-  "time": 44826
+  "time": 4498.7
  }, 
  {
-  "duration": 5, 
+  "duration": 1.2, 
   "Text": "Armsdealing 95", 
-  "InteractionType": "Reading", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 95", 
-  "time": 44843
+  "time": 4499.5
  }, 
  {
-  "duration": 7, 
-  "Text": "Armsdealing 95", 
-  "InteractionType": "Mouse_hover", 
-  "ID": "Armsdealing 95", 
-  "time": 44987
- }, 
- {
-  "duration": 12, 
-  "Text": "Armsdealing 95", 
-  "InteractionType": "Draging", 
-  "ID": "Armsdealing 95", 
-  "time": 44995
- }, 
- {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Armsdealing 64", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 64", 
-  "time": 45024
+  "time": 4502.4
  }, 
  {
-  "duration": 16, 
+  "duration": 1.6, 
   "Text": "Armsdealing 64", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 64", 
-  "time": 45033
+  "time": 4503.3
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Armsdealing 63", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 63", 
-  "time": 45056
+  "time": 4505.6
  }, 
  {
-  "duration": 15, 
+  "duration": 1.5, 
   "Text": "Armsdealing 63", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 63", 
-  "time": 45067
+  "time": 4506.7
  }, 
  {
-  "duration": 34, 
+  "duration": 3.4, 
   "Text": "Armsdealing 86", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 86", 
-  "time": 45090
+  "time": 4509.0
  }, 
  {
-  "duration": 16, 
+  "duration": 1.6, 
   "Text": "Armsdealing 62", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Armsdealing 62", 
-  "time": 45133
+  "time": 4513.3
  }, 
  {
-  "duration": 32, 
+  "duration": 3.2, 
   "Text": "Armsdealing 86", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 86", 
-  "time": 45200
+  "time": 4520.0
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "Armsdealing 62", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 62", 
-  "time": 45233
+  "time": 4523.3
  }, 
  {
-  "duration": 144, 
+  "duration": 14.4, 
   "Text": "Armsdealing 83", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 83", 
-  "time": 45247
+  "time": 4524.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "infection", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 45485
+  "time": 4548.5
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "columbia", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 45560
+  "time": 4556.0
  }, 
  {
-  "duration": 176, 
+  "duration": 17.6, 
   "Text": "Armsdealing 62", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 62", 
-  "time": 45588
+  "time": 4558.8
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "Armsdealing 69", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 69", 
-  "time": 45792
+  "time": 4579.2
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Armsdealing 90", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 90", 
-  "time": 45869
+  "time": 4586.9
  }, 
  {
-  "duration": 49, 
+  "duration": 4.9, 
   "Text": "Armsdealing 90", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 90", 
-  "time": 45881
+  "time": 4588.1
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Armsdealing 70", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 70", 
-  "time": 45939
+  "time": 4593.9
  }, 
  {
-  "duration": 162, 
+  "duration": 16.2, 
   "Text": "Armsdealing 70", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 70", 
-  "time": 45948
+  "time": 4594.8
  }, 
  {
-  "duration": 113, 
+  "duration": 11.3, 
   "Text": "Armsdealing 70", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 70", 
-  "time": 46144
+  "time": 4614.4
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Armsdealing 87", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 87", 
-  "time": 46264
+  "time": 4626.4
  }, 
  {
-  "duration": 83, 
+  "duration": 8.3, 
   "Text": "Armsdealing 87", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 87", 
-  "time": 46272
+  "time": 4627.2
  }, 
  {
-  "duration": 45, 
+  "duration": 4.5, 
   "Text": "Armsdealing 88", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 88", 
-  "time": 46372
+  "time": 4637.2
  }, 
  {
-  "duration": 35, 
+  "duration": 3.5, 
   "Text": "Armsdealing 90", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 90", 
-  "time": 46429
+  "time": 4642.9
  }, 
  {
-  "duration": 34, 
+  "duration": 3.4, 
   "Text": "Armsdealing 93", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 93", 
-  "time": 46493
+  "time": 4649.3
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Jhon and Hombre exchanging birthday present", 
-  "InteractionType": "Add note", 
+  "InteractionType": "writing_notes", 
   "ID": 0, 
-  "time": 46542
+  "time": 4654.2
  }, 
  {
-  "duration": 19, 
+  "duration": 1.9, 
   "Text": "Armsdealing 6", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 6", 
-  "time": 46624
+  "time": 4662.4
  }, 
  {
-  "duration": 32, 
+  "duration": 3.2, 
   "Text": "Armsdealing 6", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 6", 
-  "time": 46644
+  "time": 4664.4
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Above is my first understanding not the final results", 
-  "InteractionType": "Add note", 
+  "InteractionType": "writing_notes", 
   "ID": 0, 
-  "time": 46932
+  "time": 4693.2
  }, 
  {
-  "duration": 14, 
+  "duration": 1.4, 
   "Text": "Armsdealing 3", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 3", 
-  "time": 47371
+  "time": 4737.1
  }, 
  {
-  "duration": 141, 
+  "duration": 14.1, 
   "Text": "Armsdealing 3", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 3", 
-  "time": 47386
+  "time": 4738.6
  }, 
  {
-  "duration": 393, 
+  "duration": 39.3, 
   "Text": "Armsdealing 2", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Armsdealing 2", 
-  "time": 47536
+  "time": 4753.6
  }, 
  {
-  "duration": 14, 
+  "duration": 1.4, 
   "Text": "Armsdealing 2", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Armsdealing 2", 
-  "time": 47537
+  "time": 4753.7
  }, 
  {
-  "duration": 28, 
+  "duration": 2.8, 
   "Text": "Armsdealing 1", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 1", 
-  "time": 47551
+  "time": 4755.1
  }, 
  {
-  "duration": 141, 
+  "duration": 14.1, 
   "Text": "Armsdealing 1", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Armsdealing 1", 
-  "time": 47952
+  "time": 4795.2
  }
 ]

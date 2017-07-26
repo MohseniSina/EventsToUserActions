@@ -1,4363 +1,4433 @@
 [
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "January, 2014", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 487
+  "time": 48.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Jan 2014", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 739
+  "time": 73.9
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Disappearance 149", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 149", 
-  "time": 1036
+  "time": 103.6
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Disappearance 149", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 149", 
-  "time": 1049
+  "time": 104.9
  }, 
  {
-  "duration": 16, 
+  "duration": 1.6, 
   "Text": "Disappearance 149", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 149", 
-  "time": 1058
+  "time": 105.8
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "Disappearance 151", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 151", 
-  "time": 1075
+  "time": 107.5
  }, 
  {
-  "duration": 14, 
+  "duration": 1.4, 
   "Text": "Disappearance 151", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 151", 
-  "time": 1085
+  "time": 108.5
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Disappearance 26", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 26", 
-  "time": 1101
+  "time": 110.1
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Disappearance 26", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 26", 
-  "time": 1108
+  "time": 110.8
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Disappearance 51", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 51", 
-  "time": 1126
+  "time": 112.6
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Disappearance 25", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 25", 
-  "time": 1137
+  "time": 113.7
  }, 
  {
-  "duration": 18, 
+  "duration": 1.8, 
   "Text": "Disappearance 25", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 25", 
-  "time": 1146
+  "time": 114.6
  }, 
  {
-  "duration": 17, 
+  "duration": 1.7, 
   "Text": "Disappearance 76", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 76", 
-  "time": 1173
+  "time": 117.3
  }, 
  {
-  "duration": 23, 
+  "duration": 2.3, 
   "Text": "Disappearance 101", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 101", 
-  "time": 1197
+  "time": 119.7
  }, 
  {
-  "duration": 14, 
+  "duration": 1.4, 
   "Text": "Disappearance 150", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 150", 
-  "time": 1227
+  "time": 122.7
  }, 
  {
-  "duration": 15, 
+  "duration": 1.5, 
   "Text": "Disappearance 25", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 25", 
-  "time": 1275
+  "time": 127.5
  }, 
  {
-  "duration": 24, 
+  "duration": 2.4, 
   "Text": "Disappearance 25", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 25", 
-  "time": 1291
+  "time": 129.1
  }, 
  {
-  "duration": 16, 
+  "duration": 1.6, 
   "Text": "Disappearance 25", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 25", 
-  "time": 1322
+  "time": 132.2
  }, 
  {
-  "duration": 2126, 
+  "duration": 212.6, 
   "Text": "Disappearance 25", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 25", 
-  "time": 1347
+  "time": 134.7
  }, 
  {
-  "duration": 1272, 
+  "duration": 127.2, 
   "Text": "Disappearance 25", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 25", 
-  "time": 1348
+  "time": 134.8
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Still reading the last article", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 1857
+  "time": 185.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "It's about removing of the employees. POK was requesting $20M from the company. It may be additional request from them which is not specified yet", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 2107
+  "time": 210.7
  }, 
  {
   "duration": 0, 
   "Text": " (Trying to find the root of the events) [bottom-up]", 
-  "InteractionType": "Topic_change", 
+  "InteractionType": "topic_change", 
   "ID": "bottom-up", 
-  "time": 2457
+  "time": 245.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Still reading the last article", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 2487
+  "time": 248.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "The local organizations of news received a note of ransom of the claiming responsibility and to require POK $20 million the company", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "", 
-  "time": 2637
+  "time": 263.7
  }, 
  {
-  "duration": 307, 
+  "duration": 30.7, 
   "Text": "Disappearance 25", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 25", 
-  "time": 2638
+  "time": 263.8
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Tethan", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 2967
+  "time": 296.7
  }, 
  {
-  "duration": 49, 
+  "duration": 4.9, 
   "Text": "Disappearance 25", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 25", 
-  "time": 2970
+  "time": 297.0
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "Disappearance 75", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 75", 
-  "time": 3036
+  "time": 303.6
  }, 
  {
-  "duration": 39, 
+  "duration": 3.9, 
   "Text": "Disappearance 75", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 75", 
-  "time": 3046
+  "time": 304.6
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Disappearance 74", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 74", 
-  "time": 3092
+  "time": 309.2
  }, 
  {
-  "duration": 24, 
+  "duration": 2.4, 
   "Text": "Disappearance 73", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 73", 
-  "time": 3098
+  "time": 309.8
  }, 
  {
-  "duration": 32, 
+  "duration": 3.2, 
   "Text": "Disappearance 46", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 46", 
-  "time": 3124
+  "time": 312.4
  }, 
  {
-  "duration": 141, 
+  "duration": 14.1, 
   "Text": "Disappearance 25", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 25", 
-  "time": 3163
+  "time": 316.3
  }, 
  {
-  "duration": 63, 
+  "duration": 6.3, 
   "Text": "Disappearance 4", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 4", 
-  "time": 3341
+  "time": 334.1
  }, 
  {
-  "duration": 24, 
+  "duration": 2.4, 
   "Text": "Disappearance 4", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 4", 
-  "time": 3405
+  "time": 340.5
  }, 
  {
-  "duration": 2277, 
+  "duration": 227.7, 
   "Text": "Disappearance 4", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 4", 
-  "time": 3448
+  "time": 344.8
  }, 
  {
-  "duration": 5, 
-  "Text": "Disappearance 4", 
-  "InteractionType": "Reading", 
-  "ID": "Disappearance 4", 
-  "time": 3449
- }, 
- {
-  "duration": 5, 
-  "Text": "Disappearance 4", 
-  "InteractionType": "Reading", 
-  "ID": "Disappearance 4", 
-  "time": 3481
- }, 
- {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "Disappearance 25", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 25", 
-  "time": 3485
+  "time": 348.5
  }, 
  {
-  "duration": 5, 
+  "duration": 0.5, 
   "Text": "Disappearance 25", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 25", 
-  "time": 3495
+  "time": 349.5
  }, 
  {
-  "duration": 131, 
+  "duration": 0, 
+  "Text": "", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Disappearance 25", 
+  "time": 349.5
+ }, 
+ {
+  "duration": 13.1, 
   "Text": "Disappearance 25", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 25", 
-  "time": 3545
+  "time": 354.5
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "the personnel of the ministry of Tethan of the Foreign Affairs arrived in Kronos to help the police force in research.", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 25", 
-  "time": 3662
+  "time": 366.2
  }, 
  {
-  "duration": 5, 
+  "duration": 0.5, 
   "Text": "Disappearance 25", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 25", 
-  "time": 3688
+  "time": 368.8
  }, 
  {
-  "duration": 7, 
-  "Text": "Disappearance 4", 
-  "InteractionType": "Reading", 
-  "ID": "Disappearance 4", 
-  "time": 3696
+  "duration": 0, 
+  "Text": " the personnel of the ministry of Tethan of the Foreign Affairs arrived in Kronos to help the police force in research.", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Disappearance 25", 
+  "time": 368.9
  }, 
  {
-  "duration": 12, 
+  "duration": 20.3, 
   "Text": "Disappearance 4", 
-  "InteractionType": "Draging", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 4", 
-  "time": 3701
+  "time": 369.6
+ }, 
+ {
+  "duration": 1.2, 
+  "Text": "Disappearance 4", 
+  "InteractionType": "moving_document", 
+  "ID": "Disappearance 4", 
+  "time": 370.1
  }, 
  {
   "duration": 0, 
   "Text": " (Learning about the events leading to kidnapping) [bottom-up]", 
-  "InteractionType": "Topic_change", 
+  "InteractionType": "topic_change", 
   "ID": "bottom-up", 
-  "time": 3717
+  "time": 371.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": " 21 January 2014", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 4", 
-  "time": 3957
+  "time": 395.7
  }, 
  {
-  "duration": 494, 
+  "duration": 49.4, 
   "Text": "Disappearance 4", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 4", 
-  "time": 3958
+  "time": 395.8
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Still reading the last article", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 4357
+  "time": 435.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": " A fire alarm went off, and the execs were discovered missing shortly after that.", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 4", 
-  "time": 4464
+  "time": 446.4
  }, 
  {
-  "duration": 426, 
+  "duration": 42.6, 
   "Text": "Disappearance 4", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 4", 
-  "time": 4466
+  "time": 446.6
  }, 
  {
-  "duration": 6, 
-  "Text": "Disappearance 4", 
-  "InteractionType": "Reading", 
-  "ID": "Disappearance 4", 
-  "time": 4903
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "So the fire alarm went off. let see if I can find any information regarding the fire alarm and the time that happend", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 4907
+  "time": 490.7
  }, 
  {
-  "duration": 5, 
+  "duration": 16.6, 
   "Text": "Disappearance 4", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 4", 
-  "time": 4920
+  "time": 492.7
  }, 
  {
-  "duration": 166, 
+  "duration": 10.3, 
   "Text": "Disappearance 4", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 4", 
-  "time": 4927
+  "time": 510.8
  }, 
  {
-  "duration": 103, 
-  "Text": "Disappearance 4", 
-  "InteractionType": "Reading", 
-  "ID": "Disappearance 4", 
-  "time": 5108
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "fire alarm", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 5227
+  "time": 522.7
  }, 
  {
-  "duration": 14, 
+  "duration": 1.4, 
   "Text": "Disappearance 4", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 4", 
-  "time": 5229
+  "time": 522.9
  }, 
  {
-  "duration": 20, 
+  "duration": 2.0, 
   "Text": "Disappearance 91", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 91", 
-  "time": 5251
+  "time": 525.1
  }, 
  {
-  "duration": 24, 
+  "duration": 2.4, 
   "Text": "Disappearance 96", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 96", 
-  "time": 5277
+  "time": 527.7
  }, 
  {
-  "duration": 84, 
+  "duration": 8.4, 
   "Text": "Disappearance 79", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 79", 
-  "time": 5308
+  "time": 530.8
  }, 
  {
-  "duration": 17, 
+  "duration": 1.7, 
   "Text": "Disappearance 79", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 79", 
-  "time": 5425
+  "time": 542.5
  }, 
  {
-  "duration": 68, 
+  "duration": 6.8, 
   "Text": "Disappearance 91", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 91", 
-  "time": 5450
+  "time": 545.0
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Disappearance 91", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 91", 
-  "time": 5538
+  "time": 553.8
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Disappearance 79", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 79", 
-  "time": 5547
+  "time": 554.7
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Disappearance 92", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 92", 
-  "time": 5554
+  "time": 555.4
  }, 
  {
-  "duration": 102, 
+  "duration": 10.2, 
   "Text": "Disappearance 91", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 91", 
-  "time": 5562
+  "time": 556.2
  }, 
  {
-  "duration": 30, 
+  "duration": 3.0, 
   "Text": "Disappearance 91", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 91", 
-  "time": 5665
+  "time": 566.5
  }, 
  {
-  "duration": 440, 
+  "duration": 44.0, 
   "Text": "Disappearance 91", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 91", 
-  "time": 5704
+  "time": 570.4
  }, 
  {
-  "duration": 5, 
+  "duration": 1.9, 
   "Text": "Disappearance 91", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 91", 
-  "time": 5705
+  "time": 573.4
  }, 
  {
-  "duration": 5, 
+  "duration": 1.1, 
+  "Text": "Disappearance 91", 
+  "InteractionType": "moving_document", 
+  "ID": "Disappearance 91", 
+  "time": 574.0
+ }, 
+ {
+  "duration": 0.7, 
   "Text": "Disappearance 4", 
-  "InteractionType": "Reading", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 4", 
-  "time": 5709
+  "time": 575.6
  }, 
  {
-  "duration": 7, 
-  "Text": "Disappearance 91", 
-  "InteractionType": "Reading", 
-  "ID": "Disappearance 91", 
-  "time": 5734
- }, 
- {
-  "duration": 11, 
-  "Text": "Disappearance 91", 
-  "InteractionType": "Draging", 
-  "ID": "Disappearance 91", 
-  "time": 5740
- }, 
- {
-  "duration": 7, 
+  "duration": 0.5, 
   "Text": "Disappearance 4", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 4", 
-  "time": 5756
+  "time": 576.4
  }, 
  {
-  "duration": 5, 
-  "Text": "Disappearance 4", 
-  "InteractionType": "Doc_open", 
+  "duration": 0, 
+  "Text": "  21 January 2014  A fire alarm went off, and the execs were discovered missing shortly after that.", 
+  "InteractionType": "bookmark_highlights", 
   "ID": "Disappearance 4", 
-  "time": 5764
+  "time": 576.4
  }, 
  {
-  "duration": 190, 
+  "duration": 19.0, 
   "Text": "Disappearance 91", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 91", 
-  "time": 5770
+  "time": 577.0
  }, 
  {
-  "duration": 18, 
+  "duration": 1.8, 
   "Text": "Disappearance 91", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 91", 
-  "time": 5778
+  "time": 577.8
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "10:50am. So it happend in the morning", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 5937
+  "time": 593.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "10:50 AM:", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 91", 
-  "time": 5977
+  "time": 597.7
  }, 
  {
-  "duration": 50, 
+  "duration": 5.0, 
   "Text": "Disappearance 91", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 91", 
-  "time": 5979
+  "time": 597.9
  }, 
  {
-  "duration": 50, 
+  "duration": 5.0, 
   "Text": "Disappearance 91", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 91", 
-  "time": 6040
+  "time": 604.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "bomb threat.", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 91", 
-  "time": 6120
+  "time": 612.0
  }, 
  {
-  "duration": 20, 
+  "duration": 0, 
+  "Text": " 10:50 AM: bomb threat.", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Disappearance 91", 
+  "time": 614.4
+ }, 
+ {
+  "duration": 2.0, 
   "Text": "Disappearance 91", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 91", 
-  "time": 6158
+  "time": 615.8
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Now I want to see if I can find anything regarding bomb threats", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 6287
+  "time": 628.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "bomb threat", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 91", 
-  "time": 6293
+  "time": 629.3
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "bomb threat", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 6365
+  "time": 636.5
  }, 
  {
-  "duration": 23, 
+  "duration": 2.3, 
   "Text": "Disappearance 8", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 8", 
-  "time": 6404
+  "time": 640.4
  }, 
  {
-  "duration": 29, 
+  "duration": 2.9, 
   "Text": "Disappearance 8", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 8", 
-  "time": 6428
+  "time": 642.8
  }, 
  {
-  "duration": 1139, 
+  "duration": 113.9, 
   "Text": "Disappearance 8", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 8", 
-  "time": 6473
+  "time": 647.3
  }, 
  {
-  "duration": 5, 
+  "duration": 36.6, 
   "Text": "Disappearance 8", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 8", 
-  "time": 6474
+  "time": 648.1
  }, 
  {
-  "duration": 366, 
+  "duration": 40.3, 
   "Text": "Disappearance 8", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 8", 
-  "time": 6481
+  "time": 687.9
  }, 
  {
-  "duration": 10, 
-  "Text": "Disappearance 8", 
-  "InteractionType": "Reading", 
-  "ID": "Disappearance 8", 
-  "time": 6866
- }, 
- {
-  "duration": 403, 
-  "Text": "Disappearance 8", 
-  "InteractionType": "Reading", 
-  "ID": "Disappearance 8", 
-  "time": 6879
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Bomb threat happend in the day before and in the different place", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 7147
+  "time": 714.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "people Maha Salo 20 January 2014 ", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 8", 
-  "time": 7303
+  "time": 730.3
  }, 
  {
-  "duration": 186, 
+  "duration": 18.6, 
   "Text": "Disappearance 8", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 8", 
-  "time": 7305
+  "time": 730.5
  }, 
  {
-  "duration": 42, 
+  "duration": 4.2, 
   "Text": "Disappearance 8", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 8", 
-  "time": 7492
+  "time": 749.2
  }, 
  {
-  "duration": 9, 
-  "Text": "Disappearance 8", 
-  "InteractionType": "Reading", 
-  "ID": "Disappearance 8", 
-  "time": 7537
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": " bomb threat. 20 Jan 2014", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 8", 
-  "time": 7565
+  "time": 756.5
  }, 
  {
-  "duration": 16, 
+  "duration": 1.6, 
   "Text": "Disappearance 8", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 8", 
-  "time": 7565
+  "time": 756.5
  }, 
  {
-  "duration": 10, 
+  "duration": 0, 
+  "Text": " people Maha Salo 20 January 2014   bomb threat. 20 Jan 2014", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Disappearance 8", 
+  "time": 761.2
+ }, 
+ {
+  "duration": 1.0, 
   "Text": "So. people of maha salo", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 7647
+  "time": 764.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Maha Salo", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 7743
+  "time": 774.3
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Disappearance 5", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 5", 
-  "time": 7817
+  "time": 781.7
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Disappearance 10", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 10", 
-  "time": 7829
+  "time": 782.9
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Disappearance 10", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 10", 
-  "time": 7837
+  "time": 783.7
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "Disappearance 13", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 13", 
-  "time": 7845
+  "time": 784.5
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Disappearance 17", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 17", 
-  "time": 7861
+  "time": 786.1
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Disappearance 70", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 70", 
-  "time": 7876
+  "time": 787.6
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Disappearance 67", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 67", 
-  "time": 7888
+  "time": 788.8
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "Disappearance 63", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 63", 
-  "time": 7897
+  "time": 789.7
  }, 
  {
-  "duration": 50, 
+  "duration": 5.0, 
   "Text": "Disappearance 65", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 65", 
-  "time": 7907
+  "time": 790.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Disappearance 29", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 29", 
-  "time": 7995
+  "time": 799.5
  }, 
  {
-  "duration": 73, 
+  "duration": 7.3, 
   "Text": "Disappearance 55", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 55", 
-  "time": 8005
+  "time": 800.5
  }, 
  {
-  "duration": 17, 
+  "duration": 1.7, 
   "Text": "Disappearance 29", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 29", 
-  "time": 8079
+  "time": 807.9
  }, 
  {
-  "duration": 66, 
+  "duration": 6.6, 
   "Text": "Disappearance 63", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 63", 
-  "time": 8102
+  "time": 810.2
  }, 
  {
-  "duration": 36, 
+  "duration": 3.6, 
   "Text": "Disappearance 29", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 29", 
-  "time": 8186
+  "time": 818.6
  }, 
  {
-  "duration": 1146, 
+  "duration": 114.6, 
   "Text": "Disappearance 29", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 29", 
-  "time": 8247
+  "time": 824.7
  }, 
  {
-  "duration": 9, 
+  "duration": 14.5, 
   "Text": "Disappearance 29", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 29", 
-  "time": 8248
+  "time": 846.9
  }, 
  {
-  "duration": 145, 
+  "duration": 1.5, 
   "Text": "Disappearance 29", 
-  "InteractionType": "Reading", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 29", 
-  "time": 8469
+  "time": 847.9
  }, 
  {
-  "duration": 15, 
+  "duration": 2.8, 
   "Text": "Disappearance 29", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 29", 
-  "time": 8479
+  "time": 853.8
  }, 
  {
-  "duration": 28, 
-  "Text": "Disappearance 29", 
-  "InteractionType": "Draging", 
-  "ID": "Disappearance 29", 
-  "time": 8538
- }, 
- {
-  "duration": 125, 
+  "duration": 12.5, 
   "Text": "Disappearance 25", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 25", 
-  "time": 8656
+  "time": 865.6
  }, 
  {
-  "duration": 5, 
+  "duration": 0.5, 
   "Text": "Disappearance 25", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 25", 
-  "time": 8787
+  "time": 878.7
  }, 
  {
-  "duration": 5, 
+  "duration": 0.5, 
   "Text": "Disappearance 25", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 25", 
-  "time": 8799
+  "time": 879.9
  }, 
  {
-  "duration": 71, 
+  "duration": 0, 
+  "Text": " the personnel of the ministry of Tethan of the Foreign Affairs arrived in Kronos to help the police force in research.", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Disappearance 25", 
+  "time": 879.9
+ }, 
+ {
+  "duration": 7.1, 
   "Text": "Disappearance 4", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 4", 
-  "time": 8827
+  "time": 882.7
  }, 
  {
-  "duration": 5, 
+  "duration": 0.5, 
   "Text": "Disappearance 4", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 4", 
-  "time": 8917
+  "time": 891.7
  }, 
  {
-  "duration": 10, 
+  "duration": 0, 
+  "Text": "  21 January 2014  A fire alarm went off, and the execs were discovered missing shortly after that.", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Disappearance 4", 
+  "time": 891.7
+ }, 
+ {
+  "duration": 1.0, 
   "Text": "It was reported on Jan 21 but the kidnaping actually happend in 20th", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 8957
+  "time": 895.7
  }, 
  {
-  "duration": 263, 
+  "duration": 26.3, 
   "Text": "Disappearance 29", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 29", 
-  "time": 8970
+  "time": 897.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "someone should locate the caterers from the executive breakfast?", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 29", 
-  "time": 9258
+  "time": 925.8
  }, 
  {
-  "duration": 100, 
+  "duration": 10.0, 
   "Text": "Disappearance 29", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 29", 
-  "time": 9260
+  "time": 926.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": " newfound wealth might provide a motive.", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 29", 
-  "time": 9375
+  "time": 937.5
+ }, 
+ {
+  "duration": 0, 
+  "Text": " someone should locate the caterers from the executive breakfast?  newfound wealth might provide a motive.", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Disappearance 29", 
+  "time": 939.3
  }, 
  {
   "duration": 0, 
   "Text": " (Looking for carterers in the day of kidnaping) [bottom-up]", 
-  "InteractionType": "Topic_change", 
+  "InteractionType": "topic_change", 
   "ID": "bottom-up", 
-  "time": 9577
+  "time": 957.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "carterers", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 9579
+  "time": 957.9
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "executive breakfast", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 29", 
-  "time": 9871
+  "time": 987.1
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "executive breakfast", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 9936
+  "time": 993.6
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "caterers", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 10079
+  "time": 1007.9
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Disappearance 79", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 79", 
-  "time": 10107
+  "time": 1010.7
  }, 
  {
-  "duration": 23, 
+  "duration": 2.3, 
   "Text": "Disappearance 130", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 130", 
-  "time": 10116
+  "time": 1011.6
  }, 
  {
-  "duration": 21, 
+  "duration": 2.1, 
   "Text": "Disappearance 130", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 130", 
-  "time": 10140
+  "time": 1014.0
  }, 
  {
-  "duration": 1134, 
+  "duration": 113.4, 
   "Text": "Disappearance 130", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 130", 
-  "time": 10168
+  "time": 1016.8
  }, 
  {
-  "duration": 38, 
+  "duration": 3.8, 
   "Text": "Disappearance 130", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 130", 
-  "time": 10169
+  "time": 1016.9
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Disappearance 130", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 130", 
-  "time": 10184
+  "time": 1018.4
  }, 
  {
-  "duration": 20, 
+  "duration": 2.0, 
   "Text": "Disappearance 130", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 130", 
-  "time": 10241
+  "time": 1024.1
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Disappearance 91", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 91", 
-  "time": 10272
+  "time": 1027.2
  }, 
  {
-  "duration": 14, 
+  "duration": 1.4, 
   "Text": "Disappearance 8", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 8", 
-  "time": 10312
+  "time": 1031.2
  }, 
  {
-  "duration": 5, 
-  "Text": "Disappearance 130", 
-  "InteractionType": "Reading", 
-  "ID": "Disappearance 130", 
-  "time": 10367
- }, 
- {
-  "duration": 158, 
+  "duration": 15.8, 
   "Text": "Disappearance 29", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 29", 
-  "time": 10400
+  "time": 1040.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "20 Jan 2014", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 29", 
-  "time": 10541
+  "time": 1054.1
  }, 
  {
-  "duration": 17, 
+  "duration": 1.7, 
   "Text": "Disappearance 29", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 29", 
-  "time": 10568
+  "time": 1056.8
  }, 
  {
-  "duration": 616, 
+  "duration": 0, 
+  "Text": " someone should locate the caterers from the executive breakfast?  newfound wealth might provide a motive. executive breakfast 20 Jan 2014", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Disappearance 29", 
+  "time": 1058.5
+ }, 
+ {
+  "duration": 61.6, 
   "Text": "Disappearance 130", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 130", 
-  "time": 10600
+  "time": 1060.0
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Disappearance 130", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 130", 
-  "time": 10606
+  "time": 1060.6
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Still reading the last article", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 10967
+  "time": 1096.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": " the caterers for the breakfast meeting, who were dressed all in black, have been released.", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 130", 
-  "time": 11231
+  "time": 1123.1
  }, 
  {
-  "duration": 9, 
+  "duration": 0, 
+  "Text": "  the caterers for the breakfast meeting, who were dressed all in black, have been released.", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Disappearance 130", 
+  "time": 1130.2
+ }, 
+ {
+  "duration": 0.9, 
   "Text": "Disappearance 130", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 130", 
-  "time": 11335
+  "time": 1133.5
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Disappearance 91", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 91", 
-  "time": 11415
+  "time": 1141.5
  }, 
  {
-  "duration": 14, 
+  "duration": 1.4, 
   "Text": "Disappearance 29", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 29", 
-  "time": 11469
+  "time": 1146.9
  }, 
  {
-  "duration": 29, 
+  "duration": 2.9, 
   "Text": "Disappearance 4", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 4", 
-  "time": 11516
+  "time": 1151.6
  }, 
  {
-  "duration": 23, 
+  "duration": 2.3, 
   "Text": "Disappearance 8", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 8", 
-  "time": 11555
+  "time": 1155.5
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Disappearance 4", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 4", 
-  "time": 11601
+  "time": 1160.1
  }, 
  {
-  "duration": 10, 
-  "Text": "Disappearance29,Disappearance4", 
-  "InteractionType": "Connection", 
-  "ID": "Disappearance29,Disappearance4", 
-  "time": 11652
- }, 
- {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Disappearance 29", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 29", 
-  "time": 11671
+  "time": 1167.1
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Disappearance 4", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 4", 
-  "time": 11686
+  "time": 1168.6
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Disappearance 25", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 25", 
-  "time": 11701
+  "time": 1170.1
  }, 
  {
-  "duration": 12, 
+  "duration": 1.2, 
   "Text": "Disappearance 29", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 29", 
-  "time": 11722
+  "time": 1172.2
  }, 
  {
-  "duration": 41, 
+  "duration": 4.1, 
   "Text": "Disappearance 4", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 4", 
-  "time": 11743
+  "time": 1174.3
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "I know what happend in 20th. was reported in 21st. they are asking $20M for release", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 11807
+  "time": 1180.7
  }, 
  {
-  "duration": 20, 
+  "duration": 2.0, 
   "Text": "Disappearance 25", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 25", 
-  "time": 11868
+  "time": 1186.8
  }, 
  {
-  "duration": 10, 
-  "Text": "Disappearance4,Disappearance25", 
-  "InteractionType": "Connection", 
-  "ID": "Disappearance4,Disappearance25", 
-  "time": 11937
- }, 
- {
-  "duration": 25, 
+  "duration": 2.5, 
   "Text": "Disappearance 25", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 25", 
-  "time": 11951
+  "time": 1195.1
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Disappearance 130", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 130", 
-  "time": 12055
+  "time": 1205.5
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "black", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 12149
+  "time": 1214.9
  }, 
  {
-  "duration": 12, 
+  "duration": 1.2, 
   "Text": "Disappearance 141", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 141", 
-  "time": 12206
+  "time": 1220.6
  }, 
  {
-  "duration": 45, 
+  "duration": 4.5, 
   "Text": "Disappearance 141", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 141", 
-  "time": 12219
+  "time": 1221.9
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "I'm finding any information about any organization that were black", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 12247
+  "time": 1224.7
  }, 
  {
-  "duration": 17, 
+  "duration": 1.7, 
   "Text": "Disappearance 23", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 23", 
-  "time": 12288
+  "time": 1228.8
  }, 
  {
-  "duration": 18, 
+  "duration": 1.8, 
   "Text": "Disappearance 23", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 23", 
-  "time": 12306
+  "time": 1230.6
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Disappearance 20", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 20", 
-  "time": 12335
+  "time": 1233.5
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Disappearance 14", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 14", 
-  "time": 12370
+  "time": 1237.0
  }, 
  {
-  "duration": 12, 
+  "duration": 1.2, 
   "Text": "Disappearance 62", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 62", 
-  "time": 12420
+  "time": 1242.0
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Disappearance 57", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 57", 
-  "time": 12455
+  "time": 1245.5
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Disappearance 80", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 80", 
-  "time": 12469
+  "time": 1246.9
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Disappearance 103", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 103", 
-  "time": 12491
+  "time": 1249.1
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Disappearance 14", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 14", 
-  "time": 12536
+  "time": 1253.6
  }, 
  {
-  "duration": 26, 
+  "duration": 2.6, 
   "Text": "Disappearance 14", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 14", 
-  "time": 12543
+  "time": 1254.3
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Disappearance 14", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 14", 
-  "time": 12573
+  "time": 1257.3
  }, 
  {
-  "duration": 2557, 
+  "duration": 255.7, 
   "Text": "Disappearance 14", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 14", 
-  "time": 12581
+  "time": 1258.1
  }, 
  {
-  "duration": 723, 
+  "duration": 72.3, 
   "Text": "Disappearance 14", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 14", 
-  "time": 12582
+  "time": 1258.2
  }, 
  {
-  "duration": 22, 
+  "duration": 2.2, 
   "Text": "Disappearance 14", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 14", 
-  "time": 12599
+  "time": 1259.9
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "entrargli", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 13365
+  "time": 1336.5
  }, 
  {
-  "duration": 59, 
+  "duration": 5.9, 
   "Text": "Disappearance 14", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 14", 
-  "time": 13367
+  "time": 1336.7
  }, 
  {
-  "duration": 18, 
+  "duration": 1.8, 
   "Text": "Disappearance 14", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 14", 
-  "time": 13442
+  "time": 1344.2
  }, 
  {
-  "duration": 172, 
+  "duration": 17.2, 
   "Text": "Disappearance 14", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 14", 
-  "time": 13473
+  "time": 1347.3
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "government sedan", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 13658
+  "time": 1365.8
  }, 
  {
-  "duration": 68, 
+  "duration": 6.8, 
   "Text": "Disappearance 14", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 14", 
-  "time": 13661
+  "time": 1366.1
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "government", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 13744
+  "time": 1374.4
  }, 
  {
-  "duration": 9, 
+  "duration": 7.1, 
   "Text": "Disappearance 14", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 14", 
-  "time": 13747
+  "time": 1377.7
  }, 
  {
-  "duration": 71, 
-  "Text": "Disappearance 14", 
-  "InteractionType": "Reading", 
-  "ID": "Disappearance 14", 
-  "time": 13777
- }, 
- {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Disappearance 101", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 101", 
-  "time": 13851
+  "time": 1385.1
  }, 
  {
-  "duration": 46, 
+  "duration": 4.6, 
   "Text": "Disappearance 14", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 14", 
-  "time": 13862
+  "time": 1386.2
  }, 
  {
-  "duration": 15, 
+  "duration": 1.5, 
   "Text": "Disappearance 140", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 140", 
-  "time": 13950
+  "time": 1395.0
  }, 
  {
-  "duration": 33, 
+  "duration": 3.3, 
   "Text": "Disappearance 14", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 14", 
-  "time": 13967
+  "time": 1396.7
  }, 
  {
-  "duration": 36, 
+  "duration": 3.6, 
   "Text": "Disappearance 123", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 123", 
-  "time": 14012
+  "time": 1401.2
  }, 
  {
-  "duration": 12, 
+  "duration": 1.2, 
   "Text": "Disappearance 125", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 125", 
-  "time": 14050
+  "time": 1405.0
  }, 
  {
   "duration": 0, 
   "Text": " (Looking for government and peopels role in the company) [bottom-up]", 
-  "InteractionType": "Topic_change", 
+  "InteractionType": "topic_change", 
   "ID": "bottom-up", 
-  "time": 14067
+  "time": 1406.7
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Disappearance 122", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 122", 
-  "time": 14083
+  "time": 1408.3
  }, 
  {
-  "duration": 25, 
+  "duration": 2.5, 
   "Text": "Disappearance 117", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 117", 
-  "time": 14104
+  "time": 1410.4
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Disappearance 118", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 118", 
-  "time": 14129
+  "time": 1412.9
  }, 
  {
-  "duration": 15, 
+  "duration": 1.5, 
   "Text": "Disappearance 140", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 140", 
-  "time": 14136
+  "time": 1413.6
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Disappearance 79", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 79", 
-  "time": 14170
+  "time": 1417.0
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Disappearance 85", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 85", 
-  "time": 14224
+  "time": 1422.4
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Disappearance 60", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 60", 
-  "time": 14230
+  "time": 1423.0
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Disappearance 61", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 61", 
-  "time": 14238
+  "time": 1423.8
  }, 
  {
-  "duration": 27, 
+  "duration": 2.7, 
   "Text": "Disappearance 62", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 62", 
-  "time": 14249
+  "time": 1424.9
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Disappearance 61", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 61", 
-  "time": 14276
+  "time": 1427.6
  }, 
  {
-  "duration": 29, 
+  "duration": 2.9, 
   "Text": "Disappearance 62", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 62", 
-  "time": 14283
+  "time": 1428.3
  }, 
  {
-  "duration": 21, 
+  "duration": 2.1, 
   "Text": "Disappearance 40", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 40", 
-  "time": 14326
+  "time": 1432.6
  }, 
  {
-  "duration": 22, 
+  "duration": 2.2, 
   "Text": "Disappearance 15", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 15", 
-  "time": 14347
+  "time": 1434.7
  }, 
  {
-  "duration": 37, 
+  "duration": 3.7, 
   "Text": "Disappearance 16", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 16", 
-  "time": 14369
+  "time": 1436.9
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Disappearance 57", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 57", 
-  "time": 14484
+  "time": 1448.4
  }, 
  {
-  "duration": 42, 
+  "duration": 4.2, 
   "Text": "Disappearance 58", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 58", 
-  "time": 14495
+  "time": 1449.5
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Disappearance 83", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 83", 
-  "time": 14541
+  "time": 1454.1
  }, 
  {
-  "duration": 62, 
+  "duration": 6.2, 
   "Text": "Disappearance 85", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 85", 
-  "time": 14548
+  "time": 1454.8
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "Disappearance 61", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 61", 
-  "time": 14610
+  "time": 1461.0
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "Disappearance 62", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 62", 
-  "time": 14624
+  "time": 1462.4
  }, 
  {
-  "duration": 29, 
+  "duration": 2.9, 
   "Text": "Disappearance 61", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 61", 
-  "time": 14634
+  "time": 1463.4
  }, 
  {
-  "duration": 48, 
+  "duration": 4.8, 
   "Text": "Disappearance 122", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 122", 
-  "time": 14665
+  "time": 1466.5
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Disappearance 144", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 144", 
-  "time": 14715
+  "time": 1471.5
  }, 
  {
-  "duration": 34, 
+  "duration": 3.4, 
   "Text": "Disappearance 123", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 123", 
-  "time": 14723
+  "time": 1472.3
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Disappearance 96", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 96", 
-  "time": 14804
+  "time": 1480.4
  }, 
  {
-  "duration": 63, 
+  "duration": 6.3, 
   "Text": "Disappearance 96", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 96", 
-  "time": 14812
+  "time": 1481.2
  }, 
  {
-  "duration": 3562, 
+  "duration": 356.2, 
   "Text": "Disappearance 96", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 96", 
-  "time": 14898
+  "time": 1489.8
  }, 
  {
-  "duration": 33, 
+  "duration": 3.3, 
   "Text": "Disappearance 96", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 96", 
-  "time": 14899
+  "time": 1489.9
  }, 
  {
-  "duration": 60, 
+  "duration": 6.0, 
   "Text": "Disappearance 14", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 14", 
-  "time": 14932
+  "time": 1493.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "A black government sedan has arrived hardly to the centers of GAStech.", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 14", 
-  "time": 15006
+  "time": 1500.6
  }, 
  {
-  "duration": 17, 
+  "duration": 1.7, 
   "Text": "Disappearance 14", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 14", 
-  "time": 15007
+  "time": 1500.7
  }, 
  {
-  "duration": 76, 
+  "duration": 7.6, 
   "Text": "Disappearance 14", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 14", 
-  "time": 15035
+  "time": 1503.5
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": " he transports entrargli", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 14", 
-  "time": 15126
+  "time": 1512.6
  }, 
  {
-  "duration": 11, 
+  "duration": 0, 
+  "Text": " A black government sedan has arrived hardly to the centers of GAStech.  he transports entrargli", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Disappearance 14", 
+  "time": 1513.8
+ }, 
+ {
+  "duration": 1.1, 
   "Text": "Disappearance 14", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 14", 
-  "time": 15148
+  "time": 1514.8
  }, 
  {
-  "duration": 1315, 
+  "duration": 131.5, 
   "Text": "Disappearance 96", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 96", 
-  "time": 15163
+  "time": 1516.3
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Still reading the last article", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 15397
+  "time": 1539.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Edvard Vann, GAStech - Kronos the security guard which was questioned and after 6 hours was delivered, the daders behind the events of today indicated became suspicious on the guards of Kronos such as are. \n", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 96", 
-  "time": 16494
+  "time": 1649.4
  }, 
  {
-  "duration": 1112, 
+  "duration": 111.2, 
   "Text": "Disappearance 96", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 96", 
-  "time": 16495
+  "time": 1649.5
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "They're suspicious for the gards on that event. they heard of a gun fire and they're taking it into a consideration", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 17027
+  "time": 1702.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "The affirmative reports of a fire on the office are possible as a diversion for the ontvoerders have served or to misfiring during the event have at least contributed.", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 96", 
-  "time": 17620
+  "time": 1762.0
  }, 
  {
-  "duration": 220, 
+  "duration": 22.0, 
   "Text": "Disappearance 96", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 96", 
-  "time": 17622
+  "time": 1762.2
  }, 
  {
-  "duration": 36, 
+  "duration": 3.6, 
   "Text": "Disappearance 91", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 91", 
-  "time": 17866
+  "time": 1786.6
  }, 
  {
-  "duration": 479, 
+  "duration": 47.9, 
   "Text": "Disappearance 91", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 91", 
-  "time": 17910
+  "time": 1791.0
  }, 
  {
-  "duration": 20, 
+  "duration": 2.0, 
   "Text": "Disappearance 91", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 91", 
-  "time": 17924
+  "time": 1792.4
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "10:50am it says was the fire alarm time but the fire department where sent around 10am. that means in happend before?", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 18097
+  "time": 1809.7
  }, 
  {
-  "duration": 125, 
+  "duration": 12.5, 
   "Text": "Disappearance 96", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 96", 
-  "time": 18139
+  "time": 1813.9
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "Disappearance 96", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 96", 
-  "time": 18296
+  "time": 1829.6
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Kronos were sent around 10:00 this morning local time Kronos to answer to a fire alarm.", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 96", 
-  "time": 18324
+  "time": 1832.4
  }, 
  {
-  "duration": 18, 
+  "duration": 1.8, 
   "Text": "Disappearance 96", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 96", 
-  "time": 18339
+  "time": 1833.9
  }, 
  {
-  "duration": 40, 
+  "duration": 0, 
+  "Text": " 10:50 AM: bomb threat. bomb threat", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Disappearance 91", 
+  "time": 1838.9
+ }, 
+ {
+  "duration": 0, 
+  "Text": " Edvard Vann, GAStech - Kronos the security guard which was questioned and after 6 hours was delivered, the daders behind the events of today indicated became suspicious on the guards of Kronos such as are. \n The affirmative reports of a fire on the office are possible as a diversion for the ontvoerders have served or to misfiring during the event have at least contributed. Kronos were sent around 10:00 this morning local time Kronos to answer to a fire alarm.", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Disappearance 96", 
+  "time": 1846.0
+ }, 
+ {
+  "duration": 4.0, 
   "Text": "Disappearance 96", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 96", 
-  "time": 18490
+  "time": 1849.0
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "Disappearance 130", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 130", 
-  "time": 18544
+  "time": 1854.4
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Let's see if we have any information aobut the gards", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 18627
+  "time": 1862.7
  }, 
  {
-  "duration": 5, 
+  "duration": 0.5, 
   "Text": "Disappearance 96", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 96", 
-  "time": 18687
+  "time": 1868.7
  }, 
  {
-  "duration": 615, 
+  "duration": 61.5, 
   "Text": "Disappearance 96", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 96", 
-  "time": 18692
+  "time": 1869.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Edvard", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 18809
+  "time": 1880.9
  }, 
  {
-  "duration": 20, 
+  "duration": 2.0, 
   "Text": "Disappearance 54", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 54", 
-  "time": 18856
+  "time": 1885.6
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Disappearance 55", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 55", 
-  "time": 18876
+  "time": 1887.6
  }, 
  {
   "duration": 0, 
   "Text": " (Who is Edward Vann?) [bottom-up]", 
-  "InteractionType": "Topic_change", 
+  "InteractionType": "topic_change", 
   "ID": "bottom-up", 
-  "time": 18877
+  "time": 1887.7
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Disappearance 99", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 99", 
-  "time": 18890
+  "time": 1889.0
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Disappearance 74", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 74", 
-  "time": 18896
+  "time": 1889.6
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Disappearance 73", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 73", 
-  "time": 18902
+  "time": 1890.2
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Disappearance 73", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 73", 
-  "time": 18913
+  "time": 1891.3
  }, 
  {
-  "duration": 67, 
+  "duration": 6.7, 
   "Text": "Disappearance 97", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 97", 
-  "time": 18921
+  "time": 1892.1
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Edvard", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 19152
+  "time": 1915.2
  }, 
  {
-  "duration": 16, 
+  "duration": 1.6, 
   "Text": "Disappearance 73", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 73", 
-  "time": 19179
+  "time": 1917.9
  }, 
  {
-  "duration": 47, 
+  "duration": 4.7, 
   "Text": "Disappearance 73", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 73", 
-  "time": 19196
+  "time": 1919.6
  }, 
  {
-  "duration": 8, 
-  "Text": "Disappearance 96", 
-  "InteractionType": "Draging", 
+  "duration": 0, 
+  "Text": " Edvard Vann, GAStech - Kronos the security guard which was questioned and after 6 hours was delivered, the daders behind the events of today indicated became suspicious on the guards of Kronos such as are. \n The affirmative reports of a fire on the office are possible as a diversion for the ontvoerders have served or to misfiring during the event have at least contributed. Kronos were sent around 10:00 this morning local time Kronos to answer to a fire alarm.", 
+  "InteractionType": "bookmark_highlights", 
   "ID": "Disappearance 96", 
-  "time": 19315
+  "time": 1930.7
  }, 
  {
-  "duration": 7, 
+  "duration": 0.8, 
+  "Text": "Disappearance 96", 
+  "InteractionType": "moving_document", 
+  "ID": "Disappearance 96", 
+  "time": 1931.5
+ }, 
+ {
+  "duration": 0.7, 
   "Text": "Disappearance 73", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 73", 
-  "time": 19332
+  "time": 1933.2
  }, 
  {
-  "duration": 1229, 
+  "duration": 122.9, 
   "Text": "Disappearance 73", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 73", 
-  "time": 19347
+  "time": 1934.7
  }, 
  {
-  "duration": 751, 
+  "duration": 75.1, 
   "Text": "Disappearance 73", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 73", 
-  "time": 19348
+  "time": 1934.8
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Still reading the last article", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 20017
+  "time": 2001.7
  }, 
  {
-  "duration": 257, 
+  "duration": 25.7, 
   "Text": "Disappearance 73", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 73", 
-  "time": 20109
+  "time": 2010.9
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Once again he says that POK is responsible for the kinaping and the reason is because of new public offering. what is the public offering?", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 20177
+  "time": 2017.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": " Initial Public Offering ", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 73", 
-  "time": 20384
+  "time": 2038.4
  }, 
  {
-  "duration": 148, 
+  "duration": 14.8, 
   "Text": "Disappearance 73", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 73", 
-  "time": 20385
+  "time": 2038.5
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": " gave the indication that the Protectors of Kronos were involved or at least suspected as being the perpetrators behind today's events", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 73", 
-  "time": 20547
+  "time": 2054.7
  }, 
  {
-  "duration": 7, 
+  "duration": 0, 
+  "Text": "  Initial Public Offering   gave the indication that the Protectors of Kronos were involved or at least suspected as being the perpetrators behind today's events", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Disappearance 73", 
+  "time": 2057.6
+ }, 
+ {
+  "duration": 0.7, 
   "Text": "Disappearance 73", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 73", 
-  "time": 20585
+  "time": 2058.5
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Offering", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 20642
+  "time": 2064.2
  }, 
  {
-  "duration": 14, 
+  "duration": 1.4, 
   "Text": "Disappearance 70", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 70", 
-  "time": 20687
+  "time": 2068.7
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "Disappearance 17", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 17", 
-  "time": 20705
+  "time": 2070.5
  }, 
  {
-  "duration": 38, 
+  "duration": 3.8, 
   "Text": "Disappearance 106", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 106", 
-  "time": 20720
+  "time": 2072.0
  }, 
  {
-  "duration": 14, 
+  "duration": 1.4, 
   "Text": "Disappearance 106", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 106", 
-  "time": 20759
+  "time": 2075.9
  }, 
  {
-  "duration": 19, 
+  "duration": 1.9, 
   "Text": "Disappearance 106", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 106", 
-  "time": 20807
+  "time": 2080.7
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Disappearance 106", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 106", 
-  "time": 20827
+  "time": 2082.7
  }, 
  {
-  "duration": 1180, 
+  "duration": 118.0, 
   "Text": "Disappearance 106", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 106", 
-  "time": 20849
+  "time": 2084.9
  }, 
  {
-  "duration": 522, 
+  "duration": 52.2, 
   "Text": "Disappearance 106", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 106", 
-  "time": 20850
+  "time": 2085.0
  }, 
  {
-  "duration": 32, 
+  "duration": 3.2, 
   "Text": "Disappearance 106", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 106", 
-  "time": 20957
+  "time": 2095.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "This one is talking about that public offering. they're offering to change this private company public", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 21007
+  "time": 2100.7
  }, 
  {
-  "duration": 155, 
+  "duration": 15.5, 
   "Text": "Disappearance 106", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 106", 
-  "time": 21474
+  "time": 2147.4
  }, 
  {
-  "duration": 54, 
+  "duration": 5.4, 
   "Text": "Disappearance 106", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 106", 
-  "time": 21502
+  "time": 2150.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "It has been an year since they become a public company", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 21587
+  "time": 2158.7
  }, 
  {
-  "duration": 145, 
+  "duration": 14.5, 
   "Text": "Disappearance 106", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 106", 
-  "time": 21632
+  "time": 2163.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "2 September 2013 CENTRUM, Tethys ", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 106", 
-  "time": 21794
+  "time": 2179.4
  }, 
  {
-  "duration": 84, 
+  "duration": 8.4, 
   "Text": "Disappearance 106", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 106", 
-  "time": 21794
+  "time": 2179.4
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 106", 
-  "time": 21894
+  "time": 2189.4
  }, 
  {
-  "duration": 54, 
+  "duration": 5.4, 
   "Text": "Disappearance 106", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 106", 
-  "time": 21895
+  "time": 2189.5
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "After 52 years of being privately owned", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 106", 
-  "time": 21963
+  "time": 2196.3
  }, 
  {
-  "duration": 59, 
-  "Text": "Disappearance 106", 
-  "InteractionType": "Draging", 
+  "duration": 0, 
+  "Text": " 2 September 2013 CENTRUM, Tethys   After 52 years of being privately owned", 
+  "InteractionType": "bookmark_highlights", 
   "ID": "Disappearance 106", 
-  "time": 22042
+  "time": 2202.9
+ }, 
+ {
+  "duration": 5.9, 
+  "Text": "Disappearance 106", 
+  "InteractionType": "moving_document", 
+  "ID": "Disappearance 106", 
+  "time": 2204.2
  }, 
  {
   "duration": 0, 
   "Text": " (Is POK responsible?) [bottom-up]", 
-  "InteractionType": "Topic_change", 
+  "InteractionType": "topic_change", 
   "ID": "bottom-up", 
-  "time": 22097
+  "time": 2209.7
  }, 
  {
-  "duration": 128, 
+  "duration": 12.8, 
   "Text": "Disappearance 96", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 96", 
-  "time": 22115
+  "time": 2211.5
  }, 
  {
-  "duration": 18, 
+  "duration": 1.8, 
   "Text": "Disappearance 73", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 73", 
-  "time": 22253
+  "time": 2225.3
  }, 
  {
-  "duration": 10, 
-  "Text": "Disappearance96,Disappearance73", 
-  "InteractionType": "Connection", 
-  "ID": "Disappearance96,Disappearance73", 
-  "time": 22292
- }, 
- {
-  "duration": 19, 
+  "duration": 1.9, 
   "Text": "Disappearance 73", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 73", 
-  "time": 22307
+  "time": 2230.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "POK", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 22442
+  "time": 2244.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "I'm going back to the POK", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 22447
+  "time": 2244.7
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "Disappearance 24", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 24", 
-  "time": 22798
+  "time": 2279.8
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Disappearance 27", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 27", 
-  "time": 22867
+  "time": 2286.7
  }, 
  {
-  "duration": 61, 
+  "duration": 6.1, 
   "Text": "Disappearance 58", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 58", 
-  "time": 22877
+  "time": 2287.7
  }, 
  {
-  "duration": 30, 
+  "duration": 3.0, 
   "Text": "Disappearance 58", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 58", 
-  "time": 22951
+  "time": 2295.1
  }, 
  {
-  "duration": 12, 
+  "duration": 1.2, 
   "Text": "Disappearance 54", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 54", 
-  "time": 23029
+  "time": 2302.9
  }, 
  {
-  "duration": 36, 
+  "duration": 3.6, 
   "Text": "Disappearance 54", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 54", 
-  "time": 23042
+  "time": 2304.2
  }, 
  {
-  "duration": 595, 
+  "duration": 59.5, 
   "Text": "Disappearance 54", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 54", 
-  "time": 23125
+  "time": 2312.5
  }, 
  {
-  "duration": 486, 
+  "duration": 48.6, 
   "Text": "Disappearance 54", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 54", 
-  "time": 23126
+  "time": 2312.6
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Edward vann was questioned because he shared a family name with one of POK members", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 23557
+  "time": 2355.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": " was questioned for hours because he shares a family name with several known POK members. ", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 96", 
-  "time": 23638
+  "time": 2363.8
  }, 
  {
-  "duration": 34, 
+  "duration": 3.4, 
   "Text": "Disappearance 54", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 54", 
-  "time": 23640
+  "time": 2364.0
  }, 
  {
-  "duration": 43, 
+  "duration": 0, 
+  "Text": "", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Disappearance 54", 
+  "time": 2372.0
+ }, 
+ {
+  "duration": 4.3, 
   "Text": "Disappearance 54", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 54", 
-  "time": 23735
+  "time": 2373.5
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "Disappearance 73", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 73", 
-  "time": 23789
+  "time": 2378.9
  }, 
  {
-  "duration": 16, 
+  "duration": 1.6, 
   "Text": "Disappearance 96", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 96", 
-  "time": 23807
+  "time": 2380.7
  }, 
  {
-  "duration": 17, 
+  "duration": 1.7, 
   "Text": "Disappearance 54", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 54", 
-  "time": 23830
+  "time": 2383.0
  }, 
  {
-  "duration": 10, 
-  "Text": "Disappearance54,Disappearance96", 
-  "InteractionType": "Connection", 
-  "ID": "Disappearance54,Disappearance96", 
-  "time": 23876
- }, 
- {
-  "duration": 16, 
+  "duration": 1.6, 
   "Text": "Disappearance 96", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 96", 
-  "time": 23901
+  "time": 2390.1
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Disappearance 119", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 119", 
-  "time": 23960
+  "time": 2396.0
  }, 
  {
-  "duration": 18, 
+  "duration": 1.8, 
   "Text": "Disappearance 137", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 137", 
-  "time": 23972
+  "time": 2397.2
  }, 
  {
-  "duration": 45, 
+  "duration": 4.5, 
   "Text": "Disappearance 15", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 15", 
-  "time": 23998
+  "time": 2399.8
  }, 
  {
-  "duration": 50, 
+  "duration": 5.0, 
   "Text": "Disappearance 61", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 61", 
-  "time": 24059
+  "time": 2405.9
  }, 
  {
-  "duration": 28, 
+  "duration": 2.8, 
   "Text": "Disappearance 58", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 58", 
-  "time": 24112
+  "time": 2411.2
  }, 
  {
-  "duration": 67, 
+  "duration": 6.7, 
   "Text": "Disappearance 59", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 59", 
-  "time": 24140
+  "time": 2414.0
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Disappearance 58", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 58", 
-  "time": 24219
+  "time": 2421.9
  }, 
  {
-  "duration": 54, 
+  "duration": 5.4, 
   "Text": "Disappearance 59", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 59", 
-  "time": 24225
+  "time": 2422.5
  }, 
  {
-  "duration": 16, 
+  "duration": 1.6, 
   "Text": "Disappearance 56", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 56", 
-  "time": 24287
+  "time": 2428.7
  }, 
  {
-  "duration": 29, 
+  "duration": 2.9, 
   "Text": "Disappearance 56", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 56", 
-  "time": 24304
+  "time": 2430.4
  }, 
  {
-  "duration": 847, 
+  "duration": 84.7, 
   "Text": "Disappearance 56", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 56", 
-  "time": 24353
+  "time": 2435.3
  }, 
  {
-  "duration": 48, 
+  "duration": 4.8, 
   "Text": "Disappearance 56", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 56", 
-  "time": 24354
+  "time": 2435.4
  }, 
  {
-  "duration": 492, 
+  "duration": 49.2, 
   "Text": "Disappearance 56", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 56", 
-  "time": 24404
+  "time": 2440.4
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "So four are found and ten are missing", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 24897
+  "time": 2489.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "four of the GAStech employees whose whereabouts were unconfirmed yesterday were found overnight, leaving ten people who are presumed missing.", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 56", 
-  "time": 24911
+  "time": 2491.1
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "It'd have been good to know where those four employees that were found were from", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 25157
+  "time": 2515.7
  }, 
  {
-  "duration": 91, 
-  "Text": "Disappearance 56", 
-  "InteractionType": "Draging", 
+  "duration": 0, 
+  "Text": " four of the GAStech employees whose whereabouts were unconfirmed yesterday were found overnight, leaving ten people who are presumed missing.", 
+  "InteractionType": "bookmark_highlights", 
   "ID": "Disappearance 56", 
-  "time": 25210
+  "time": 2520.0
  }, 
  {
-  "duration": 7, 
+  "duration": 9.1, 
   "Text": "Disappearance 56", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 56", 
-  "time": 25331
+  "time": 2521.0
  }, 
  {
-  "duration": 12, 
+  "duration": 0.7, 
+  "Text": "Disappearance 56", 
+  "InteractionType": "moving_document", 
+  "ID": "Disappearance 56", 
+  "time": 2533.1
+ }, 
+ {
+  "duration": 1.2, 
   "Text": "Disappearance 54", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 54", 
-  "time": 25348
+  "time": 2534.8
  }, 
  {
-  "duration": 15, 
+  "duration": 1.5, 
   "Text": "Disappearance 96", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 96", 
-  "time": 25371
+  "time": 2537.1
  }, 
  {
-  "duration": 36, 
+  "duration": 3.6, 
   "Text": "Disappearance 15", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 15", 
-  "time": 25473
+  "time": 2547.3
  }, 
  {
-  "duration": 124, 
+  "duration": 12.4, 
   "Text": "Disappearance 15", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 15", 
-  "time": 25510
+  "time": 2551.0
  }, 
  {
-  "duration": 31, 
+  "duration": 3.1, 
   "Text": "Disappearance 15", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 15", 
-  "time": 25667
+  "time": 2566.7
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "Disappearance 15", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 15", 
-  "time": 25741
+  "time": 2574.1
  }, 
  {
-  "duration": 15, 
+  "duration": 1.5, 
   "Text": "Disappearance 15", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 15", 
-  "time": 25751
+  "time": 2575.1
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Who was Elien Karel", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 25777
+  "time": 2577.7
  }, 
  {
-  "duration": 1962, 
+  "duration": 196.2, 
   "Text": "Disappearance 15", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 15", 
-  "time": 25812
+  "time": 2581.2
  }, 
  {
-  "duration": 12, 
+  "duration": 1.2, 
   "Text": "Disappearance 15", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 15", 
-  "time": 25813
+  "time": 2581.3
  }, 
  {
-  "duration": 15, 
+  "duration": 1.5, 
   "Text": "Disappearance 15", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 15", 
-  "time": 25824
+  "time": 2582.4
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Still reading the last article", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 26437
+  "time": 2643.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Still reading the last article", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 27027
+  "time": 2702.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": ". By year since the death of Karel the guards of Kronos continue the mission to require that the instrument of government of Kronos a policy of transparency in businesses of government, and to hold responsible the alien companies which soiled the natural resources of Kronosian. ", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 15", 
-  "time": 27384
+  "time": 2738.4
  }, 
  {
-  "duration": 374, 
+  "duration": 37.4, 
   "Text": "Disappearance 15", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 15", 
-  "time": 27385
+  "time": 2738.5
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Seems the reason why the POK attacks foreign companies is that their are not protect their countries land and contaminating it. they ask government to regulate actions of foreign companies", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 27387
+  "time": 2738.7
  }, 
  {
-  "duration": 125, 
+  "duration": 12.5, 
   "Text": "Disappearance 15", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 15", 
-  "time": 27632
+  "time": 2763.2
  }, 
  {
-  "duration": 72, 
+  "duration": 0, 
+  "Text": " . By year since the death of Karel the guards of Kronos continue the mission to require that the instrument of government of Kronos a policy of transparency in businesses of government, and to hold responsible the alien companies which soiled the natural resources of Kronosian. ", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Disappearance 15", 
+  "time": 2777.4
+ }, 
+ {
+  "duration": 7.2, 
   "Text": "Disappearance 15", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 15", 
-  "time": 27790
+  "time": 2779.0
  }, 
  {
-  "duration": 14, 
+  "duration": 1.4, 
   "Text": "Disappearance 91", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 91", 
-  "time": 27880
+  "time": 2788.0
  }, 
  {
-  "duration": 17, 
+  "duration": 1.7, 
   "Text": "Disappearance 106", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 106", 
-  "time": 27904
+  "time": 2790.4
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "Disappearance 54", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 54", 
-  "time": 27936
+  "time": 2793.6
  }, 
  {
-  "duration": 18, 
+  "duration": 1.8, 
   "Text": "Disappearance 96", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 96", 
-  "time": 27958
+  "time": 2795.8
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Disappearance 73", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 73", 
-  "time": 27985
+  "time": 2798.5
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "Disappearance 15", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 15", 
-  "time": 28005
+  "time": 2800.5
  }, 
  {
-  "duration": 16, 
+  "duration": 1.6, 
   "Text": "Disappearance 25", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 25", 
-  "time": 28024
+  "time": 2802.4
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "Disappearance 4", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 4", 
-  "time": 28080
+  "time": 2808.0
  }, 
  {
-  "duration": 5, 
+  "duration": 0, 
+  "Text": "  21 January 2014  A fire alarm went off, and the execs were discovered missing shortly after that.", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Disappearance 4", 
+  "time": 2809.3
+ }, 
+ {
+  "duration": 0.5, 
   "Text": "Disappearance 4", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 4", 
-  "time": 28142
+  "time": 2814.2
  }, 
  {
-  "duration": 9, 
+  "duration": 0, 
+  "Text": "  21 January 2014  A fire alarm went off, and the execs were discovered missing shortly after that.", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Disappearance 4", 
+  "time": 2814.2
+ }, 
+ {
+  "duration": 0.9, 
   "Text": "Disappearance 4", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 4", 
-  "time": 28168
+  "time": 2816.8
  }, 
  {
-  "duration": 24, 
+  "duration": 2.4, 
   "Text": "Disappearance 29", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 29", 
-  "time": 28189
+  "time": 2818.9
  }, 
  {
-  "duration": 31, 
+  "duration": 3.1, 
   "Text": "Disappearance 4", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 4", 
-  "time": 28222
+  "time": 2822.2
  }, 
  {
-  "duration": 48, 
+  "duration": 4.8, 
   "Text": "Disappearance 29", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 29", 
-  "time": 28278
+  "time": 2827.8
  }, 
  {
-  "duration": 88, 
+  "duration": 8.8, 
   "Text": "Disappearance 15", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 15", 
-  "time": 28337
+  "time": 2833.7
  }, 
  {
-  "duration": 150, 
+  "duration": 15.0, 
   "Text": "Disappearance 15", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 15", 
-  "time": 28486
+  "time": 2848.6
  }, 
  {
-  "duration": 26, 
+  "duration": 2.6, 
   "Text": "Disappearance 15", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 15", 
-  "time": 28656
+  "time": 2865.6
  }, 
  {
-  "duration": 10, 
-  "Text": "Disappearance15,Disappearance25", 
-  "InteractionType": "Connection", 
-  "ID": "Disappearance15,Disappearance25", 
-  "time": 28715
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "contamination", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 28907
+  "time": 2890.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Disappearance 35", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 35", 
-  "time": 28968
+  "time": 2896.8
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Disappearance 35", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 35", 
-  "time": 28979
+  "time": 2897.9
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Disappearance 10", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 10", 
-  "time": 28994
+  "time": 2899.4
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "Disappearance 37", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 37", 
-  "time": 29001
+  "time": 2900.1
  }, 
  {
-  "duration": 17, 
+  "duration": 1.7, 
   "Text": "Disappearance 37", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 37", 
-  "time": 29011
+  "time": 2901.1
  }, 
  {
   "duration": 0, 
   "Text": " (Looking for POK activities in the past) [bottom-up]", 
-  "InteractionType": "Topic_change", 
+  "InteractionType": "topic_change", 
   "ID": "bottom-up", 
-  "time": 29027
+  "time": 2902.7
  }, 
  {
-  "duration": 35, 
+  "duration": 3.5, 
   "Text": "Disappearance 68", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 68", 
-  "time": 29042
+  "time": 2904.2
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Disappearance 69", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 69", 
-  "time": 29077
+  "time": 2907.7
  }, 
  {
-  "duration": 33, 
+  "duration": 3.3, 
   "Text": "Disappearance 99", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 99", 
-  "time": 29091
+  "time": 2909.1
  }, 
  {
-  "duration": 40, 
+  "duration": 4.0, 
   "Text": "Disappearance 75", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 75", 
-  "time": 29134
+  "time": 2913.4
  }, 
  {
-  "duration": 17, 
+  "duration": 1.7, 
   "Text": "Disappearance 125", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 125", 
-  "time": 29178
+  "time": 2917.8
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "I'm trying to see what type of contamination is caused to the country", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 29277
+  "time": 2927.7
  }, 
  {
-  "duration": 58, 
+  "duration": 5.8, 
   "Text": "Disappearance 125", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 125", 
-  "time": 29282
+  "time": 2928.2
  }, 
  {
-  "duration": 12, 
+  "duration": 1.2, 
   "Text": "Disappearance 110", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 110", 
-  "time": 29345
+  "time": 2934.5
  }, 
  {
-  "duration": 64, 
+  "duration": 6.4, 
   "Text": "Disappearance 83", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 83", 
-  "time": 29358
+  "time": 2935.8
  }, 
  {
-  "duration": 16, 
+  "duration": 1.6, 
   "Text": "Disappearance 150", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 150", 
-  "time": 29452
+  "time": 2945.2
  }, 
  {
-  "duration": 85, 
+  "duration": 8.5, 
   "Text": "Disappearance 150", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 150", 
-  "time": 29469
+  "time": 2946.9
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "This has been going for years. the first attampts goes back to 1998", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 29517
+  "time": 2951.7
  }, 
  {
-  "duration": 800, 
+  "duration": 80.0, 
   "Text": "Disappearance 150", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 150", 
-  "time": 29614
+  "time": 2961.4
  }, 
  {
-  "duration": 592, 
+  "duration": 59.2, 
   "Text": "Disappearance 150", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 150", 
-  "time": 29615
+  "time": 2961.5
  }, 
  {
-  "duration": 21, 
+  "duration": 2.1, 
   "Text": "Disappearance 150", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 150", 
-  "time": 30209
+  "time": 3020.9
  }, 
  {
-  "duration": 78, 
+  "duration": 7.8, 
   "Text": "Disappearance 150", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 150", 
-  "time": 30246
+  "time": 3024.6
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "The POK formed in 1997 from a grassroots action group in response to the pollution of the Elodis water supply and the resultant sickness and deaths of local residents over the subsequent several years.", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 150", 
-  "time": 30338
+  "time": 3033.8
  }, 
  {
-  "duration": 50, 
+  "duration": 0, 
+  "Text": " The POK formed in 1997 from a grassroots action group in response to the pollution of the Elodis water supply and the resultant sickness and deaths of local residents over the subsequent several years.", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Disappearance 150", 
+  "time": 3041.4
+ }, 
+ {
+  "duration": 5.0, 
   "Text": "Disappearance 150", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 150", 
-  "time": 30425
+  "time": 3042.5
  }, 
  {
-  "duration": 181, 
+  "duration": 18.1, 
   "Text": "Disappearance 150", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 150", 
-  "time": 30534
+  "time": 3053.4
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Still reading the last article", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 30587
+  "time": 3058.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "They talk to minister of health in 1998. but what was the response?", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 30667
+  "time": 3066.7
  }, 
  {
-  "duration": 36, 
-  "Text": "Disappearance 150", 
-  "InteractionType": "Draging", 
+  "duration": 0, 
+  "Text": " The POK formed in 1997 from a grassroots action group in response to the pollution of the Elodis water supply and the resultant sickness and deaths of local residents over the subsequent several years.", 
+  "InteractionType": "bookmark_highlights", 
   "ID": "Disappearance 150", 
-  "time": 30726
+  "time": 3071.5
  }, 
  {
-  "duration": 10, 
+  "duration": 3.6, 
+  "Text": "Disappearance 150", 
+  "InteractionType": "moving_document", 
+  "ID": "Disappearance 150", 
+  "time": 3072.6
+ }, 
+ {
+  "duration": 1.0, 
   "Text": "minister", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 30859
+  "time": 3085.9
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "Disappearance 61", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 61", 
-  "time": 30947
+  "time": 3094.7
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Disappearance 90", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 90", 
-  "time": 30959
+  "time": 3095.9
  }, 
  {
-  "duration": 23, 
+  "duration": 2.3, 
   "Text": "Disappearance 94", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 94", 
-  "time": 30971
+  "time": 3097.1
  }, 
  {
-  "duration": 45, 
+  "duration": 4.5, 
   "Text": "Disappearance 44", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 44", 
-  "time": 30999
+  "time": 3099.9
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Disappearance 21", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 21", 
-  "time": 31047
+  "time": 3104.7
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Disappearance 23", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 23", 
-  "time": 31062
+  "time": 3106.2
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Disappearance 75", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 75", 
-  "time": 31073
+  "time": 3107.3
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Disappearance 74", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 74", 
-  "time": 31081
+  "time": 3108.1
  }, 
  {
-  "duration": 30, 
+  "duration": 3.0, 
   "Text": "Disappearance 75", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 75", 
-  "time": 31089
+  "time": 3108.9
  }, 
  {
-  "duration": 15, 
+  "duration": 1.5, 
   "Text": "Disappearance 74", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 74", 
-  "time": 31134
+  "time": 3113.4
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Disappearance 142", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 142", 
-  "time": 31155
+  "time": 3115.5
  }, 
  {
-  "duration": 121, 
+  "duration": 12.1, 
   "Text": "Disappearance 122", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 122", 
-  "time": 31168
+  "time": 3116.8
  }, 
  {
-  "duration": 120, 
+  "duration": 12.0, 
   "Text": "Disappearance 74", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 74", 
-  "time": 31290
+  "time": 3129.0
  }, 
  {
-  "duration": 115, 
+  "duration": 11.5, 
   "Text": "Disappearance 74", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 74", 
-  "time": 31411
+  "time": 3141.1
  }, 
  {
-  "duration": 62, 
+  "duration": 6.2, 
   "Text": "Disappearance 56", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 56", 
-  "time": 31538
+  "time": 3153.8
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Disappearance 56", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 56", 
-  "time": 31633
+  "time": 3163.3
  }, 
  {
-  "duration": 5, 
+  "duration": 0.5, 
   "Text": "Disappearance 56", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 56", 
-  "time": 31703
+  "time": 3170.3
  }, 
  {
-  "duration": 12, 
+  "duration": 0, 
+  "Text": " four of the GAStech employees whose whereabouts were unconfirmed yesterday were found overnight, leaving ten people who are presumed missing.", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Disappearance 56", 
+  "time": 3170.3
+ }, 
+ {
+  "duration": 1.2, 
   "Text": "Disappearance 56", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 56", 
-  "time": 31729
+  "time": 3172.9
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Disappearance 74", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 74", 
-  "time": 31778
+  "time": 3177.8
  }, 
  {
-  "duration": 810, 
+  "duration": 81.0, 
   "Text": "Disappearance 74", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 74", 
-  "time": 31787
+  "time": 3178.7
  }, 
  {
-  "duration": 553, 
+  "duration": 55.3, 
   "Text": "Disappearance 74", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 74", 
-  "time": 31788
+  "time": 3178.8
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": " An update with health 1998 for all the report/ratio will be announced soon on the municipal Web site of Elodis. ", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 15", 
-  "time": 32356
+  "time": 3235.6
  }, 
  {
-  "duration": 138, 
+  "duration": 13.8, 
   "Text": "Disappearance 74", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 74", 
-  "time": 32358
+  "time": 3235.8
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Levels without precedent of toxins were found in supply water, including phenol, acetic anhydride, wire, and ethylene glycol. 2- The incidence of the chronic disease increased more than 89% of the former years 3- The exceptionally high incidence of cancer became thus about this minister of Nespola health appointed a specialist in oncology at the hospital general in Abila", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 74", 
-  "time": 32521
+  "time": 3252.1
  }, 
  {
-  "duration": 37, 
+  "duration": 0, 
+  "Text": " Levels without precedent of toxins were found in supply water, including phenol, acetic anhydride, wire, and ethylene glycol. 2- The incidence of the chronic disease increased more than 89% of the former years 3- The exceptionally high incidence of cancer became thus about this minister of Nespola health appointed a specialist in oncology at the hospital general in Abila", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Disappearance 74", 
+  "time": 3259.7
+ }, 
+ {
+  "duration": 3.7, 
   "Text": "Disappearance 74", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 74", 
-  "time": 32622
+  "time": 3262.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Even though the outcomes were extremly negative. the incident of chronic diseases increased more that 89% within 3 years. cancer and etc. because of contamination. He didn't do anything with the country", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 32697
+  "time": 3269.7
  }, 
  {
-  "duration": 5, 
+  "duration": 0.5, 
   "Text": "Disappearance 74", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 74", 
-  "time": 33114
+  "time": 3311.4
  }, 
  {
-  "duration": 21, 
+  "duration": 0, 
+  "Text": " Levels without precedent of toxins were found in supply water, including phenol, acetic anhydride, wire, and ethylene glycol. 2- The incidence of the chronic disease increased more than 89% of the former years 3- The exceptionally high incidence of cancer became thus about this minister of Nespola health appointed a specialist in oncology at the hospital general in Abila", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Disappearance 74", 
+  "time": 3311.4
+ }, 
+ {
+  "duration": 2.1, 
   "Text": "Disappearance 74", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 74", 
-  "time": 33123
+  "time": 3312.3
  }, 
  {
-  "duration": 18, 
+  "duration": 1.8, 
   "Text": "Disappearance 15", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 15", 
-  "time": 33153
+  "time": 3315.3
  }, 
  {
-  "duration": 12, 
+  "duration": 1.2, 
   "Text": "Disappearance 150", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 150", 
-  "time": 33194
+  "time": 3319.4
  }, 
  {
-  "duration": 21, 
+  "duration": 2.1, 
   "Text": "Disappearance 8", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 8", 
-  "time": 33261
+  "time": 3326.1
  }, 
  {
-  "duration": 30, 
+  "duration": 3.0, 
   "Text": "Disappearance 74", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 74", 
-  "time": 33312
+  "time": 3331.2
  }, 
  {
-  "duration": 10, 
-  "Text": "Disappearance150,Disappearance74", 
-  "InteractionType": "Connection", 
-  "ID": "Disappearance150,Disappearance74", 
-  "time": 33373
- }, 
- {
-  "duration": 62, 
+  "duration": 6.2, 
   "Text": "Disappearance 61", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 61", 
-  "time": 33756
+  "time": 3375.6
  }, 
  {
-  "duration": 2754, 
+  "duration": 275.4, 
   "Text": "Disappearance 61", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 61", 
-  "time": 33826
+  "time": 3382.6
  }, 
  {
-  "duration": 581, 
+  "duration": 58.1, 
   "Text": "Disappearance 61", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 61", 
-  "time": 33827
+  "time": 3382.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Of ten years - old Juliana Vann died in 1998, to a sickness which is caused by polluted water of boring GAStech verrichtingen.", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 29", 
-  "time": 34426
+  "time": 3442.6
  }, 
  {
-  "duration": 1722, 
+  "duration": 172.2, 
   "Text": "Disappearance 61", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 61", 
-  "time": 34428
+  "time": 3442.8
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Still reading the last article", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 34617
+  "time": 3461.7
  }, 
  {
-  "duration": 161, 
+  "duration": 16.1, 
   "Text": "Disappearance 61", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 61", 
-  "time": 35013
+  "time": 3501.3
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "I see now how the Edward is related with the POK and the first victim was Julian Vann back on 1991", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 35017
+  "time": 3501.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Karel spoke eloquently concerning the beginning of the campaign POK as a basis effort for clean water, to the dynamic movement demanding better government transparency and duty of responsibility have become.", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 61", 
-  "time": 36166
+  "time": 3616.6
  }, 
  {
-  "duration": 372, 
+  "duration": 37.2, 
   "Text": "Disappearance 61", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 61", 
-  "time": 36167
+  "time": 3616.7
  }, 
  {
-  "duration": 5, 
+  "duration": 0.5, 
   "Text": "Disappearance 61", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 61", 
-  "time": 36590
+  "time": 3659.0
  }, 
  {
-  "duration": 29, 
+  "duration": 0, 
+  "Text": " Karel spoke eloquently concerning the beginning of the campaign POK as a basis effort for clean water, to the dynamic movement demanding better government transparency and duty of responsibility have become.", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Disappearance 61", 
+  "time": 3659.0
+ }, 
+ {
+  "duration": 2.9, 
   "Text": "Disappearance 61", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 61", 
-  "time": 36604
+  "time": 3660.4
  }, 
  {
-  "duration": 12, 
+  "duration": 1.2, 
   "Text": "Disappearance 96", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 96", 
-  "time": 36644
+  "time": 3664.4
  }, 
  {
-  "duration": 14, 
+  "duration": 1.4, 
   "Text": "Disappearance 61", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 61", 
-  "time": 36667
+  "time": 3666.7
  }, 
  {
-  "duration": 10, 
-  "Text": "Disappearance74,Disappearance61", 
-  "InteractionType": "Connection", 
-  "ID": "Disappearance74,Disappearance61", 
-  "time": 36704
- }, 
- {
-  "duration": 18, 
+  "duration": 1.8, 
   "Text": "Disappearance 61", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 61", 
-  "time": 36718
+  "time": 3671.8
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Disappearance 15", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 15", 
-  "time": 36744
+  "time": 3674.4
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "The reason they were in rage was because the government wes not telling them how they are spending their tax money", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 36837
+  "time": 3683.7
  }, 
  {
-  "duration": 79, 
+  "duration": 7.9, 
   "Text": "Disappearance 61", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 61", 
-  "time": 36897
+  "time": 3689.7
  }, 
  {
-  "duration": 27, 
+  "duration": 2.7, 
   "Text": "Disappearance 15", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 15", 
-  "time": 37036
+  "time": 3703.6
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "At least now I know why the POK was doing that", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 37157
+  "time": 3715.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "riot", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 37322
+  "time": 3732.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Let's see when the first riot happend", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 37367
+  "time": 3736.7
  }, 
  {
-  "duration": 14, 
+  "duration": 1.4, 
   "Text": "Disappearance 123", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 123", 
-  "time": 37394
+  "time": 3739.4
  }, 
  {
-  "duration": 42, 
+  "duration": 4.2, 
   "Text": "Disappearance 123", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 123", 
-  "time": 37409
+  "time": 3740.9
  }, 
  {
-  "duration": 25, 
+  "duration": 2.5, 
   "Text": "Disappearance 144", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 144", 
-  "time": 37481
+  "time": 3748.1
  }, 
  {
-  "duration": 15, 
+  "duration": 1.5, 
   "Text": "Disappearance 86", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 86", 
-  "time": 37513
+  "time": 3751.3
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "Disappearance 62", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 62", 
-  "time": 37528
+  "time": 3752.8
  }, 
  {
-  "duration": 15, 
+  "duration": 1.5, 
   "Text": "Disappearance 128", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 128", 
-  "time": 37547
+  "time": 3754.7
  }, 
  {
-  "duration": 28, 
+  "duration": 2.8, 
   "Text": "Disappearance 132", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 132", 
-  "time": 37574
+  "time": 3757.4
  }, 
  {
-  "duration": 112, 
+  "duration": 11.2, 
   "Text": "Disappearance 86", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 86", 
-  "time": 37605
+  "time": 3760.5
  }, 
  {
-  "duration": 25, 
+  "duration": 2.5, 
   "Text": "Disappearance 144", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 144", 
-  "time": 37740
+  "time": 3774.0
  }, 
  {
-  "duration": 288, 
+  "duration": 28.8, 
   "Text": "Disappearance 144", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 144", 
-  "time": 37769
+  "time": 3776.9
  }, 
  {
-  "duration": 215, 
+  "duration": 21.5, 
   "Text": "Disappearance 144", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 144", 
-  "time": 37770
+  "time": 3777.0
  }, 
  {
   "duration": 0, 
   "Text": " (Looking for violence traces in POK ) [bottom-up]", 
-  "InteractionType": "Topic_change", 
+  "InteractionType": "topic_change", 
   "ID": "bottom-up", 
-  "time": 37777
+  "time": 3777.7
  }, 
  {
-  "duration": 52, 
+  "duration": 5.2, 
   "Text": "Disappearance 144", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 144", 
-  "time": 37979
+  "time": 3797.9
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "They would annualy do it right", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 37987
+  "time": 3798.7
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Disappearance 144", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 144", 
-  "time": 38037
+  "time": 3803.7
  }, 
  {
-  "duration": 12, 
+  "duration": 1.2, 
   "Text": "Disappearance 144", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 144", 
-  "time": 38069
+  "time": 3806.9
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "GAStech contamination ", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 38561
+  "time": 3856.1
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "contamination ", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 38713
+  "time": 3871.3
  }, 
  {
-  "duration": 15, 
+  "duration": 1.5, 
   "Text": "Disappearance 110", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 110", 
-  "time": 38792
+  "time": 3879.2
  }, 
  {
-  "duration": 25, 
+  "duration": 2.5, 
   "Text": "Disappearance 77", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 77", 
-  "time": 38815
+  "time": 3881.5
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Disappearance 78", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 78", 
-  "time": 38840
+  "time": 3884.0
  }, 
  {
-  "duration": 17, 
+  "duration": 1.7, 
   "Text": "Disappearance 77", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 77", 
-  "time": 38850
+  "time": 3885.0
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "Disappearance 62", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 62", 
-  "time": 38875
+  "time": 3887.5
  }, 
  {
-  "duration": 17, 
+  "duration": 1.7, 
   "Text": "Disappearance 37", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 37", 
-  "time": 38889
+  "time": 3888.9
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "Disappearance 37", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 37", 
-  "time": 38907
+  "time": 3890.7
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Disappearance 99", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 99", 
-  "time": 38929
+  "time": 3892.9
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Disappearance 99", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 99", 
-  "time": 38941
+  "time": 3894.1
  }, 
  {
-  "duration": 17, 
+  "duration": 1.7, 
   "Text": "Disappearance 97", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 97", 
-  "time": 38951
+  "time": 3895.1
  }, 
  {
-  "duration": 15, 
+  "duration": 1.5, 
   "Text": "Disappearance 75", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 75", 
-  "time": 38973
+  "time": 3897.3
  }, 
  {
-  "duration": 81, 
+  "duration": 8.1, 
   "Text": "Disappearance 125", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 125", 
-  "time": 38995
+  "time": 3899.5
  }, 
  {
-  "duration": 18, 
+  "duration": 1.8, 
   "Text": "Disappearance 110", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 110", 
-  "time": 39084
+  "time": 3908.4
  }, 
  {
-  "duration": 1775, 
+  "duration": 177.5, 
   "Text": "Disappearance 110", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 110", 
-  "time": 39110
+  "time": 3911.0
  }, 
  {
-  "duration": 618, 
+  "duration": 61.8, 
   "Text": "Disappearance 110", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 110", 
-  "time": 39111
+  "time": 3911.1
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": " a blue flame of the Jr of the tri-part that is evocative of a leaf to help to the GAStech position and its products as alternative clean of the fuel", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 15", 
-  "time": 39742
+  "time": 3974.2
  }, 
  {
-  "duration": 409, 
+  "duration": 40.9, 
   "Text": "Disappearance 110", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 110", 
-  "time": 39742
+  "time": 3974.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "GAStech that the international blue flame is a light that hold of the environmental responsibility, and a symbol of a clean business of the energy that moved ahead. ", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 110", 
-  "time": 40165
+  "time": 4016.5
  }, 
  {
-  "duration": 439, 
+  "duration": 43.9, 
   "Text": "Disappearance 110", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 110", 
-  "time": 40166
+  "time": 4016.6
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Sten Sanjorge, Jr declined to directly comment with respect to questions with respect protests and to the contamination of environment.", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 110", 
-  "time": 40621
+  "time": 4062.1
  }, 
  {
-  "duration": 94, 
+  "duration": 9.4, 
   "Text": "Disappearance 110", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 110", 
-  "time": 40642
+  "time": 4064.2
  }, 
  {
-  "duration": 84, 
+  "duration": 8.4, 
   "Text": "Disappearance 110", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 110", 
-  "time": 40740
+  "time": 4074.0
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Disappearance 110", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 110", 
-  "time": 40832
+  "time": 4083.2
  }, 
  {
-  "duration": 64, 
+  "duration": 0, 
+  "Text": " GAStech that the international blue flame is a light that hold of the environmental responsibility, and a symbol of a clean business of the energy that moved ahead.  Sten Sanjorge, Jr declined to directly comment with respect to questions with respect protests and to the contamination of environment.", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Disappearance 110", 
+  "time": 4088.5
+ }, 
+ {
+  "duration": 6.4, 
   "Text": "Disappearance 110", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 110", 
-  "time": 40896
+  "time": 4089.6
  }, 
  {
-  "duration": 24, 
+  "duration": 2.4, 
   "Text": "Disappearance 110", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 110", 
-  "time": 40969
+  "time": 4096.9
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "What would the company hire someone that could potentially be related to one of the victimes of the contamination as head of security?", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 41127
+  "time": 4112.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Although he says he was not related with the kidnaping. why did they monitor where he went afterwards?", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 41447
+  "time": 4144.7
  }, 
  {
-  "duration": 20, 
+  "duration": 2.0, 
   "Text": "Disappearance 73", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 73", 
-  "time": 41800
+  "time": 4180.0
  }, 
  {
-  "duration": 22, 
+  "duration": 2.2, 
   "Text": "Disappearance 110", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 110", 
-  "time": 41891
+  "time": 4189.1
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Disappearance 150", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 150", 
-  "time": 41925
+  "time": 4192.5
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Disappearance 74", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 74", 
-  "time": 41946
+  "time": 4194.6
  }, 
  {
-  "duration": 32, 
+  "duration": 3.2, 
   "Text": "Disappearance 110", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 110", 
-  "time": 41991
+  "time": 4199.1
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Disappearance 98", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 98", 
-  "time": 42096
+  "time": 4209.6
  }, 
  {
-  "duration": 21, 
+  "duration": 2.1, 
   "Text": "Disappearance 23", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 23", 
-  "time": 42105
+  "time": 4210.5
  }, 
  {
-  "duration": 39, 
+  "duration": 3.9, 
   "Text": "Disappearance 19", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 19", 
-  "time": 42133
+  "time": 4213.3
  }, 
  {
-  "duration": 19, 
+  "duration": 1.9, 
   "Text": "Disappearance 18", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 18", 
-  "time": 42172
+  "time": 4217.2
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "Disappearance 17", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 17", 
-  "time": 42191
+  "time": 4219.1
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Disappearance 12", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 12", 
-  "time": 42208
+  "time": 4220.8
  }, 
  {
-  "duration": 26, 
+  "duration": 2.6, 
   "Text": "Disappearance 11", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 11", 
-  "time": 42214
+  "time": 4221.4
  }, 
  {
-  "duration": 16, 
+  "duration": 1.6, 
   "Text": "Disappearance 10", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 10", 
-  "time": 42240
+  "time": 4224.0
  }, 
  {
-  "duration": 19, 
+  "duration": 1.9, 
   "Text": "Disappearance 10", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 10", 
-  "time": 42265
+  "time": 4226.5
  }, 
  {
-  "duration": 21, 
+  "duration": 2.1, 
   "Text": "Disappearance 6", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 6", 
-  "time": 42294
+  "time": 4229.4
  }, 
  {
-  "duration": 79, 
+  "duration": 7.9, 
   "Text": "Disappearance 10", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 10", 
-  "time": 42318
+  "time": 4231.8
  }, 
  {
-  "duration": 37, 
+  "duration": 3.7, 
   "Text": "Disappearance 11", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 11", 
-  "time": 42419
+  "time": 4241.9
  }, 
  {
-  "duration": 72, 
+  "duration": 7.2, 
   "Text": "Disappearance 31", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 31", 
-  "time": 42463
+  "time": 4246.3
  }, 
  {
-  "duration": 114, 
+  "duration": 11.4, 
   "Text": "Disappearance 144", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 144", 
-  "time": 42644
+  "time": 4264.4
  }, 
  {
-  "duration": 21, 
+  "duration": 2.1, 
   "Text": "Disappearance 31", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 31", 
-  "time": 42774
+  "time": 4277.4
  }, 
  {
-  "duration": 2397, 
+  "duration": 239.7, 
   "Text": "Disappearance 31", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 31", 
-  "time": 42804
+  "time": 4280.4
  }, 
  {
-  "duration": 10, 
+  "duration": 96.8, 
   "Text": "Disappearance 31", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 31", 
-  "time": 42805
+  "time": 4280.5
  }, 
  {
-  "duration": 86, 
+  "duration": 8.6, 
   "Text": "Disappearance 31", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 31", 
-  "time": 42814
+  "time": 4281.4
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "It was the second riot in the same year afew months later", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 42867
+  "time": 4286.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Still reading the last article", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 43527
+  "time": 4352.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "People protest because they suffer, because they have no medical aid. We require the government, Terek Kamal, a truck driver, told The Times resign.", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 31", 
-  "time": 43789
+  "time": 4378.9
  }, 
  {
-  "duration": 31, 
+  "duration": 3.1, 
   "Text": "Disappearance 31", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 31", 
-  "time": 43790
+  "time": 4379.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "So it has been more than 10 years that they still haven't received anything from government", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 43887
+  "time": 4388.7
  }, 
  {
-  "duration": 726, 
+  "duration": 72.6, 
   "Text": "Disappearance 31", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 31", 
-  "time": 43921
+  "time": 4392.1
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Still reading the last article", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 44537
+  "time": 4453.7
  }, 
  {
-  "duration": 10, 
-  "Text": "Hundreds rural citizens suffer from important sicknesses which are apparently caused by exhibition to GAStech waste streams, although this no official gesubstantiebrd have been or recognize by or the company or government.", 
-  "InteractionType": "Highlight", 
+  "duration": 1.0, 
+  "Text": "Hundreds rural citizens suffer from important sicknesses which are apparently caused by exhibition to GAStech waste streams, although this no official gesubstanti\u00ebrd have been or recognize by or the company or government.", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 31", 
-  "time": 44662
+  "time": 4466.2
  }, 
  {
-  "duration": 468, 
+  "duration": 46.8, 
   "Text": "Disappearance 31", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 31", 
-  "time": 44663
+  "time": 4466.3
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "The populiation knows that Gastech wastes cost them all the sickness. yet the company denies it", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 44787
+  "time": 4478.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "nitially peaceful, this protest is more and more violent, and both the police force and the citizens is now caught in sometimes fatal cross fire.", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 31", 
-  "time": 45148
+  "time": 4514.8
  }, 
  {
-  "duration": 38, 
+  "duration": 3.8, 
   "Text": "Disappearance 31", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 31", 
-  "time": 45152
+  "time": 4515.2
  }, 
  {
-  "duration": 10, 
+  "duration": 0, 
+  "Text": " People protest because they suffer, because they have no medical aid. We require the government, Terek Kamal, a truck driver, told The Times resign. Hundreds rural citizens suffer from important sicknesses which are apparently caused by exhibition to GAStech waste streams, although this no official gesubstanti\u00ebrd have been or recognize by or the company or government. nitially peaceful, this protest is more and more violent, and both the police force and the citizens is now caught in sometimes fatal cross fire.", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Disappearance 31", 
+  "time": 4520.1
+ }, 
+ {
+  "duration": 1.0, 
   "Text": "Initially they started with peacful protesting and after years they have been started using violence to get their voice heared", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 45217
+  "time": 4521.7
  }, 
  {
-  "duration": 108, 
+  "duration": 10.8, 
   "Text": "Disappearance 31", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 31", 
-  "time": 45602
+  "time": 4560.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "headquaters", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 45860
+  "time": 4586.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "headquater", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 45904
+  "time": 4590.4
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "head", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 45982
+  "time": 4598.2
  }, 
  {
   "duration": 0, 
   "Text": " (Looking for interactions between POK and governmenr) [bottom-up]", 
-  "InteractionType": "Topic_change", 
+  "InteractionType": "topic_change", 
   "ID": "bottom-up", 
-  "time": 45987
+  "time": 4598.7
  }, 
  {
-  "duration": 32, 
+  "duration": 3.2, 
   "Text": "Disappearance 121", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 121", 
-  "time": 46066
+  "time": 4606.6
  }, 
  {
-  "duration": 19, 
+  "duration": 1.9, 
   "Text": "Disappearance 125", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 125", 
-  "time": 46123
+  "time": 4612.3
  }, 
  {
-  "duration": 27, 
+  "duration": 2.7, 
   "Text": "Disappearance 76", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 76", 
-  "time": 46147
+  "time": 4614.7
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Disappearance 131", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 131", 
-  "time": 46174
+  "time": 4617.4
  }, 
  {
-  "duration": 14, 
+  "duration": 1.4, 
   "Text": "Disappearance 127", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 127", 
-  "time": 46189
+  "time": 4618.9
  }, 
  {
-  "duration": 32, 
+  "duration": 3.2, 
   "Text": "Disappearance 128", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 128", 
-  "time": 46203
+  "time": 4620.3
  }, 
  {
-  "duration": 31, 
+  "duration": 3.1, 
   "Text": "Disappearance 78", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 78", 
-  "time": 46239
+  "time": 4623.9
  }, 
  {
-  "duration": 24, 
+  "duration": 2.4, 
   "Text": "Disappearance 53", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 53", 
-  "time": 46270
+  "time": 4627.0
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "Disappearance 78", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 78", 
-  "time": 46294
+  "time": 4629.4
  }, 
  {
-  "duration": 24, 
+  "duration": 2.4, 
   "Text": "Disappearance 3", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 3", 
-  "time": 46310
+  "time": 4631.0
  }, 
  {
-  "duration": 17, 
+  "duration": 1.7, 
   "Text": "Disappearance 5", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 5", 
-  "time": 46350
+  "time": 4635.0
  }, 
  {
-  "duration": 15, 
+  "duration": 1.5, 
   "Text": "Disappearance 41", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 41", 
-  "time": 46370
+  "time": 4637.0
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Disappearance 16", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 16", 
-  "time": 46385
+  "time": 4638.5
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "Disappearance 20", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 20", 
-  "time": 46397
+  "time": 4639.7
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "Disappearance 127", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 127", 
-  "time": 46432
+  "time": 4643.2
  }, 
  {
-  "duration": 23, 
+  "duration": 2.3, 
   "Text": "Disappearance 132", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 132", 
-  "time": 46446
+  "time": 4644.6
  }, 
  {
-  "duration": 118, 
+  "duration": 11.8, 
   "Text": "Disappearance 127", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 127", 
-  "time": 46470
+  "time": 4647.0
  }, 
  {
-  "duration": 1325, 
+  "duration": 132.5, 
   "Text": "Disappearance 127", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 127", 
-  "time": 46589
+  "time": 4658.9
  }, 
  {
-  "duration": 1314, 
+  "duration": 131.4, 
   "Text": "Disappearance 127", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 127", 
-  "time": 46590
+  "time": 4659.0
  }, 
  {
-  "duration": 18, 
+  "duration": 1.8, 
   "Text": "Disappearance 127", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 127", 
-  "time": 46597
+  "time": 4659.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Still reading the last article", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 46967
+  "time": 4696.7
  }, 
  {
-  "duration": 18, 
+  "duration": 1.8, 
   "Text": "Disappearance 127", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 127", 
-  "time": 47929
+  "time": 4792.9
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Disappearance 125", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 125", 
-  "time": 48032
+  "time": 4803.2
  }, 
  {
-  "duration": 26, 
+  "duration": 2.6, 
   "Text": "Disappearance 125", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 125", 
-  "time": 48040
+  "time": 4804.0
  }, 
  {
-  "duration": 2879, 
+  "duration": 287.9, 
   "Text": "Disappearance 125", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 125", 
-  "time": 48086
+  "time": 4808.6
  }, 
  {
-  "duration": 790, 
+  "duration": 79.0, 
   "Text": "Disappearance 125", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 125", 
-  "time": 48087
+  "time": 4808.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Still reading the last article", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 48677
+  "time": 4867.7
  }, 
  {
-  "duration": 37, 
+  "duration": 3.7, 
   "Text": "Disappearance 125", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 125", 
-  "time": 48881
+  "time": 4888.1
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Influenced by international groups such as Wellness for All ", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 125", 
-  "time": 48930
+  "time": 4893.0
  }, 
  {
-  "duration": 608, 
+  "duration": 60.8, 
   "Text": "Disappearance 125", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 125", 
-  "time": 48932
+  "time": 4893.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Still reading the last article", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 49427
+  "time": 4942.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Kronos would notify Tethys who had signed a 1998 anti-terrorism treaty of the decision, ", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 125", 
-  "time": 49554
+  "time": 4955.4
  }, 
  {
-  "duration": 325, 
+  "duration": 32.5, 
   "Text": "Disappearance 125", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 125", 
-  "time": 49556
+  "time": 4955.6
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "ed. \nPOK supporters. The POK has denied being responsible for the attack, and accused the Kronos government of staging a frame-up to silence the groups concerns for the people.", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 125", 
-  "time": 49896
+  "time": 4989.6
  }, 
  {
-  "duration": 21, 
+  "duration": 2.1, 
   "Text": "Disappearance 125", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 125", 
-  "time": 49898
+  "time": 4989.8
  }, 
  {
-  "duration": 833, 
+  "duration": 83.3, 
   "Text": "Disappearance 125", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 125", 
-  "time": 49920
+  "time": 4992.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "In 2009 POK bombed the polics headquarters of the city aliba. The gvernment claims the POK was responsible for the bombing. but POK denies it", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 49947
+  "time": 4994.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "POK could have also done the attack after all peacfull protest they have. they were never heard answer", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 50517
+  "time": 5051.7
  }, 
  {
-  "duration": 22, 
+  "duration": 2.2, 
   "Text": "Disappearance 125", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 125", 
-  "time": 50758
+  "time": 5075.8
  }, 
  {
-  "duration": 22, 
+  "duration": 2.2, 
   "Text": "Disappearance 125", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 125", 
-  "time": 50780
+  "time": 5078.0
  }, 
  {
-  "duration": 24, 
+  "duration": 2.4, 
   "Text": "Disappearance 125", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 125", 
-  "time": 50807
+  "time": 5080.7
  }, 
  {
-  "duration": 119, 
+  "duration": 11.9, 
   "Text": "Disappearance 125", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 125", 
-  "time": 50833
+  "time": 5083.3
  }, 
  {
-  "duration": 102, 
+  "duration": 10.2, 
   "Text": "Disappearance 125", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 125", 
-  "time": 50838
+  "time": 5083.8
  }, 
  {
-  "duration": 61, 
+  "duration": 0, 
+  "Text": " Influenced by international groups such as Wellness for All  Kronos would notify Tethys who had signed a 1998 anti-terrorism treaty of the decision,  ed. \nPOK supporters. The POK has denied being responsible for the attack, and accused the Kronos government of staging a frame-up to silence the groups concerns for the people.", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "Disappearance 125", 
+  "time": 5096.5
+ }, 
+ {
+  "duration": 6.1, 
   "Text": "Disappearance 125", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 125", 
-  "time": 50979
+  "time": 5097.9
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Reading the highlights", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 51297
+  "time": 5129.7
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "Disappearance 117", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 117", 
-  "time": 51473
+  "time": 5147.3
  }, 
  {
-  "duration": 49, 
+  "duration": 4.9, 
   "Text": "Disappearance 118", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 118", 
-  "time": 51482
+  "time": 5148.2
  }, 
  {
-  "duration": 20, 
+  "duration": 2.0, 
   "Text": "Disappearance 117", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 117", 
-  "time": 51537
+  "time": 5153.7
  }, 
  {
-  "duration": 3518, 
+  "duration": 351.8, 
   "Text": "Disappearance 117", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 117", 
-  "time": 51568
+  "time": 5156.8
  }, 
  {
-  "duration": 804, 
+  "duration": 80.4, 
   "Text": "Disappearance 117", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 117", 
-  "time": 51569
+  "time": 5156.9
  }, 
  {
-  "duration": 87, 
+  "duration": 8.7, 
   "Text": "Disappearance 117", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 117", 
-  "time": 52377
+  "time": 5237.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "the guards of Kronos", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 117", 
-  "time": 52495
+  "time": 5249.5
  }, 
  {
-  "duration": 182, 
+  "duration": 18.2, 
   "Text": "Disappearance 117", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 117", 
-  "time": 52497
+  "time": 5249.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "The Protectors of Kronis also called by the name of gaurds of Kronos", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 52647
+  "time": 5264.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "guards of", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 52819
+  "time": 5281.9
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Disappearance 127", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 127", 
-  "time": 52922
+  "time": 5292.2
  }, 
  {
-  "duration": 12, 
+  "duration": 1.2, 
   "Text": "Disappearance 77", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 77", 
-  "time": 52938
+  "time": 5293.8
  }, 
  {
-  "duration": 24, 
+  "duration": 2.4, 
   "Text": "Disappearance 77", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 77", 
-  "time": 52951
+  "time": 5295.1
  }, 
  {
-  "duration": 21, 
+  "duration": 2.1, 
   "Text": "Disappearance 117", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 117", 
-  "time": 52998
+  "time": 5299.8
  }, 
  {
-  "duration": 10, 
-  "Text": "Disappearance 117", 
-  "InteractionType": "Reading", 
-  "ID": "Disappearance 117", 
-  "time": 53022
- }, 
- {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "Disappearance 77", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 77", 
-  "time": 53034
+  "time": 5303.4
  }, 
  {
-  "duration": 2030, 
+  "duration": 203.0, 
   "Text": "Disappearance 77", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "Disappearance 77", 
-  "time": 53056
+  "time": 5305.6
  }, 
  {
-  "duration": 8, 
+  "duration": 1.2, 
   "Text": "Disappearance 77", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 77", 
-  "time": 53057
+  "time": 5305.7
  }, 
  {
-  "duration": 309, 
+  "duration": 30.9, 
   "Text": "Disappearance 77", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "Disappearance 77", 
-  "time": 53063
+  "time": 5306.3
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "an official report/ratio released by Sten Sanjorge, president de Jr. and PRESIDENT de international GASTech, condemns the guards of Kronos like illegitimate and organization of terrorist. ", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 77", 
-  "time": 53489
+  "time": 5348.9
  }, 
  {
-  "duration": 25, 
+  "duration": 2.5, 
   "Text": "Disappearance 77", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 77", 
-  "time": 53491
+  "time": 5349.1
  }, 
  {
-  "duration": 645, 
+  "duration": 64.5, 
   "Text": "Disappearance 77", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 77", 
-  "time": 53529
+  "time": 5352.9
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": " Ten protesters of POK were connected with the door of GAStech - Kronos except the entry with the building.", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "Disappearance 77", 
-  "time": 54189
+  "time": 5418.9
  }, 
  {
-  "duration": 702, 
+  "duration": 70.2, 
   "Text": "Disappearance 77", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 77", 
-  "time": 54191
+  "time": 5419.1
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "Disappearance 77", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "Disappearance 77", 
-  "time": 54914
+  "time": 5491.4
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "Disappearance 141", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "Disappearance 141", 
-  "time": 54986
+  "time": 5498.6
  }
 ]

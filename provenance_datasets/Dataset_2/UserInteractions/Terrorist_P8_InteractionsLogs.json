@@ -2,5237 +2,5251 @@
  {
   "duration": 0, 
   "Text": " (Looking for Suspicious Activities with animals) (type 1)[bottom-up]", 
-  "InteractionType": "Topic_change", 
+  "InteractionType": "topic_change", 
   "ID": "bottom-up", 
-  "time": 0
+  "time": 0.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "suspicious", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 20
+  "time": 2.0
  }, 
  {
-  "duration": 146, 
+  "duration": 14.6, 
   "Text": "TerroristActivity 151", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 151", 
-  "time": 32
+  "time": 3.2
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "TerroristActivity 128", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 128", 
-  "time": 185
+  "time": 18.5
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "TerroristActivity 151", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 151", 
-  "time": 198
+  "time": 19.8
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "TerroristActivity 150", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 150", 
-  "time": 206
+  "time": 20.6
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "TerroristActivity 151", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 151", 
-  "time": 213
+  "time": 21.3
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "TerroristActivity 80", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 80", 
-  "time": 221
+  "time": 22.1
  }, 
  {
-  "duration": 388, 
+  "duration": 38.8, 
   "Text": "TerroristActivity 151", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 151", 
-  "time": 250
+  "time": 25.0
  }, 
  {
-  "duration": 132, 
+  "duration": 13.2, 
   "Text": "TerroristActivity 151", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 151", 
-  "time": 251
+  "time": 25.1
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Still reading the document", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 330
+  "time": 33.0
  }, 
  {
-  "duration": 29, 
+  "duration": 2.9, 
   "Text": "TerroristActivity 151", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 151", 
-  "time": 433
+  "time": 43.3
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "TerroristActivity 151", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 151", 
-  "time": 441
+  "time": 44.1
  }, 
  {
-  "duration": 9, 
+  "duration": 11.1, 
   "Text": "TerroristActivity 151", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 151", 
-  "time": 467
+  "time": 47.9
  }, 
  {
-  "duration": 111, 
-  "Text": "TerroristActivity 151", 
-  "InteractionType": "Reading", 
-  "ID": "TerroristActivity 151", 
-  "time": 479
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "This is about a man carrying a frozen turkey at the airport", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 560
+  "time": 56.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Suspicious Turkey Found ", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 151", 
-  "time": 606
+  "time": 60.6
  }, 
  {
-  "duration": 5, 
+  "duration": 0, 
+  "Text": " Suspicious Turkey Found ", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 151", 
+  "time": 63.8
+ }, 
+ {
+  "duration": 2.4, 
   "Text": "TerroristActivity 151", 
-  "InteractionType": "Reading", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 151", 
-  "time": 607
+  "time": 71.4
  }, 
  {
-  "duration": 24, 
+  "duration": 0, 
+  "Text": " Suspicious Turkey Found ", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 151", 
+  "time": 73.8
+ }, 
+ {
+  "duration": 1.7, 
   "Text": "TerroristActivity 151", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 151", 
-  "time": 714
+  "time": 75.9
  }, 
  {
-  "duration": 17, 
+  "duration": 0.5, 
   "Text": "TerroristActivity 151", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 151", 
-  "time": 759
+  "time": 78.6
  }, 
  {
-  "duration": 5, 
+  "duration": 0, 
+  "Text": " Suspicious Turkey Found ", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 151", 
+  "time": 78.6
+ }, 
+ {
+  "duration": 3.0, 
   "Text": "TerroristActivity 151", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 151", 
-  "time": 786
+  "time": 79.6
  }, 
  {
-  "duration": 30, 
+  "duration": 1.6, 
   "Text": "TerroristActivity 151", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 151", 
-  "time": 796
+  "time": 88.4
  }, 
  {
-  "duration": 16, 
-  "Text": "TerroristActivity 151", 
-  "InteractionType": "Draging", 
-  "ID": "TerroristActivity 151", 
-  "time": 884
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Note", 
-  "InteractionType": "Create Note", 
+  "InteractionType": "create_note", 
   "ID": 0, 
-  "time": 919
+  "time": 91.9
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "TerroristActivity 75", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 75", 
-  "time": 995
+  "time": 99.5
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "frozen turkey", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 1110
+  "time": 111.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "turkey", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 1211
+  "time": 121.1
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "suspicious", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 1303
+  "time": 130.3
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "I'm going back to suspicious", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 1330
+  "time": 133.0
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "TerroristActivity 147", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 147", 
-  "time": 1361
+  "time": 136.1
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "TerroristActivity 123", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 123", 
-  "time": 1367
+  "time": 136.7
  }, 
  {
-  "duration": 15, 
+  "duration": 1.5, 
   "Text": "TerroristActivity 123", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 123", 
-  "time": 1381
+  "time": 138.1
  }, 
  {
-  "duration": 161, 
+  "duration": 16.1, 
   "Text": "TerroristActivity 123", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 123", 
-  "time": 1404
+  "time": 140.4
  }, 
  {
-  "duration": 5, 
+  "duration": 4.3, 
   "Text": "TerroristActivity 123", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 123", 
-  "time": 1405
+  "time": 145.0
  }, 
  {
-  "duration": 5, 
+  "duration": 3.1, 
   "Text": "TerroristActivity 123", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 123", 
-  "time": 1410
+  "time": 150.4
  }, 
  {
-  "duration": 6, 
-  "Text": "TerroristActivity 123", 
-  "InteractionType": "Reading", 
-  "ID": "TerroristActivity 123", 
-  "time": 1412
- }, 
- {
-  "duration": 43, 
-  "Text": "TerroristActivity 123", 
-  "InteractionType": "Reading", 
-  "ID": "TerroristActivity 123", 
-  "time": 1450
- }, 
- {
-  "duration": 31, 
-  "Text": "TerroristActivity 123", 
-  "InteractionType": "Reading", 
-  "ID": "TerroristActivity 123", 
-  "time": 1504
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "mass livestock deaths on April 1 ", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 123", 
-  "time": 1545
+  "time": 154.5
  }, 
  {
-  "duration": 28, 
+  "duration": 0, 
+  "Text": " mass livestock deaths on April 1 ", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 123", 
+  "time": 156.5
+ }, 
+ {
+  "duration": 2.8, 
   "Text": "TerroristActivity 123", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 123", 
-  "time": 1607
+  "time": 160.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "animal death", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 1823
+  "time": 182.3
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "livestock", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 1918
+  "time": 191.8
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "mass death", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 2045
+  "time": 204.5
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "suspicious", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 2175
+  "time": 217.5
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "TerroristActivity 128", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 128", 
-  "time": 2202
+  "time": 220.2
  }, 
  {
-  "duration": 372, 
+  "duration": 37.2, 
   "Text": "TerroristActivity 128", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 128", 
-  "time": 2217
+  "time": 221.7
  }, 
  {
-  "duration": 283, 
+  "duration": 28.3, 
   "Text": "TerroristActivity 128", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 128", 
-  "time": 2218
+  "time": 221.8
  }, 
  {
-  "duration": 65, 
+  "duration": 6.5, 
   "Text": "TerroristActivity 128", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 128", 
-  "time": 2503
+  "time": 250.3
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": " raised the threat level around the country, including Vastopolis.", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 128", 
-  "time": 2579
+  "time": 257.9
  }, 
  {
-  "duration": 7, 
+  "duration": 0, 
+  "Text": "  raised the threat level around the country, including Vastopolis.", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 128", 
+  "time": 258.9
+ }, 
+ {
+  "duration": 0.7, 
   "Text": "TerroristActivity 128", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 128", 
-  "time": 2673
+  "time": 267.3
  }, 
  {
-  "duration": 5, 
+  "duration": 0, 
+  "Text": "  raised the threat level around the country, including Vastopolis.", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 128", 
+  "time": 268.0
+ }, 
+ {
+  "duration": 0.5, 
   "Text": "TerroristActivity 128", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 128", 
-  "time": 2714
+  "time": 271.4
  }, 
  {
-  "duration": 16, 
+  "duration": 0, 
+  "Text": "  raised the threat level around the country, including Vastopolis.", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 128", 
+  "time": 271.4
+ }, 
+ {
+  "duration": 1.6, 
   "Text": "TerroristActivity 128", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 128", 
-  "time": 2749
+  "time": 274.9
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "TerroristActivity 80", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 80", 
-  "time": 2785
+  "time": 278.5
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "TerroristActivity 80", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 80", 
-  "time": 2799
+  "time": 279.9
  }, 
  {
-  "duration": 483, 
+  "duration": 48.3, 
   "Text": "TerroristActivity 80", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 80", 
-  "time": 2815
+  "time": 281.5
  }, 
  {
-  "duration": 33, 
+  "duration": 3.3, 
   "Text": "TerroristActivity 80", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 80", 
-  "time": 2816
+  "time": 281.6
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "TerroristActivity 80", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 80", 
-  "time": 2848
+  "time": 284.8
  }, 
  {
-  "duration": 5, 
+  "duration": 11.1, 
   "Text": "TerroristActivity 80", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 80", 
-  "time": 2861
+  "time": 286.4
  }, 
  {
-  "duration": 111, 
-  "Text": "TerroristActivity 80", 
-  "InteractionType": "Reading", 
-  "ID": "TerroristActivity 80", 
-  "time": 2864
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "I'm searcjhing the keyword Suspicious and reading results. after that I search the terms in each of these results", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 2880
+  "time": 288.0
  }, 
  {
-  "duration": 10, 
+  "duration": 13.0, 
   "Text": "TerroristActivity 80", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 80", 
-  "time": 2981
+  "time": 305.3
  }, 
  {
-  "duration": 5, 
+  "duration": 10.3, 
   "Text": "TerroristActivity 80", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 80", 
-  "time": 3010
+  "time": 318.6
  }, 
  {
-  "duration": 5, 
+  "duration": 1.2, 
   "Text": "TerroristActivity 80", 
-  "InteractionType": "Reading", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 80", 
-  "time": 3028
+  "time": 330.4
  }, 
  {
-  "duration": 130, 
-  "Text": "TerroristActivity 80", 
-  "InteractionType": "Reading", 
-  "ID": "TerroristActivity 80", 
-  "time": 3053
- }, 
- {
-  "duration": 103, 
-  "Text": "TerroristActivity 80", 
-  "InteractionType": "Reading", 
-  "ID": "TerroristActivity 80", 
-  "time": 3186
- }, 
- {
-  "duration": 5, 
-  "Text": "TerroristActivity 80", 
-  "InteractionType": "Reading", 
-  "ID": "TerroristActivity 80", 
-  "time": 3289
- }, 
- {
-  "duration": 12, 
-  "Text": "TerroristActivity 80", 
-  "InteractionType": "Draging", 
-  "ID": "TerroristActivity 80", 
-  "time": 3304
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "bomb", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 3369
+  "time": 336.9
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "TerroristActivity 59", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 59", 
-  "time": 3468
+  "time": 346.8
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "TerroristActivity 59", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 59", 
-  "time": 3483
+  "time": 348.3
  }, 
  {
-  "duration": 479, 
+  "duration": 47.9, 
   "Text": "TerroristActivity 59", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 59", 
-  "time": 3499
+  "time": 349.9
  }, 
  {
-  "duration": 54, 
+  "duration": 5.4, 
   "Text": "TerroristActivity 59", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 59", 
-  "time": 3500
+  "time": 350.0
  }, 
  {
-  "duration": 32, 
+  "duration": 3.2, 
   "Text": "TerroristActivity 59", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 59", 
-  "time": 3517
+  "time": 351.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "this one has an interesting title", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 3560
+  "time": 356.0
  }, 
  {
-  "duration": 39, 
+  "duration": 3.9, 
   "Text": "TerroristActivity 59", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 59", 
-  "time": 3576
+  "time": 357.6
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": " April 03, 2011 ", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 59", 
-  "time": 3628
+  "time": 362.8
  }, 
  {
-  "duration": 40, 
+  "duration": 4.0, 
   "Text": "TerroristActivity 59", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 59", 
-  "time": 3629
+  "time": 362.9
  }, 
  {
-  "duration": 118, 
+  "duration": 11.8, 
   "Text": "TerroristActivity 59", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 59", 
-  "time": 3705
+  "time": 370.5
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "airport security", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 59", 
-  "time": 3838
+  "time": 383.8
  }, 
  {
-  "duration": 117, 
+  "duration": 11.7, 
   "Text": "TerroristActivity 59", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 59", 
-  "time": 3839
+  "time": 383.9
  }, 
  {
   "duration": 0, 
   "Text": " (Looking for Events in Airlines and Airports)[bottom-up]", 
-  "InteractionType": "Topic_change", 
+  "InteractionType": "topic_change", 
   "ID": "bottom-up", 
-  "time": 3860
+  "time": 386.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "killing nine people", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 59", 
-  "time": 3967
+  "time": 396.7
  }, 
  {
-  "duration": 38, 
+  "duration": 0, 
+  "Text": "  April 03, 2011  airport security killing nine people", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 59", 
+  "time": 397.8
+ }, 
+ {
+  "duration": 3.8, 
   "Text": "TerroristActivity 59", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 59", 
-  "time": 4028
+  "time": 402.8
  }, 
  {
-  "duration": 109, 
+  "duration": 10.9, 
   "Text": "TerroristActivity 59", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 59", 
-  "time": 4083
+  "time": 408.3
  }, 
  {
-  "duration": 85, 
+  "duration": 8.5, 
   "Text": "TerroristActivity 59", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 59", 
-  "time": 4084
+  "time": 408.4
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "A bomb exploded ", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 59", 
-  "time": 4180
+  "time": 418.0
  }, 
  {
-  "duration": 7, 
+  "duration": 0, 
+  "Text": "  April 03, 2011  airport security killing nine people A bomb exploded ", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 59", 
+  "time": 419.2
+ }, 
+ {
+  "duration": 0.7, 
   "Text": "TerroristActivity 59", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 59", 
-  "time": 4239
+  "time": 423.9
  }, 
  {
-  "duration": 11, 
+  "duration": 0, 
+  "Text": "  April 03, 2011  airport security killing nine people A bomb exploded ", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 59", 
+  "time": 424.6
+ }, 
+ {
+  "duration": 1.1, 
   "Text": "TerroristActivity 59", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 59", 
-  "time": 4259
+  "time": 425.9
  }, 
  {
-  "duration": 5, 
+  "duration": 0.5, 
   "Text": "TerroristActivity 59", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 59", 
-  "time": 4280
+  "time": 428.0
  }, 
  {
-  "duration": 29, 
+  "duration": 0, 
+  "Text": "  April 03, 2011  airport security killing nine people A bomb exploded ", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 59", 
+  "time": 428.1
+ }, 
+ {
+  "duration": 2.9, 
   "Text": "TerroristActivity 59", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 59", 
-  "time": 4287
+  "time": 428.7
  }, 
  {
-  "duration": 34, 
+  "duration": 3.4, 
   "Text": "TerroristActivity 80", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 80", 
-  "time": 4326
+  "time": 432.6
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "airport", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 4429
+  "time": 442.9
  }, 
  {
-  "duration": 14, 
+  "duration": 1.4, 
   "Text": "TerroristActivity 93", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 93", 
-  "time": 4489
+  "time": 448.9
  }, 
  {
-  "duration": 1306, 
+  "duration": 130.6, 
   "Text": "TerroristActivity 93", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 93", 
-  "time": 4513
+  "time": 451.3
  }, 
  {
-  "duration": 142, 
+  "duration": 14.2, 
   "Text": "TerroristActivity 93", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 93", 
-  "time": 4520
+  "time": 452.0
  }, 
  {
-  "duration": 5, 
+  "duration": 10.0, 
   "Text": "TerroristActivity 93", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 93", 
-  "time": 4667
+  "time": 466.7
  }, 
  {
-  "duration": 16, 
+  "duration": 1.6, 
   "Text": "TerroristActivity 83", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 83", 
-  "time": 4779
+  "time": 477.9
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "TerroristActivity 83", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 83", 
-  "time": 4796
+  "time": 479.6
  }, 
  {
-  "duration": 52, 
+  "duration": 5.2, 
   "Text": "TerroristActivity 83", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 83", 
-  "time": 4810
+  "time": 481.0
  }, 
  {
-  "duration": 7, 
+  "duration": 1.3, 
   "Text": "TerroristActivity 83", 
-  "InteractionType": "Reading", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 83", 
-  "time": 4811
+  "time": 486.5
  }, 
  {
-  "duration": 13, 
-  "Text": "TerroristActivity 83", 
-  "InteractionType": "Draging", 
-  "ID": "TerroristActivity 83", 
-  "time": 4865
- }, 
- {
-  "duration": 5, 
-  "Text": "TerroristActivity 93", 
-  "InteractionType": "Reading", 
-  "ID": "TerroristActivity 93", 
-  "time": 4880
- }, 
- {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "TerroristActivity 110", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 110", 
-  "time": 4883
+  "time": 488.3
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "TerroristActivity 150", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 150", 
-  "time": 4899
+  "time": 489.9
  }, 
  {
-  "duration": 78, 
+  "duration": 7.8, 
   "Text": "TerroristActivity 150", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 150", 
-  "time": 4911
+  "time": 491.1
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "TerroristActivity 157", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 157", 
-  "time": 5000
+  "time": 500.0
  }, 
  {
-  "duration": 455, 
+  "duration": 45.5, 
   "Text": "TerroristActivity 157", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 157", 
-  "time": 5010
+  "time": 501.0
  }, 
  {
-  "duration": 112, 
+  "duration": 11.2, 
   "Text": "TerroristActivity 157", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 157", 
-  "time": 5011
+  "time": 501.1
  }, 
  {
-  "duration": 5, 
+  "duration": 8.5, 
   "Text": "TerroristActivity 93", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 93", 
-  "time": 5123
+  "time": 512.7
  }, 
  {
-  "duration": 85, 
-  "Text": "TerroristActivity 93", 
-  "InteractionType": "Reading", 
-  "ID": "TerroristActivity 93", 
-  "time": 5127
- }, 
- {
-  "duration": 6, 
+  "duration": 3.7, 
   "Text": "TerroristActivity 157", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 157", 
-  "time": 5214
+  "time": 522.2
  }, 
  {
-  "duration": 37, 
-  "Text": "TerroristActivity 157", 
-  "InteractionType": "Reading", 
-  "ID": "TerroristActivity 157", 
-  "time": 5222
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "March 2011", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 157", 
-  "time": 5272
+  "time": 527.2
  }, 
  {
-  "duration": 118, 
+  "duration": 11.8, 
   "Text": "TerroristActivity 157", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 157", 
-  "time": 5273
+  "time": 527.3
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": " the crash of a Antarctica Airlines jet.", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 157", 
-  "time": 5404
+  "time": 540.4
  }, 
  {
-  "duration": 5, 
+  "duration": 0.5, 
   "Text": "TerroristActivity 157", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 157", 
-  "time": 5479
+  "time": 547.9
  }, 
  {
-  "duration": 11, 
+  "duration": 0, 
+  "Text": " March 2011  the crash of a Antarctica Airlines jet.", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 157", 
+  "time": 547.9
+ }, 
+ {
+  "duration": 1.1, 
   "Text": "TerroristActivity 157", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 157", 
-  "time": 5486
+  "time": 548.6
  }, 
  {
-  "duration": 33, 
+  "duration": 3.3, 
   "Text": "TerroristActivity 157", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 157", 
-  "time": 5539
+  "time": 553.9
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "They had a airplane crash on March and this one says some chemicals disapeared", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 5600
+  "time": 560.0
  }, 
  {
-  "duration": 5, 
+  "duration": 2.6, 
   "Text": "TerroristActivity 93", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 93", 
-  "time": 5607
+  "time": 560.7
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "TerroristActivity 83", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 83", 
-  "time": 5617
+  "time": 561.7
  }, 
  {
-  "duration": 100, 
+  "duration": 10.0, 
   "Text": "TerroristActivity 93", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 93", 
-  "time": 5634
+  "time": 563.4
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Traces of a chemical residue that may have come from a bomb or a missile were found on wreckage fragments of the Antarctica Airlines flight,", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 93", 
-  "time": 5751
+  "time": 575.1
  }, 
  {
-  "duration": 44, 
+  "duration": 4.4, 
   "Text": "TerroristActivity 93", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 93", 
-  "time": 5752
+  "time": 575.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "May 05, 2011 ", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 93", 
-  "time": 5810
+  "time": 581.0
  }, 
  {
-  "duration": 19, 
+  "duration": 0, 
+  "Text": " Traces of a chemical residue that may have come from a bomb or a missile were found on wreckage fragments of the Antarctica Airlines flight, May 05, 2011 ", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 93", 
+  "time": 581.9
+ }, 
+ {
+  "duration": 1.9, 
   "Text": "TerroristActivity 93", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 93", 
-  "time": 5834
+  "time": 583.4
  }, 
  {
-  "duration": 10, 
-  "Text": "TerroristActivity157,TerroristActivity93", 
-  "InteractionType": "Connection", 
-  "ID": "TerroristActivity157,TerroristActivity93", 
-  "time": 5877
- }, 
- {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "TerroristActivity 93", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 93", 
-  "time": 5895
+  "time": 589.5
  }, 
  {
-  "duration": 61, 
+  "duration": 6.1, 
   "Text": "TerroristActivity 157", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 157", 
-  "time": 5923
+  "time": 592.3
  }, 
  {
-  "duration": 18, 
+  "duration": 1.8, 
   "Text": "TerroristActivity 89", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 89", 
-  "time": 6005
+  "time": 600.5
  }, 
  {
-  "duration": 22, 
+  "duration": 2.2, 
   "Text": "TerroristActivity 122", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 122", 
-  "time": 6035
+  "time": 603.5
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "TerroristActivity 122", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 122", 
-  "time": 6058
+  "time": 605.8
  }, 
  {
-  "duration": 507, 
+  "duration": 50.7, 
   "Text": "TerroristActivity 122", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 122", 
-  "time": 6073
+  "time": 607.3
  }, 
  {
-  "duration": 183, 
+  "duration": 18.3, 
   "Text": "TerroristActivity 122", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 122", 
-  "time": 6074
+  "time": 607.4
  }, 
  {
-  "duration": 224, 
+  "duration": 22.4, 
   "Text": "TerroristActivity 122", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 122", 
-  "time": 6262
+  "time": 626.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Investigators seeking clues to the downing of the Antarctica Airlines flight ", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 122", 
-  "time": 6496
+  "time": 649.6
  }, 
  {
-  "duration": 28, 
+  "duration": 2.8, 
   "Text": "TerroristActivity 122", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 122", 
-  "time": 6496
+  "time": 649.6
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Still reading the document", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 6500
+  "time": 650.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "April 29, 2011 ", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 122", 
-  "time": 6536
+  "time": 653.6
  }, 
  {
-  "duration": 29, 
+  "duration": 0, 
+  "Text": " Investigators seeking clues to the downing of the Antarctica Airlines flight  April 29, 2011 ", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 122", 
+  "time": 658.0
+ }, 
+ {
+  "duration": 2.9, 
   "Text": "TerroristActivity 122", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 122", 
-  "time": 6595
+  "time": 659.5
  }, 
  {
-  "duration": 12, 
+  "duration": 1.2, 
   "Text": "TerroristActivity 150", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 150", 
-  "time": 6645
+  "time": 664.5
  }, 
  {
-  "duration": 17, 
+  "duration": 1.7, 
   "Text": "TerroristActivity 51", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 51", 
-  "time": 6664
+  "time": 666.4
  }, 
  {
-  "duration": 1008, 
+  "duration": 100.8, 
   "Text": "TerroristActivity 51", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 51", 
-  "time": 6682
+  "time": 668.2
  }, 
  {
-  "duration": 31, 
+  "duration": 3.1, 
   "Text": "TerroristActivity 51", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 51", 
-  "time": 6683
+  "time": 668.3
  }, 
  {
-  "duration": 21, 
+  "duration": 2.1, 
   "Text": "TerroristActivity 51", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 51", 
-  "time": 6689
+  "time": 668.9
  }, 
  {
-  "duration": 59, 
+  "duration": 5.9, 
   "Text": "TerroristActivity 51", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 51", 
-  "time": 6715
+  "time": 671.5
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "This one is about airports also", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 6790
+  "time": 679.0
  }, 
  {
-  "duration": 12, 
+  "duration": 1.2, 
   "Text": "TerroristActivity 93", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 93", 
-  "time": 6827
+  "time": 682.7
  }, 
  {
-  "duration": 40, 
+  "duration": 4.0, 
   "Text": "TerroristActivity 122", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 122", 
-  "time": 6845
+  "time": 684.5
  }, 
  {
-  "duration": 5, 
+  "duration": 19.2, 
   "Text": "TerroristActivity 51", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 51", 
-  "time": 6888
+  "time": 711.0
  }, 
  {
-  "duration": 10, 
-  "Text": "TerroristActivity157,TerroristActivity122", 
-  "InteractionType": "Connection", 
-  "ID": "TerroristActivity157,TerroristActivity122", 
-  "time": 6925
- }, 
- {
-  "duration": 10, 
-  "Text": "TerroristActivity122,TerroristActivity93", 
-  "InteractionType": "Connection", 
-  "ID": "TerroristActivity122,TerroristActivity93", 
-  "time": 6942
- }, 
- {
-  "duration": 5, 
+  "duration": 12.2, 
   "Text": "TerroristActivity 51", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 51", 
-  "time": 7107
+  "time": 738.4
  }, 
  {
-  "duration": 192, 
-  "Text": "TerroristActivity 51", 
-  "InteractionType": "Reading", 
-  "ID": "TerroristActivity 51", 
-  "time": 7110
- }, 
- {
-  "duration": 122, 
-  "Text": "TerroristActivity 51", 
-  "InteractionType": "Reading", 
-  "ID": "TerroristActivity 51", 
-  "time": 7384
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Still reading the document", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 7470
+  "time": 747.0
  }, 
  {
-  "duration": 9, 
+  "duration": 4.5, 
   "Text": "TerroristActivity 51", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 51", 
-  "time": 7527
+  "time": 754.1
  }, 
  {
-  "duration": 45, 
-  "Text": "TerroristActivity 51", 
-  "InteractionType": "Reading", 
-  "ID": "TerroristActivity 51", 
-  "time": 7541
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "This one is also relevant to the other airport ones", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 7580
+  "time": 758.0
  }, 
  {
-  "duration": 29, 
+  "duration": 2.9, 
   "Text": "TerroristActivity 51", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 51", 
-  "time": 7587
+  "time": 758.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "March 30, 2011 ", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 51", 
-  "time": 7626
+  "time": 762.6
  }, 
  {
-  "duration": 42, 
+  "duration": 4.2, 
   "Text": "TerroristActivity 51", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 51", 
-  "time": 7627
+  "time": 762.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "t U.S. airports are required to meet minimum security standards ", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 51", 
-  "time": 7678
+  "time": 767.8
  }, 
  {
-  "duration": 16, 
+  "duration": 0, 
+  "Text": " March 30, 2011  t U.S. airports are required to meet minimum security standards ", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 51", 
+  "time": 769.0
+ }, 
+ {
+  "duration": 1.6, 
   "Text": "TerroristActivity 51", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 51", 
-  "time": 7696
+  "time": 769.6
  }, 
  {
-  "duration": 38, 
+  "duration": 3.8, 
   "Text": "TerroristActivity 26", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 26", 
-  "time": 7755
+  "time": 775.5
  }, 
  {
-  "duration": 20, 
+  "duration": 2.0, 
   "Text": "TerroristActivity 26", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 26", 
-  "time": 7819
+  "time": 781.9
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "There is also a document here about contamination in airport. this gives me a new idea to search about", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 7850
+  "time": 785.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "food", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 7938
+  "time": 793.8
  }, 
  {
   "duration": 0, 
   "Text": " (Searching for food contamination) [bottom-up]", 
-  "InteractionType": "Topic_change", 
+  "InteractionType": "topic_change", 
   "ID": "bottom-up", 
-  "time": 7960
+  "time": 796.0
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "TerroristActivity 137", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 137", 
-  "time": 8046
+  "time": 804.6
  }, 
  {
-  "duration": 40, 
+  "duration": 4.0, 
   "Text": "TerroristActivity 109", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 109", 
-  "time": 8065
+  "time": 806.5
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Two of results are about South Korea here", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 8100
+  "time": 810.0
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "TerroristActivity 137", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 137", 
-  "time": 8108
+  "time": 810.8
  }, 
  {
-  "duration": 886, 
+  "duration": 88.6, 
   "Text": "TerroristActivity 137", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 137", 
-  "time": 8117
+  "time": 811.7
  }, 
  {
-  "duration": 136, 
+  "duration": 13.6, 
   "Text": "TerroristActivity 137", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 137", 
-  "time": 8118
+  "time": 811.8
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "TerroristActivity 137", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 137", 
-  "time": 8263
+  "time": 826.3
  }, 
  {
-  "duration": 123, 
+  "duration": 12.3, 
   "Text": "TerroristActivity 137", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 137", 
-  "time": 8400
+  "time": 840.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Still reading the document", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 8590
+  "time": 859.0
  }, 
  {
-  "duration": 8, 
+  "duration": 1.5, 
   "Text": "TerroristActivity 137", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 137", 
-  "time": 8732
+  "time": 874.2
  }, 
  {
-  "duration": 5, 
+  "duration": 0.8, 
   "Text": "TerroristActivity 137", 
-  "InteractionType": "Reading", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 137", 
-  "time": 8742
+  "time": 874.5
  }, 
  {
-  "duration": 8, 
+  "duration": 23.0, 
   "Text": "TerroristActivity 137", 
-  "InteractionType": "Draging", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 137", 
-  "time": 8745
+  "time": 876.0
  }, 
  {
-  "duration": 230, 
-  "Text": "TerroristActivity 137", 
-  "InteractionType": "Reading", 
-  "ID": "TerroristActivity 137", 
-  "time": 8760
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Still reading the document", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 8890
+  "time": 889.0
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "TerroristActivity 137", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 137", 
-  "time": 9010
+  "time": 901.0
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "TerroristActivity 109", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 109", 
-  "time": 9027
+  "time": 902.7
  }, 
  {
-  "duration": 18, 
+  "duration": 1.8, 
   "Text": "TerroristActivity 109", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 109", 
-  "time": 9046
+  "time": 904.6
  }, 
  {
-  "duration": 18, 
+  "duration": 1.8, 
   "Text": "TerroristActivity 138", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 138", 
-  "time": 9071
+  "time": 907.1
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "TerroristActivity 144", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 144", 
-  "time": 9095
+  "time": 909.5
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "TerroristActivity 144", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 144", 
-  "time": 9103
+  "time": 910.3
  }, 
  {
-  "duration": 61, 
+  "duration": 6.1, 
   "Text": "TerroristActivity 144", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 144", 
-  "time": 9117
+  "time": 911.7
  }, 
  {
-  "duration": 36, 
+  "duration": 3.6, 
   "Text": "TerroristActivity 144", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 144", 
-  "time": 9184
+  "time": 918.4
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "TerroristActivity 31", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 31", 
-  "time": 9224
+  "time": 922.4
  }, 
  {
-  "duration": 17, 
+  "duration": 1.7, 
   "Text": "TerroristActivity 61", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 61", 
-  "time": 9234
+  "time": 923.4
  }, 
  {
-  "duration": 28, 
+  "duration": 2.8, 
   "Text": "TerroristActivity 35", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 35", 
-  "time": 9251
+  "time": 925.1
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "TerroristActivity 44", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 44", 
-  "time": 9290
+  "time": 929.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "contamination", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 9397
+  "time": 939.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "contaminate", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 9449
+  "time": 944.9
  }, 
  {
-  "duration": 30, 
+  "duration": 3.0, 
   "Text": "TerroristActivity 116", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 116", 
-  "time": 9779
+  "time": 977.9
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "TerroristActivity 117", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 117", 
-  "time": 9809
+  "time": 980.9
  }, 
  {
-  "duration": 22, 
+  "duration": 2.2, 
   "Text": "TerroristActivity 117", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 117", 
-  "time": 9819
+  "time": 981.9
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "TerroristActivity 118", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 118", 
-  "time": 9846
+  "time": 984.6
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "TerroristActivity 121", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 121", 
-  "time": 9870
+  "time": 987.0
  }, 
  {
-  "duration": 14, 
+  "duration": 1.4, 
   "Text": "TerroristActivity 94", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 94", 
-  "time": 9885
+  "time": 988.5
  }, 
  {
-  "duration": 15, 
+  "duration": 1.5, 
   "Text": "TerroristActivity 95", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 95", 
-  "time": 9939
+  "time": 993.9
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "TerroristActivity 99", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 99", 
-  "time": 9959
+  "time": 995.9
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "exposion", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 10036
+  "time": 1003.6
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "explosion", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 10085
+  "time": 1008.5
  }, 
  {
   "duration": 0, 
   "Text": " (Looking for Bombing and Explosions, Smogtown) [bottom-up]", 
-  "InteractionType": "Topic_change", 
+  "InteractionType": "topic_change", 
   "ID": "bottom-up", 
-  "time": 10110
+  "time": 1011.0
  }, 
  {
-  "duration": 27, 
+  "duration": 2.7, 
   "Text": "TerroristActivity 98", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 98", 
-  "time": 10148
+  "time": 1014.8
  }, 
  {
-  "duration": 1616, 
+  "duration": 161.6, 
   "Text": "TerroristActivity 98", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 98", 
-  "time": 10179
+  "time": 1017.9
  }, 
  {
-  "duration": 73, 
+  "duration": 7.3, 
   "Text": "TerroristActivity 98", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 98", 
-  "time": 10180
+  "time": 1018.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": " May 17, 2011 ", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 137", 
-  "time": 10263
+  "time": 1026.3
  }, 
  {
-  "duration": 5, 
+  "duration": 3.7, 
   "Text": "TerroristActivity 98", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 98", 
-  "time": 10264
+  "time": 1027.0
  }, 
  {
-  "duration": 37, 
-  "Text": "TerroristActivity 98", 
-  "InteractionType": "Reading", 
-  "ID": "TerroristActivity 98", 
-  "time": 10270
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Explosions at Smogtown Chemical Plan", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 98", 
-  "time": 10318
+  "time": 1031.8
  }, 
  {
-  "duration": 28, 
+  "duration": 2.8, 
   "Text": "TerroristActivity 98", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 98", 
-  "time": 10319
+  "time": 1031.9
  }, 
  {
-  "duration": 116, 
+  "duration": 11.6, 
   "Text": "TerroristActivity 98", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 98", 
-  "time": 10349
+  "time": 1034.9
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "s at Smogtown Chemical Plant", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 98", 
-  "time": 10476
+  "time": 1047.6
  }, 
  {
-  "duration": 18, 
+  "duration": 1.8, 
   "Text": "TerroristActivity 98", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 98", 
-  "time": 10476
+  "time": 1047.6
  }, 
  {
-  "duration": 43, 
+  "duration": 4.3, 
   "Text": "TerroristActivity 98", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 98", 
-  "time": 10499
+  "time": 1049.9
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "chemical plant", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 10728
+  "time": 1072.8
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "smogtown", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 10825
+  "time": 1082.5
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "TerroristActivity 53", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 53", 
-  "time": 10865
+  "time": 1086.5
  }, 
  {
-  "duration": 18, 
+  "duration": 1.8, 
   "Text": "TerroristActivity 53", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 53", 
-  "time": 10875
+  "time": 1087.5
  }, 
  {
-  "duration": 19, 
+  "duration": 1.9, 
   "Text": "TerroristActivity 2", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 2", 
-  "time": 10909
+  "time": 1090.9
  }, 
  {
-  "duration": 174, 
+  "duration": 17.4, 
   "Text": "TerroristActivity 98", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 98", 
-  "time": 10934
+  "time": 1093.4
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "I'm seeing two other documents related", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 11010
+  "time": 1101.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": " A consensus exists among local residents that the explosions were caused by some kind of terrorist act.", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 98", 
-  "time": 11120
+  "time": 1112.0
  }, 
  {
-  "duration": 240, 
+  "duration": 24.0, 
   "Text": "TerroristActivity 98", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 98", 
-  "time": 11122
+  "time": 1112.2
  }, 
  {
-  "duration": 41, 
+  "duration": 4.1, 
   "Text": "TerroristActivity 98", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 98", 
-  "time": 11406
+  "time": 1140.6
  }, 
  {
-  "duration": 30, 
+  "duration": 3.0, 
   "Text": "TerroristActivity 26", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 26", 
-  "time": 11460
+  "time": 1146.0
  }, 
  {
-  "duration": 263, 
+  "duration": 26.3, 
   "Text": "TerroristActivity 98", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 98", 
-  "time": 11517
+  "time": 1151.7
  }, 
  {
-  "duration": 13, 
+  "duration": 0, 
+  "Text": " Explosions at Smogtown Chemical Plan s at Smogtown Chemical Plant  A consensus exists among local residents that the explosions were caused by some kind of terrorist act.", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 98", 
+  "time": 1179.5
+ }, 
+ {
+  "duration": 1.3, 
   "Text": "TerroristActivity 98", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 98", 
-  "time": 11804
+  "time": 1180.4
  }, 
  {
-  "duration": 15, 
+  "duration": 1.5, 
   "Text": "TerroristActivity 53", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 53", 
-  "time": 11831
+  "time": 1183.1
  }, 
  {
-  "duration": 430, 
+  "duration": 43.0, 
   "Text": "TerroristActivity 53", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 53", 
-  "time": 11852
+  "time": 1185.2
  }, 
  {
-  "duration": 6, 
+  "duration": 12.6, 
   "Text": "TerroristActivity 53", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 53", 
-  "time": 11853
+  "time": 1185.3
  }, 
  {
-  "duration": 39, 
+  "duration": 3.9, 
   "Text": "TerroristActivity 53", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 53", 
-  "time": 11859
+  "time": 1185.9
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": " May 12, 2011 ", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 53", 
-  "time": 11990
+  "time": 1199.0
  }, 
  {
-  "duration": 74, 
+  "duration": 7.4, 
   "Text": "TerroristActivity 53", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 53", 
-  "time": 11992
+  "time": 1199.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "In Smogtown, two men with enough material to construct several explosive devices were apprehended before the devices were completed.", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 53", 
-  "time": 12079
+  "time": 1207.9
  }, 
  {
-  "duration": 20, 
+  "duration": 2.0, 
   "Text": "TerroristActivity 53", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 53", 
-  "time": 12080
+  "time": 1208.0
  }, 
  {
-  "duration": 62, 
+  "duration": 6.2, 
   "Text": "TerroristActivity 53", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 53", 
-  "time": 12102
+  "time": 1210.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "In , two men with enough material to construct several explosive devices were apprehended before the devices were completed.", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 53", 
-  "time": 12176
+  "time": 1217.6
  }, 
  {
-  "duration": 18, 
+  "duration": 1.8, 
   "Text": "TerroristActivity 53", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 53", 
-  "time": 12176
+  "time": 1217.6
  }, 
  {
-  "duration": 10, 
+  "duration": 0, 
+  "Text": "  May 12, 2011  In Smogtown, two men with enough material to construct several explosive devices were apprehended before the devices were completed. In , two men with enough material to construct several explosive devices were apprehended before the devices were completed.", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 53", 
+  "time": 1228.2
+ }, 
+ {
+  "duration": 2.3, 
   "Text": "TerroristActivity 53", 
-  "InteractionType": "Reading", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 53", 
-  "time": 12204
+  "time": 1229.0
  }, 
  {
-  "duration": 5, 
-  "Text": "TerroristActivity 53", 
-  "InteractionType": "Reading", 
-  "ID": "TerroristActivity 53", 
-  "time": 12227
- }, 
- {
-  "duration": 23, 
-  "Text": "TerroristActivity 53", 
-  "InteractionType": "Draging", 
-  "ID": "TerroristActivity 53", 
-  "time": 12290
- }, 
- {
-  "duration": 10, 
-  "Text": "TerroristActivity53,TerroristActivity98", 
-  "InteractionType": "Connection", 
-  "ID": "TerroristActivity53,TerroristActivity98", 
-  "time": 12330
- }, 
- {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "TerroristActivity 59", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 59", 
-  "time": 12374
+  "time": 1237.4
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "TerroristActivity 2", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 2", 
-  "time": 12418
+  "time": 1241.8
  }, 
  {
-  "duration": 534, 
+  "duration": 53.4, 
   "Text": "TerroristActivity 2", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 2", 
-  "time": 12426
+  "time": 1242.6
  }, 
  {
-  "duration": 9, 
+  "duration": 4.0, 
   "Text": "TerroristActivity 2", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 2", 
-  "time": 12427
+  "time": 1242.7
  }, 
  {
-  "duration": 261, 
+  "duration": 26.1, 
   "Text": "TerroristActivity 2", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 2", 
-  "time": 12688
+  "time": 1268.8
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Still reading the document", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 12910
+  "time": 1291.0
  }, 
  {
-  "duration": 14, 
+  "duration": 1.4, 
   "Text": "TerroristActivity 2", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 2", 
-  "time": 12964
+  "time": 1296.4
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "I don't think it's related. but I want to look at the livestock article again", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 13040
+  "time": 1304.0
  }, 
  {
-  "duration": 37, 
+  "duration": 3.7, 
   "Text": "TerroristActivity 123", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 123", 
-  "time": 13075
+  "time": 1307.5
  }, 
  {
-  "duration": 1035, 
+  "duration": 103.5, 
   "Text": "TerroristActivity 123", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 123", 
-  "time": 13122
+  "time": 1312.2
  }, 
  {
   "duration": 0, 
   "Text": " (Looking for threats related to foods and livestock) [bottom-up]", 
-  "InteractionType": "Topic_change", 
+  "InteractionType": "topic_change", 
   "ID": "bottom-up", 
-  "time": 13290
+  "time": 1329.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "April 14, 2011 ", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 123", 
-  "time": 13330
+  "time": 1333.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Still reading the document", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 13740
+  "time": 1374.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "livestock", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 13873
+  "time": 1387.3
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "I'm going to search again for it", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 13880
+  "time": 1388.0
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "TerroristActivity 100", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 100", 
-  "time": 13921
+  "time": 1392.1
  }, 
  {
-  "duration": 158, 
+  "duration": 15.8, 
   "Text": "TerroristActivity 100", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 100", 
-  "time": 13936
+  "time": 1393.6
  }, 
  {
-  "duration": 20, 
+  "duration": 2.0, 
   "Text": "TerroristActivity 100", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 100", 
-  "time": 14097
+  "time": 1409.7
  }, 
  {
-  "duration": 10, 
+  "duration": 0, 
+  "Text": " mass livestock deaths on April 1  April 14, 2011 ", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 123", 
+  "time": 1415.7
+ }, 
+ {
+  "duration": 1.0, 
   "Text": "poison", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 14249
+  "time": 1424.9
  }, 
  {
-  "duration": 19, 
+  "duration": 1.9, 
   "Text": "TerroristActivity 32", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 32", 
-  "time": 14323
+  "time": 1432.3
  }, 
  {
-  "duration": 14, 
+  "duration": 1.4, 
   "Text": "TerroristActivity 32", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 32", 
-  "time": 14343
+  "time": 1434.3
  }, 
  {
-  "duration": 370, 
+  "duration": 37.0, 
   "Text": "TerroristActivity 32", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 32", 
-  "time": 14361
+  "time": 1436.1
  }, 
  {
-  "duration": 347, 
+  "duration": 34.7, 
   "Text": "TerroristActivity 32", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 32", 
-  "time": 14362
+  "time": 1436.2
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "TerroristActivity 32", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 32", 
-  "time": 14746
+  "time": 1474.6
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "trespass", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 14821
+  "time": 1482.1
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "threat", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 14911
+  "time": 1491.1
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "TerroristActivity 7", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 7", 
-  "time": 15045
+  "time": 1504.5
  }, 
  {
-  "duration": 15, 
+  "duration": 1.5, 
   "Text": "TerroristActivity 7", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 7", 
-  "time": 15056
+  "time": 1505.6
  }, 
  {
-  "duration": 560, 
+  "duration": 56.0, 
   "Text": "TerroristActivity 7", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 7", 
-  "time": 15078
+  "time": 1507.8
  }, 
  {
-  "duration": 352, 
+  "duration": 35.2, 
   "Text": "TerroristActivity 7", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 7", 
-  "time": 15079
+  "time": 1507.9
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Ethical Treatment of Lab Mice", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 32", 
-  "time": 15444
+  "time": 1544.4
  }, 
  {
-  "duration": 90, 
+  "duration": 9.0, 
   "Text": "TerroristActivity 7", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 7", 
-  "time": 15445
+  "time": 1544.5
  }, 
  {
   "duration": 0, 
   "Text": " (Looking for terrorist groups) [bottom-up]", 
-  "InteractionType": "Topic_change", 
+  "InteractionType": "topic_change", 
   "ID": "bottom-up", 
-  "time": 15450
+  "time": 1545.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "connected to the Brotherhood of Antarctica", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 7", 
-  "time": 15546
+  "time": 1554.6
  }, 
  {
-  "duration": 61, 
+  "duration": 6.1, 
   "Text": "TerroristActivity 7", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 7", 
-  "time": 15547
+  "time": 1554.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "emails of a threatening nature to VastPress.", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 7", 
-  "time": 15622
+  "time": 1562.2
  }, 
  {
-  "duration": 6, 
+  "duration": 0, 
+  "Text": " connected to the Brotherhood of Antarctica emails of a threatening nature to VastPress.", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 7", 
+  "time": 1563.8
+ }, 
+ {
+  "duration": 0.6, 
   "Text": "TerroristActivity 7", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 7", 
-  "time": 15714
+  "time": 1571.4
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "brotherhood", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 15818
+  "time": 1581.8
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "brotherhood of antarctica", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 15962
+  "time": 1596.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "brotherhood ", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 16025
+  "time": 1602.5
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "brotherhood", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 16060
+  "time": 1606.0
  }, 
  {
-  "duration": 172, 
+  "duration": 17.2, 
   "Text": "TerroristActivity 53", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 53", 
-  "time": 16105
+  "time": 1610.5
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Psychobrotherhood", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 53", 
-  "time": 16254
+  "time": 1625.4
  }, 
  {
-  "duration": 7, 
+  "duration": 0, 
+  "Text": "  May 12, 2011  In Smogtown, two men with enough material to construct several explosive devices were apprehended before the devices were completed. In , two men with enough material to construct several explosive devices were apprehended before the devices were completed. Psychobrotherhood", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 53", 
+  "time": 1627.7
+ }, 
+ {
+  "duration": 0.7, 
   "Text": "TerroristActivity 53", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 53", 
-  "time": 16319
+  "time": 1631.9
  }, 
  {
-  "duration": 5, 
+  "duration": 0, 
+  "Text": "  May 12, 2011  In Smogtown, two men with enough material to construct several explosive devices were apprehended before the devices were completed. In , two men with enough material to construct several explosive devices were apprehended before the devices were completed. Psychobrotherhood", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 53", 
+  "time": 1632.6
+ }, 
+ {
+  "duration": 0.5, 
   "Text": "TerroristActivity 53", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 53", 
-  "time": 16349
+  "time": 1634.9
  }, 
  {
-  "duration": 14, 
+  "duration": 0, 
+  "Text": "  May 12, 2011  In Smogtown, two men with enough material to construct several explosive devices were apprehended before the devices were completed. In , two men with enough material to construct several explosive devices were apprehended before the devices were completed. Psychobrotherhood", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 53", 
+  "time": 1635.0
+ }, 
+ {
+  "duration": 1.4, 
   "Text": "TerroristActivity 53", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 53", 
-  "time": 16361
+  "time": 1636.1
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "psychobrotherhood", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 16500
+  "time": 1650.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "brotherhood", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 16560
+  "time": 1656.0
  }, 
  {
-  "duration": 74, 
+  "duration": 7.4, 
   "Text": "TerroristActivity 154", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 154", 
-  "time": 16588
+  "time": 1658.8
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "TerroristActivity 153", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 153", 
-  "time": 16665
+  "time": 1666.5
  }, 
  {
-  "duration": 31, 
+  "duration": 3.1, 
   "Text": "TerroristActivity 153", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 153", 
-  "time": 16672
+  "time": 1667.2
  }, 
  {
-  "duration": 43, 
+  "duration": 4.3, 
   "Text": "TerroristActivity 152", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 152", 
-  "time": 16711
+  "time": 1671.1
  }, 
  {
-  "duration": 36, 
+  "duration": 3.6, 
   "Text": "TerroristActivity 25", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 25", 
-  "time": 16784
+  "time": 1678.4
  }, 
  {
-  "duration": 20, 
+  "duration": 2.0, 
   "Text": "TerroristActivity 50", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 50", 
-  "time": 16820
+  "time": 1682.0
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "TerroristActivity 129", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 129", 
-  "time": 16841
+  "time": 1684.1
  }, 
  {
-  "duration": 30, 
+  "duration": 3.0, 
   "Text": "TerroristActivity 103", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 103", 
-  "time": 16852
+  "time": 1685.2
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "TerroristActivity 129", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 129", 
-  "time": 16882
+  "time": 1688.2
  }, 
  {
-  "duration": 17, 
+  "duration": 1.7, 
   "Text": "TerroristActivity 103", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 103", 
-  "time": 16889
+  "time": 1688.9
  }, 
  {
-  "duration": 14, 
+  "duration": 1.4, 
   "Text": "TerroristActivity 119", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 119", 
-  "time": 16999
+  "time": 1699.9
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "TerroristActivity 116", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 116", 
-  "time": 17018
+  "time": 1701.8
  }, 
  {
-  "duration": 58, 
+  "duration": 5.8, 
   "Text": "TerroristActivity 115", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 115", 
-  "time": 17031
+  "time": 1703.1
  }, 
  {
-  "duration": 986, 
+  "duration": 98.6, 
   "Text": "TerroristActivity 115", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 115", 
-  "time": 17090
+  "time": 1709.0
  }, 
  {
-  "duration": 56, 
+  "duration": 5.6, 
   "Text": "TerroristActivity 115", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 115", 
-  "time": 17091
+  "time": 1709.1
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "I search for bunch of stuff but I didn't find anything that I like to continue. So now I'm passing over titles quikly", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 17150
+  "time": 1715.0
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "TerroristActivity 83", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 83", 
-  "time": 17169
+  "time": 1716.9
  }, 
  {
-  "duration": 8, 
-  "Text": "TerroristActivity 115", 
-  "InteractionType": "Reading", 
-  "ID": "TerroristActivity 115", 
-  "time": 17182
- }, 
- {
-  "duration": 111, 
+  "duration": 11.1, 
   "Text": "TerroristActivity 138", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 138", 
-  "time": 17223
+  "time": 1722.3
  }, 
  {
-  "duration": 8, 
+  "duration": 4.2, 
   "Text": "TerroristActivity 115", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 115", 
-  "time": 17237
+  "time": 1733.4
  }, 
  {
-  "duration": 42, 
-  "Text": "TerroristActivity 115", 
-  "InteractionType": "Reading", 
-  "ID": "TerroristActivity 115", 
-  "time": 17334
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Paramurderers of Chaos", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 115", 
-  "time": 17388
+  "time": 1738.8
  }, 
  {
-  "duration": 119, 
+  "duration": 11.9, 
   "Text": "TerroristActivity 115", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 115", 
-  "time": 17389
+  "time": 1738.9
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "apprehended three people", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 115", 
-  "time": 17525
+  "time": 1752.5
  }, 
  {
-  "duration": 416, 
+  "duration": 41.6, 
   "Text": "TerroristActivity 115", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 115", 
-  "time": 17527
+  "time": 1752.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "TerroristActivity 115", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 115", 
-  "time": 17860
+  "time": 1786.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "expensive high-end workbenches along with stacks of Petri dishes", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 115", 
-  "time": 17954
+  "time": 1795.4
  }, 
  {
-  "duration": 61, 
+  "duration": 6.1, 
   "Text": "TerroristActivity 115", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 115", 
-  "time": 17955
+  "time": 1795.5
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "laboratory in the basement", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 115", 
-  "time": 18034
+  "time": 1803.4
  }, 
  {
-  "duration": 5, 
+  "duration": 0, 
+  "Text": " Paramurderers of Chaos apprehended three people expensive high-end workbenches along with stacks of Petri dishes laboratory in the basement", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 115", 
+  "time": 1807.6
+ }, 
+ {
+  "duration": 1.9, 
   "Text": "TerroristActivity 115", 
-  "InteractionType": "Reading", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 115", 
-  "time": 18035
+  "time": 1808.7
  }, 
  {
-  "duration": 5, 
-  "Text": "TerroristActivity 115", 
-  "InteractionType": "Reading", 
-  "ID": "TerroristActivity 115", 
-  "time": 18058
- }, 
- {
-  "duration": 19, 
-  "Text": "TerroristActivity 115", 
-  "InteractionType": "Draging", 
-  "ID": "TerroristActivity 115", 
-  "time": 18087
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "In terms of finding threats I think it good to keep this one too", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 18090
+  "time": 1809.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "paramurderers", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 18294
+  "time": 1829.4
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "chaos", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 18361
+  "time": 1836.1
  }, 
  {
-  "duration": 173, 
+  "duration": 17.3, 
   "Text": "TerroristActivity 159", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 159", 
-  "time": 18407
+  "time": 1840.7
  }, 
  {
-  "duration": 27, 
+  "duration": 2.7, 
   "Text": "TerroristActivity 159", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 159", 
-  "time": 18408
+  "time": 1840.8
  }, 
  {
-  "duration": 54, 
+  "duration": 5.4, 
   "Text": "TerroristActivity 158", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 158", 
-  "time": 18435
+  "time": 1843.5
  }, 
  {
-  "duration": 5, 
+  "duration": 2.5, 
   "Text": "TerroristActivity 159", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 159", 
-  "time": 18498
+  "time": 1850.3
  }, 
  {
-  "duration": 25, 
-  "Text": "TerroristActivity 159", 
-  "InteractionType": "Reading", 
-  "ID": "TerroristActivity 159", 
-  "time": 18503
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Dread", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 159", 
-  "time": 18540
+  "time": 1854.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "There is a Network of Deard", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 18550
+  "time": 1855.0
  }, 
  {
-  "duration": 10, 
+  "duration": 0, 
+  "Text": " Dread", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 159", 
+  "time": 1858.0
+ }, 
+ {
+  "duration": 1.0, 
   "Text": "dread", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 18627
+  "time": 1862.7
  }, 
  {
-  "duration": 602, 
+  "duration": 60.2, 
   "Text": "TerroristActivity 158", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 158", 
-  "time": 18680
+  "time": 1868.0
  }, 
  {
-  "duration": 73, 
+  "duration": 7.3, 
   "Text": "TerroristActivity 158", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 158", 
-  "time": 18681
+  "time": 1868.1
  }, 
  {
-  "duration": 48, 
+  "duration": 4.8, 
   "Text": "TerroristActivity 158", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 158", 
-  "time": 18759
+  "time": 1875.9
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "VastPress has recently received numerous threatening emails", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 158", 
-  "time": 18817
+  "time": 1881.7
  }, 
  {
-  "duration": 40, 
+  "duration": 4.0, 
   "Text": "TerroristActivity 158", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 158", 
-  "time": 18818
+  "time": 1881.8
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": " Network of Dread", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 158", 
-  "time": 18869
+  "time": 1886.9
  }, 
  {
-  "duration": 196, 
+  "duration": 19.6, 
   "Text": "TerroristActivity 158", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 158", 
-  "time": 18870
+  "time": 1887.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "dread", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 19093
+  "time": 1909.3
  }, 
  {
-  "duration": 18, 
-  "Text": "TerroristActivity 158", 
-  "InteractionType": "Draging", 
+  "duration": 0, 
+  "Text": " VastPress has recently received numerous threatening emails  Network of Dread", 
+  "InteractionType": "bookmark_highlights", 
   "ID": "TerroristActivity 158", 
-  "time": 19289
+  "time": 1928.2
  }, 
  {
-  "duration": 18, 
+  "duration": 1.8, 
+  "Text": "TerroristActivity 158", 
+  "InteractionType": "moving_document", 
+  "ID": "TerroristActivity 158", 
+  "time": 1928.9
+ }, 
+ {
+  "duration": 1.8, 
   "Text": "TerroristActivity 83", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 83", 
-  "time": 19313
+  "time": 1931.3
  }, 
  {
-  "duration": 24, 
+  "duration": 2.4, 
   "Text": "TerroristActivity 90", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 90", 
-  "time": 19383
+  "time": 1938.3
  }, 
  {
-  "duration": 459, 
+  "duration": 45.9, 
   "Text": "TerroristActivity 159", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 159", 
-  "time": 19425
+  "time": 1942.5
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Regarding finding information about threats. a number of threatening emails have been sent to this press", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 19490
+  "time": 1949.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Network of Dread.", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 159", 
-  "time": 19581
+  "time": 1958.1
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Network of Dread. DHS officials said there was evidence that the target had been Washington. ", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 159", 
-  "time": 19708
+  "time": 1970.8
  }, 
  {
-  "duration": 24, 
+  "duration": 0, 
+  "Text": " Dread Network of Dread. Network of Dread. DHS officials said there was evidence that the target had been Washington. ", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 159", 
+  "time": 1988.4
+ }, 
+ {
+  "duration": 2.4, 
   "Text": "TerroristActivity 159", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 159", 
-  "time": 19900
+  "time": 1990.0
  }, 
  {
-  "duration": 80, 
+  "duration": 8.0, 
   "Text": "TerroristActivity 158", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 158", 
-  "time": 19939
+  "time": 1993.9
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "TerroristActivity 158", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 158", 
-  "time": 19945
+  "time": 1994.5
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "I can use the dates infanct", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 20000
+  "time": 2000.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "May 2011", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 158", 
-  "time": 20010
+  "time": 2001.0
  }, 
  {
-  "duration": 12, 
+  "duration": 0, 
+  "Text": " VastPress has recently received numerous threatening emails  Network of Dread May 2011", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 158", 
+  "time": 2001.9
+ }, 
+ {
+  "duration": 1.2, 
   "Text": "TerroristActivity 158", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 158", 
-  "time": 20027
+  "time": 2002.7
  }, 
  {
-  "duration": 90, 
+  "duration": 9.0, 
   "Text": "TerroristActivity 159", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 159", 
-  "time": 20062
+  "time": 2006.2
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "TerroristActivity 159", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 159", 
-  "time": 20068
+  "time": 2006.8
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "May 2011", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 159", 
-  "time": 20122
+  "time": 2012.2
  }, 
  {
-  "duration": 16, 
+  "duration": 0, 
+  "Text": " Dread Network of Dread. Network of Dread. DHS officials said there was evidence that the target had been Washington.  May 2011", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 159", 
+  "time": 2015.2
+ }, 
+ {
+  "duration": 1.6, 
   "Text": "TerroristActivity 159", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 159", 
-  "time": 20163
+  "time": 2016.3
  }, 
  {
-  "duration": 10, 
-  "Text": "TerroristActivity158,TerroristActivity159", 
-  "InteractionType": "Connection", 
-  "ID": "TerroristActivity158,TerroristActivity159", 
-  "time": 20199
- }, 
- {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "TerroristActivity 90", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 90", 
-  "time": 20240
+  "time": 2024.0
  }, 
  {
-  "duration": 78, 
+  "duration": 7.8, 
   "Text": "TerroristActivity 90", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 90", 
-  "time": 20256
+  "time": 2025.6
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "TerroristActivity 90", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 90", 
-  "time": 20257
+  "time": 2025.7
  }, 
  {
-  "duration": 20, 
+  "duration": 2.0, 
   "Text": "TerroristActivity 90", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 90", 
-  "time": 20263
+  "time": 2026.3
  }, 
  {
-  "duration": 16, 
+  "duration": 1.6, 
   "Text": "TerroristActivity 90", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 90", 
-  "time": 20308
+  "time": 2030.8
  }, 
  {
-  "duration": 29, 
+  "duration": 2.9, 
   "Text": "TerroristActivity 90", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 90", 
-  "time": 20341
+  "time": 2034.1
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "TerroristActivity 52", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 52", 
-  "time": 20385
+  "time": 2038.5
  }, 
  {
-  "duration": 91, 
+  "duration": 9.1, 
   "Text": "TerroristActivity 52", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 52", 
-  "time": 20395
+  "time": 2039.5
  }, 
  {
-  "duration": 57, 
+  "duration": 5.7, 
   "Text": "TerroristActivity 52", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 52", 
-  "time": 20416
+  "time": 2041.6
  }, 
  {
-  "duration": 45, 
+  "duration": 4.5, 
   "Text": "TerroristActivity 52", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 52", 
-  "time": 20493
+  "time": 2049.3
  }, 
  {
-  "duration": 24, 
+  "duration": 2.4, 
   "Text": "TerroristActivity 1", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 1", 
-  "time": 20583
+  "time": 2058.3
  }, 
  {
-  "duration": 47, 
+  "duration": 4.7, 
   "Text": "TerroristActivity 4", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 4", 
-  "time": 20611
+  "time": 2061.1
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "TerroristActivity 4", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 4", 
-  "time": 20659
+  "time": 2065.9
  }, 
  {
-  "duration": 137, 
+  "duration": 13.7, 
   "Text": "TerroristActivity 4", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 4", 
-  "time": 20672
+  "time": 2067.2
  }, 
  {
-  "duration": 42, 
+  "duration": 4.2, 
   "Text": "TerroristActivity 4", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 4", 
-  "time": 20673
+  "time": 2067.3
  }, 
  {
-  "duration": 14, 
+  "duration": 1.4, 
   "Text": "TerroristActivity 4", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 4", 
-  "time": 20719
+  "time": 2071.9
  }, 
  {
-  "duration": 9, 
-  "Text": "TerroristActivity 4", 
-  "InteractionType": "Reading", 
-  "ID": "TerroristActivity 4", 
-  "time": 20740
- }, 
- {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "TerroristActivity 125", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 125", 
-  "time": 20750
+  "time": 2075.0
  }, 
  {
-  "duration": 26, 
+  "duration": 2.6, 
   "Text": "TerroristActivity 4", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 4", 
-  "time": 20817
+  "time": 2081.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "TerroristActivity 90", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 90", 
-  "time": 20857
+  "time": 2085.7
  }, 
  {
-  "duration": 44, 
+  "duration": 4.4, 
   "Text": "TerroristActivity 134", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 134", 
-  "time": 20873
+  "time": 2087.3
  }, 
  {
-  "duration": 78, 
+  "duration": 7.8, 
   "Text": "TerroristActivity 135", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 135", 
-  "time": 20917
+  "time": 2091.7
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "TerroristActivity 84", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 84", 
-  "time": 21029
+  "time": 2102.9
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "TerroristActivity 134", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 134", 
-  "time": 21035
+  "time": 2103.5
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "TerroristActivity 110", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 110", 
-  "time": 21042
+  "time": 2104.2
  }, 
  {
-  "duration": 36, 
+  "duration": 3.6, 
   "Text": "TerroristActivity 84", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 84", 
-  "time": 21060
+  "time": 2106.0
  }, 
  {
-  "duration": 20, 
+  "duration": 2.0, 
   "Text": "TerroristActivity 68", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 68", 
-  "time": 21241
+  "time": 2124.1
  }, 
  {
-  "duration": 603, 
+  "duration": 60.3, 
   "Text": "TerroristActivity 68", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 68", 
-  "time": 21289
+  "time": 2128.9
  }, 
  {
-  "duration": 6, 
-  "Text": "TerroristActivity 68", 
-  "InteractionType": "Reading", 
-  "ID": "TerroristActivity 68", 
-  "time": 21290
- }, 
- {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "TerroristActivity 108", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 108", 
-  "time": 21298
+  "time": 2129.8
  }, 
  {
-  "duration": 49, 
+  "duration": 4.9, 
   "Text": "TerroristActivity 68", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 68", 
-  "time": 21306
+  "time": 2130.6
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "May 16, 2011 ", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 68", 
-  "time": 21365
+  "time": 2136.5
  }, 
  {
-  "duration": 81, 
+  "duration": 8.1, 
   "Text": "TerroristActivity 68", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 68", 
-  "time": 21366
+  "time": 2136.6
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Large Number of Weapons Found During Traffic Stop ", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 68", 
-  "time": 21457
+  "time": 2145.7
  }, 
  {
-  "duration": 14, 
+  "duration": 1.4, 
   "Text": "TerroristActivity 68", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 68", 
-  "time": 21459
+  "time": 2145.9
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "TerroristActivity 4", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 4", 
-  "time": 21475
+  "time": 2147.5
  }, 
  {
-  "duration": 10, 
+  "duration": 5.0, 
   "Text": "TerroristActivity 68", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 68", 
-  "time": 21496
+  "time": 2154.4
  }, 
  {
-  "duration": 5, 
-  "Text": "TerroristActivity 68", 
-  "InteractionType": "Reading", 
-  "ID": "TerroristActivity 68", 
-  "time": 21521
- }, 
- {
-  "duration": 5, 
-  "Text": "TerroristActivity 68", 
-  "InteractionType": "Reading", 
-  "ID": "TerroristActivity 68", 
-  "time": 21541
- }, 
- {
-  "duration": 50, 
-  "Text": "TerroristActivity 68", 
-  "InteractionType": "Reading", 
-  "ID": "TerroristActivity 68", 
-  "time": 21544
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Cornertown", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 68", 
-  "time": 21603
+  "time": 2160.3
  }, 
  {
-  "duration": 68, 
+  "duration": 6.8, 
   "Text": "TerroristActivity 68", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 68", 
-  "time": 21605
+  "time": 2160.5
  }, 
  {
-  "duration": 34, 
+  "duration": 3.4, 
   "Text": "TerroristActivity 153", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 153", 
-  "time": 21673
+  "time": 2167.3
  }, 
  {
-  "duration": 29, 
+  "duration": 2.9, 
   "Text": "TerroristActivity 68", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 68", 
-  "time": 21707
+  "time": 2170.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": " Samuel Stansbury", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 68", 
-  "time": 21744
+  "time": 2174.4
  }, 
  {
-  "duration": 16, 
+  "duration": 1.6, 
   "Text": "TerroristActivity 68", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 68", 
-  "time": 21746
+  "time": 2174.6
  }, 
  {
-  "duration": 25, 
+  "duration": 2.5, 
   "Text": "TerroristActivity 154", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 154", 
-  "time": 21762
+  "time": 2176.2
  }, 
  {
-  "duration": 53, 
+  "duration": 5.3, 
   "Text": "TerroristActivity 68", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 68", 
-  "time": 21787
+  "time": 2178.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Network of Hate", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 68", 
-  "time": 21852
+  "time": 2185.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "One individual arrested and he was a part of Network of Hate", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 21890
+  "time": 2189.0
  }, 
  {
-  "duration": 17, 
-  "Text": "TerroristActivity 68", 
-  "InteractionType": "Draging", 
+  "duration": 0, 
+  "Text": " May 16, 2011  Large Number of Weapons Found During Traffic Stop  Cornertown  Samuel Stansbury Network of Hate", 
+  "InteractionType": "bookmark_highlights", 
   "ID": "TerroristActivity 68", 
-  "time": 21930
+  "time": 2189.2
  }, 
  {
-  "duration": 32, 
+  "duration": 1.7, 
   "Text": "TerroristActivity 68", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 68", 
-  "time": 22188
+  "time": 2193.0
  }, 
  {
-  "duration": 10, 
+  "duration": 3.2, 
+  "Text": "TerroristActivity 68", 
+  "InteractionType": "moving_document", 
+  "ID": "TerroristActivity 68", 
+  "time": 2218.8
+ }, 
+ {
+  "duration": 1.0, 
   "Text": "cornertown", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 22358
+  "time": 2235.8
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "network of hate", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 22452
+  "time": 2245.2
  }, 
  {
-  "duration": 16, 
+  "duration": 1.6, 
   "Text": "TerroristActivity 68", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 68", 
-  "time": 22661
+  "time": 2266.1
  }, 
  {
-  "duration": 224, 
+  "duration": 22.4, 
   "Text": "TerroristActivity 157", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 157", 
-  "time": 22821
+  "time": 2282.1
  }, 
  {
   "duration": 0, 
   "Text": " (Looking for suspicious activities by groups) [bottom-up]", 
-  "InteractionType": "Topic_change", 
+  "InteractionType": "topic_change", 
   "ID": "bottom-up", 
-  "time": 22930
+  "time": 2293.0
  }, 
  {
-  "duration": 14, 
-  "Text": "TerroristActivity 157", 
-  "InteractionType": "Draging", 
+  "duration": 0, 
+  "Text": " March 2011  the crash of a Antarctica Airlines jet.", 
+  "InteractionType": "bookmark_highlights", 
   "ID": "TerroristActivity 157", 
-  "time": 23067
+  "time": 2304.5
  }, 
  {
-  "duration": 11, 
+  "duration": 1.4, 
+  "Text": "TerroristActivity 157", 
+  "InteractionType": "moving_document", 
+  "ID": "TerroristActivity 157", 
+  "time": 2306.7
+ }, 
+ {
+  "duration": 1.1, 
   "Text": "TerroristActivity 80", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 80", 
-  "time": 23099
+  "time": 2309.9
  }, 
  {
-  "duration": 108, 
+  "duration": 10.8, 
   "Text": "TerroristActivity 60", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 60", 
-  "time": 23129
+  "time": 2312.9
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "TerroristActivity 49", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 49", 
-  "time": 23257
+  "time": 2325.7
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "TerroristActivity 47", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 47", 
-  "time": 23269
+  "time": 2326.9
  }, 
  {
-  "duration": 70, 
+  "duration": 7.0, 
   "Text": "TerroristActivity 47", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 47", 
-  "time": 23286
+  "time": 2328.6
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "TerroristActivity 70", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 70", 
-  "time": 23361
+  "time": 2336.1
  }, 
  {
-  "duration": 31, 
+  "duration": 3.1, 
   "Text": "TerroristActivity 47", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 47", 
-  "time": 23374
+  "time": 2337.4
  }, 
  {
-  "duration": 14, 
+  "duration": 1.4, 
   "Text": "TerroristActivity 46", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 46", 
-  "time": 23405
+  "time": 2340.5
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "TerroristActivity 47", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 47", 
-  "time": 23436
+  "time": 2343.6
  }, 
  {
-  "duration": 24, 
+  "duration": 2.4, 
   "Text": "TerroristActivity 47", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 47", 
-  "time": 23474
+  "time": 2347.4
  }, 
  {
-  "duration": 197, 
+  "duration": 19.7, 
   "Text": "TerroristActivity 40", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 40", 
-  "time": 23512
+  "time": 2351.2
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "TerroristActivity 64", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 64", 
-  "time": 23712
+  "time": 2371.2
  }, 
  {
-  "duration": 23, 
+  "duration": 2.3, 
   "Text": "TerroristActivity 68", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 68", 
-  "time": 23738
+  "time": 2373.8
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "I've information on Network of Hate. some suspects working on a labratory n basement. then there was an explision in a cheemical plant by psychobrotherhood. Also a bombing in antractia airline jet", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 23800
+  "time": 2380.0
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "TerroristActivity 32", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 32", 
-  "time": 24539
+  "time": 2453.9
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "TerroristActivity 109", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 109", 
-  "time": 24614
+  "time": 2461.4
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "TerroristActivity 18", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 18", 
-  "time": 24709
+  "time": 2470.9
  }, 
  {
-  "duration": 16, 
+  "duration": 1.6, 
   "Text": "TerroristActivity 112", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 112", 
-  "time": 24942
+  "time": 2494.2
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "TerroristActivity 84", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 84", 
-  "time": 24965
+  "time": 2496.5
  }, 
  {
-  "duration": 32, 
+  "duration": 3.2, 
   "Text": "TerroristActivity 85", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 85", 
-  "time": 24974
+  "time": 2497.4
  }, 
  {
-  "duration": 19, 
+  "duration": 1.9, 
   "Text": "TerroristActivity 84", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 84", 
-  "time": 25006
+  "time": 2500.6
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "TerroristActivity 90", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 90", 
-  "time": 25035
+  "time": 2503.5
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "suspect", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 25189
+  "time": 2518.9
  }, 
  {
-  "duration": 273, 
+  "duration": 27.3, 
   "Text": "TerroristActivity 78", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 78", 
-  "time": 25226
+  "time": 2522.6
  }, 
  {
-  "duration": 260, 
+  "duration": 26.0, 
   "Text": "TerroristActivity 78", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 78", 
-  "time": 25227
+  "time": 2522.7
  }, 
  {
-  "duration": 28, 
+  "duration": 2.8, 
   "Text": "TerroristActivity 78", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 78", 
-  "time": 25508
+  "time": 2550.8
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "TerroristActivity 57", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 57", 
-  "time": 25541
+  "time": 2554.1
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "TerroristActivity 141", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 141", 
-  "time": 25552
+  "time": 2555.2
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "TerroristActivity 88", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 88", 
-  "time": 25576
+  "time": 2557.6
  }, 
  {
-  "duration": 738, 
+  "duration": 73.8, 
   "Text": "TerroristActivity 88", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 88", 
-  "time": 25584
+  "time": 2558.4
  }, 
  {
-  "duration": 148, 
+  "duration": 14.8, 
   "Text": "TerroristActivity 88", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 88", 
-  "time": 25585
+  "time": 2558.5
  }, 
  {
-  "duration": 48, 
+  "duration": 4.8, 
   "Text": "TerroristActivity 88", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 88", 
-  "time": 25737
+  "time": 2573.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Three retired military officers ", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 88", 
-  "time": 25796
+  "time": 2579.6
  }, 
  {
-  "duration": 147, 
+  "duration": 14.7, 
   "Text": "TerroristActivity 88", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 88", 
-  "time": 25797
+  "time": 2579.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "in Plot To Kill Bangladesh's Leader ", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 88", 
-  "time": 25956
+  "time": 2595.6
  }, 
  {
-  "duration": 46, 
+  "duration": 4.6, 
   "Text": "TerroristActivity 88", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 88", 
-  "time": 25958
+  "time": 2595.8
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "April 29, 2011", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 88", 
-  "time": 26020
+  "time": 2602.0
  }, 
  {
-  "duration": 106, 
+  "duration": 10.6, 
   "Text": "TerroristActivity 88", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 88", 
-  "time": 26021
+  "time": 2602.1
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "TerroristActivity 88", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 88", 
-  "time": 26123
+  "time": 2612.3
  }, 
  {
-  "duration": 9, 
+  "duration": 0, 
+  "Text": " Three retired military officers  in Plot To Kill Bangladesh's Leader  April 29, 2011", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 88", 
+  "time": 2632.2
+ }, 
+ {
+  "duration": 0.9, 
   "Text": "TerroristActivity 125", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 125", 
-  "time": 26322
+  "time": 2632.2
  }, 
  {
-  "duration": 27, 
+  "duration": 2.7, 
   "Text": "TerroristActivity 88", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 88", 
-  "time": 26336
+  "time": 2633.6
  }, 
  {
-  "duration": 12, 
+  "duration": 1.2, 
   "Text": "TerroristActivity 100", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 100", 
-  "time": 26368
+  "time": 2636.8
  }, 
  {
-  "duration": 21, 
+  "duration": 2.1, 
   "Text": "TerroristActivity 109", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 109", 
-  "time": 26382
+  "time": 2638.2
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "TerroristActivity 83", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 83", 
-  "time": 26404
+  "time": 2640.4
  }, 
  {
-  "duration": 123, 
+  "duration": 12.3, 
   "Text": "TerroristActivity 83", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 83", 
-  "time": 26413
+  "time": 2641.3
  }, 
  {
-  "duration": 17, 
+  "duration": 1.7, 
   "Text": "TerroristActivity 26", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 26", 
-  "time": 26547
+  "time": 2654.7
  }, 
  {
-  "duration": 9408, 
+  "duration": 940.8, 
   "Text": "TerroristActivity 26", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 26", 
-  "time": 26565
+  "time": 2656.5
  }, 
  {
-  "duration": 183, 
+  "duration": 18.3, 
   "Text": "TerroristActivity 26", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 26", 
-  "time": 26566
+  "time": 2656.6
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "contaminating drinking water and food ", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 88", 
-  "time": 26762
+  "time": 2676.2
  }, 
  {
-  "duration": 203, 
+  "duration": 20.3, 
   "Text": "TerroristActivity 26", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 26", 
-  "time": 26763
+  "time": 2676.3
  }, 
  {
-  "duration": 14, 
+  "duration": 1.4, 
   "Text": "TerroristActivity 49", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 49", 
-  "time": 26988
+  "time": 2698.8
  }, 
  {
   "duration": 0, 
   "Text": " (User had 7 minutes break! ) [break]", 
-  "InteractionType": "Topic_change", 
+  "InteractionType": "topic_change", 
   "ID": "break", 
-  "time": 27080
+  "time": 2708.0
  }, 
  {
   "duration": 0, 
   "Text": " (Looking at bombings at different places) [bottom-up]", 
-  "InteractionType": "Topic_change", 
+  "InteractionType": "topic_change", 
   "ID": "bottom-up", 
-  "time": 31280
+  "time": 3128.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "I've found many places", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 31720
+  "time": 3172.0
  }, 
  {
-  "duration": 16, 
+  "duration": 1.6, 
   "Text": "TerroristActivity 84", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 84", 
-  "time": 33154
+  "time": 3315.4
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "TerroristActivity 57", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 57", 
-  "time": 33174
+  "time": 3317.4
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "TerroristActivity 76", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 76", 
-  "time": 33214
+  "time": 3321.4
  }, 
  {
-  "duration": 16, 
+  "duration": 1.6, 
   "Text": "TerroristActivity 77", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 77", 
-  "time": 33248
+  "time": 3324.8
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "TerroristActivity 127", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 127", 
-  "time": 33312
+  "time": 3331.2
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "TerroristActivity 126", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 126", 
-  "time": 33319
+  "time": 3331.9
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "TerroristActivity 103", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 103", 
-  "time": 33326
+  "time": 3332.6
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "TerroristActivity 76", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 76", 
-  "time": 33339
+  "time": 3333.9
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "TerroristActivity 77", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 77", 
-  "time": 33361
+  "time": 3336.1
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "TerroristActivity 102", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 102", 
-  "time": 33369
+  "time": 3336.9
  }, 
  {
-  "duration": 50, 
+  "duration": 5.0, 
   "Text": "TerroristActivity 77", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 77", 
-  "time": 33386
+  "time": 3338.6
  }, 
  {
-  "duration": 49, 
+  "duration": 4.9, 
   "Text": "TerroristActivity 102", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 102", 
-  "time": 33442
+  "time": 3344.2
  }, 
  {
-  "duration": 5, 
-  "Text": "TerroristActivity 26", 
-  "InteractionType": "Reading", 
-  "ID": "TerroristActivity 26", 
-  "time": 33494
- }, 
- {
-  "duration": 232, 
+  "duration": 23.2, 
   "Text": "TerroristActivity 53", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 53", 
-  "time": 33766
+  "time": 3376.6
  }, 
  {
-  "duration": 44, 
+  "duration": 0, 
+  "Text": "  May 12, 2011  In Smogtown, two men with enough material to construct several explosive devices were apprehended before the devices were completed. In , two men with enough material to construct several explosive devices were apprehended before the devices were completed. Psychobrotherhood", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 53", 
+  "time": 3399.8
+ }, 
+ {
+  "duration": 4.4, 
   "Text": "TerroristActivity 53", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 53", 
-  "time": 34007
+  "time": 3400.7
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "TerroristActivity 131", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 131", 
-  "time": 34110
+  "time": 3411.0
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "TerroristActivity 153", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 153", 
-  "time": 34118
+  "time": 3411.8
  }, 
  {
-  "duration": 14, 
+  "duration": 1.4, 
   "Text": "TerroristActivity 133", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 133", 
-  "time": 34128
+  "time": 3412.8
  }, 
  {
-  "duration": 25, 
+  "duration": 2.5, 
   "Text": "TerroristActivity 125", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 125", 
-  "time": 34142
+  "time": 3414.2
  }, 
  {
-  "duration": 22, 
+  "duration": 2.2, 
   "Text": "TerroristActivity 134", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 134", 
-  "time": 34171
+  "time": 3417.1
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "TerroristActivity 152", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 152", 
-  "time": 34193
+  "time": 3419.3
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "TerroristActivity 135", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 135", 
-  "time": 34201
+  "time": 3420.1
  }, 
  {
-  "duration": 12, 
+  "duration": 1.2, 
   "Text": "TerroristActivity 136", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 136", 
-  "time": 34221
+  "time": 3422.1
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "TerroristActivity 138", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 138", 
-  "time": 34248
+  "time": 3424.8
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "TerroristActivity 90", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 90", 
-  "time": 34265
+  "time": 3426.5
  }, 
  {
-  "duration": 14, 
+  "duration": 1.4, 
   "Text": "TerroristActivity 152", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 152", 
-  "time": 34280
+  "time": 3428.0
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "TerroristActivity 75", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 75", 
-  "time": 34296
+  "time": 3429.6
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "TerroristActivity 125", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 125", 
-  "time": 34312
+  "time": 3431.2
  }, 
  {
-  "duration": 204, 
+  "duration": 20.4, 
   "Text": "TerroristActivity 152", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 152", 
-  "time": 34321
+  "time": 3432.1
  }, 
  {
   "duration": 0, 
   "Text": " (Looking into a Bombing Happened in Saudi Arabia) [bottom-up]", 
-  "InteractionType": "Topic_change", 
+  "InteractionType": "topic_change", 
   "ID": "bottom-up", 
-  "time": 34360
+  "time": 3436.0
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "TerroristActivity 154", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 154", 
-  "time": 34526
+  "time": 3452.6
  }, 
  {
-  "duration": 375, 
+  "duration": 37.5, 
   "Text": "TerroristActivity 156", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 156", 
-  "time": 34532
+  "time": 3453.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Still reading the document", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 34590
+  "time": 3459.0
  }, 
  {
-  "duration": 61, 
+  "duration": 6.1, 
   "Text": "TerroristActivity 58", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 58", 
-  "time": 34925
+  "time": 3492.5
  }, 
  {
-  "duration": 18, 
+  "duration": 1.8, 
   "Text": "TerroristActivity 40", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 40", 
-  "time": 35041
+  "time": 3504.1
  }, 
  {
-  "duration": 16, 
+  "duration": 1.6, 
   "Text": "TerroristActivity 43", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 43", 
-  "time": 35063
+  "time": 3506.3
  }, 
  {
-  "duration": 117, 
+  "duration": 11.7, 
   "Text": "TerroristActivity 42", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 42", 
-  "time": 35079
+  "time": 3507.9
  }, 
  {
-  "duration": 20, 
+  "duration": 2.0, 
   "Text": "TerroristActivity 23", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 23", 
-  "time": 35232
+  "time": 3523.2
  }, 
  {
-  "duration": 32, 
+  "duration": 3.2, 
   "Text": "TerroristActivity 23", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 23", 
-  "time": 35253
+  "time": 3525.3
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "TerroristActivity 48", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 48", 
-  "time": 35296
+  "time": 3529.6
  }, 
  {
-  "duration": 53, 
+  "duration": 5.3, 
   "Text": "TerroristActivity 16", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 16", 
-  "time": 35311
+  "time": 3531.1
  }, 
  {
-  "duration": 35, 
+  "duration": 3.5, 
   "Text": "TerroristActivity 14", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 14", 
-  "time": 35368
+  "time": 3536.8
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "TerroristActivity 78", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 78", 
-  "time": 35404
+  "time": 3540.4
  }, 
  {
-  "duration": 64, 
+  "duration": 6.4, 
   "Text": "TerroristActivity 78", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 78", 
-  "time": 35416
+  "time": 3541.6
  }, 
  {
-  "duration": 35, 
+  "duration": 3.5, 
   "Text": "TerroristActivity 78", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 78", 
-  "time": 35485
+  "time": 3548.5
  }, 
  {
-  "duration": 229, 
+  "duration": 22.9, 
   "Text": "TerroristActivity 3", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 3", 
-  "time": 35538
+  "time": 3553.8
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "TerroristActivity 150", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 150", 
-  "time": 35774
+  "time": 3577.4
  }, 
  {
-  "duration": 20, 
+  "duration": 2.0, 
   "Text": "TerroristActivity 126", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 126", 
-  "time": 35790
+  "time": 3579.0
  }, 
  {
-  "duration": 30, 
+  "duration": 3.0, 
   "Text": "TerroristActivity 149", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 149", 
-  "time": 35810
+  "time": 3581.0
  }, 
  {
-  "duration": 21, 
+  "duration": 2.1, 
   "Text": "TerroristActivity 150", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 150", 
-  "time": 35840
+  "time": 3584.0
  }, 
  {
-  "duration": 28, 
+  "duration": 2.8, 
   "Text": "TerroristActivity 153", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 153", 
-  "time": 35866
+  "time": 3586.6
  }, 
  {
-  "duration": 106, 
+  "duration": 10.6, 
   "Text": "TerroristActivity 152", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 152", 
-  "time": 35900
+  "time": 3590.0
  }, 
  {
-  "duration": 57, 
+  "duration": 5.7, 
   "Text": "TerroristActivity 152", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 152", 
-  "time": 35901
+  "time": 3590.1
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "TerroristActivity 26", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 26", 
-  "time": 35979
+  "time": 3597.9
  }, 
  {
-  "duration": 70, 
+  "duration": 7.0, 
   "Text": "TerroristActivity 125", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 125", 
-  "time": 36006
+  "time": 3600.6
  }, 
  {
-  "duration": 81, 
+  "duration": 8.1, 
   "Text": "TerroristActivity 90", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 90", 
-  "time": 36089
+  "time": 3608.9
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "TerroristActivity 146", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 146", 
-  "time": 36215
+  "time": 3621.5
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "TerroristActivity 133", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 133", 
-  "time": 36249
+  "time": 3624.9
  }, 
  {
-  "duration": 399, 
+  "duration": 39.9, 
   "Text": "TerroristActivity 133", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 133", 
-  "time": 36256
+  "time": 3625.6
  }, 
  {
-  "duration": 124, 
+  "duration": 12.4, 
   "Text": "TerroristActivity 133", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 133", 
-  "time": 36257
+  "time": 3625.7
  }, 
  {
-  "duration": 63, 
+  "duration": 6.3, 
   "Text": "TerroristActivity 133", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 133", 
-  "time": 36393
+  "time": 3639.3
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "TerroristActivity 133", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 133", 
-  "time": 36460
+  "time": 3646.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "servicemen", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 36599
+  "time": 3659.9
  }, 
  {
-  "duration": 679, 
+  "duration": 67.9, 
   "Text": "TerroristActivity 143", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 143", 
-  "time": 36673
+  "time": 3667.3
  }, 
  {
-  "duration": 70, 
+  "duration": 7.0, 
   "Text": "TerroristActivity 143", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 143", 
-  "time": 36674
+  "time": 3667.4
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "I searched for the location and also servicemen and found the second documentyou see", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 36760
+  "time": 3676.0
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "TerroristActivity 143", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 143", 
-  "time": 36833
+  "time": 3683.3
  }, 
  {
-  "duration": 40, 
+  "duration": 4.0, 
   "Text": "TerroristActivity 143", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 143", 
-  "time": 36840
+  "time": 3684.0
  }, 
  {
-  "duration": 43, 
+  "duration": 4.3, 
   "Text": "TerroristActivity 143", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 143", 
-  "time": 36923
+  "time": 3692.3
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": " truck bombing", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 143", 
-  "time": 36976
+  "time": 3697.6
  }, 
  {
-  "duration": 40, 
+  "duration": 4.0, 
   "Text": "TerroristActivity 143", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 143", 
-  "time": 36977
+  "time": 3697.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": " April 26, 2011 ", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 143", 
-  "time": 37027
+  "time": 3702.7
  }, 
  {
-  "duration": 57, 
+  "duration": 5.7, 
   "Text": "TerroristActivity 143", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 143", 
-  "time": 37028
+  "time": 3702.8
  }, 
  {
   "duration": 0, 
   "Text": " (Searching for poison and chemical threats) [bottom-up]", 
-  "InteractionType": "Topic_change", 
+  "InteractionType": "topic_change", 
   "ID": "bottom-up", 
-  "time": 37080
+  "time": 3708.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "U.S. Base Bombin", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 143", 
-  "time": 37094
+  "time": 3709.4
  }, 
  {
-  "duration": 74, 
+  "duration": 7.4, 
   "Text": "TerroristActivity 143", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 143", 
-  "time": 37095
+  "time": 3709.5
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "DUBAI, United Arab Emirates ", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 143", 
-  "time": 37181
+  "time": 3718.1
  }, 
  {
-  "duration": 37, 
+  "duration": 3.7, 
   "Text": "TerroristActivity 143", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 143", 
-  "time": 37182
+  "time": 3718.2
  }, 
  {
-  "duration": 99, 
+  "duration": 9.9, 
   "Text": "TerroristActivity 143", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 143", 
-  "time": 37228
+  "time": 3722.8
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": " killed 19 U.S. servicemen in Saudi Arabia", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 143", 
-  "time": 37336
+  "time": 3733.6
  }, 
  {
-  "duration": 15, 
+  "duration": 0, 
+  "Text": "  truck bombing  April 26, 2011  U.S. Base Bombin DUBAI, United Arab Emirates   killed 19 U.S. servicemen in Saudi Arabia", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 143", 
+  "time": 3735.2
+ }, 
+ {
+  "duration": 1.5, 
   "Text": "TerroristActivity 143", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 143", 
-  "time": 37392
+  "time": 3739.2
  }, 
  {
-  "duration": 20, 
+  "duration": 2.0, 
   "Text": "TerroristActivity 128", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 128", 
-  "time": 37457
+  "time": 3745.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Sounds like this article doesn't have anything to do with other evidences", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 37470
+  "time": 3747.0
  }, 
  {
-  "duration": 15, 
+  "duration": 1.5, 
   "Text": "TerroristActivity 151", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 151", 
-  "time": 37489
+  "time": 3748.9
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "TerroristActivity 53", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 53", 
-  "time": 37542
+  "time": 3754.2
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "TerroristActivity 7", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 7", 
-  "time": 37558
+  "time": 3755.8
  }, 
  {
-  "duration": 22, 
+  "duration": 2.2, 
   "Text": "TerroristActivity 59", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 59", 
-  "time": 37579
+  "time": 3757.9
  }, 
  {
-  "duration": 26, 
+  "duration": 2.6, 
   "Text": "TerroristActivity 143", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 143", 
-  "time": 37616
+  "time": 3761.6
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "TerroristActivity 133", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 133", 
-  "time": 37651
+  "time": 3765.1
  }, 
  {
-  "duration": 753, 
+  "duration": 75.3, 
   "Text": "TerroristActivity 133", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 133", 
-  "time": 37659
+  "time": 3765.9
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "TerroristActivity 133", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 133", 
-  "time": 37660
+  "time": 3766.0
  }, 
  {
-  "duration": 5, 
+  "duration": 10.7, 
   "Text": "TerroristActivity 133", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 133", 
-  "time": 37676
+  "time": 3768.0
  }, 
  {
-  "duration": 107, 
-  "Text": "TerroristActivity 133", 
-  "InteractionType": "Reading", 
-  "ID": "TerroristActivity 133", 
-  "time": 37680
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "March 29, 2011 ", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 133", 
-  "time": 37814
+  "time": 3781.4
  }, 
  {
-  "duration": 85, 
+  "duration": 8.5, 
   "Text": "TerroristActivity 133", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 133", 
-  "time": 37815
+  "time": 3781.5
  }, 
  {
-  "duration": 32, 
+  "duration": 3.2, 
   "Text": "TerroristActivity 133", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 133", 
-  "time": 37848
+  "time": 3784.8
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "TerroristActivity 143", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 143", 
-  "time": 37909
+  "time": 3790.9
  }, 
  {
-  "duration": 138, 
+  "duration": 13.8, 
   "Text": "TerroristActivity 133", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 133", 
-  "time": 37925
+  "time": 3792.5
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "TerroristActivity 75", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 75", 
-  "time": 38075
+  "time": 3807.5
  }, 
  {
-  "duration": 12, 
+  "duration": 1.2, 
   "Text": "TerroristActivity 133", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 133", 
-  "time": 38089
+  "time": 3808.9
  }, 
  {
-  "duration": 12, 
+  "duration": 1.2, 
   "Text": "TerroristActivity 133", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 133", 
-  "time": 38096
+  "time": 3809.6
  }, 
  {
-  "duration": 14, 
+  "duration": 1.4, 
   "Text": "TerroristActivity 133", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 133", 
-  "time": 38164
+  "time": 3816.4
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "TerroristActivity 142", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 142", 
-  "time": 38185
+  "time": 3818.5
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "No. nothing on this", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 38190
+  "time": 3819.0
  }, 
  {
-  "duration": 14, 
+  "duration": 1.4, 
   "Text": "TerroristActivity 133", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 133", 
-  "time": 38218
+  "time": 3821.8
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Move U.S. Troops In Middle East to Secure Areas ", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 133", 
-  "time": 38246
+  "time": 3824.6
  }, 
  {
-  "duration": 143, 
+  "duration": 14.3, 
   "Text": "TerroristActivity 133", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 133", 
-  "time": 38247
+  "time": 3824.7
  }, 
  {
-  "duration": 5, 
+  "duration": 0, 
+  "Text": " March 29, 2011  Move U.S. Troops In Middle East to Secure Areas ", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 133", 
+  "time": 3841.2
+ }, 
+ {
+  "duration": 0.5, 
   "Text": "TerroristActivity 133", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 133", 
-  "time": 38414
+  "time": 3841.4
  }, 
  {
-  "duration": 5, 
+  "duration": 0.5, 
   "Text": "TerroristActivity 133", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 133", 
-  "time": 38422
+  "time": 3842.2
  }, 
  {
-  "duration": 5, 
+  "duration": 0, 
+  "Text": " March 29, 2011  Move U.S. Troops In Middle East to Secure Areas ", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 133", 
+  "time": 3842.2
+ }, 
+ {
+  "duration": 0.5, 
   "Text": "TerroristActivity 133", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 133", 
-  "time": 38425
+  "time": 3842.5
  }, 
  {
-  "duration": 5, 
+  "duration": 0.5, 
   "Text": "TerroristActivity 133", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 133", 
-  "time": 38430
+  "time": 3843.0
  }, 
  {
-  "duration": 11, 
+  "duration": 0, 
+  "Text": " March 29, 2011  Move U.S. Troops In Middle East to Secure Areas ", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 133", 
+  "time": 3843.0
+ }, 
+ {
+  "duration": 1.1, 
   "Text": "TerroristActivity 143", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 143", 
-  "time": 38459
+  "time": 3845.9
  }, 
  {
-  "duration": 14, 
+  "duration": 1.4, 
   "Text": "TerroristActivity 133", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 133", 
-  "time": 38480
+  "time": 3848.0
  }, 
  {
-  "duration": 14, 
+  "duration": 1.4, 
   "Text": "TerroristActivity 133", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 133", 
-  "time": 38516
+  "time": 3851.6
  }, 
  {
-  "duration": 10, 
-  "Text": "TerroristActivity143,TerroristActivity133", 
-  "InteractionType": "Connection", 
-  "ID": "TerroristActivity143,TerroristActivity133", 
-  "time": 38570
- }, 
- {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "TerroristActivity 143", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 143", 
-  "time": 38741
+  "time": 3874.1
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "TerroristActivity 133", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 133", 
-  "time": 38759
+  "time": 3875.9
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "TerroristActivity 133", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 133", 
-  "time": 38776
+  "time": 3877.6
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "TerroristActivity 133", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 133", 
-  "time": 38804
+  "time": 3880.4
  }, 
  {
-  "duration": 17, 
+  "duration": 1.7, 
   "Text": "TerroristActivity 143", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 143", 
-  "time": 38817
+  "time": 3881.7
  }, 
  {
-  "duration": 12, 
+  "duration": 1.2, 
   "Text": "TerroristActivity 25", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 25", 
-  "time": 38839
+  "time": 3883.9
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "TerroristActivity 152", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 152", 
-  "time": 38856
+  "time": 3885.6
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "TerroristActivity 125", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 125", 
-  "time": 38869
+  "time": 3886.9
  }, 
  {
-  "duration": 21, 
+  "duration": 2.1, 
   "Text": "TerroristActivity 139", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 139", 
-  "time": 38892
+  "time": 3889.2
  }, 
  {
-  "duration": 958, 
+  "duration": 95.8, 
   "Text": "TerroristActivity 139", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 139", 
-  "time": 38914
+  "time": 3891.4
  }, 
  {
-  "duration": 97, 
+  "duration": 9.7, 
   "Text": "TerroristActivity 139", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 139", 
-  "time": 38915
+  "time": 3891.5
  }, 
  {
-  "duration": 8, 
-  "Text": "TerroristActivity 139", 
-  "InteractionType": "Reading", 
-  "ID": "TerroristActivity 139", 
-  "time": 39018
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "arson", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 39106
+  "time": 3910.6
  }, 
  {
-  "duration": 97, 
+  "duration": 9.7, 
   "Text": "TerroristActivity 139", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 139", 
-  "time": 39138
+  "time": 3913.8
  }, 
  {
-  "duration": 23, 
+  "duration": 2.3, 
   "Text": "TerroristActivity 139", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 139", 
-  "time": 39149
+  "time": 3914.9
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "kindergarten", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 39311
+  "time": 3931.1
  }, 
  {
-  "duration": 5, 
+  "duration": 1.6, 
   "Text": "TerroristActivity 139", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 139", 
-  "time": 39343
+  "time": 3934.7
  }, 
  {
-  "duration": 16, 
+  "duration": 1.0, 
   "Text": "TerroristActivity 139", 
-  "InteractionType": "Reading", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 139", 
-  "time": 39347
+  "time": 3935.1
  }, 
  {
-  "duration": 10, 
+  "duration": 1.4, 
   "Text": "TerroristActivity 139", 
-  "InteractionType": "Draging", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 139", 
-  "time": 39351
+  "time": 3936.8
  }, 
  {
-  "duration": 14, 
+  "duration": 5.8, 
   "Text": "TerroristActivity 139", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 139", 
-  "time": 39368
+  "time": 3948.5
  }, 
  {
-  "duration": 7, 
-  "Text": "TerroristActivity 139", 
-  "InteractionType": "Reading", 
-  "ID": "TerroristActivity 139", 
-  "time": 39424
- }, 
- {
-  "duration": 58, 
-  "Text": "TerroristActivity 139", 
-  "InteractionType": "Reading", 
-  "ID": "TerroristActivity 139", 
-  "time": 39485
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "horrific violence-", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 139", 
-  "time": 39556
+  "time": 3955.6
  }, 
  {
-  "duration": 72, 
+  "duration": 7.2, 
   "Text": "TerroristActivity 139", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 139", 
-  "time": 39557
+  "time": 3955.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "-the murder of 16 kindergarten children and their teacher in Dunblane, Scotland,", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 139", 
-  "time": 39639
+  "time": 3963.9
  }, 
  {
-  "duration": 38, 
+  "duration": 3.8, 
   "Text": "TerroristActivity 139", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 139", 
-  "time": 39640
+  "time": 3964.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": " in March", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 139", 
-  "time": 39688
+  "time": 3968.8
  }, 
  {
-  "duration": 79, 
+  "duration": 7.9, 
   "Text": "TerroristActivity 139", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 139", 
-  "time": 39690
+  "time": 3969.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "the shooting and arson spree in Port Arthur, Tasmania, in April", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 139", 
-  "time": 39778
+  "time": 3977.8
  }, 
  {
-  "duration": 28, 
+  "duration": 0, 
+  "Text": " horrific violence- -the murder of 16 kindergarten children and their teacher in Dunblane, Scotland,  in March the shooting and arson spree in Port Arthur, Tasmania, in April", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 139", 
+  "time": 3987.2
+ }, 
+ {
+  "duration": 2.8, 
   "Text": "TerroristActivity 139", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 139", 
-  "time": 39885
+  "time": 3988.5
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "port arthur", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 40027
+  "time": 4002.7
  }, 
  {
-  "duration": 15, 
+  "duration": 1.5, 
   "Text": "TerroristActivity 117", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 117", 
-  "time": 40062
+  "time": 4006.2
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "TerroristActivity 138", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 138", 
-  "time": 40117
+  "time": 4011.7
  }, 
  {
-  "duration": 32, 
+  "duration": 3.2, 
   "Text": "TerroristActivity 140", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 140", 
-  "time": 40167
+  "time": 4016.7
  }, 
  {
-  "duration": 19, 
+  "duration": 1.9, 
   "Text": "TerroristActivity 65", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 65", 
-  "time": 40217
+  "time": 4021.7
  }, 
  {
-  "duration": 50, 
+  "duration": 5.0, 
   "Text": "TerroristActivity 89", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 89", 
-  "time": 40236
+  "time": 4023.6
  }, 
  {
-  "duration": 22, 
+  "duration": 2.2, 
   "Text": "TerroristActivity 85", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 85", 
-  "time": 40302
+  "time": 4030.2
  }, 
  {
-  "duration": 28, 
+  "duration": 2.8, 
   "Text": "TerroristActivity 85", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 85", 
-  "time": 40325
+  "time": 4032.5
  }, 
  {
-  "duration": 201, 
+  "duration": 20.1, 
   "Text": "TerroristActivity 112", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 112", 
-  "time": 40356
+  "time": 4035.6
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "TerroristActivity 86", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 86", 
-  "time": 40557
+  "time": 4055.7
  }, 
  {
-  "duration": 26, 
+  "duration": 2.6, 
   "Text": "TerroristActivity 112", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 112", 
-  "time": 40567
+  "time": 4056.7
  }, 
  {
-  "duration": 27, 
+  "duration": 2.7, 
   "Text": "TerroristActivity 110", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 110", 
-  "time": 40604
+  "time": 4060.4
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "TerroristActivity 80", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 80", 
-  "time": 40671
+  "time": 4067.1
  }, 
  {
-  "duration": 96, 
+  "duration": 9.6, 
   "Text": "TerroristActivity 80", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 80", 
-  "time": 40682
+  "time": 4068.2
  }, 
  {
-  "duration": 85, 
+  "duration": 8.5, 
   "Text": "TerroristActivity 80", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 80", 
-  "time": 40683
+  "time": 4068.3
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "TerroristActivity 80", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 80", 
-  "time": 40782
+  "time": 4078.2
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "TerroristActivity 26", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 26", 
-  "time": 40795
+  "time": 4079.5
  }, 
  {
-  "duration": 492, 
+  "duration": 49.2, 
   "Text": "TerroristActivity 26", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 26", 
-  "time": 40802
+  "time": 4080.2
  }, 
  {
-  "duration": 7, 
+  "duration": 0, 
+  "Text": "", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 26", 
+  "time": 4129.4
+ }, 
+ {
+  "duration": 0.7, 
   "Text": "TerroristActivity 26", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 26", 
-  "time": 41305
+  "time": 4130.5
  }, 
  {
-  "duration": 17, 
+  "duration": 1.7, 
   "Text": "TerroristActivity 83", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 83", 
-  "time": 41315
+  "time": 4131.5
  }, 
  {
-  "duration": 12, 
+  "duration": 1.2, 
   "Text": "TerroristActivity 83", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 83", 
-  "time": 41338
+  "time": 4133.8
  }, 
  {
-  "duration": 164, 
+  "duration": 16.4, 
   "Text": "TerroristActivity 83", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 83", 
-  "time": 41351
+  "time": 4135.1
  }, 
  {
-  "duration": 33, 
+  "duration": 3.3, 
   "Text": "TerroristActivity 83", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 83", 
-  "time": 41352
+  "time": 4135.2
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "TerroristActivity 137", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 137", 
-  "time": 41385
+  "time": 4138.5
  }, 
  {
-  "duration": 17, 
+  "duration": 1.7, 
   "Text": "TerroristActivity 83", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 83", 
-  "time": 41526
+  "time": 4152.6
  }, 
  {
-  "duration": 12, 
+  "duration": 1.2, 
   "Text": "TerroristActivity 137", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 137", 
-  "time": 41552
+  "time": 4155.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "TerroristActivity 142", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 142", 
-  "time": 41662
+  "time": 4166.2
  }, 
  {
-  "duration": 22, 
+  "duration": 2.2, 
   "Text": "TerroristActivity 23", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 23", 
-  "time": 41808
+  "time": 4180.8
  }, 
  {
-  "duration": 76, 
+  "duration": 7.6, 
   "Text": "TerroristActivity 78", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 78", 
-  "time": 41847
+  "time": 4184.7
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "TerroristActivity 83", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 83", 
-  "time": 41923
+  "time": 4192.3
  }, 
  {
-  "duration": 20, 
+  "duration": 2.0, 
   "Text": "TerroristActivity 61", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 61", 
-  "time": 41940
+  "time": 4194.0
  }, 
  {
-  "duration": 267, 
+  "duration": 26.7, 
   "Text": "TerroristActivity 86", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 86", 
-  "time": 41960
+  "time": 4196.0
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "TerroristActivity 32", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 32", 
-  "time": 42265
+  "time": 4226.5
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "mice", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 42342
+  "time": 4234.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "lab", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 42411
+  "time": 4241.1
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "toxic", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 42633
+  "time": 4263.3
  }, 
  {
-  "duration": 86, 
+  "duration": 8.6, 
   "Text": "TerroristActivity 4", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 4", 
-  "time": 42674
+  "time": 4267.4
  }, 
  {
-  "duration": 63, 
+  "duration": 6.3, 
   "Text": "TerroristActivity 4", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 4", 
-  "time": 42675
+  "time": 4267.5
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "vastapolis", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 42895
+  "time": 4289.5
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "vastopolis", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 42980
+  "time": 4298.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "vastopolis death", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 43089
+  "time": 4308.9
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "TerroristActivity 52", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 52", 
-  "time": 43185
+  "time": 4318.5
  }, 
  {
-  "duration": 31, 
+  "duration": 3.1, 
   "Text": "TerroristActivity 144", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 144", 
-  "time": 43378
+  "time": 4337.8
  }, 
  {
-  "duration": 28, 
+  "duration": 2.8, 
   "Text": "TerroristActivity 145", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 145", 
-  "time": 43409
+  "time": 4340.9
  }, 
  {
-  "duration": 24, 
+  "duration": 2.4, 
   "Text": "TerroristActivity 146", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 146", 
-  "time": 43437
+  "time": 4343.7
  }, 
  {
-  "duration": 14, 
+  "duration": 1.4, 
   "Text": "TerroristActivity 146", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 146", 
-  "time": 43462
+  "time": 4346.2
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "TerroristActivity 78", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 78", 
-  "time": 43483
+  "time": 4348.3
  }, 
  {
-  "duration": 325, 
+  "duration": 32.5, 
   "Text": "TerroristActivity 78", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 78", 
-  "time": 43497
+  "time": 4349.7
  }, 
  {
-  "duration": 24, 
+  "duration": 2.4, 
   "Text": "TerroristActivity 78", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 78", 
-  "time": 43498
+  "time": 4349.8
  }, 
  {
-  "duration": 10, 
+  "duration": 1.2, 
   "Text": "TerroristActivity 78", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 78", 
-  "time": 43544
+  "time": 4354.4
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "TerroristActivity 78", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 78", 
-  "time": 43553
+  "time": 4355.3
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "This is one the articles I've been read before I just noticed that I didn't highlight the details about who/what/where/when. So now I'm reading it again to find more", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 43720
+  "time": 4372.0
  }, 
  {
-  "duration": 51, 
+  "duration": 5.1, 
   "Text": "TerroristActivity 78", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 78", 
-  "time": 43831
+  "time": 4383.1
  }, 
  {
-  "duration": 59, 
+  "duration": 5.9, 
   "Text": "TerroristActivity 45", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 45", 
-  "time": 43990
+  "time": 4399.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "TerroristActivity 11", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 11", 
-  "time": 44060
+  "time": 4406.0
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "TerroristActivity 12", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 12", 
-  "time": 44070
+  "time": 4407.0
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "TerroristActivity 11", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 11", 
-  "time": 44086
+  "time": 4408.6
  }, 
  {
-  "duration": 30, 
+  "duration": 3.0, 
   "Text": "TerroristActivity 12", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 12", 
-  "time": 44093
+  "time": 4409.3
  }, 
  {
-  "duration": 31, 
+  "duration": 3.1, 
   "Text": "TerroristActivity 13", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 13", 
-  "time": 44123
+  "time": 4412.3
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "TerroristActivity 151", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 151", 
-  "time": 44178
+  "time": 4417.8
  }, 
  {
-  "duration": 904, 
+  "duration": 90.4, 
   "Text": "TerroristActivity 151", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 151", 
-  "time": 44221
+  "time": 4422.1
  }, 
  {
-  "duration": 9, 
+  "duration": 3.7, 
   "Text": "TerroristActivity 151", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 151", 
-  "time": 44222
+  "time": 4424.1
  }, 
  {
-  "duration": 37, 
-  "Text": "TerroristActivity 151", 
-  "InteractionType": "Reading", 
-  "ID": "TerroristActivity 151", 
-  "time": 44241
- }, 
- {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": " May 14, 2011 ", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 151", 
-  "time": 44288
+  "time": 4428.8
  }, 
  {
-  "duration": 311, 
+  "duration": 31.1, 
   "Text": "TerroristActivity 151", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 151", 
-  "time": 44290
+  "time": 4429.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "I think I'm at a good point to stop. the rest are mainly ecconimic news and I don't think that's somthing related", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 44600
+  "time": 4460.0
  }, 
  {
-  "duration": 85, 
+  "duration": 8.5, 
   "Text": "TerroristActivity 151", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 151", 
-  "time": 44604
+  "time": 4460.4
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Vastopolis airport", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 151", 
-  "time": 44705
+  "time": 4470.5
  }, 
  {
-  "duration": 404, 
+  "duration": 40.4, 
   "Text": "TerroristActivity 151", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 151", 
-  "time": 44707
+  "time": 4470.7
  }, 
  {
-  "duration": 5, 
+  "duration": 0, 
+  "Text": " Suspicious Turkey Found   May 14, 2011  Vastopolis airport", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 151", 
+  "time": 4512.5
+ }, 
+ {
+  "duration": 0.5, 
   "Text": "TerroristActivity 151", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 151", 
-  "time": 45157
+  "time": 4515.7
  }, 
  {
-  "duration": 10, 
+  "duration": 0, 
+  "Text": " Suspicious Turkey Found   May 14, 2011  Vastopolis airport", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 151", 
+  "time": 4515.7
+ }, 
+ {
+  "duration": 1.0, 
   "Text": "TerroristActivity 151", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 151", 
-  "time": 45162
+  "time": 4516.2
  }, 
  {
-  "duration": 11, 
+  "duration": 1.1, 
   "Text": "TerroristActivity 128", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 128", 
-  "time": 45219
+  "time": 4521.9
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "TerroristActivity 128", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 128", 
-  "time": 45254
+  "time": 4525.4
  }, 
  {
-  "duration": 834, 
+  "duration": 83.4, 
   "Text": "TerroristActivity 128", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 128", 
-  "time": 45270
+  "time": 4527.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "May 10, 2011 ", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 128", 
-  "time": 45387
+  "time": 4538.7
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Nothing comes up for my new searches", 
-  "InteractionType": "Think_aloud", 
+  "InteractionType": "think_aloud", 
   "ID": 0, 
-  "time": 45910
+  "time": 4591.0
  }, 
  {
-  "duration": 15, 
-  "Text": "TerroristActivity 128", 
-  "InteractionType": "Draging", 
+  "duration": 0, 
+  "Text": "  raised the threat level around the country, including Vastopolis. May 10, 2011 ", 
+  "InteractionType": "bookmark_highlights", 
   "ID": "TerroristActivity 128", 
-  "time": 46162
+  "time": 4610.4
  }, 
  {
-  "duration": 15, 
+  "duration": 1.5, 
+  "Text": "TerroristActivity 128", 
+  "InteractionType": "moving_document", 
+  "ID": "TerroristActivity 128", 
+  "time": 4616.2
+ }, 
+ {
+  "duration": 1.5, 
   "Text": "TerroristActivity 143", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 143", 
-  "time": 46269
+  "time": 4626.9
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "TerroristActivity 109", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 109", 
-  "time": 46311
+  "time": 4631.1
  }, 
  {
-  "duration": 29, 
+  "duration": 2.9, 
   "Text": "TerroristActivity 109", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 109", 
-  "time": 46321
+  "time": 4632.1
  }, 
  {
-  "duration": 20, 
+  "duration": 2.0, 
   "Text": "TerroristActivity 137", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 137", 
-  "time": 46358
+  "time": 4635.8
  }, 
  {
-  "duration": 12, 
+  "duration": 1.2, 
   "Text": "TerroristActivity 7", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 7", 
-  "time": 46388
+  "time": 4638.8
  }, 
  {
   "duration": 0, 
   "Text": " (Reviewing articls and making conclusions) [bottom-up]", 
-  "InteractionType": "Topic_change", 
+  "InteractionType": "topic_change", 
   "ID": "bottom-up", 
-  "time": 46600
+  "time": 4660.0
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "trafficing", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 47399
+  "time": 4739.9
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "trafficking", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 47442
+  "time": 4744.2
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "traffic", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 47477
+  "time": 4747.7
  }, 
  {
-  "duration": 82, 
+  "duration": 8.2, 
   "Text": "TerroristActivity 13", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 13", 
-  "time": 47561
+  "time": 4756.1
  }, 
  {
-  "duration": 34, 
+  "duration": 3.4, 
   "Text": "TerroristActivity 13", 
-  "InteractionType": "Reading", 
+  "InteractionType": "reading_document", 
   "ID": "TerroristActivity 13", 
-  "time": 47562
+  "time": 4756.2
  }, 
  {
-  "duration": 12, 
+  "duration": 1.2, 
   "Text": "TerroristActivity 33", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 33", 
-  "time": 47613
+  "time": 4761.3
  }, 
  {
-  "duration": 12, 
+  "duration": 1.2, 
   "Text": "TerroristActivity 13", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 13", 
-  "time": 47648
+  "time": 4764.8
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "launder", 
-  "InteractionType": "Search", 
+  "InteractionType": "search", 
   "ID": 0, 
-  "time": 47727
+  "time": 4772.7
  }, 
  {
-  "duration": 15, 
+  "duration": 1.5, 
   "Text": "TerroristActivity 141", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 141", 
-  "time": 47836
+  "time": 4783.6
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "Bombing attempt in Smogtown chemical plant May 17", 
-  "InteractionType": "Add note", 
+  "InteractionType": "writing_notes", 
   "ID": 0, 
-  "time": 47840
+  "time": 4784.0
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "TerroristActivity 118", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 118", 
-  "time": 47851
+  "time": 4785.1
  }, 
  {
-  "duration": 127, 
+  "duration": 12.7, 
   "Text": "TerroristActivity 73", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 73", 
-  "time": 47863
+  "time": 4786.3
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "TerroristActivity 72", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 72", 
-  "time": 47990
+  "time": 4799.0
  }, 
  {
-  "duration": 119, 
+  "duration": 11.9, 
   "Text": "TerroristActivity 102", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 102", 
-  "time": 48018
+  "time": 4801.8
  }, 
  {
-  "duration": 17, 
+  "duration": 1.7, 
   "Text": "TerroristActivity 137", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 137", 
-  "time": 48155
+  "time": 4815.5
  }, 
  {
-  "duration": 18, 
+  "duration": 1.8, 
   "Text": "TerroristActivity 109", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 109", 
-  "time": 48181
+  "time": 4818.1
  }, 
  {
-  "duration": 15, 
+  "duration": 1.5, 
   "Text": "TerroristActivity 2", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 2", 
-  "time": 48210
+  "time": 4821.0
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "TerroristActivity 100", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 100", 
-  "time": 48238
+  "time": 4823.8
  }, 
  {
-  "duration": 13, 
+  "duration": 1.3, 
   "Text": "TerroristActivity 100", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 100", 
-  "time": 48245
+  "time": 4824.5
  }, 
  {
-  "duration": 9, 
+  "duration": 0.9, 
   "Text": "TerroristActivity 88", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 88", 
-  "time": 48288
+  "time": 4828.8
  }, 
  {
-  "duration": 29, 
+  "duration": 2.9, 
   "Text": "TerroristActivity 158", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 158", 
-  "time": 48310
+  "time": 4831.0
  }, 
  {
-  "duration": 95, 
+  "duration": 9.5, 
   "Text": "TerroristActivity 159", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 159", 
-  "time": 48365
+  "time": 4836.5
  }, 
  {
-  "duration": 16, 
+  "duration": 1.6, 
   "Text": "TerroristActivity 52", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 52", 
-  "time": 48486
+  "time": 4848.6
  }, 
  {
-  "duration": 12, 
+  "duration": 1.2, 
   "Text": "TerroristActivity 32", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 32", 
-  "time": 48527
+  "time": 4852.7
  }, 
  {
-  "duration": 17, 
+  "duration": 1.7, 
   "Text": "TerroristActivity 7", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 7", 
-  "time": 48606
+  "time": 4860.6
  }, 
  {
-  "duration": 20, 
+  "duration": 2.0, 
   "Text": "TerroristActivity 128", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 128", 
-  "time": 48638
+  "time": 4863.8
  }, 
  {
-  "duration": 183, 
+  "duration": 18.3, 
   "Text": "TerroristActivity 26", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 26", 
-  "time": 48684
+  "time": 4868.4
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "May 01, 2011", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 26", 
-  "time": 48745
+  "time": 4874.5
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "several airlines", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 26", 
-  "time": 48821
+  "time": 4882.1
  }, 
  {
-  "duration": 9, 
+  "duration": 0, 
+  "Text": " May 01, 2011 several airlines", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 26", 
+  "time": 4886.7
+ }, 
+ {
+  "duration": 0.9, 
   "Text": "TerroristActivity 26", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 26", 
-  "time": 48879
+  "time": 4887.9
  }, 
  {
-  "duration": 20, 
+  "duration": 2.0, 
   "Text": "TerroristActivity 123", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 123", 
-  "time": 48942
+  "time": 4894.2
  }, 
  {
-  "duration": 6, 
+  "duration": 0.6, 
   "Text": "TerroristActivity 151", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 151", 
-  "time": 48972
+  "time": 4897.2
  }, 
  {
-  "duration": 268, 
+  "duration": 26.8, 
   "Text": "TerroristActivity 53", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 53", 
-  "time": 49227
+  "time": 4922.7
  }, 
  {
-  "duration": 21, 
+  "duration": 0, 
+  "Text": "  May 12, 2011  In Smogtown, two men with enough material to construct several explosive devices were apprehended before the devices were completed. In , two men with enough material to construct several explosive devices were apprehended before the devices were completed. Psychobrotherhood", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 53", 
+  "time": 4949.5
+ }, 
+ {
+  "duration": 2.1, 
   "Text": "TerroristActivity 115", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 115", 
-  "time": 50195
+  "time": 5019.5
  }, 
  {
-  "duration": 196, 
+  "duration": 19.6, 
   "Text": "TerroristActivity 98", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 98", 
-  "time": 50257
+  "time": 5025.7
  }, 
  {
-  "duration": 10, 
+  "duration": 0, 
+  "Text": " Explosions at Smogtown Chemical Plan s at Smogtown Chemical Plant  A consensus exists among local residents that the explosions were caused by some kind of terrorist act.", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 98", 
+  "time": 5045.3
+ }, 
+ {
+  "duration": 1.0, 
   "Text": "Note", 
-  "InteractionType": "Create Note", 
+  "InteractionType": "create_note", 
   "ID": 0, 
-  "time": 50625
+  "time": 5062.5
  }, 
  {
-  "duration": 318, 
+  "duration": 31.8, 
   "Text": "TerroristActivity 115", 
-  "InteractionType": "Doc_open", 
+  "InteractionType": "open_document", 
   "ID": "TerroristActivity 115", 
-  "time": 50803
+  "time": 5080.3
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": " May 13, 2011 ", 
-  "InteractionType": "Highlight", 
+  "InteractionType": "highlight", 
   "ID": "TerroristActivity 115", 
-  "time": 50854
+  "time": 5085.4
  }, 
  {
-  "duration": 25, 
+  "duration": 0, 
+  "Text": " Paramurderers of Chaos apprehended three people expensive high-end workbenches along with stacks of Petri dishes laboratory in the basement  May 13, 2011 ", 
+  "InteractionType": "bookmark_highlights", 
+  "ID": "TerroristActivity 115", 
+  "time": 5112.1
+ }, 
+ {
+  "duration": 2.5, 
   "Text": "TerroristActivity 115", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 115", 
-  "time": 51136
+  "time": 5113.6
  }, 
  {
-  "duration": 10, 
+  "duration": 1.0, 
   "Text": "TerroristActivity 68", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 68", 
-  "time": 51181
+  "time": 5118.1
  }, 
  {
-  "duration": 8, 
+  "duration": 0.8, 
   "Text": "TerroristActivity 68", 
-  "InteractionType": "Draging", 
+  "InteractionType": "moving_document", 
   "ID": "TerroristActivity 68", 
-  "time": 52293
+  "time": 5229.3
  }, 
  {
-  "duration": 71, 
+  "duration": 7.1, 
   "Text": "TerroristActivity 80", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 80", 
-  "time": 52398
+  "time": 5239.8
  }, 
  {
-  "duration": 7, 
+  "duration": 0.7, 
   "Text": "TerroristActivity 47", 
-  "InteractionType": "Mouse_hover", 
+  "InteractionType": "brush_document_title", 
   "ID": "TerroristActivity 47", 
-  "time": 52557
+  "time": 5255.7
  }
 ]

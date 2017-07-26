@@ -3,9 +3,6 @@ import re
 import glob
 import copy
 
-#https://pypi.python.org/pypi/humanize
-#https://rstudio-pubs-static.s3.amazonaws.com/79360_850b2a69980c4488b1db95987a24867a.html
-
 import sys
 import time
 from datetime import datetime
@@ -22,19 +19,18 @@ print "Start"
 
 # --------------------------------------------
 
-main_events = ["open-document", "search", "highlightText", "newConnection", "createNote"]
-all_events = ["collapse-document", "scrunch-highlight-view", "open-document", "restore-from-scrunch", "search", "highlightText", "newConnection", "mouseenter-document" , "mouseexit-document" , "createNote", "enddrag-document"]
+main_events = ["open-document", "search", "highlightText", "newconnection", "createNote"]
+all_events = ["collapse-document", "scrunch-highlight-view", "open-document", "restore-from-scrunch", "search", "highlightText", "newconnection", "mouseenter-document" , "mouseexit-document" , "createNote", "enddrag-document"]
 spam_events = ["mouseexit-document-minimized", "mouseenter-document-minimized", "startdrag-document"]
 id_events = spam_events + ["collapse-document", "scrunch-highlight-view", "open-document", "mouseenter-document" , "mouseexit-document" , "enddrag-document"]
 who_cares_events = ["end-study", "start-study"]
 		
 def save_as_js_file_push_to(obj, filename):
     fout = open(filename,"w")
-    # print "this one: \n \n", obj
     fout.write(json.dumps(obj,indent=1))
     fout.close()
 		
-def get_texts_from_log(log_json_lines,events_to_include,name,devideby):   # (documents_json_file,
+def get_texts_from_log(log_json_lines,events_to_include,name,devideby): 
    
     from_log_to_id = {}
     doc_counts = {}
@@ -62,15 +58,16 @@ def get_texts_from_log(log_json_lines,events_to_include,name,devideby):   # (doc
     last_time = 0
     doc_drag = 0
     last_hover = 0	
-    reading_time_out = 20
+    reading_document_time_out = 20
     null_duration = 10;    # two second # This duration is for these interactions: search, highlight,  createNote, connection
-    null_duration_2 = 5;      # half a second      # This duration is for mouseenter-document-minimized  
-
+    brush_minimum = 5;      # half a second     # This duration is for mouseenter-document-minimized  
+    reading_minimum = 10;      # half a second     # This duration is for mouseenter-document-minimized  
+    
     for i in xrange(1,200):
         start_open.append(0)
         start_read.append(0)
         start_hover.append(0)
-        highlighted_text.append()
+        highlighted_text.append("")
         bookmark.append(0)
         start_drag.append(0)
         scrunched.append(0)
@@ -99,9 +96,9 @@ def get_texts_from_log(log_json_lines,events_to_include,name,devideby):   # (doc
             start_read[myarray] = int(created_at) + 1
  
             duration = int(created_at) - start_hover[myarray] - 1
-            temp = {"time": start_hover[myarray] , "Text":  doc_name, "duration": duration, "ID":doc_name,"InteractionType" :"Mouse_hover"}
+            temp = {"time": float(start_hover[myarray])/10 , "Text":  doc_name, "duration": float(duration)/10, "ID":doc_name,"InteractionType" :"brush_document_title"}
 
-            if int(duration) > null_duration_2 and start_hover[myarray] > 0:
+            if int(duration) > brush_minimum and start_hover[myarray] > 0:
                 ret.append(temp)            
             if start_hover[myarray] > 0:            
                 start_hover[myarray] = 0			
@@ -112,24 +109,24 @@ def get_texts_from_log(log_json_lines,events_to_include,name,devideby):   # (doc
             #if (myarray == 51 ):
                # print start_open[myarray]			
             duration = int(created_at) - start_open[myarray] 
-            if int(duration) < null_duration_2:
-                duration = null_duration_2
+            if int(duration) < brush_minimum:
+                duration = brush_minimum
 
             if (bookmark[myarray] == 1):
-                temp = {"time": start_open[myarray] , "Text":  highlighted_text[myarray], "duration": duration, "ID":doc_name,"InteractionType" :"Resotre_bookmark"}			
+                temp = {"time": float(start_open[myarray])/10 , "Text":  highlighted_text[myarray], "duration": float(duration)/10, "ID":doc_name,"InteractionType" :"resotre_bookmark"}			
             else: 
-                temp = {"time": start_open[myarray] , "Text":  doc_name, "duration": duration, "ID":doc_name,"InteractionType" :"Doc_open"}			
+                temp = {"time": float(start_open[myarray])/10 , "Text":  doc_name, "duration": float(duration)/10, "ID":doc_name,"InteractionType" :"open_document"}			
             if start_open[myarray] > 0:            
                 ret.append(temp);
                 start_open[myarray] = 0;
                 bookmark[myarray] = 0;				
 
-			# Here is the Stop reading function after closing a Doc
+			# Here is the Stop reading_document function after closing a Doc
             duration = int(created_at) - start_read[myarray] 
-            if int(duration) < null_duration_2:
-                duration = null_duration_2
-            temp = {"time": start_read[myarray] , "Text":  doc_name, "duration": duration, "ID":doc_name,"InteractionType" :"Reading"}
-            if (start_read[myarray] > 0) and (start_open[myarray] > 0):            
+            # if int(duration) < brush_minimum:
+                # duration = brush_minimum
+            temp = {"time": float(start_read[myarray])/10 , "Text":  doc_name, "duration": float(duration)/10, "ID":doc_name,"InteractionType" :"reading_document"}
+            if (int(duration) > reading_minimum) and (start_read[myarray] > 0) and (start_open[myarray] > 0):            
                 start_read[myarray] = 0			
                 ret.append(temp)			
 
@@ -140,11 +137,11 @@ def get_texts_from_log(log_json_lines,events_to_include,name,devideby):   # (doc
             scrunched[myarray] = 0
             start_open[myarray] = int(created_at)
             start_read[myarray] = int(created_at) + 1
-                # Here mouse_hover ends with this interaction
+                # Here brush_document_title ends with this interaction
             duration = int(created_at) - start_hover[myarray] 
             doc_name = name + " " + str(myarray)
-            temp = {"time": start_hover[myarray] , "Text":  doc_name, "duration": duration, "ID":doc_name,"InteractionType" :"Mouse_hover"}
-            if int(duration) > null_duration_2 and start_hover[myarray] > 0:
+            temp = {"time": float(start_hover[myarray])/10 , "Text":  doc_name, "duration": float(duration)/10, "ID":doc_name,"InteractionType" :"brush_document_title"}
+            if int(duration) > brush_minimum and start_hover[myarray] > 0:
                 ret.append(temp)            
             if start_hover[myarray] > 0:            
                start_hover[myarray] = 0
@@ -154,23 +151,23 @@ def get_texts_from_log(log_json_lines,events_to_include,name,devideby):   # (doc
             #mystring = entry["tags"][1]
             #myarray = int(mystring.split("y")[1])            
             duration = int(created_at) - start_open[myarray] 
-            if int(duration) < null_duration_2:
-                duration = null_duration_2
+            if int(duration) < brush_minimum:
+                duration = brush_minimum
 #            if (myarray == 51 ):
 #                print start_open[myarray]
             scrunched[myarray] = 1
-            temp = {"time": start_open[myarray] , "Text": doc_name, "duration": duration, "ID":doc_name,"InteractionType" :"Doc_open"}
+            temp = {"time": float(start_open[myarray])/10 , "Text": doc_name, "duration": float(duration)/10, "ID":doc_name,"InteractionType" :"open_document"}
             if start_open[myarray] > 0:            
                 ret.append(temp)
                 start_open[myarray] = 0
-                temp = {"time": created_at , "Text": highlighted_text[myarray], "duration": , "ID":doc_name,"InteractionType" :"Bookmark"}
+                temp = {"time": float(created_at)/10 , "Text": highlighted_text[myarray], "duration": 0, "ID":doc_name,"InteractionType" :"bookmark_highlights"}
                 ret.append(temp)
-			# Here is the Stop reading function after closing a Doc
+			# Here is the Stop reading_document function after closing a Doc
             duration = int(created_at) - start_read[myarray] 
-            if int(duration) < null_duration_2:
-                duration = null_duration_2
-            temp = {"time": start_read[myarray] , "Text":  doc_name, "duration": duration, "ID":doc_name,"InteractionType" :"Reading"}
-            if (start_read[myarray] > 0) and (start_open[myarray] > 0):            
+            # if int(duration) < brush_minimum:
+                # duration = brush_minimum
+            temp = {"time": float(start_read[myarray])/10 , "Text":  doc_name, "duration": float(duration)/10, "ID":doc_name,"InteractionType" :"reading_document"}
+            if (int(duration) > reading_minimum) and (start_read[myarray] > 0) and (start_open[myarray] > 0):            
                 start_read[myarray] = 0			
                 ret.append(temp)			
 				
@@ -179,8 +176,8 @@ def get_texts_from_log(log_json_lines,events_to_include,name,devideby):   # (doc
             #myarray = int(mystring.split("y")[1])            
             doc_drag = 0			
             duration = int(created_at) - start_drag[myarray] 
-            temp = {"time": start_drag[myarray] , "Text":  doc_name, "duration": duration, "ID":doc_name,"InteractionType" :"Draging"}
-            if int(duration) > null_duration_2 and start_drag[myarray] > 0:
+            temp = {"time": float(start_drag[myarray])/10 , "Text":  doc_name, "duration": float(duration)/10, "ID":doc_name,"InteractionType" :"moving_document"}
+            if int(duration) > brush_minimum and start_drag[myarray] > 0:
                 ret.append(temp)            
             if start_drag[myarray] > 0:            
                 start_drag[myarray] = 0
@@ -190,12 +187,12 @@ def get_texts_from_log(log_json_lines,events_to_include,name,devideby):   # (doc
             #myarray = int(mystring.split("y")[1])
             start_drag[myarray] = int(created_at)
             doc_drag = 1			
-			# Here mouse_hover ends with Doc_open interaction
+			# Here brush_document_title ends with open_document interaction
             duration = int(created_at) - start_hover[myarray] - 1
 #            print (myarray)			
 #            print (start_hover[myarray])
-            temp = {"time": start_hover[myarray] , "Text":  doc_name, "duration": duration, "ID":doc_name,"InteractionType" :"Mouse_hover"}
-            if int(duration) > null_duration_2 and start_hover[myarray] > 0:
+            temp = {"time": float(start_hover[myarray])/10 , "Text":  doc_name, "duration": float(duration)/10, "ID":doc_name,"InteractionType" :"brush_document_title"}
+            if int(duration) > brush_minimum and start_hover[myarray] > 0:
                 ret.append(temp)            
                 #print (start_hover[myarray])
             if start_hover[myarray] > 0:            
@@ -213,10 +210,10 @@ def get_texts_from_log(log_json_lines,events_to_include,name,devideby):   # (doc
             #mystring = entry["tags"][1]
             #myarray = int(mystring.split("y")[1])            
             duration = int(created_at) - start_read[myarray] 
-            if int(duration) < null_duration_2:
-                duration = null_duration_2
-            temp = {"time": start_read[myarray] , "Text": doc_name, "duration": duration, "ID":doc_name,"InteractionType" :"Reading"}
-            if (start_read[myarray] > 0) and (scrunched[myarray] == 0) and (start_open[myarray] > 0):            
+            # if int(duration) < brush_minimum:
+                # duration = brush_minimum
+            temp = {"time": float(start_read[myarray])/10 , "Text": doc_name, "duration": float(duration)/10, "ID":doc_name,"InteractionType" :"reading_document"}
+            if (int(duration) > reading_minimum) and (start_read[myarray] > 0) and (scrunched[myarray] == 0) and (start_open[myarray] > 0):            
                 start_read[myarray] = 0			
                 ret.append(temp)
 			
@@ -232,37 +229,37 @@ def get_texts_from_log(log_json_lines,events_to_include,name,devideby):   # (doc
             #mystring = entry["tags"][1]
             #myarray = int(mystring.split("y")[1])            
             duration = int(created_at) - start_hover[myarray] 
-            temp = {"time": start_hover[myarray] , "Text":  doc_name, "duration": duration, "ID":doc_name,"InteractionType" :"Mouse_hover"}
-            if (int(duration) > null_duration_2) and (start_hover[myarray] > 0):
+            temp = {"time": float(start_hover[myarray])/10 , "Text":  doc_name, "duration": float(duration)/10, "ID":doc_name,"InteractionType" :"brush_document_title"}
+            if (int(duration) > brush_minimum) and (start_hover[myarray] > 0):
                 ret.append(temp)
             if start_hover[myarray] > 0:            
                 start_hover[myarray] = 0
 					
         if entry["type"] == "createNote" and "createNote" in events_to_include:
-            temp = {"time": created_at, "Text":  "Note", "duration": null_duration, "ID":0, "InteractionType" :"Create Note"}
+            temp = {"time": float(created_at)/10, "Text":  "Note", "duration": float(null_duration)/10, "ID":0, "InteractionType" :"create_note"}
             ret.append(temp)
         if entry["type"] == "search" and "search" in events_to_include:
-            temp = {"time": created_at, "Text":  entry["message"], "duration": null_duration, "ID":0,"InteractionType" :"Search"}
+            temp = {"time": float(created_at)/10, "Text":  entry["message"], "duration": float(null_duration)/10, "ID":0,"InteractionType" :"search"}
             if not ((last_search == entry["message"]) and (created_at - last_time_search < 50)):  # if less than 5 seconds and search terms are the same, don't record it.
                 ret.append(temp)
             last_search = entry["message"]						
             last_time_search = created_at
         if entry["type"] == "highlightText" and "highlightText" in events_to_include:
-            temp = {"time": created_at, "Text":  entry["message"], "duration": null_duration, "ID":last_doc_ID,"InteractionType" :"Highlight"}
+            temp = {"time": float(created_at)/10, "Text":  entry["message"], "duration": float(null_duration)/10, "ID":last_doc_ID,"InteractionType" :"highlight"}
             highlighted_text[last_doc] = highlighted_text[last_doc] + " " + entry["message"];
             ret.append(temp)
-        if entry["type"] == "newConnection" and "newConnection" in events_to_include:
-            temp = {"time": created_at, "Text":  entry["tags"][1], "duration": null_duration, "ID":entry["tags"][1],"InteractionType" :"Connection"}
+        if entry["type"] == "newconnection" and "newConnection" in events_to_include:
+            temp = {"time": float(created_at)/10, "Text":  entry["tags"][1], "duration": float(null_duration)/10, "ID":entry["tags"][1],"InteractionType" :"connection"}
             mystring = entry["tags"][1]
             mystring = mystring.split(",")[0]
             myarray = int(mystring.split(devideby)[1])            			
             ret.append(temp)
-			# Here mouse_hover ends with Doc_open interaction
+			# Here brush_document_title ends with open_document interaction
             duration = int(created_at) - start_hover[myarray] 
             doc_name = name + " " + str(myarray)												
-            if int(duration) < null_duration_2:
-                duration = null_duration_2
-            temp = {"time": start_hover[myarray] , "Text":  doc_name, "duration": duration, "ID":doc_name,"InteractionType" :"Mouse_hover"}
+            if int(duration) < brush_minimum:
+                duration = brush_minimum
+            temp = {"time": float(start_hover[myarray])/10 , "Text":  doc_name, "duration": float(duration)/10, "ID":doc_name,"InteractionType" :"brush_document_title"}
             if start_hover[myarray] > 0:            
                 start_hover[myarray] = 0
                 ret.append(temp)
@@ -274,10 +271,10 @@ def get_texts_from_log(log_json_lines,events_to_include,name,devideby):   # (doc
     for myarray in xrange(1,199):
         if start_open[myarray] > 0:
             duration = int(end_at) - start_open[myarray] 
-            if int(duration) < null_duration_2:
-                duration = null_duration_2
+            if int(duration) < brush_minimum:
+                duration = brush_minimum
             doc_name = name + " " + str(myarray)				
-            temp = {"time": start_open[myarray] , "Text": doc_name, "duration": duration, "ID": doc_name,"InteractionType" : "Doc_open"}
+            temp = {"time": float(start_open[myarray])/10 , "Text": doc_name, "duration": float(duration)/10, "ID": doc_name,"InteractionType" : "open_document"}
             ret.append(temp)
             #print "got you: ", temp
     return ret , null_duration
@@ -304,9 +301,9 @@ def get_interaction_from_thinkaloud(csv_file, Interaction_list, null_duration):
     inflection = {}
     
     timeOffset = []
-    timeOffset.append([-786,-338,-1054,-27,-1136,-520,-44,-86])    #  Arms Dealing dataset time offset between think-alouds and captured user interactions 
-    timeOffset.append([-105,50,-88,-72,590,-353,-400,-890])   # Terrorist Activity P2, P5 is positive time! 
-    timeOffset.append([-2050,50,91,152,49,80,47,-100])  # Disapearance P2, P3, P4, P5, P6, P7 are positive! 
+    timeOffset.append([-78.6,-33.8,-105.4,-2.7,-113.6,-52.0,-4.4,-8.6])    #  Arms Dealing dataset time offset between think-alouds and captured user interactions 
+    timeOffset.append([-10.5,5.0,-8.8,-7.2,59.0,-35.3,-40.0,-89.0])   # Terrorist Activity P2, P5 is positive time! 
+    timeOffset.append([-205.0,5.0,9.1,15.2,4.9,8.0,4.7,-10.0])  # Disapearance P2, P3, P4, P5, P6, P7 are positive! 
     
     #for infile in infiles:
     print "Loading... ",csv_file
@@ -324,9 +321,9 @@ def get_interaction_from_thinkaloud(csv_file, Interaction_list, null_duration):
             
             #print timestamp
             hours,minutes,seconds = timestamp.split(":")
-            seconds = (60*60*int(hours) + 60*int(minutes) + int(seconds)) * 10
+            seconds = (60*60*int(hours) + 60*int(minutes) + int(seconds))     # * 10
             # print "Time before: ", seconds
-            seconds = seconds + timeOffset[datasetNum-1][userNum-1]
+            seconds = float(seconds) + float(timeOffset[datasetNum-1][userNum-1])
             # print "Time after: ", seconds
             # print row["Transcript"]
             
@@ -345,7 +342,7 @@ def get_interaction_from_thinkaloud(csv_file, Interaction_list, null_duration):
                     print "Dynamic time alignment: ", dynamic_offset
                     seconds = seconds + dynamic_offset
                     
-                temp = {"time": seconds , "Text": reason, "duration": 0, "ID": analysis_type, "InteractionType" :"Topic_change"}			
+                temp = {"time": seconds , "Text": reason, "duration": 0, "ID": analysis_type, "InteractionType" :"topic_change"}			
                 ret.append(temp)								
             elif (userNotes in row["Transcript"].lower()) and ("highlighting" not in row["Transcript"].lower())and ("think aloud" not in row["Transcript"].lower()) and ("picking" not in row["Transcript"].lower()) and ("prompt" not in row["Transcript"].lower()) and ("looking" not in row["Transcript"].lower()) and ("still" not in row["Transcript"].lower()) and  ("reveiw" not in row["Transcript"].lower()) and ("moving" not in row["Transcript"].lower()) and ("review" not in row["Transcript"].lower()) and  ("making" not in row["Transcript"].lower()):   #(["prompt ","looking"," review ","still"," moving"," making"," reviews"," reviewing"," highlighting" ,"think-aloud" ,"picking"] not in row["Transcript"].lower())
                 note = row["Transcript"].split('"')[1].split('"')[0]
@@ -354,7 +351,7 @@ def get_interaction_from_thinkaloud(csv_file, Interaction_list, null_duration):
                     dynamic_offset = -1*seconds
                     print "Dynamic time alignment: ",dynamic_offset
                     seconds = seconds + dynamic_offset
-                temp = {"time": seconds , "Text": note, "duration": null_duration, "ID": 0, "InteractionType" :"Add note"}			
+                temp = {"time": seconds , "Text": note, "duration": float(null_duration)/10, "ID": 0, "InteractionType" :"writing_notes"}			
                 ret.append(temp)				
             # elif (row["Transcript"][:1] == "&quot;" ) :   #(["prompt ","looking"," review ","still"," moving"," making"," reviews"," reviewing"," highlighting" ,"think-aloud" ,"picking"] not in row["Transcript"].lower())
             elif ( ("Still reading" not in row["Transcript"].lower()) and ("highlighting" not in row["Transcript"].lower()) and ("picking" not in row["Transcript"].lower()) and ("prompt" not in row["Transcript"].lower()) and ("looking" not in row["Transcript"].lower()) and ("searching" not in row["Transcript"].lower()) and  ("making" not in row["Transcript"].lower()) and  ("changed" not in row["Transcript"].lower()) and  ("adding" not in row["Transcript"].lower())  and  ("user" not in row["Transcript"].lower())):    #  and ("moving" not in row["Transcript"].lower())and ("reviewing" not in row["Transcript"].lower())
@@ -367,7 +364,7 @@ def get_interaction_from_thinkaloud(csv_file, Interaction_list, null_duration):
                     seconds = seconds + dynamic_offset
                 # think = think.replace(0x92, ' ')
                 # print "Here!!", think
-                temp = {"time": seconds , "Text": think, "duration": null_duration, "ID": 0, "InteractionType" :"Think_aloud"}			
+                temp = {"time": seconds , "Text": think, "duration": float(null_duration)/10, "ID": 0, "InteractionType" :"think_aloud"}			
                 ret.append(temp)
             # else:
                 # print "Out!", row
@@ -401,11 +398,11 @@ for x in xrange(1,4):
     for y in xrange(1,9):	
         datasetNum = x
         userNum = y
-        print "\n", "../provenance_datasets/Dataset_"+ str(x)+ "/Datalogs/"+str(dataset)+"_P"+str(y)+"_DataLogs.txt"	
-        Interaction_list , null_duration= get_texts_from_log("d:/EventsToActions/provenance_datasets/Dataset_"+ str(x)+ "/Datalogs/"+str(dataset)+"_P"+str(y)+"_DataLogs.txt",all_events + spam_events, name, devideby1) 
-        Interaction_list = get_interaction_from_thinkaloud("d:/EventsToActions/provenance_datasets/Dataset_"+ str(x)+ "/Think-aloud/"+str(dataset)+"_P"+str(y)+"_ThinkAlouds.csv", Interaction_list, null_duration)
+        print "\n", "../EventsToActions_Provenanace/provenance_datasets/Dataset_"+ str(x)+ "/Datalogs/"+str(dataset)+"_P"+str(y)+"_DataLogs.txt"	
+        Interaction_list , null_duration= get_texts_from_log("d:/EventsToActions_Provenanace/provenance_datasets/Dataset_"+ str(x)+ "/Datalogs/"+str(dataset)+"_P"+str(y)+"_DataLogs.txt",all_events + spam_events, name, devideby1) 
+        Interaction_list = get_interaction_from_thinkaloud("d:/EventsToActions_Provenanace/provenance_datasets/Dataset_"+ str(x)+ "/Think-aloud/"+str(dataset)+"_P"+str(y)+"_ThinkAlouds.csv", Interaction_list, null_duration)
         Interaction_list = sorted(Interaction_list, key=lambda k: k['time'])
-        save_as_js_file_push_to(Interaction_list,"d:/provenance_datasets/Dataset_"+str(x)+"/UserInteractions/"+str(dataset)+"_P"+str(y)+"_InteractionsLogs.json") 
+        save_as_js_file_push_to(Interaction_list,"d:/EventsToActions_Provenanace/provenance_datasets/Dataset_"+str(x)+"/UserInteractions/"+str(dataset)+"_P"+str(y)+"_InteractionsLogs.json") 
 	
 print "\n \n End"
 print "\n total time", datetime.now() - startTime
